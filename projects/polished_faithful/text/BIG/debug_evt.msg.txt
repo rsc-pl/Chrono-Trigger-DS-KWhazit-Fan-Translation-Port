@@ -1,0 +1,12002 @@
+[@debug_evt.msg]
+
+[@ITEM 0 (L1) ]
+\0
+
+[@ITEM 0 (EN) ]
+Truce Town Inn\0
+
+[@ITEM 0 (L2) ]
+\0
+
+[@ITEM 0 (FR) ]
+Truce\0
+
+[@ITEM 1 (L1) ]
+\0
+
+[@ITEM 1 (EN) ]
+Leene Square\0
+
+[@ITEM 1 (L2) ]
+\0
+
+[@ITEM 1 (FR) ]
+Place de Lynne\0
+
+[@ITEM 2 (L1) ]
+\0
+
+[@ITEM 2 (EN) ]
+Marle's Entrance\0
+
+[@ITEM 2 (L2) ]
+\0
+
+[@ITEM 2 (FR) ]
+Marle entre en scène\0
+
+[@ITEM 3 (L1) ]
+\0
+
+[@ITEM 3 (EN) ]
+Lucca's Invention\0
+
+[@ITEM 3 (L2) ]
+\0
+
+[@ITEM 3 (FR) ]
+L'invention de Lucca\0
+
+[@ITEM 4 (L1) ]
+\0
+
+[@ITEM 4 (EN) ]
+To the Middle Ages\0
+
+[@ITEM 4 (L2) ]
+\0
+
+[@ITEM 4 (FR) ]
+Vers le Moyen-Âge\0
+
+[@ITEM 5 (L1) ]
+\0
+
+[@ITEM 5 (EN) ]
+Truce Village Back Hills\0
+
+[@ITEM 5 (L2) ]
+\0
+
+[@ITEM 5 (FR) ]
+Truce\0
+
+[@ITEM 6 (L1) ]
+\0
+
+[@ITEM 6 (EN) ]
+Guardia Forest\0
+
+[@ITEM 6 (L2) ]
+\0
+
+[@ITEM 6 (FR) ]
+Forêt de Gardia\0
+
+[@ITEM 7 (L1) ]
+\0
+
+[@ITEM 7 (EN) ]
+Guardia Castle\0
+
+[@ITEM 7 (L2) ]
+\0
+
+[@ITEM 7 (FR) ]
+Château de Gardia\0
+
+[@ITEM 8 (L1) ]
+\0
+
+[@ITEM 8 (EN) ]
+Lucca Joins Party\0
+
+[@ITEM 8 (L2) ]
+\0
+
+[@ITEM 8 (FR) ]
+Échanges avec Lucca\0
+
+[@ITEM 9 (L1) ]
+\0
+
+[@ITEM 9 (EN) ]
+Mianu\0
+
+[@ITEM 9 (L2) ]
+\0
+
+[@ITEM 9 (FR) ]
+Bataille contre myanne\0
+
+[@ITEM 10 (L1) ]
+\0
+
+[@ITEM 10 (EN) ]
+Manoria Abbey\0
+
+[@ITEM 10 (L2) ]
+\0
+
+[@ITEM 10 (FR) ]
+Abbaye de Manolia\0
+
+[@ITEM 11 (L1) ]
+\0
+
+[@ITEM 11 (EN) ]
+Yakra Battle\0
+
+[@ITEM 11 (L2) ]
+\0
+
+[@ITEM 11 (FR) ]
+Bataille contre Yakra\0
+
+[@ITEM 12 (L1) ]
+\0
+
+[@ITEM 12 (EN) ]
+Marle Returns\0
+
+[@ITEM 12 (L2) ]
+\0
+
+[@ITEM 12 (FR) ]
+Retour de Marle\0
+
+[@ITEM 13 (L1) ]
+\0
+
+[@ITEM 13 (EN) ]
+To thePresent\0
+
+[@ITEM 13 (L2) ]
+\0
+
+[@ITEM 13 (FR) ]
+Vers le Présent\0
+
+[@ITEM 14 (L1) ]
+\0
+
+[@ITEM 14 (EN) ]
+Crono on Trial\0
+
+[@ITEM 14 (L2) ]
+\0
+
+[@ITEM 14 (FR) ]
+Le procès de Chrono\0
+
+[@ITEM 15 (L1) ]
+\0
+
+[@ITEM 15 (EN) ]
+Not guilty.\0
+
+[@ITEM 15 (L2) ]
+\0
+
+[@ITEM 15 (FR) ]
+Non-coupable\0
+
+[@ITEM 16 (L1) ]
+\0
+
+[@ITEM 16 (EN) ]
+Gaoler Battle\0
+
+[@ITEM 16 (L2) ]
+\0
+
+[@ITEM 16 (FR) ]
+Bataille contre ghia\0
+
+[@ITEM 17 (L1) ]
+\0
+
+[@ITEM 17 (EN) ]
+Dragon Tank Battle\0
+
+[@ITEM 17 (L2) ]
+\0
+
+[@ITEM 17 (FR) ]
+Bataille contre le dragon d'assaut\0
+
+[@ITEM 18 (L1) ]
+\0
+
+[@ITEM 18 (EN) ]
+After Dragon Tank Battle\0
+
+[@ITEM 18 (L2) ]
+\0
+
+[@ITEM 18 (FR) ]
+Après la bataille contre le dragon d'assaut\0
+
+[@ITEM 19 (L1) ]
+\0
+
+[@ITEM 19 (EN) ]
+To the Future\0
+
+[@ITEM 19 (L2) ]
+\0
+
+[@ITEM 19 (FR) ]
+Vers le Futur\0
+
+[@ITEM 20 (L1) ]
+\0
+
+[@ITEM 20 (EN) ]
+#16 Ruins\0
+
+[@ITEM 20 (L2) ]
+\0
+
+[@ITEM 20 (FR) ]
+Ruines n° 16\0
+
+[@ITEM 21 (L1) ]
+\0
+
+[@ITEM 21 (EN) ]
+Aris Dome\0
+
+[@ITEM 21 (L2) ]
+\0
+
+[@ITEM 21 (FR) ]
+Dôme d'Arris\0
+
+[@ITEM 22 (L1) ]
+\0
+
+[@ITEM 22 (EN) ]
+Guard Machine\0
+
+[@ITEM 22 (L2) ]
+\0
+
+[@ITEM 22 (FR) ]
+Bataille contre le gardien\0
+
+[@ITEM 23 (L1) ]
+\0
+
+[@ITEM 23 (EN) ]
+Guard Machine\0
+
+[@ITEM 23 (L2) ]
+\0
+
+[@ITEM 23 (FR) ]
+Après la bataille contre le gardien\0
+
+[@ITEM 24 (L1) ]
+\0
+
+[@ITEM 24 (EN) ]
+Keeper's Dome (Balthasar)\0
+
+[@ITEM 24 (L2) ]
+\0
+
+[@ITEM 24 (FR) ]
+Dôme du gardien (Gasch en vie)\0
+
+[@ITEM 25 (L1) ]
+\0
+
+[@ITEM 25 (EN) ]
+Day of Lavos Record Room\0
+
+[@ITEM 25 (L2) ]
+\0
+
+[@ITEM 25 (FR) ]
+Archives du Jour de Lavos\0
+
+[@ITEM 26 (L1) ]
+\0
+
+[@ITEM 26 (EN) ]
+Escape Out of Dome Substructure\0
+
+[@ITEM 26 (L2) ]
+\0
+
+[@ITEM 26 (FR) ]
+Fuite du sous-sol du dôme\0
+
+[@ITEM 27 (L1) ]
+\0
+
+[@ITEM 27 (EN) ]
+Jetbike Race\0
+
+[@ITEM 27 (L2) ]
+\0
+
+[@ITEM 27 (FR) ]
+Course à moto\0
+
+[@ITEM 28 (L1) ]
+\0
+
+[@ITEM 28 (EN) ]
+Robo Revives\0
+
+[@ITEM 28 (L2) ]
+\0
+
+[@ITEM 28 (FR) ]
+Réparation de RoBo\0
+
+[@ITEM 29 (L1) ]
+\0
+
+[@ITEM 29 (EN) ]
+Factory Ruins\0
+
+[@ITEM 29 (L2) ]
+\0
+
+[@ITEM 29 (FR) ]
+Usine désaffectée\0
+
+[@ITEM 30 (L1) ]
+\0
+
+[@ITEM 30 (EN) ]
+ZABIE\0
+
+[@ITEM 30 (L2) ]
+\0
+
+[@ITEM 30 (FR) ]
+XABY\0
+
+[@ITEM 31 (L1) ]
+\0
+
+[@ITEM 31 (EN) ]
+R Series\0
+
+[@ITEM 31 (L2) ]
+\0
+
+[@ITEM 31 (FR) ]
+Bataille contre androïdes série R\0
+
+[@ITEM 32 (L1) ]
+\0
+
+[@ITEM 32 (EN) ]
+The Farthest Reaches of Time\0
+
+[@ITEM 32 (L2) ]
+\0
+
+[@ITEM 32 (FR) ]
+Fin des temps\0
+
+[@ITEM 33 (L1) ]
+\0
+
+[@ITEM 33 (EN) ]
+Medina Village Square\0
+
+[@ITEM 33 (L2) ]
+\0
+
+[@ITEM 33 (FR) ]
+Médina\0
+
+[@ITEM 34 (L1) ]
+\0
+
+[@ITEM 34 (EN) ]
+Hekeran's Cave\0
+
+[@ITEM 34 (L2) ]
+\0
+
+[@ITEM 34 (FR) ]
+Grottes d'Héclan\0
+
+[@ITEM 35 (L1) ]
+\0
+
+[@ITEM 35 (EN) ]
+Hekeran\0
+
+[@ITEM 35 (L2) ]
+\0
+
+[@ITEM 35 (FR) ]
+Bataille contre Héclan\0
+
+[@ITEM 36 (L1) ]
+\0
+
+[@ITEM 36 (EN) ]
+Hekeran\0
+
+[@ITEM 36 (L2) ]
+\0
+
+[@ITEM 36 (FR) ]
+Après la bataille contre Héclan\0
+
+[@ITEM 37 (L1) ]
+\0
+
+[@ITEM 37 (EN) ]
+To the Middle Ages\0
+
+[@ITEM 37 (L2) ]
+\0
+
+[@ITEM 37 (FR) ]
+Vers le Moyen-Âge\0
+
+[@ITEM 38 (L1) ]
+\0
+
+[@ITEM 38 (EN) ]
+Zenan Bridge\0
+
+[@ITEM 38 (L2) ]
+\0
+
+[@ITEM 38 (FR) ]
+Pont de Zénan\0
+
+[@ITEM 39 (L1) ]
+\0
+
+[@ITEM 39 (EN) ]
+Food for the Soldiers\0
+
+[@ITEM 39 (L2) ]
+\0
+
+[@ITEM 39 (FR) ]
+Ravitaillement\0
+
+[@ITEM 40 (L1) ]
+\0
+
+[@ITEM 40 (EN) ]
+Zenan Bridge\0
+
+[@ITEM 40 (L2) ]
+\0
+
+[@ITEM 40 (FR) ]
+Batailles sur le pont de Zénan\0
+
+[@ITEM 41 (L1) ]
+\0
+
+[@ITEM 41 (EN) ]
+Junkdragar\0
+
+[@ITEM 41 (L2) ]
+\0
+
+[@ITEM 41 (FR) ]
+Bataille contre l'abomination\0
+
+[@ITEM 42 (L1) ]
+\0
+
+[@ITEM 42 (EN) ]
+Sandorino Village Inn\0
+
+[@ITEM 42 (L2) ]
+\0
+
+[@ITEM 42 (FR) ]
+San Dorino\0
+
+[@ITEM 43 (L1) ]
+\0
+
+[@ITEM 43 (EN) ]
+Reunite with Frog\0
+
+[@ITEM 43 (L2) ]
+\0
+
+[@ITEM 43 (FR) ]
+Réunion avec Gren\0
+
+[@ITEM 44 (L1) ]
+\0
+
+[@ITEM 44 (EN) ]
+Denadoro Mountains\0
+
+[@ITEM 44 (L2) ]
+\0
+
+[@ITEM 44 (FR) ]
+Monts Dénadoro\0
+
+[@ITEM 45 (L1) ]
+\0
+
+[@ITEM 45 (EN) ]
+Gran and Leon\0
+
+[@ITEM 45 (L2) ]
+\0
+
+[@ITEM 45 (FR) ]
+Bataille contre Gran et Léon\0
+
+[@ITEM 46 (L1) ]
+\0
+
+[@ITEM 46 (EN) ]
+Gran and Leon\0
+
+[@ITEM 46 (L2) ]
+\0
+
+[@ITEM 46 (FR) ]
+Après la bataille contre Gran et Léon\0
+
+[@ITEM 47 (L1) ]
+\0
+
+[@ITEM 47 (EN) ]
+Hero's Badge\0
+
+[@ITEM 47 (L2) ]
+\0
+
+[@ITEM 47 (FR) ]
+Médaille du héros\0
+
+[@ITEM 48 (L1) ]
+\0
+
+[@ITEM 48 (EN) ]
+Broken Blade\0
+
+[@ITEM 48 (L2) ]
+\0
+
+[@ITEM 48 (FR) ]
+L'épée brisée\0
+
+[@ITEM 49 (L1) ]
+\0
+
+[@ITEM 49 (EN) ]
+Bosch's Hut\0
+
+[@ITEM 49 (L2) ]
+\0
+
+[@ITEM 49 (FR) ]
+Demeure de Bosch\0
+
+[@ITEM 50 (L1) ]
+\0
+
+[@ITEM 50 (EN) ]
+To Prehistory\0
+
+[@ITEM 50 (L2) ]
+\0
+
+[@ITEM 50 (FR) ]
+Vers la Préhistoire\0
+
+[@ITEM 51 (L1) ]
+\0
+
+[@ITEM 51 (EN) ]
+Ioka Village\0
+
+[@ITEM 51 (L2) ]
+\0
+
+[@ITEM 51 (FR) ]
+Village d'Ioka\0
+
+[@ITEM 52 (L1) ]
+\0
+
+[@ITEM 52 (EN) ]
+The Feast\0
+
+[@ITEM 52 (L2) ]
+\0
+
+[@ITEM 52 (FR) ]
+Le festin\0
+
+[@ITEM 53 (L1) ]
+\0
+
+[@ITEM 53 (EN) ]
+Hunting Forest\0
+
+[@ITEM 53 (L2) ]
+\0
+
+[@ITEM 53 (FR) ]
+Terrain de chasse\0
+
+[@ITEM 54 (L1) ]
+\0
+
+[@ITEM 54 (EN) ]
+Bewilderment Forest\0
+
+[@ITEM 54 (L2) ]
+\0
+
+[@ITEM 54 (FR) ]
+Jungle\0
+
+[@ITEM 55 (L1) ]
+\0
+
+[@ITEM 55 (EN) ]
+Dinomen Hideout\0
+
+[@ITEM 55 (L2) ]
+\0
+
+[@ITEM 55 (FR) ]
+Antre des sauriens\0
+
+[@ITEM 56 (L1) ]
+\0
+
+[@ITEM 56 (EN) ]
+Nizbel\0
+
+[@ITEM 56 (L2) ]
+\0
+
+[@ITEM 56 (FR) ]
+Bataille contre Nizbel\0
+
+[@ITEM 57 (L1) ]
+\0
+
+[@ITEM 57 (EN) ]
+Repair Masamune\0
+
+[@ITEM 57 (L2) ]
+\0
+
+[@ITEM 57 (FR) ]
+Restauration de Grandléon\0
+
+[@ITEM 58 (L1) ]
+\0
+
+[@ITEM 58 (EN) ]
+Frog Returns\0
+
+[@ITEM 58 (L2) ]
+\0
+
+[@ITEM 58 (FR) ]
+Retour de Gren\0
+
+[@ITEM 59 (L1) ]
+\0
+
+[@ITEM 59 (EN) ]
+Frog Magic\0
+
+[@ITEM 59 (L2) ]
+\0
+
+[@ITEM 59 (FR) ]
+Magie de Gren\0
+
+[@ITEM 60 (L1) ]
+\0
+
+[@ITEM 60 (EN) ]
+Magic Cave, Seal\0
+
+[@ITEM 60 (L2) ]
+\0
+
+[@ITEM 60 (FR) ]
+Sceau de la grotte des démons\0
+
+[@ITEM 61 (L1) ]
+\0
+
+[@ITEM 61 (EN) ]
+Magus Castle\0
+
+[@ITEM 61 (L2) ]
+\0
+
+[@ITEM 61 (FR) ]
+Palais du Magistère\0
+
+[@ITEM 62 (L1) ]
+\0
+
+[@ITEM 62 (EN) ]
+Soysaw\0
+
+[@ITEM 62 (L2) ]
+\0
+
+[@ITEM 62 (FR) ]
+Bataille contre Soja\0
+
+[@ITEM 63 (L1) ]
+\0
+
+[@ITEM 63 (EN) ]
+Mayonnay\0
+
+[@ITEM 63 (L2) ]
+\0
+
+[@ITEM 63 (FR) ]
+Bataille contre Mayo\0
+
+[@ITEM 64 (L1) ]
+\0
+
+[@ITEM 64 (EN) ]
+Ozzie (Trap 1)\0
+
+[@ITEM 64 (L2) ]
+\0
+
+[@ITEM 64 (FR) ]
+Piège de Vinnie n° 1\0
+
+[@ITEM 65 (L1) ]
+\0
+
+[@ITEM 65 (EN) ]
+Ozzie (Trap 2)\0
+
+[@ITEM 65 (L2) ]
+\0
+
+[@ITEM 65 (FR) ]
+Piège de Vinnie n° 2\0
+
+[@ITEM 66 (L1) ]
+\0
+
+[@ITEM 66 (EN) ]
+Ozzie (Trap 3)\0
+
+[@ITEM 66 (L2) ]
+\0
+
+[@ITEM 66 (FR) ]
+Piège de Vinnie n° 3\0
+
+[@ITEM 67 (L1) ]
+\0
+
+[@ITEM 67 (EN) ]
+The Last of Ozzie?\0
+
+[@ITEM 67 (L2) ]
+\0
+
+[@ITEM 67 (FR) ]
+Mort de Vinnie ?\0
+
+[@ITEM 68 (L1) ]
+\0
+
+[@ITEM 68 (EN) ]
+Magus Battle\0
+
+[@ITEM 68 (L2) ]
+\0
+
+[@ITEM 68 (FR) ]
+Bataille contre Magus\0
+
+[@ITEM 69 (L1) ]
+\0
+
+[@ITEM 69 (EN) ]
+Laruba Village's Burnt Remains\0
+
+[@ITEM 69 (L2) ]
+\0
+
+[@ITEM 69 (FR) ]
+Laruba\0
+
+[@ITEM 70 (L1) ]
+\0
+
+[@ITEM 70 (EN) ]
+Pteran Nest\0
+
+[@ITEM 70 (L2) ]
+\0
+
+[@ITEM 70 (FR) ]
+Nid des ptéranodons\0
+
+[@ITEM 71 (L1) ]
+\0
+
+[@ITEM 71 (EN) ]
+Ride on Dactyl\0
+
+[@ITEM 71 (L2) ]
+\0
+
+[@ITEM 71 (FR) ]
+Sur le dos du ptéranodon\0
+
+[@ITEM 72 (L1) ]
+\0
+
+[@ITEM 72 (EN) ]
+Tyran Castle\0
+
+[@ITEM 72 (L2) ]
+\0
+
+[@ITEM 72 (FR) ]
+Fort Tyrannos\0
+
+[@ITEM 73 (L1) ]
+\0
+
+[@ITEM 73 (EN) ]
+Nizbel R\0
+
+[@ITEM 73 (L2) ]
+\0
+
+[@ITEM 73 (FR) ]
+Bataille contre Nizbel II\0
+
+[@ITEM 74 (L1) ]
+\0
+
+[@ITEM 74 (EN) ]
+Azarla\0
+
+[@ITEM 74 (L2) ]
+\0
+
+[@ITEM 74 (FR) ]
+Bataille contre Azara\0
+
+[@ITEM 75 (L1) ]
+\0
+
+[@ITEM 75 (EN) ]
+Tyran Castle Ruins\0
+
+[@ITEM 75 (L2) ]
+\0
+
+[@ITEM 75 (FR) ]
+Cratère de Tyrannos\0
+
+[@ITEM 76 (L1) ]
+\0
+
+[@ITEM 76 (EN) ]
+To Antiquity\0
+
+[@ITEM 76 (L2) ]
+\0
+
+[@ITEM 76 (FR) ]
+Vers l'Antiquité\0
+
+[@ITEM 77 (L1) ]
+\0
+
+[@ITEM 77 (EN) ]
+Kajarl\0
+
+[@ITEM 77 (L2) ]
+\0
+
+[@ITEM 77 (FR) ]
+Kajar\0
+
+[@ITEM 78 (L1) ]
+\0
+
+[@ITEM 78 (EN) ]
+Zeal Palace\0
+
+[@ITEM 78 (L2) ]
+\0
+
+[@ITEM 78 (FR) ]
+Palais de Zhyle\0
+
+[@ITEM 79 (L1) ]
+\0
+
+[@ITEM 79 (EN) ]
+Dalton Golem\0
+
+[@ITEM 79 (L2) ]
+\0
+
+[@ITEM 79 (FR) ]
+Bataille contre golem de Dalton\0
+
+[@ITEM 80 (L1) ]
+\0
+
+[@ITEM 80 (EN) ]
+To Prehistory\0
+
+[@ITEM 80 (L2) ]
+\0
+
+[@ITEM 80 (FR) ]
+Vers la Préhistoire\0
+
+[@ITEM 81 (L1) ]
+\0
+
+[@ITEM 81 (EN) ]
+Guardia Castle\0
+
+[@ITEM 81 (L2) ]
+\0
+
+[@ITEM 81 (FR) ]
+Retour au château de Gardia\0
+
+[@ITEM 82 (L1) ]
+\0
+
+[@ITEM 82 (EN) ]
+Protect Helm\0
+
+[@ITEM 82 (L2) ]
+\0
+
+[@ITEM 82 (FR) ]
+Tsubame ou armet gardien\0
+
+[@ITEM 83 (L1) ]
+\0
+
+[@ITEM 83 (EN) ]
+Jetbike Race Score Attack\0
+
+[@ITEM 83 (L2) ]
+\0
+
+[@ITEM 83 (FR) ]
+Course à moto (score)\0
+
+[@ITEM 84 (L1) ]
+\0
+
+[@ITEM 84 (EN) ]
+Underground Waterway Ruins\0
+
+[@ITEM 84 (L2) ]
+\0
+
+[@ITEM 84 (FR) ]
+Ancien égout\0
+
+[@ITEM 85 (L1) ]
+\0
+
+[@ITEM 85 (EN) ]
+Krawlie Battle\0
+
+[@ITEM 85 (L2) ]
+\0
+
+[@ITEM 85 (FR) ]
+Bataille contre sieur Rampant\0
+
+[@ITEM 86 (L1) ]
+\0
+
+[@ITEM 86 (EN) ]
+Watcher's Dome\0
+
+[@ITEM 86 (L2) ]
+\0
+
+[@ITEM 86 (FR) ]
+Dôme du gardien\0
+
+[@ITEM 87 (L1) ]
+\0
+
+[@ITEM 87 (EN) ]
+Here we go, Epoch!\0
+
+[@ITEM 87 (L2) ]
+\0
+
+[@ITEM 87 (FR) ]
+Ibis en vol\0
+
+[@ITEM 88 (L1) ]
+\0
+
+[@ITEM 88 (EN) ]
+Back to Antiquity\0
+
+[@ITEM 88 (L2) ]
+\0
+
+[@ITEM 88 (FR) ]
+Retour à l'Antiquité\0
+
+[@ITEM 89 (L1) ]
+\0
+
+[@ITEM 89 (EN) ]
+Mudbeast Den\0
+
+[@ITEM 89 (L2) ]
+\0
+
+[@ITEM 89 (FR) ]
+Nid du terraphage\0
+
+[@ITEM 90 (L1) ]
+\0
+
+[@ITEM 90 (EN) ]
+Mud Imp Battle\0
+
+[@ITEM 90 (L2) ]
+\0
+
+[@ITEM 90 (FR) ]
+Bataille contre terra-diablotin\0
+
+[@ITEM 91 (L1) ]
+\0
+
+[@ITEM 91 (EN) ]
+Mountain of Woe\0
+
+[@ITEM 91 (L2) ]
+\0
+
+[@ITEM 91 (FR) ]
+Mont du tourment\0
+
+[@ITEM 92 (L1) ]
+\0
+
+[@ITEM 92 (EN) ]
+Giga Gaia\0
+
+[@ITEM 92 (L2) ]
+\0
+
+[@ITEM 92 (FR) ]
+Bataille contre Gigagaïa\0
+
+[@ITEM 93 (L1) ]
+\0
+
+[@ITEM 93 (EN) ]
+Dalton Battle\0
+
+[@ITEM 93 (L2) ]
+\0
+
+[@ITEM 93 (FR) ]
+Bataille contre Dalton\0
+
+[@ITEM 94 (L1) ]
+\0
+
+[@ITEM 94 (EN) ]
+Talk to Mune\0
+
+[@ITEM 94 (L2) ]
+\0
+
+[@ITEM 94 (FR) ]
+Conversation avec Léon\0
+
+[@ITEM 95 (L1) ]
+\0
+
+[@ITEM 95 (EN) ]
+Talk to Masa\0
+
+[@ITEM 95 (L2) ]
+\0
+
+[@ITEM 95 (FR) ]
+Conversation avec Gran\0
+
+[@ITEM 96 (L1) ]
+\0
+
+[@ITEM 96 (EN) ]
+Battle on the OP Elevator\0
+
+[@ITEM 96 (L2) ]
+\0
+
+[@ITEM 96 (FR) ]
+Batailles dans l'ascenseur du sanctuaire sous-marin\0
+
+[@ITEM 97 (L1) ]
+\0
+
+[@ITEM 97 (EN) ]
+Dalton Golem\0
+
+[@ITEM 97 (L2) ]
+\0
+
+[@ITEM 97 (FR) ]
+Bataille contre les golems\0
+
+[@ITEM 98 (L1) ]
+\0
+
+[@ITEM 98 (EN) ]
+Lavos Entrance\0
+
+[@ITEM 98 (L2) ]
+\0
+
+[@ITEM 98 (FR) ]
+Entrée en scène de Lavos\0
+
+[@ITEM 99 (L1) ]
+\0
+
+[@ITEM 99 (EN) ]
+Crono Dead\0
+
+[@ITEM 99 (L2) ]
+\0
+
+[@ITEM 99 (FR) ]
+Mort de Chrono\0
+
+[@ITEM 100 (L1) ]
+\0
+
+[@ITEM 100 (EN) ]
+Spared Village\0
+
+[@ITEM 100 (L2) ]
+\0
+
+[@ITEM 100 (FR) ]
+Village des survivants\0
+
+[@ITEM 101 (L1) ]
+\0
+
+[@ITEM 101 (EN) ]
+The Blackbird\0
+
+[@ITEM 101 (L2) ]
+\0
+
+[@ITEM 101 (FR) ]
+Cygne noir\0
+
+[@ITEM 102 (L1) ]
+\0
+
+[@ITEM 102 (EN) ]
+Master Golem\0
+
+[@ITEM 102 (L2) ]
+\0
+
+[@ITEM 102 (FR) ]
+Bataille contre maître-golem\0
+
+[@ITEM 103 (L1) ]
+\0
+
+[@ITEM 103 (EN) ]
+Northern Cape\0
+
+[@ITEM 103 (L2) ]
+\0
+
+[@ITEM 103 (FR) ]
+Cap nord\0
+
+[@ITEM 104 (L1) ]
+\0
+
+[@ITEM 104 (EN) ]
+After Magus Battle\0
+
+[@ITEM 104 (L2) ]
+\0
+
+[@ITEM 104 (FR) ]
+Après la bataille contre Magus\0
+
+[@ITEM 105 (L1) ]
+\0
+
+[@ITEM 105 (EN) ]
+Black Omen Emerges\0
+
+[@ITEM 105 (L2) ]
+\0
+
+[@ITEM 105 (FR) ]
+Apparition du Songe obscur\0
+
+[@ITEM 106 (L1) ]
+\0
+
+[@ITEM 106 (EN) ]
+The Egg of Time\0
+
+[@ITEM 106 (L2) ]
+\0
+
+[@ITEM 106 (FR) ]
+Œuf de temps\0
+
+[@ITEM 107 (L1) ]
+\0
+
+[@ITEM 107 (EN) ]
+Change Name\0
+
+[@ITEM 107 (L2) ]
+\0
+
+[@ITEM 107 (FR) ]
+Changement de nom\0
+
+[@ITEM 108 (L1) ]
+\0
+
+[@ITEM 108 (EN) ]
+Doppel Game\0
+
+[@ITEM 108 (L2) ]
+\0
+
+[@ITEM 108 (FR) ]
+Jeu de mime\0
+
+[@ITEM 109 (L1) ]
+\0
+
+[@ITEM 109 (EN) ]
+Max Silver Points\0
+
+[@ITEM 109 (L2) ]
+\0
+
+[@ITEM 109 (FR) ]
+Points d'argent au maximum\0
+
+[@ITEM 110 (L1) ]
+\0
+
+[@ITEM 110 (EN) ]
+Crono's House\0
+
+[@ITEM 110 (L2) ]
+\0
+
+[@ITEM 110 (FR) ]
+Maison de Chrono\0
+
+[@ITEM 111 (L1) ]
+\0
+
+[@ITEM 111 (EN) ]
+Final Program\0
+
+[@ITEM 111 (L2) ]
+\0
+
+[@ITEM 111 (FR) ]
+Dernier programme\0
+
+[@ITEM 112 (L1) ]
+\0
+
+[@ITEM 112 (EN) ]
+Death Mountain\0
+
+[@ITEM 112 (L2) ]
+\0
+
+[@ITEM 112 (FR) ]
+Mont des défunts\0
+
+[@ITEM 113 (L1) ]
+\0
+
+[@ITEM 113 (EN) ]
+Mini Lavos\0
+
+[@ITEM 113 (L2) ]
+\0
+
+[@ITEM 113 (FR) ]
+Bataille contre larve de Lavos n° 1\0
+
+[@ITEM 114 (L1) ]
+\0
+
+[@ITEM 114 (EN) ]
+Mini Lavos\0
+
+[@ITEM 114 (L2) ]
+\0
+
+[@ITEM 114 (FR) ]
+Bataille contre larve de Lavos n° 2\0
+
+[@ITEM 115 (L1) ]
+\0
+
+[@ITEM 115 (EN) ]
+Mini Lavos\0
+
+[@ITEM 115 (L2) ]
+\0
+
+[@ITEM 115 (FR) ]
+Bataille contre larve de Lavos n° 3\0
+
+[@ITEM 116 (L1) ]
+\0
+
+[@ITEM 116 (EN) ]
+Crono Revival\0
+
+[@ITEM 116 (L2) ]
+\0
+
+[@ITEM 116 (FR) ]
+Résurrection de Chrono\0
+
+[@ITEM 117 (L1) ]
+\0
+
+[@ITEM 117 (EN) ]
+Choras Village Inn\0
+
+[@ITEM 117 (L2) ]
+\0
+
+[@ITEM 117 (FR) ]
+Choras\0
+
+[@ITEM 118 (L1) ]
+\0
+
+[@ITEM 118 (EN) ]
+Toma's Spirits\0
+
+[@ITEM 118 (L2) ]
+\0
+
+[@ITEM 118 (FR) ]
+Vin de Toma\0
+
+[@ITEM 119 (L1) ]
+\0
+
+[@ITEM 119 (EN) ]
+Carpenter's Tools\0
+
+[@ITEM 119 (L2) ]
+\0
+
+[@ITEM 119 (FR) ]
+Outils de charpentier\0
+
+[@ITEM 120 (L1) ]
+\0
+
+[@ITEM 120 (EN) ]
+Western Cape\0
+
+[@ITEM 120 (L2) ]
+\0
+
+[@ITEM 120 (FR) ]
+Cap ouest\0
+
+[@ITEM 121 (L1) ]
+\0
+
+[@ITEM 121 (EN) ]
+Giant's Claw\0
+
+[@ITEM 121 (L2) ]
+\0
+
+[@ITEM 121 (FR) ]
+Griffe du géant\0
+
+[@ITEM 122 (L1) ]
+\0
+
+[@ITEM 122 (EN) ]
+Rust Tyrano\0
+
+[@ITEM 122 (L2) ]
+\0
+
+[@ITEM 122 (FR) ]
+Bataille contre tyrannosaure noir\0
+
+[@ITEM 123 (L1) ]
+\0
+
+[@ITEM 123 (EN) ]
+Rainbow Shell\0
+
+[@ITEM 123 (L2) ]
+\0
+
+[@ITEM 123 (FR) ]
+Coquillage arc-en-ciel\0
+
+[@ITEM 124 (L1) ]
+\0
+
+[@ITEM 124 (EN) ]
+The King on Trial\0
+
+[@ITEM 124 (L2) ]
+\0
+
+[@ITEM 124 (FR) ]
+Procès du roi de Gardia\0
+
+[@ITEM 125 (L1) ]
+\0
+
+[@ITEM 125 (EN) ]
+The King Framed\0
+
+[@ITEM 125 (L2) ]
+\0
+
+[@ITEM 125 (FR) ]
+Fausse déposition\0
+
+[@ITEM 126 (L1) ]
+\0
+
+[@ITEM 126 (EN) ]
+Shell After 400 Years\0
+
+[@ITEM 126 (L2) ]
+\0
+
+[@ITEM 126 (FR) ]
+Coquillage 400 ans plus tard\0
+
+[@ITEM 127 (L1) ]
+\0
+
+[@ITEM 127 (EN) ]
+Yakra XIII Battle\0
+
+[@ITEM 127 (L2) ]
+\0
+
+[@ITEM 127 (FR) ]
+Yakra XIII\0
+
+[@ITEM 128 (L1) ]
+\0
+
+[@ITEM 128 (EN) ]
+Prism (Armor)\0
+
+[@ITEM 128 (L2) ]
+\0
+
+[@ITEM 128 (FR) ]
+Équipement spectral\0
+
+[@ITEM 129 (L1) ]
+\0
+
+[@ITEM 129 (EN) ]
+Son of Sun\0
+
+[@ITEM 129 (L2) ]
+\0
+
+[@ITEM 129 (FR) ]
+Bataille contre fils du soleil\0
+
+[@ITEM 130 (L1) ]
+\0
+
+[@ITEM 130 (EN) ]
+Get Moon Stone\0
+
+[@ITEM 130 (L2) ]
+\0
+
+[@ITEM 130 (FR) ]
+Obtention de la pierre obscure\0
+
+[@ITEM 131 (L1) ]
+\0
+
+[@ITEM 131 (EN) ]
+Place Moon Stone\0
+
+[@ITEM 131 (L2) ]
+\0
+
+[@ITEM 131 (FR) ]
+Placer la pierre obscure\0
+
+[@ITEM 132 (L1) ]
+\0
+
+[@ITEM 132 (EN) ]
+Moon Stone Stolen\0
+
+[@ITEM 132 (L2) ]
+\0
+
+[@ITEM 132 (FR) ]
+Vol de la pierre obscure\0
+
+[@ITEM 133 (L1) ]
+\0
+
+[@ITEM 133 (EN) ]
+Hyper Dried Meat\0
+
+[@ITEM 133 (L2) ]
+\0
+
+[@ITEM 133 (FR) ]
+Jambon épicé\0
+
+[@ITEM 134 (L1) ]
+\0
+
+[@ITEM 134 (EN) ]
+Give Spiced Jerky\0
+
+[@ITEM 134 (L2) ]
+\0
+
+[@ITEM 134 (FR) ]
+Donner le jambon épicé\0
+
+[@ITEM 135 (L1) ]
+\0
+
+[@ITEM 135 (EN) ]
+Mayor's Moon Stone\0
+
+[@ITEM 135 (L2) ]
+\0
+
+[@ITEM 135 (FR) ]
+Pierre obscure du maire\0
+
+[@ITEM 136 (L1) ]
+\0
+
+[@ITEM 136 (EN) ]
+Replace Moon Stone\0
+
+[@ITEM 136 (L2) ]
+\0
+
+[@ITEM 136 (FR) ]
+Replacer la pierre obscure\0
+
+[@ITEM 137 (L1) ]
+\0
+
+[@ITEM 137 (EN) ]
+Sun Stone\0
+
+[@ITEM 137 (L2) ]
+\0
+
+[@ITEM 137 (FR) ]
+Pierre du soleil\0
+
+[@ITEM 138 (L1) ]
+\0
+
+[@ITEM 138 (EN) ]
+The Farthest Reaches of Time\0
+
+[@ITEM 138 (L2) ]
+\0
+
+[@ITEM 138 (FR) ]
+Le plus loin\0
+
+[@ITEM 139 (L1) ]
+\0
+
+[@ITEM 139 (EN) ]
+Lend Carpenter's Tools\0
+
+[@ITEM 139 (L2) ]
+\0
+
+[@ITEM 139 (FR) ]
+Donner les outils\0
+
+[@ITEM 140 (L1) ]
+\0
+
+[@ITEM 140 (EN) ]
+Repair Ruins\0
+
+[@ITEM 140 (L2) ]
+\0
+
+[@ITEM 140 (FR) ]
+Rénovation des ruines\0
+
+[@ITEM 141 (L1) ]
+\0
+
+[@ITEM 141 (EN) ]
+Northern Ruins\0
+
+[@ITEM 141 (L2) ]
+\0
+
+[@ITEM 141 (FR) ]
+Château en ruine\0
+
+[@ITEM 142 (L1) ]
+\0
+
+[@ITEM 142 (EN) ]
+Repair Ruins (Paid)\0
+
+[@ITEM 142 (L2) ]
+\0
+
+[@ITEM 142 (FR) ]
+Demande de rénovation des ruines\0
+
+[@ITEM 143 (L1) ]
+\0
+
+[@ITEM 143 (EN) ]
+Completely Repair Ruins\0
+
+[@ITEM 143 (L2) ]
+\0
+
+[@ITEM 143 (FR) ]
+Rénovation des ruines terminée\0
+
+[@ITEM 144 (L1) ]
+\0
+
+[@ITEM 144 (EN) ]
+Cyrus's Grave\0
+
+[@ITEM 144 (L2) ]
+\0
+
+[@ITEM 144 (FR) ]
+Tombe de Cyrus\0
+
+[@ITEM 145 (L1) ]
+\0
+
+[@ITEM 145 (EN) ]
+The Final Sealed Item\0
+
+[@ITEM 145 (L2) ]
+\0
+
+[@ITEM 145 (FR) ]
+Dernier objet scellé\0
+
+[@ITEM 146 (L1) ]
+\0
+
+[@ITEM 146 (EN) ]
+Subterranean Desert\0
+
+[@ITEM 146 (L2) ]
+\0
+
+[@ITEM 146 (FR) ]
+Désert souterrain\0
+
+[@ITEM 147 (L1) ]
+\0
+
+[@ITEM 147 (EN) ]
+Melfikk\0
+
+[@ITEM 147 (L2) ]
+\0
+
+[@ITEM 147 (FR) ]
+Bataille contre melfiq\0
+
+[@ITEM 148 (L1) ]
+\0
+
+[@ITEM 148 (EN) ]
+Fiona's Hut\0
+
+[@ITEM 148 (L2) ]
+\0
+
+[@ITEM 148 (FR) ]
+Demeure de Fiona\0
+
+[@ITEM 149 (L1) ]
+\0
+
+[@ITEM 149 (EN) ]
+Fiona Temple\0
+
+[@ITEM 149 (L2) ]
+\0
+
+[@ITEM 149 (FR) ]
+Sanctuaire de Fiona\0
+
+[@ITEM 150 (L1) ]
+\0
+
+[@ITEM 150 (EN) ]
+Lucca's Past\0
+
+[@ITEM 150 (L2) ]
+\0
+
+[@ITEM 150 (FR) ]
+Passé de Lucca\0
+
+[@ITEM 151 (L1) ]
+\0
+
+[@ITEM 151 (EN) ]
+Rescue Lara\0
+
+[@ITEM 151 (L2) ]
+\0
+
+[@ITEM 151 (FR) ]
+Sauver Lara\0
+
+[@ITEM 152 (L1) ]
+\0
+
+[@ITEM 152 (EN) ]
+Fail to Rescue Lara\0
+
+[@ITEM 152 (L2) ]
+\0
+
+[@ITEM 152 (FR) ]
+Ne pas sauver Lara\0
+
+[@ITEM 153 (L1) ]
+\0
+
+[@ITEM 153 (EN) ]
+Ozzie's Evil Plan\0
+
+[@ITEM 153 (L2) ]
+\0
+
+[@ITEM 153 (FR) ]
+Ambition de Vinnie\0
+
+[@ITEM 154 (L1) ]
+\0
+
+[@ITEM 154 (EN) ]
+Super Mayonnay\0
+
+[@ITEM 154 (L2) ]
+\0
+
+[@ITEM 154 (FR) ]
+Bataille contre super-Mayo\0
+
+[@ITEM 155 (L1) ]
+\0
+
+[@ITEM 155 (EN) ]
+Super Soysaw\0
+
+[@ITEM 155 (L2) ]
+\0
+
+[@ITEM 155 (FR) ]
+Bataille contre super-Soja\0
+
+[@ITEM 156 (L1) ]
+\0
+
+[@ITEM 156 (EN) ]
+Battle Against All Three\0
+
+[@ITEM 156 (L2) ]
+\0
+
+[@ITEM 156 (FR) ]
+Bataille contre les trois généraux\0
+
+[@ITEM 157 (L1) ]
+\0
+
+[@ITEM 157 (EN) ]
+Great Vinnegar\0
+
+[@ITEM 157 (L2) ]
+\0
+
+[@ITEM 157 (FR) ]
+Bataille contre Vinnie le Grand\0
+
+[@ITEM 158 (L1) ]
+\0
+
+[@ITEM 158 (EN) ]
+The Last of Ozzie\0
+
+[@ITEM 158 (L2) ]
+\0
+
+[@ITEM 158 (FR) ]
+Mort de Vinnie\0
+
+[@ITEM 159 (L1) ]
+\0
+
+[@ITEM 159 (EN) ]
+Genocidome\0
+
+[@ITEM 159 (L2) ]
+\0
+
+[@ITEM 159 (FR) ]
+Dôme de Génos\0
+
+[@ITEM 160 (L1) ]
+\0
+
+[@ITEM 160 (EN) ]
+After Conveyer Belt Battle\0
+
+[@ITEM 160 (L2) ]
+\0
+
+[@ITEM 160 (FR) ]
+Après la bataille sur le tapis roulant\0
+
+[@ITEM 161 (L1) ]
+\0
+
+[@ITEM 161 (EN) ]
+Rescue\0
+
+[@ITEM 161 (L2) ]
+\0
+
+[@ITEM 161 (FR) ]
+Sauvetage\0
+
+[@ITEM 162 (L1) ]
+\0
+
+[@ITEM 162 (EN) ]
+Atropos 145\0
+
+[@ITEM 162 (L2) ]
+\0
+
+[@ITEM 162 (FR) ]
+Atropos\0
+
+[@ITEM 163 (L1) ]
+\0
+
+[@ITEM 163 (EN) ]
+Mother Brain\0
+
+[@ITEM 163 (L2) ]
+\0
+
+[@ITEM 163 (FR) ]
+Bataille contre le cerveau mère\0
+
+[@ITEM 164 (L1) ]
+\0
+
+[@ITEM 164 (EN) ]
+Rainbow and the Sun\0
+
+[@ITEM 164 (L2) ]
+\0
+
+[@ITEM 164 (FR) ]
+Coquillage arc-en-ciel & pierre du soleil\0
+
+[@ITEM 165 (L1) ]
+\0
+
+[@ITEM 165 (EN) ]
+Golden Gemstone\0
+
+[@ITEM 165 (L2) ]
+\0
+
+[@ITEM 165 (FR) ]
+Pierre dorée\0
+
+[@ITEM 166 (L1) ]
+\0
+
+[@ITEM 166 (EN) ]
+Mega Mutant\0
+
+[@ITEM 166 (L2) ]
+\0
+
+[@ITEM 166 (FR) ]
+Bataille contre mégamutant\0
+
+[@ITEM 167 (L1) ]
+\0
+
+[@ITEM 167 (EN) ]
+Black Omen (Opening)\0
+
+[@ITEM 167 (L2) ]
+\0
+
+[@ITEM 167 (FR) ]
+Début du Songe obscur\0
+
+[@ITEM 168 (L1) ]
+\0
+
+[@ITEM 168 (EN) ]
+Giga Mutant\0
+
+[@ITEM 168 (L2) ]
+\0
+
+[@ITEM 168 (FR) ]
+Bataille contre gigamutant\0
+
+[@ITEM 169 (L1) ]
+\0
+
+[@ITEM 169 (EN) ]
+Tera Mutant\0
+
+[@ITEM 169 (L2) ]
+\0
+
+[@ITEM 169 (FR) ]
+Bataille contre téramutant\0
+
+[@ITEM 170 (L1) ]
+\0
+
+[@ITEM 170 (EN) ]
+Mini Lavos R\0
+
+[@ITEM 170 (L2) ]
+\0
+
+[@ITEM 170 (FR) ]
+Bataille contre Pupe de Lavos\0
+
+[@ITEM 171 (L1) ]
+\0
+
+[@ITEM 171 (EN) ]
+Zeal Battle\0
+
+[@ITEM 171 (L2) ]
+\0
+
+[@ITEM 171 (FR) ]
+Batailles contre Zhyle\0
+
+[@ITEM 172 (L1) ]
+\0
+
+[@ITEM 172 (EN) ]
+Lavos Battle (Changes Mode)\0
+
+[@ITEM 172 (L2) ]
+\0
+
+[@ITEM 172 (FR) ]
+Bataille changeante contre Lavos\0
+
+[@ITEM 173 (L1) ]
+\0
+
+[@ITEM 173 (EN) ]
+Lavos Shell Battle\0
+
+[@ITEM 173 (L2) ]
+\0
+
+[@ITEM 173 (FR) ]
+Dernière bataille contre Lavos\0
+
+[@ITEM 174 (L1) ]
+\0
+
+[@ITEM 174 (EN) ]
+ED1 Beyond Time\0
+
+[@ITEM 174 (L2) ]
+\0
+
+[@ITEM 174 (FR) ]
+Fin n° 1 Au-delà du temps\0
+
+[@ITEM 175 (L1) ]
+\0
+
+[@ITEM 175 (EN) ]
+ED2 Reunion\0
+
+[@ITEM 175 (L2) ]
+\0
+
+[@ITEM 175 (FR) ]
+Fin n° 2 Retrouvailles\0
+
+[@ITEM 176 (L1) ]
+\0
+
+[@ITEM 176 (EN) ]
+ED3 Dream Project\0
+
+[@ITEM 176 (L2) ]
+\0
+
+[@ITEM 176 (FR) ]
+Fin n° 3 Dream Team\0
+
+[@ITEM 177 (L1) ]
+\0
+
+[@ITEM 177 (EN) ]
+ED4 Guardia's Successor\0
+
+[@ITEM 177 (L2) ]
+\0
+
+[@ITEM 177 (FR) ]
+Fin n° 4 Descendants de Gardia\0
+
+[@ITEM 178 (L1) ]
+\0
+
+[@ITEM 178 (EN) ]
+ED5 Good Night\0
+
+[@ITEM 178 (L2) ]
+\0
+
+[@ITEM 178 (FR) ]
+Fin n° 5 Bonne nuit\0
+
+[@ITEM 179 (L1) ]
+\0
+
+[@ITEM 179 (EN) ]
+ED6 Legendary Hero\0
+
+[@ITEM 179 (L2) ]
+\0
+
+[@ITEM 179 (FR) ]
+Fin n° 6 Le héros légendaire\0
+
+[@ITEM 180 (L1) ]
+\0
+
+[@ITEM 180 (EN) ]
+ED7 The Unknown Past\0
+
+[@ITEM 180 (L2) ]
+\0
+
+[@ITEM 180 (FR) ]
+Fin n° 7 Passé inconnu\0
+
+[@ITEM 181 (L1) ]
+\0
+
+[@ITEM 181 (EN) ]
+ED8 Those Who Live in Time\0
+
+[@ITEM 181 (L2) ]
+\0
+
+[@ITEM 181 (FR) ]
+Fin n° 8 Les habitants du temps\0
+
+[@ITEM 182 (L1) ]
+\0
+
+[@ITEM 182 (EN) ]
+ED9 Promise with a Friend\0
+
+[@ITEM 182 (L2) ]
+\0
+
+[@ITEM 182 (FR) ]
+Fin n° 9 Le serment\0
+
+[@ITEM 183 (L1) ]
+\0
+
+[@ITEM 183 (EN) ]
+ED10 Dino Age\0
+
+[@ITEM 183 (L2) ]
+\0
+
+[@ITEM 183 (FR) ]
+Fin n° 10 Âge des sauriens\0
+
+[@ITEM 184 (L1) ]
+\0
+
+[@ITEM 184 (EN) ]
+ED11 Prophet's Desire\0
+
+[@ITEM 184 (L2) ]
+\0
+
+[@ITEM 184 (FR) ]
+Fin n° 11 Ce que recherche le prophète\0
+
+[@ITEM 185 (L1) ]
+\0
+
+[@ITEM 185 (EN) ]
+ED12 Post-Mortem\0
+
+[@ITEM 185 (L2) ]
+\0
+
+[@ITEM 185 (FR) ]
+Fin n° 12 Réunion de bilan ?\0
+
+[@ITEM 186 (L1) ]
+\0
+
+[@ITEM 186 (EN) ]
+Lavos (Strongest) Battle\0
+
+[@ITEM 186 (L2) ]
+\0
+
+[@ITEM 186 (FR) ]
+Ultime bataille contre Lavos\0
+
+[@ITEM 187 (L1) ]
+\0
+
+[@ITEM 187 (EN) ]
+Parade 1 + Epoch END\0
+
+[@ITEM 187 (L2) ]
+\0
+
+[@ITEM 187 (FR) ]
+Défilé n° 1 Fin avec l'Ibis\0
+
+[@ITEM 188 (L1) ]
+\0
+
+[@ITEM 188 (EN) ]
+Paradee 2 + Balloon END\0
+
+[@ITEM 188 (L2) ]
+\0
+
+[@ITEM 188 (FR) ]
+Défilé n° 2 Fin avec les ballons\0
+
+[@ITEM 189 (L1) ]
+\0
+
+[@ITEM 189 (EN) ]
+Dream Project\0
+
+[@ITEM 189 (L2) ]
+\0
+
+[@ITEM 189 (FR) ]
+Dream Team\0
+
+[@ITEM 190 (L1) ]
+\0
+
+[@ITEM 190 (EN) ]
+Destruction Demo for CHECK\0
+
+[@ITEM 190 (L2) ]
+\0
+
+[@ITEM 190 (FR) ]
+Cataclysme (pour démo)\0
+
+[@ITEM 191 (L1) ]
+\0
+
+[@ITEM 191 (EN) ]
+Prophet END Demo for CHECK\0
+
+[@ITEM 191 (L2) ]
+\0
+
+[@ITEM 191 (FR) ]
+Fin avec le prophète (pour démo)\0
+
+[@ITEM 192 (L1) ]
+\0
+
+[@ITEM 192 (EN) ]
+Crono's House\0
+
+[@ITEM 192 (L2) ]
+\0
+
+[@ITEM 192 (FR) ]
+001 Maison de Chrono - RDC\0
+
+[@ITEM 193 (L1) ]
+\0
+
+[@ITEM 193 (EN) ]
+Crono's House\0
+
+[@ITEM 193 (L2) ]
+\0
+
+[@ITEM 193 (FR) ]
+002 Maison de Chrono - 1er étage\0
+
+[@ITEM 194 (L1) ]
+\0
+
+[@ITEM 194 (EN) ]
+003_1 Lucca's House - 1F Hall\0
+
+[@ITEM 194 (L2) ]
+\0
+
+[@ITEM 194 (FR) ]
+003_1 Maison de Lucca - RDC Corridor\0
+
+[@ITEM 195 (L1) ]
+\0
+
+[@ITEM 195 (EN) ]
+003_2 Lucca's House - 1F\0
+
+[@ITEM 195 (L2) ]
+\0
+
+[@ITEM 195 (FR) ]
+003_2 Maison de Lucca - RDC Salle\0
+
+[@ITEM 196 (L1) ]
+\0
+
+[@ITEM 196 (EN) ]
+004 Lucca's House - 1F Entrance\0
+
+[@ITEM 196 (L2) ]
+\0
+
+[@ITEM 196 (FR) ]
+004 Maison de Lucca - RDC Entrée\0
+
+[@ITEM 197 (L1) ]
+\0
+
+[@ITEM 197 (EN) ]
+005 Leene Square - Central Plaza\0
+
+[@ITEM 197 (L2) ]
+\0
+
+[@ITEM 197 (FR) ]
+005 Place de Lynne - Centre\0
+
+[@ITEM 198 (L1) ]
+\0
+
+[@ITEM 198 (EN) ]
+006 Leene Square - Gato\0
+
+[@ITEM 198 (L2) ]
+\0
+
+[@ITEM 198 (FR) ]
+006 Place de Lynne - Gonzales\0
+
+[@ITEM 199 (L1) ]
+\0
+
+[@ITEM 199 (EN) ]
+007 Leene Square - Prehistoric Dancers\0
+
+[@ITEM 199 (L2) ]
+\0
+
+[@ITEM 199 (FR) ]
+007 Place de Lynne - Danseurs préhistoriques\0
+
+[@ITEM 200 (L1) ]
+\0
+
+[@ITEM 200 (EN) ]
+008 Leene Square - Telepod\0
+
+[@ITEM 200 (L2) ]
+\0
+
+[@ITEM 200 (FR) ]
+008 Place de Lynne - Téléporteur\0
+
+[@ITEM 201 (L1) ]
+\0
+
+[@ITEM 201 (EN) ]
+009 Lucca's House - 2F Lara's Room\0
+
+[@ITEM 201 (L2) ]
+\0
+
+[@ITEM 201 (FR) ]
+009 Maison de Lucca - 1er étage Chambre de Lara\0
+
+[@ITEM 202 (L1) ]
+\0
+
+[@ITEM 202 (EN) ]
+010 Lucca's House - 2F Lucca's Room\0
+
+[@ITEM 202 (L2) ]
+\0
+
+[@ITEM 202 (FR) ]
+010 Maison de Lucca - 1er étage Chambre de Lucca\0
+
+[@ITEM 203 (L1) ]
+\0
+
+[@ITEM 203 (EN) ]
+Truce Town Inn\0
+
+[@ITEM 203 (L2) ]
+\0
+
+[@ITEM 203 (FR) ]
+012 Truce - Auberge\0
+
+[@ITEM 204 (L1) ]
+\0
+
+[@ITEM 204 (EN) ]
+013 Truce - Mayor's House 1F\0
+
+[@ITEM 204 (L2) ]
+\0
+
+[@ITEM 204 (FR) ]
+013 Truce - Maison du maire RDC\0
+
+[@ITEM 205 (L1) ]
+{C2}{85}**MSG_FILE_END\0
+
+[@ITEM 205 (EN) ]
+014 Truce - Mayor's House 2F\0
+
+[@ITEM 205 (L2) ]
+\0
+
+[@ITEM 205 (FR) ]
+014 Truce - Maison du maire 1er étage\0
+
+[@ITEM 206 (L1) ]
+\0
+
+[@ITEM 206 (EN) ]
+015 Truce - Residence A\0
+
+[@ITEM 206 (L2) ]
+\0
+
+[@ITEM 206 (FR) ]
+015 Truce - Résidence A\0
+
+[@ITEM 207 (L1) ]
+\0
+
+[@ITEM 207 (EN) ]
+016 Truce - Residence B\0
+
+[@ITEM 207 (L2) ]
+\0
+
+[@ITEM 207 (FR) ]
+016 Truce - Résidence B\0
+
+[@ITEM 208 (L1) ]
+\0
+
+[@ITEM 208 (EN) ]
+Goods Market\0
+
+[@ITEM 208 (L2) ]
+\0
+
+[@ITEM 208 (FR) ]
+017 Truce - Magasin\0
+
+[@ITEM 209 (L1) ]
+\0
+
+[@ITEM 209 (EN) ]
+018 Truce - Ferry Office\0
+
+[@ITEM 209 (L2) ]
+\0
+
+[@ITEM 209 (FR) ]
+017 Truce - Guichet du port\0
+
+[@ITEM 210 (L1) ]
+\0
+
+[@ITEM 210 (EN) ]
+Guardia Forest\0
+
+[@ITEM 210 (L2) ]
+\0
+
+[@ITEM 210 (FR) ]
+019 Forêt de Gardia (Présent)\0
+
+[@ITEM 211 (L1) ]
+\0
+
+[@ITEM 211 (EN) ]
+020 Guardia Forest (Present) - Time Gate\0
+
+[@ITEM 211 (L2) ]
+\0
+
+[@ITEM 211 (FR) ]
+020 Forêt de Gardia (Présent) - Portail\0
+
+[@ITEM 212 (L1) ]
+\0
+
+[@ITEM 212 (EN) ]
+021 Guardia Castle (Present) - Central Hall\0
+
+[@ITEM 212 (L2) ]
+\0
+
+[@ITEM 212 (FR) ]
+021 Château de Gardia (Présent) - Grande salle\0
+
+[@ITEM 213 (L1) ]
+\0
+
+[@ITEM 213 (EN) ]
+022 Guardia Castle (Present) - King's Bedroom\0
+
+[@ITEM 213 (L2) ]
+\0
+
+[@ITEM 213 (FR) ]
+022 Château de Gardia (Présent) - Chambre du roi\0
+
+[@ITEM 214 (L1) ]
+\0
+
+[@ITEM 214 (EN) ]
+023 Guardia Castle (Present) - Queen's Bedroom\0
+
+[@ITEM 214 (L2) ]
+\0
+
+[@ITEM 214 (FR) ]
+023 Château de Gardia (Présent) - Chambre de la reine\0
+
+[@ITEM 215 (L1) ]
+\0
+
+[@ITEM 215 (EN) ]
+024 Guardia Castle (Present) - Dining Hall\0
+
+[@ITEM 215 (L2) ]
+\0
+
+[@ITEM 215 (FR) ]
+024 Château de Gardia (Présent) - Salle à manger\0
+
+[@ITEM 216 (L1) ]
+\0
+
+[@ITEM 216 (EN) ]
+025 Guardia Castle (Present) - Soldiers' Room\0
+
+[@ITEM 216 (L2) ]
+\0
+
+[@ITEM 216 (FR) ]
+025 Château de Gardia (Présent) - Salle des soldats\0
+
+[@ITEM 217 (L1) ]
+\0
+
+[@ITEM 217 (EN) ]
+026 Guardia Castle (Present) - Treasury\0
+
+[@ITEM 217 (L2) ]
+\0
+
+[@ITEM 217 (FR) ]
+026 Château de Gardia (Présent) - Trésorerie\0
+
+[@ITEM 218 (L1) ]
+\0
+
+[@ITEM 218 (EN) ]
+027 Guardia Castle (Present) - Hall of Justice\0
+
+[@ITEM 218 (L2) ]
+\0
+
+[@ITEM 218 (FR) ]
+027 Château de Gardia (Présent) - Tribunal\0
+
+[@ITEM 219 (L1) ]
+\0
+
+[@ITEM 219 (EN) ]
+028_1 Prison Towers - Skywalk 1\0
+
+[@ITEM 219 (L2) ]
+\0
+
+[@ITEM 219 (FR) ]
+028_1 Prison - Passerelle 1er niveau\0
+
+[@ITEM 220 (L1) ]
+\0
+
+[@ITEM 220 (EN) ]
+028_2 Prison Towers - Skywalk 2\0
+
+[@ITEM 220 (L2) ]
+\0
+
+[@ITEM 220 (FR) ]
+028_2 Prison - Passerelle 2e niveau\0
+
+[@ITEM 221 (L1) ]
+\0
+
+[@ITEM 221 (EN) ]
+028_3 Prison Towers - Skywalk 3\0
+
+[@ITEM 221 (L2) ]
+\0
+
+[@ITEM 221 (FR) ]
+028_3 Prison - Passerelle 3e niveau\0
+
+[@ITEM 222 (L1) ]
+\0
+
+[@ITEM 222 (EN) ]
+028_4 Prison Towers - Skywalk 4\0
+
+[@ITEM 222 (L2) ]
+\0
+
+[@ITEM 222 (FR) ]
+028_4 Prison - Passerelle 4e niveau\0
+
+[@ITEM 223 (L1) ]
+\0
+
+[@ITEM 223 (EN) ]
+029 Prison Towers - Guardroom\0
+
+[@ITEM 223 (L2) ]
+\0
+
+[@ITEM 223 (FR) ]
+029 Prison - Salle des gardes\0
+
+[@ITEM 224 (L1) ]
+\0
+
+[@ITEM 224 (EN) ]
+030 Prison Towers - Execution Chamber\0
+
+[@ITEM 224 (L2) ]
+\0
+
+[@ITEM 224 (FR) ]
+030 Prison - Salle d'exécution\0
+
+[@ITEM 225 (L1) ]
+\0
+
+[@ITEM 225 (EN) ]
+Medina Village Square\0
+
+[@ITEM 225 (L2) ]
+\0
+
+[@ITEM 225 (FR) ]
+031 Médina - Place principale\0
+
+[@ITEM 226 (L1) ]
+\0
+
+[@ITEM 226 (EN) ]
+Zenan Bridge\0
+
+[@ITEM 226 (L2) ]
+\0
+
+[@ITEM 226 (FR) ]
+032 Pont de Zénan\0
+
+[@ITEM 227 (L1) ]
+\0
+
+[@ITEM 227 (EN) ]
+033 Medina - Mayor's House 1F\0
+
+[@ITEM 227 (L2) ]
+\0
+
+[@ITEM 227 (FR) ]
+033 Médina - Maison du maire RDC\0
+
+[@ITEM 228 (L1) ]
+\0
+
+[@ITEM 228 (EN) ]
+034 Medina - Mayor's House 2F\0
+
+[@ITEM 228 (L2) ]
+\0
+
+[@ITEM 228 (FR) ]
+034 Médina - Maison du maire 1er étage\0
+
+[@ITEM 229 (L1) ]
+\0
+
+[@ITEM 229 (EN) ]
+Medina Village Inn\0
+
+[@ITEM 229 (L2) ]
+\0
+
+[@ITEM 229 (FR) ]
+035 Médina - Auberge\0
+
+[@ITEM 230 (L1) ]
+\0
+
+[@ITEM 230 (EN) ]
+Medina Village Square\0
+
+[@ITEM 230 (L2) ]
+\0
+
+[@ITEM 230 (FR) ]
+036 Médina - Résidence\0
+
+[@ITEM 231 (L1) ]
+\0
+
+[@ITEM 231 (EN) ]
+039 Medina - Merchant\0
+
+[@ITEM 231 (L2) ]
+\0
+
+[@ITEM 231 (FR) ]
+039 Médina - Magasin\0
+
+[@ITEM 232 (L1) ]
+\0
+
+[@ITEM 232 (EN) ]
+Bosch's Hut\0
+
+[@ITEM 232 (L2) ]
+\0
+
+[@ITEM 232 (FR) ]
+040 Demeure de Bosch - RDC\0
+
+[@ITEM 233 (L1) ]
+\0
+
+[@ITEM 233 (EN) ]
+Bosch's Hut\0
+
+[@ITEM 233 (L2) ]
+\0
+
+[@ITEM 233 (FR) ]
+041 Demeure de Bosch - SS1\0
+
+[@ITEM 234 (L1) ]
+\0
+
+[@ITEM 234 (EN) ]
+Northern Forest Historic Ruins\0
+
+[@ITEM 234 (L2) ]
+\0
+
+[@ITEM 234 (FR) ]
+042 Ruines sylvestres\0
+
+[@ITEM 235 (L1) ]
+\0
+
+[@ITEM 235 (EN) ]
+Frog Monster's Woods\0
+
+[@ITEM 235 (L2) ]
+\0
+
+[@ITEM 235 (FR) ]
+043 Forêt aux grenouilles\0
+
+[@ITEM 236 (L1) ]
+\0
+
+[@ITEM 236 (EN) ]
+Hekeran's Cave\0
+
+[@ITEM 236 (L2) ]
+\0
+
+[@ITEM 236 (FR) ]
+047 Grottes d'Héclan\0
+
+[@ITEM 237 (L1) ]
+\0
+
+[@ITEM 237 (EN) ]
+Hekeran's Cave\0
+
+[@ITEM 237 (L2) ]
+\0
+
+[@ITEM 237 (FR) ]
+048 Grottes d'Héclan - Entrée\0
+
+[@ITEM 238 (L1) ]
+\0
+
+[@ITEM 238 (EN) ]
+Hekeran's Cave\0
+
+[@ITEM 238 (L2) ]
+\0
+
+[@ITEM 238 (FR) ]
+049 Grottes d'Héclan\0
+
+[@ITEM 239 (L1) ]
+\0
+
+[@ITEM 239 (EN) ]
+050 Porre - Mayor's Manor 1F\0
+
+[@ITEM 239 (L2) ]
+\0
+
+[@ITEM 239 (FR) ]
+050 Palpori - Résidence du maire RDC\0
+
+[@ITEM 240 (L1) ]
+\0
+
+[@ITEM 240 (EN) ]
+051 Porre - Mayor's Manor 2F\0
+
+[@ITEM 240 (L2) ]
+\0
+
+[@ITEM 240 (FR) ]
+051 Palpori - Résidence du maire 1er étage\0
+
+[@ITEM 241 (L1) ]
+\0
+
+[@ITEM 241 (EN) ]
+052 Porre - Residence\0
+
+[@ITEM 241 (L2) ]
+\0
+
+[@ITEM 241 (FR) ]
+052 Palpori - Résidence\0
+
+[@ITEM 242 (L1) ]
+\0
+
+[@ITEM 242 (EN) ]
+053 Porre - Snail Stop\0
+
+[@ITEM 242 (L2) ]
+\0
+
+[@ITEM 242 (FR) ]
+053 Palpori - Café de la conque\0
+
+[@ITEM 243 (L1) ]
+\0
+
+[@ITEM 243 (EN) ]
+Goods Market\0
+
+[@ITEM 243 (L2) ]
+\0
+
+[@ITEM 243 (FR) ]
+054 Palpori - Magasin\0
+
+[@ITEM 244 (L1) ]
+\0
+
+[@ITEM 244 (EN) ]
+Parepoley Town Inn\0
+
+[@ITEM 244 (L2) ]
+\0
+
+[@ITEM 244 (FR) ]
+055 Palpori - Auberge\0
+
+[@ITEM 245 (L1) ]
+\0
+
+[@ITEM 245 (EN) ]
+056 Porre - Ferry Office\0
+
+[@ITEM 245 (L2) ]
+\0
+
+[@ITEM 245 (FR) ]
+056 Palpori - Guichet du port\0
+
+[@ITEM 246 (L1) ]
+\0
+
+[@ITEM 246 (EN) ]
+Fiona Temple\0
+
+[@ITEM 246 (L2) ]
+\0
+
+[@ITEM 246 (FR) ]
+057 Sanctuaire de Fiona\0
+
+[@ITEM 247 (L1) ]
+\0
+
+[@ITEM 247 (EN) ]
+058 Choras - Mayor's Manor 1F\0
+
+[@ITEM 247 (L2) ]
+\0
+
+[@ITEM 247 (FR) ]
+058 Choras - Résidence du maire RDC\0
+
+[@ITEM 248 (L1) ]
+\0
+
+[@ITEM 248 (EN) ]
+059 Magus's Keep - Used for ending?\0
+
+[@ITEM 248 (L2) ]
+\0
+
+[@ITEM 248 (FR) ]
+059 Choras - Résidence du maire 1er étage\0
+
+[@ITEM 249 (L1) ]
+\0
+
+[@ITEM 249 (EN) ]
+061 Choras - Residence\0
+
+[@ITEM 249 (L2) ]
+\0
+
+[@ITEM 249 (FR) ]
+061 Choras - Résidence\0
+
+[@ITEM 250 (L1) ]
+\0
+
+[@ITEM 250 (EN) ]
+Choras Town Inn\0
+
+[@ITEM 250 (L2) ]
+\0
+
+[@ITEM 250 (FR) ]
+062 Choras - Auberge et taverne\0
+
+[@ITEM 251 (L1) ]
+\0
+
+[@ITEM 251 (EN) ]
+Western Cape\0
+
+[@ITEM 251 (L2) ]
+\0
+
+[@ITEM 251 (FR) ]
+063 Cap ouest\0
+
+[@ITEM 252 (L1) ]
+\0
+
+[@ITEM 252 (EN) ]
+064 Shrine of Light - Present?\0
+
+[@ITEM 252 (L2) ]
+\0
+
+[@ITEM 252 (FR) ]
+064 Berceau de la lumière - Présent?\0
+
+[@ITEM 253 (L1) ]
+\0
+
+[@ITEM 253 (EN) ]
+Hero's Tomb\0
+
+[@ITEM 253 (L2) ]
+\0
+
+[@ITEM 253 (FR) ]
+065 Tombe du héros - Entrée\0
+
+[@ITEM 254 (L1) ]
+\0
+
+[@ITEM 254 (EN) ]
+Hero's Tomb\0
+
+[@ITEM 254 (L2) ]
+\0
+
+[@ITEM 254 (FR) ]
+066 Tombe du héros - SS1\0
+
+[@ITEM 255 (L1) ]
+\0
+
+[@ITEM 255 (EN) ]
+Hero's Tomb\0
+
+[@ITEM 255 (L2) ]
+\0
+
+[@ITEM 255 (FR) ]
+067 Tombe du héros - 1er étage\0
+
+[@ITEM 256 (L1) ]
+\0
+
+[@ITEM 256 (EN) ]
+068 Hero's Grave - 2F Hall\0
+
+[@ITEM 256 (L2) ]
+\0
+
+[@ITEM 256 (FR) ]
+068 Tombe du héros - 1er étage Grande salle\0
+
+[@ITEM 257 (L1) ]
+\0
+
+[@ITEM 257 (EN) ]
+069 Hero's Grave - 2F Rear Passage\0
+
+[@ITEM 257 (L2) ]
+\0
+
+[@ITEM 257 (FR) ]
+069 Tombe du héros - 1er étage Passage du fond\0
+
+[@ITEM 258 (L1) ]
+\0
+
+[@ITEM 258 (EN) ]
+070 Hero's Grave - 2F Rearmost Chamber\0
+
+[@ITEM 258 (L2) ]
+\0
+
+[@ITEM 258 (FR) ]
+070 Tombe du héros - 1er étage Salle du fond\0
+
+[@ITEM 259 (L1) ]
+\0
+
+[@ITEM 259 (EN) ]
+071_1 Prison Towers - Prison / Passage\0
+
+[@ITEM 259 (L2) ]
+\0
+
+[@ITEM 259 (FR) ]
+071_1 Prison - Prison / Passage\0
+
+[@ITEM 260 (L1) ]
+\0
+
+[@ITEM 260 (EN) ]
+071_2 Prison Towers - Prison / Passage\0
+
+[@ITEM 260 (L2) ]
+\0
+
+[@ITEM 260 (FR) ]
+071_2 Prison - Prison / Passage\0
+
+[@ITEM 261 (L1) ]
+\0
+
+[@ITEM 261 (EN) ]
+071_3 Prison Towers - Prison / Passage\0
+
+[@ITEM 261 (L2) ]
+\0
+
+[@ITEM 261 (FR) ]
+071_3 Prison - Prison / Passage\0
+
+[@ITEM 262 (L1) ]
+\0
+
+[@ITEM 262 (EN) ]
+071_4 Prison Towers - Prison / Passage\0
+
+[@ITEM 262 (L2) ]
+\0
+
+[@ITEM 262 (FR) ]
+071_4 Prison - Prison / Passage\0
+
+[@ITEM 263 (L1) ]
+\0
+
+[@ITEM 263 (EN) ]
+071_5 Prison Towers - Prison / Passage\0
+
+[@ITEM 263 (L2) ]
+\0
+
+[@ITEM 263 (FR) ]
+071_5 Prison - Prison / Passage\0
+
+[@ITEM 264 (L1) ]
+\0
+
+[@ITEM 264 (EN) ]
+071_6 Prison Towers - Prison / Passage\0
+
+[@ITEM 264 (L2) ]
+\0
+
+[@ITEM 264 (FR) ]
+071_6 Prison - Prison / Passage\0
+
+[@ITEM 265 (L1) ]
+\0
+
+[@ITEM 265 (EN) ]
+072_1 Prison Towers - Passage/Stairs to Exec. Chamber\0
+
+[@ITEM 265 (L2) ]
+\0
+
+[@ITEM 265 (FR) ]
+072_1 Prison - Passage / Escaliers menant à la salle d'exécution\0
+
+[@ITEM 266 (L1) ]
+\0
+
+[@ITEM 266 (EN) ]
+072_2 Prison Towers - Small Stair Room\0
+
+[@ITEM 266 (L2) ]
+\0
+
+[@ITEM 266 (FR) ]
+072_2 Prison - Petite salle avec escalier\0
+
+[@ITEM 267 (L1) ]
+\0
+
+[@ITEM 267 (EN) ]
+072_3 Prison Towers - Big Stair Room (W/LIGHT)\0
+
+[@ITEM 267 (L2) ]
+\0
+
+[@ITEM 267 (FR) ]
+072_2 Prison - Grande salle avec escalier (éclairée)\0
+
+[@ITEM 268 (L1) ]
+\0
+
+[@ITEM 268 (EN) ]
+072_4 Prison Towers - Big Stair Room (NO LIGHT)\0
+
+[@ITEM 268 (L2) ]
+\0
+
+[@ITEM 268 (FR) ]
+072_3 Prison - Grande salle avec escalier (pas éclairée)\0
+
+[@ITEM 269 (L1) ]
+\0
+
+[@ITEM 269 (EN) ]
+073 Hero's Grave - Cyrus's Chamber\0
+
+[@ITEM 269 (L2) ]
+\0
+
+[@ITEM 269 (FR) ]
+073 Tombe du héros - Salle de Cyrus\0
+
+[@ITEM 270 (L1) ]
+\0
+
+[@ITEM 270 (EN) ]
+075 Prison Towers - Outer Wall\0
+
+[@ITEM 270 (L2) ]
+\0
+
+[@ITEM 270 (FR) ]
+075 Prison - Mur extérieur\0
+
+[@ITEM 271 (L1) ]
+\0
+
+[@ITEM 271 (EN) ]
+080 Leene Square - Central Plaza (Parade)\0
+
+[@ITEM 271 (L2) ]
+\0
+
+[@ITEM 271 (FR) ]
+080 Place de Lynne - Centre (Défilé)\0
+
+[@ITEM 272 (L1) ]
+\0
+
+[@ITEM 272 (EN) ]
+081 Leene Square - Plaza Rear (Parade)\0
+
+[@ITEM 272 (L2) ]
+\0
+
+[@ITEM 272 (FR) ]
+081 Place de Lynne - Fond (Défilé)\0
+
+[@ITEM 273 (L1) ]
+\0
+
+[@ITEM 273 (EN) ]
+083 Forest Near Fiona's Shrine - Lucca's Gate\0
+
+[@ITEM 273 (L2) ]
+\0
+
+[@ITEM 273 (FR) ]
+083 Forêt près du sanctuaire de Fiona - Portail de Lucca\0
+
+[@ITEM 274 (L1) ]
+\0
+
+[@ITEM 274 (EN) ]
+The Farthest Reaches of Time\0
+
+[@ITEM 274 (L2) ]
+\0
+
+[@ITEM 274 (FR) ]
+084 Fin des temps\0
+
+[@ITEM 275 (L1) ]
+\0
+
+[@ITEM 275 (EN) ]
+085 Leene Square - Telepod (Parade)\0
+
+[@ITEM 275 (L2) ]
+\0
+
+[@ITEM 275 (FR) ]
+085 Place de Lynne - Téléporteur (Défilé)\0
+
+[@ITEM 276 (L1) ]
+\0
+
+[@ITEM 276 (EN) ]
+096 Black Omen - Lower Level 4 (Lavos Spawn)\0
+
+[@ITEM 276 (L2) ]
+\0
+
+[@ITEM 276 (FR) ]
+096 Songe obscur - Niveau plus profond 4 (larve de Lavos)\0
+
+[@ITEM 277 (L1) ]
+\0
+
+[@ITEM 277 (EN) ]
+097 Black Omen - Lower Level (Warp 2)\0
+
+[@ITEM 277 (L2) ]
+\0
+
+[@ITEM 277 (FR) ]
+097 Songe obscur - Niveau supérieur (Téléporteur 1)\0
+
+[@ITEM 278 (L1) ]
+\0
+
+[@ITEM 278 (EN) ]
+098 Black Omen - Upper Level (Warp 2)\0
+
+[@ITEM 278 (L2) ]
+\0
+
+[@ITEM 278 (FR) ]
+098 Songe obscur - Niveau supérieur (Téléporteur 2)\0
+
+[@ITEM 279 (L1) ]
+\0
+
+[@ITEM 279 (EN) ]
+099 Black Omen - Upper Level (Elevator)\0
+
+[@ITEM 279 (L2) ]
+\0
+
+[@ITEM 279 (FR) ]
+099 Songe obscur - Niveau supérieur (Ascenseur)\0
+
+[@ITEM 280 (L1) ]
+\0
+
+[@ITEM 280 (EN) ]
+099 Black Omen - Mid Level (Elevator)\0
+
+[@ITEM 280 (L2) ]
+\0
+
+[@ITEM 280 (FR) ]
+099 Songe obscur - Niveau moyen (Ascenseur)\0
+
+[@ITEM 281 (L1) ]
+\0
+
+[@ITEM 281 (EN) ]
+Giant's Claw\0
+
+[@ITEM 281 (L2) ]
+\0
+
+[@ITEM 281 (FR) ]
+109_1 Griffe du géant\0
+
+[@ITEM 282 (L1) ]
+\0
+
+[@ITEM 282 (EN) ]
+Giant's Claw\0
+
+[@ITEM 282 (L2) ]
+\0
+
+[@ITEM 282 (FR) ]
+109_2 Griffe du géant\0
+
+[@ITEM 283 (L1) ]
+\0
+
+[@ITEM 283 (EN) ]
+Giant's Claw\0
+
+[@ITEM 283 (L2) ]
+\0
+
+[@ITEM 283 (FR) ]
+109_3 Griffe du géant\0
+
+[@ITEM 284 (L1) ]
+\0
+
+[@ITEM 284 (EN) ]
+Giant's Claw\0
+
+[@ITEM 284 (L2) ]
+\0
+
+[@ITEM 284 (FR) ]
+109_4 Griffe du géant\0
+
+[@ITEM 285 (L1) ]
+\0
+
+[@ITEM 285 (EN) ]
+Giant's Claw\0
+
+[@ITEM 285 (L2) ]
+\0
+
+[@ITEM 285 (FR) ]
+109_6 Griffe du géant\0
+
+[@ITEM 286 (L1) ]
+\0
+
+[@ITEM 286 (EN) ]
+Giant's Claw\0
+
+[@ITEM 286 (L2) ]
+\0
+
+[@ITEM 286 (FR) ]
+110_1 Griffe du géant\0
+
+[@ITEM 287 (L1) ]
+\0
+
+[@ITEM 287 (EN) ]
+Giant's Claw\0
+
+[@ITEM 287 (L2) ]
+\0
+
+[@ITEM 287 (FR) ]
+110_2 Griffe du géant\0
+
+[@ITEM 288 (L1) ]
+\0
+
+[@ITEM 288 (EN) ]
+Giant's Claw\0
+
+[@ITEM 288 (L2) ]
+\0
+
+[@ITEM 288 (FR) ]
+110_3 Griffe du géant\0
+
+[@ITEM 289 (L1) ]
+\0
+
+[@ITEM 289 (EN) ]
+Giant's Claw\0
+
+[@ITEM 289 (L2) ]
+\0
+
+[@ITEM 289 (FR) ]
+110_6 Griffe du géant\0
+
+[@ITEM 290 (L1) ]
+\0
+
+[@ITEM 290 (EN) ]
+Giant's Claw\0
+
+[@ITEM 290 (L2) ]
+\0
+
+[@ITEM 290 (FR) ]
+111 Griffe du géant\0
+
+[@ITEM 291 (L1) ]
+\0
+
+[@ITEM 291 (EN) ]
+Truce Village Back Hills\0
+
+[@ITEM 291 (L2) ]
+\0
+
+[@ITEM 291 (FR) ]
+112 Mont de Truce\0
+
+[@ITEM 292 (L1) ]
+\0
+
+[@ITEM 292 (EN) ]
+113 Mountains Behind Truce - Time Gate\0
+
+[@ITEM 292 (L2) ]
+\0
+
+[@ITEM 292 (FR) ]
+113 Mont de Truce - Portail\0
+
+[@ITEM 293 (L1) ]
+\0
+
+[@ITEM 293 (EN) ]
+114 Truce - Residence 1\0
+
+[@ITEM 293 (L2) ]
+\0
+
+[@ITEM 293 (FR) ]
+114 Truce - Résidence 1\0
+
+[@ITEM 294 (L1) ]
+\0
+
+[@ITEM 294 (EN) ]
+115 Truce - Residence 2 (Banta)\0
+
+[@ITEM 294 (L2) ]
+\0
+
+[@ITEM 294 (FR) ]
+115 Truce - Résidence 2 (Banta)\0
+
+[@ITEM 295 (L1) ]
+\0
+
+[@ITEM 295 (EN) ]
+Truce Village Inn\0
+
+[@ITEM 295 (L2) ]
+\0
+
+[@ITEM 295 (FR) ]
+116 Truce - Auberge RDC\0
+
+[@ITEM 296 (L1) ]
+\0
+
+[@ITEM 296 (EN) ]
+Truce Village Inn\0
+
+[@ITEM 296 (L2) ]
+\0
+
+[@ITEM 296 (FR) ]
+117 Truce - Auberge 1er étage\0
+
+[@ITEM 297 (L1) ]
+\0
+
+[@ITEM 297 (EN) ]
+Goods Market\0
+
+[@ITEM 297 (L2) ]
+\0
+
+[@ITEM 297 (FR) ]
+118 Truce - Magasin\0
+
+[@ITEM 298 (L1) ]
+\0
+
+[@ITEM 298 (EN) ]
+Guardia Forest\0
+
+[@ITEM 298 (L2) ]
+\0
+
+[@ITEM 298 (FR) ]
+119 Forêt de Gardia\0
+
+[@ITEM 299 (L1) ]
+\0
+
+[@ITEM 299 (EN) ]
+120 Guardia Castle - Main Hall\0
+
+[@ITEM 299 (L2) ]
+\0
+
+[@ITEM 299 (FR) ]
+120 Château de Gardia - Grande salle\0
+
+[@ITEM 300 (L1) ]
+\0
+
+[@ITEM 300 (EN) ]
+121 Guardia Castle - King's Chamber\0
+
+[@ITEM 300 (L2) ]
+\0
+
+[@ITEM 300 (FR) ]
+121 Château de Gardia - Chambre du roi\0
+
+[@ITEM 301 (L1) ]
+\0
+
+[@ITEM 301 (EN) ]
+122 Guardia Castle - Princess's Chamber\0
+
+[@ITEM 301 (L2) ]
+\0
+
+[@ITEM 301 (FR) ]
+122 Château de Gardia - Chambre de la princesse\0
+
+[@ITEM 302 (L1) ]
+\0
+
+[@ITEM 302 (EN) ]
+Guardia Castle\0
+
+[@ITEM 302 (L2) ]
+\0
+
+[@ITEM 302 (FR) ]
+123 Château de Gardia - Salle à manger\0
+
+[@ITEM 303 (L1) ]
+\0
+
+[@ITEM 303 (EN) ]
+124 Guardia Castle - Knight's Room\0
+
+[@ITEM 303 (L2) ]
+\0
+
+[@ITEM 303 (FR) ]
+124 Château de Gardia - Salle des chevaliers\0
+
+[@ITEM 304 (L1) ]
+\0
+
+[@ITEM 304 (EN) ]
+125 Fiendlord's Keep - Long Passage\0
+
+[@ITEM 304 (L2) ]
+\0
+
+[@ITEM 304 (FR) ]
+125 Palais du Magistère - Passage long\0
+
+[@ITEM 305 (L1) ]
+\0
+
+[@ITEM 305 (EN) ]
+126 Geno Dome - Conveyer Belt (Center)\0
+
+[@ITEM 305 (L2) ]
+\0
+
+[@ITEM 305 (FR) ]
+126 Dôme de Génos - Tapis roulant (Centre)\0
+
+[@ITEM 306 (L1) ]
+\0
+
+[@ITEM 306 (EN) ]
+127 Geno Dome - Elevator\0
+
+[@ITEM 306 (L2) ]
+\0
+
+[@ITEM 306 (FR) ]
+127 Dôme de Génos - Ascenseur\0
+
+[@ITEM 307 (L1) ]
+\0
+
+[@ITEM 307 (EN) ]
+Genocidome\0
+
+[@ITEM 307 (L2) ]
+\0
+
+[@ITEM 307 (FR) ]
+128 Dôme de Génos - Passage étroit\0
+
+[@ITEM 308 (L1) ]
+\0
+
+[@ITEM 308 (EN) ]
+Manoria Abbey\0
+
+[@ITEM 308 (L2) ]
+\0
+
+[@ITEM 308 (FR) ]
+129 Abbaye de Manolia - Chapelle\0
+
+[@ITEM 309 (L1) ]
+\0
+
+[@ITEM 309 (EN) ]
+130 Manolia Cathedral - Main Hall (Front)\0
+
+[@ITEM 309 (L2) ]
+\0
+
+[@ITEM 309 (FR) ]
+130 Abbaye de Manolia - Salle principale (Devant)\0
+
+[@ITEM 310 (L1) ]
+\0
+
+[@ITEM 310 (EN) ]
+Manoria Abbey\0
+
+[@ITEM 310 (L2) ]
+\0
+
+[@ITEM 310 (FR) ]
+131 Abbaye de Manolia - Salle principale (Derrière)\0
+
+[@ITEM 311 (L1) ]
+\0
+
+[@ITEM 311 (EN) ]
+132 Manolia Cathedral - In Front of Yakra's Room\0
+
+[@ITEM 311 (L2) ]
+\0
+
+[@ITEM 311 (FR) ]
+132 Abbaye de Manolia - Devant la salle de Yakra\0
+
+[@ITEM 312 (L1) ]
+\0
+
+[@ITEM 312 (EN) ]
+133 Zenan Bridge - Broken Bridge\0
+
+[@ITEM 312 (L2) ]
+\0
+
+[@ITEM 312 (FR) ]
+133 Pont de Zénan - Pont en ruine\0
+
+[@ITEM 313 (L1) ]
+\0
+
+[@ITEM 313 (EN) ]
+136 Dorino - Residence\0
+
+[@ITEM 313 (L2) ]
+\0
+
+[@ITEM 313 (FR) ]
+136 San Dorino - Résidence\0
+
+[@ITEM 314 (L1) ]
+\0
+
+[@ITEM 314 (EN) ]
+137 Dorino - Elder's House\0
+
+[@ITEM 314 (L2) ]
+\0
+
+[@ITEM 314 (FR) ]
+137 San Dorino - Maison du maire\0
+
+[@ITEM 315 (L1) ]
+\0
+
+[@ITEM 315 (EN) ]
+Sandorino Village Inn\0
+
+[@ITEM 315 (L2) ]
+\0
+
+[@ITEM 315 (FR) ]
+138 San Dorino - Auberge\0
+
+[@ITEM 316 (L1) ]
+\0
+
+[@ITEM 316 (EN) ]
+139 Dorino - Market\0
+
+[@ITEM 316 (L2) ]
+\0
+
+[@ITEM 316 (FR) ]
+139 San Dorino - Magasin\0
+
+[@ITEM 317 (L1) ]
+\0
+
+[@ITEM 317 (EN) ]
+Frog Monster's Woods\0
+
+[@ITEM 317 (L2) ]
+\0
+
+[@ITEM 317 (FR) ]
+140 Forêt aux grenouilles\0
+
+[@ITEM 318 (L1) ]
+\0
+
+[@ITEM 318 (EN) ]
+141 Cursed Woods - Frog's Hideaway\0
+
+[@ITEM 318 (L2) ]
+\0
+
+[@ITEM 318 (FR) ]
+141 Forêt aux grenouilles - Refuge de Gren\0
+
+[@ITEM 319 (L1) ]
+\0
+
+[@ITEM 319 (EN) ]
+142 Denadoro Mountains - Map 1\0
+
+[@ITEM 319 (L2) ]
+\0
+
+[@ITEM 319 (FR) ]
+142 Monts Dénadoro - Carte 1\0
+
+[@ITEM 320 (L1) ]
+\0
+
+[@ITEM 320 (EN) ]
+143 Denadoro Mountains - Map 2\0
+
+[@ITEM 320 (L2) ]
+\0
+
+[@ITEM 320 (FR) ]
+143 Monts Dénadoro - Carte 2\0
+
+[@ITEM 321 (L1) ]
+\0
+
+[@ITEM 321 (EN) ]
+144 Denadoro Mountains - Map 3\0
+
+[@ITEM 321 (L2) ]
+\0
+
+[@ITEM 321 (FR) ]
+144 Monts Dénadoro - Carte 3\0
+
+[@ITEM 322 (L1) ]
+\0
+
+[@ITEM 322 (EN) ]
+145 Denadoro Mountains - Map 4\0
+
+[@ITEM 322 (L2) ]
+\0
+
+[@ITEM 322 (FR) ]
+145 Monts Dénadoro - Carte 4\0
+
+[@ITEM 323 (L1) ]
+\0
+
+[@ITEM 323 (EN) ]
+Denadoro Mountains\0
+
+[@ITEM 323 (L2) ]
+\0
+
+[@ITEM 323 (FR) ]
+145 Monts Dénadoro - Entrée\0
+
+[@ITEM 324 (L1) ]
+\0
+
+[@ITEM 324 (EN) ]
+146 Denadoro Mountains - Map 5\0
+
+[@ITEM 324 (L2) ]
+\0
+
+[@ITEM 324 (FR) ]
+146 Monts Dénadoro - Carte 5\0
+
+[@ITEM 325 (L1) ]
+\0
+
+[@ITEM 325 (EN) ]
+147 Denadoro Mountains - Map 6\0
+
+[@ITEM 325 (L2) ]
+\0
+
+[@ITEM 325 (FR) ]
+147 Monts Dénadoro - Carte 6\0
+
+[@ITEM 326 (L1) ]
+\0
+
+[@ITEM 326 (EN) ]
+Denadoro Mountains\0
+
+[@ITEM 326 (L2) ]
+\0
+
+[@ITEM 326 (FR) ]
+148 Monts Dénadoro - Carte 7\0
+
+[@ITEM 327 (L1) ]
+\0
+
+[@ITEM 327 (EN) ]
+Denadoro Mountains\0
+
+[@ITEM 327 (L2) ]
+\0
+
+[@ITEM 327 (FR) ]
+149 Monts Dénadoro - Carte 8\0
+
+[@ITEM 328 (L1) ]
+\0
+
+[@ITEM 328 (EN) ]
+150 Denadoro Mountains - Map 9\0
+
+[@ITEM 328 (L2) ]
+\0
+
+[@ITEM 328 (FR) ]
+150 Monts Dénadoro - Carte 9\0
+
+[@ITEM 329 (L1) ]
+\0
+
+[@ITEM 329 (EN) ]
+151 Denadoro Mountains - Masa / Mune's Room\0
+
+[@ITEM 329 (L2) ]
+\0
+
+[@ITEM 329 (FR) ]
+151 Monts Dénadoro - Salle de Gran et Léon\0
+
+[@ITEM 330 (L1) ]
+\0
+
+[@ITEM 330 (EN) ]
+Tarta's House\0
+
+[@ITEM 330 (L2) ]
+\0
+
+[@ITEM 330 (FR) ]
+152 Maison de Tarta - RDC\0
+
+[@ITEM 331 (L1) ]
+\0
+
+[@ITEM 331 (EN) ]
+Tarta's House\0
+
+[@ITEM 331 (L2) ]
+\0
+
+[@ITEM 331 (FR) ]
+153 Maison de Tarta - 1er étage\0
+
+[@ITEM 332 (L1) ]
+\0
+
+[@ITEM 332 (EN) ]
+154 Porre - Elder's House\0
+
+[@ITEM 332 (L2) ]
+\0
+
+[@ITEM 332 (FR) ]
+154 Palpori - Maison du maire\0
+
+[@ITEM 333 (L1) ]
+\0
+
+[@ITEM 333 (EN) ]
+155 Porre - Tavern\0
+
+[@ITEM 333 (L2) ]
+\0
+
+[@ITEM 333 (FR) ]
+155 Palpori - Taverne\0
+
+[@ITEM 334 (L1) ]
+\0
+
+[@ITEM 334 (EN) ]
+Porre Village Inn\0
+
+[@ITEM 334 (L2) ]
+\0
+
+[@ITEM 334 (FR) ]
+156 Palpori - Auberge\0
+
+[@ITEM 335 (L1) ]
+\0
+
+[@ITEM 335 (EN) ]
+Goods Market\0
+
+[@ITEM 335 (L2) ]
+\0
+
+[@ITEM 335 (FR) ]
+157 Palpori - Magasin\0
+
+[@ITEM 336 (L1) ]
+\0
+
+[@ITEM 336 (EN) ]
+Fiona's Hut\0
+
+[@ITEM 336 (L2) ]
+\0
+
+[@ITEM 336 (FR) ]
+158 Demeure de Fiona\0
+
+[@ITEM 337 (L1) ]
+\0
+
+[@ITEM 337 (EN) ]
+Subterranean Desert\0
+
+[@ITEM 337 (L2) ]
+\0
+
+[@ITEM 337 (FR) ]
+159 Désert souterrain - Entrée\0
+
+[@ITEM 338 (L1) ]
+\0
+
+[@ITEM 338 (EN) ]
+Subterranean Desert\0
+
+[@ITEM 338 (L2) ]
+\0
+
+[@ITEM 338 (FR) ]
+160 Désert souterrain - Devant\0
+
+[@ITEM 339 (L1) ]
+\0
+
+[@ITEM 339 (EN) ]
+161 Sunken Desert - Melphyx's Room\0
+
+[@ITEM 339 (L2) ]
+\0
+
+[@ITEM 339 (FR) ]
+161 Désert souterrain - Salle de melfiq\0
+
+[@ITEM 340 (L1) ]
+\0
+
+[@ITEM 340 (EN) ]
+163 Magic Cave - Entrance\0
+
+[@ITEM 340 (L2) ]
+\0
+
+[@ITEM 340 (FR) ]
+163 Grotte des mystiques - Entrée\0
+
+[@ITEM 341 (L1) ]
+\0
+
+[@ITEM 341 (EN) ]
+164 Magic Cave - Interior\0
+
+[@ITEM 341 (L2) ]
+\0
+
+[@ITEM 341 (FR) ]
+164 Grotte des mystiques - Intérieur\0
+
+[@ITEM 342 (L1) ]
+\0
+
+[@ITEM 342 (EN) ]
+165 Magus's Keep - Entrance\0
+
+[@ITEM 342 (L2) ]
+\0
+
+[@ITEM 342 (FR) ]
+165 Palais du Magistère - Entrée\0
+
+[@ITEM 343 (L1) ]
+\0
+
+[@ITEM 343 (EN) ]
+166 Magus's Keep - Upon Entering\0
+
+[@ITEM 343 (L2) ]
+\0
+
+[@ITEM 343 (FR) ]
+166 Palais du Magistère - En entrant\0
+
+[@ITEM 344 (L1) ]
+\0
+
+[@ITEM 344 (EN) ]
+167 Magus's Keep - Trap 1 - Guillotine\0
+
+[@ITEM 344 (L2) ]
+\0
+
+[@ITEM 344 (FR) ]
+167 Palais du Magistère - Piège 1 - Guillotine\0
+
+[@ITEM 345 (L1) ]
+\0
+
+[@ITEM 345 (EN) ]
+168 Magus's Keep - Trap 2 - Pit\0
+
+[@ITEM 345 (L2) ]
+\0
+
+[@ITEM 345 (FR) ]
+168 Palais du Magistère - Piège 2 - Trou\0
+
+[@ITEM 346 (L1) ]
+\0
+
+[@ITEM 346 (EN) ]
+169 Magus's Keep - Slash Battle Room\0
+
+[@ITEM 346 (L2) ]
+\0
+
+[@ITEM 346 (FR) ]
+169 Palais du Magistère - Salle bataille avec Soja\0
+
+[@ITEM 347 (L1) ]
+\0
+
+[@ITEM 347 (EN) ]
+170 Magus's Keep - Central Chamber\0
+
+[@ITEM 347 (L2) ]
+\0
+
+[@ITEM 347 (FR) ]
+170 Palais du Magistère - Salle centrale\0
+
+[@ITEM 348 (L1) ]
+\0
+
+[@ITEM 348 (EN) ]
+171 Magus's Keep - Kids' Treasure Room\0
+
+[@ITEM 348 (L2) ]
+\0
+
+[@ITEM 348 (FR) ]
+171 Palais du Magistère - Salle du trésor des enfants\0
+
+[@ITEM 349 (L1) ]
+\0
+
+[@ITEM 349 (EN) ]
+172 Magus's Keep - Magus's Chamber\0
+
+[@ITEM 349 (L2) ]
+\0
+
+[@ITEM 349 (FR) ]
+172 Palais du Magistère - Salle de Magus\0
+
+[@ITEM 350 (L1) ]
+\0
+
+[@ITEM 350 (EN) ]
+173 Magus's Keep - Flea Battle Room\0
+
+[@ITEM 350 (L2) ]
+\0
+
+[@ITEM 350 (FR) ]
+173 Palais du Magistère - Salle bataille avec Mayo\0
+
+[@ITEM 351 (L1) ]
+\0
+
+[@ITEM 351 (EN) ]
+174 Magus's Keep - Ozzie Battle Room\0
+
+[@ITEM 351 (L2) ]
+\0
+
+[@ITEM 351 (FR) ]
+174 Palais du Magistère - Salle bataille avec Vinnie\0
+
+[@ITEM 352 (L1) ]
+\0
+
+[@ITEM 352 (EN) ]
+Conveyor Belt\0
+
+[@ITEM 352 (L2) ]
+\0
+
+[@ITEM 352 (FR) ]
+175 Palais du Magistère - Piège 3 - Tapis roulant\0
+
+[@ITEM 353 (L1) ]
+\0
+
+[@ITEM 353 (EN) ]
+176 Magus's Keep - Exterior Stairway 2\0
+
+[@ITEM 353 (L2) ]
+\0
+
+[@ITEM 353 (FR) ]
+176 Palais du Magistère - Extérieur Escalier 1\0
+
+[@ITEM 354 (L1) ]
+\0
+
+[@ITEM 354 (EN) ]
+177 Ozzie's Fort - Upon Entering\0
+
+[@ITEM 354 (L2) ]
+\0
+
+[@ITEM 354 (FR) ]
+177 Manoir de Vinnie - En entrant\0
+
+[@ITEM 355 (L1) ]
+\0
+
+[@ITEM 355 (EN) ]
+178 Ozzie's Fort - Failed Trap Room\0
+
+[@ITEM 355 (L2) ]
+\0
+
+[@ITEM 355 (FR) ]
+178 Manoir de Vinnie - Salle Piège raté\0
+
+[@ITEM 356 (L1) ]
+\0
+
+[@ITEM 356 (EN) ]
+179 Ozzie's Fort - Guillotine Room\0
+
+[@ITEM 356 (L2) ]
+\0
+
+[@ITEM 356 (FR) ]
+179 Manoir de Vinnie - Salle Guillotine\0
+
+[@ITEM 357 (L1) ]
+\0
+
+[@ITEM 357 (EN) ]
+180 Ozzie's Fort - Battle Against All Three\0
+
+[@ITEM 357 (L2) ]
+\0
+
+[@ITEM 357 (FR) ]
+180 Manoir de Vinnie - Bataille contre trois\0
+
+[@ITEM 358 (L1) ]
+\0
+
+[@ITEM 358 (EN) ]
+181 Ozzie's Fort - The End of Ozzie\0
+
+[@ITEM 358 (L2) ]
+\0
+
+[@ITEM 358 (FR) ]
+181 Manoir de Vinnie - Mort de Vinnie\0
+
+[@ITEM 359 (L1) ]
+\0
+
+[@ITEM 359 (EN) ]
+183 Ozzie's Fort - Flea Battle Room\0
+
+[@ITEM 359 (L2) ]
+\0
+
+[@ITEM 359 (FR) ]
+183 Manoir de Vinnie - Salle bataille contre Mayo\0
+
+[@ITEM 360 (L1) ]
+\0
+
+[@ITEM 360 (EN) ]
+184 Ozzie's Fort - Slash Battle Room\0
+
+[@ITEM 360 (L2) ]
+\0
+
+[@ITEM 360 (FR) ]
+184 Manoir de Vinnie - Salle bataille contre Soja\0
+
+[@ITEM 361 (L1) ]
+\0
+
+[@ITEM 361 (EN) ]
+185 Choras - Residence 1\0
+
+[@ITEM 361 (L2) ]
+\0
+
+[@ITEM 361 (FR) ]
+185 Choras - Résidence 1\0
+
+[@ITEM 362 (L1) ]
+\0
+
+[@ITEM 362 (EN) ]
+186 Choras - Residence 2 (Carpenter) 1F\0
+
+[@ITEM 362 (L2) ]
+\0
+
+[@ITEM 362 (FR) ]
+186 Choras - Résidence 2 (Charpentier) RDC\0
+
+[@ITEM 363 (L1) ]
+\0
+
+[@ITEM 363 (EN) ]
+187 Choras - Residence 2 (Carpenter) 2F\0
+
+[@ITEM 363 (L2) ]
+\0
+
+[@ITEM 363 (FR) ]
+187 Choras - Résidence 2 (Charpentier) 1er étage\0
+
+[@ITEM 364 (L1) ]
+\0
+
+[@ITEM 364 (EN) ]
+188 Choras - Tavern\0
+
+[@ITEM 364 (L2) ]
+\0
+
+[@ITEM 364 (FR) ]
+188 Choras - Taverne\0
+
+[@ITEM 365 (L1) ]
+\0
+
+[@ITEM 365 (EN) ]
+Choras Village Inn\0
+
+[@ITEM 365 (L2) ]
+\0
+
+[@ITEM 365 (FR) ]
+189 Choras - Auberge\0
+
+[@ITEM 366 (L1) ]
+\0
+
+[@ITEM 366 (EN) ]
+Goods Market\0
+
+[@ITEM 366 (L2) ]
+\0
+
+[@ITEM 366 (FR) ]
+190 Choras - Magasin\0
+
+[@ITEM 367 (L1) ]
+\0
+
+[@ITEM 367 (EN) ]
+191 Shrine of Light - Middle Ages?\0
+
+[@ITEM 367 (L2) ]
+\0
+
+[@ITEM 367 (FR) ]
+191 Berceau de la lumière - Moyen-Âge?\0
+
+[@ITEM 368 (L1) ]
+\0
+
+[@ITEM 368 (EN) ]
+Giant's Claw\0
+
+[@ITEM 368 (L2) ]
+\0
+
+[@ITEM 368 (FR) ]
+195_1 Griffe du géant\0
+
+[@ITEM 369 (L1) ]
+\0
+
+[@ITEM 369 (EN) ]
+Giant's Claw\0
+
+[@ITEM 369 (L2) ]
+\0
+
+[@ITEM 369 (FR) ]
+195_3 Griffe du géant - Entree\0
+
+[@ITEM 370 (L1) ]
+\0
+
+[@ITEM 370 (EN) ]
+Giant's Claw\0
+
+[@ITEM 370 (L2) ]
+\0
+
+[@ITEM 370 (FR) ]
+195_4 Griffe du géant\0
+
+[@ITEM 371 (L1) ]
+\0
+
+[@ITEM 371 (EN) ]
+Giant's Claw\0
+
+[@ITEM 371 (L2) ]
+\0
+
+[@ITEM 371 (FR) ]
+195_5 Griffe du géant\0
+
+[@ITEM 372 (L1) ]
+\0
+
+[@ITEM 372 (EN) ]
+Giant's Claw\0
+
+[@ITEM 372 (L2) ]
+\0
+
+[@ITEM 372 (FR) ]
+195_6 Griffe du géant\0
+
+[@ITEM 373 (L1) ]
+\0
+
+[@ITEM 373 (EN) ]
+Giant's Claw\0
+
+[@ITEM 373 (L2) ]
+\0
+
+[@ITEM 373 (FR) ]
+196_1 Griffe du géant\0
+
+[@ITEM 374 (L1) ]
+\0
+
+[@ITEM 374 (EN) ]
+Giant's Claw\0
+
+[@ITEM 374 (L2) ]
+\0
+
+[@ITEM 374 (FR) ]
+196_2 Griffe du géant\0
+
+[@ITEM 375 (L1) ]
+\0
+
+[@ITEM 375 (EN) ]
+197 Giant's Claw - Rust Tyranno Battle Room\0
+
+[@ITEM 375 (L2) ]
+\0
+
+[@ITEM 375 (FR) ]
+197 Griffe du géant - Salle bataille contre tyrannosaure noir\0
+
+[@ITEM 376 (L1) ]
+\0
+
+[@ITEM 376 (EN) ]
+198 Manolia Cathedral - Yakra Battle Room\0
+
+[@ITEM 376 (L2) ]
+\0
+
+[@ITEM 376 (FR) ]
+198 Abbaye de Manolia - Salle bataille contre Yakra\0
+
+[@ITEM 377 (L1) ]
+\0
+
+[@ITEM 377 (EN) ]
+Manoria Abbey\0
+
+[@ITEM 377 (L2) ]
+\0
+
+[@ITEM 377 (FR) ]
+199 Abbaye de Manolia - Cellule\0
+
+[@ITEM 378 (L1) ]
+\0
+
+[@ITEM 378 (EN) ]
+Manoria Abbey\0
+
+[@ITEM 378 (L2) ]
+\0
+
+[@ITEM 378 (FR) ]
+200 Abbaye de Manolia - Salle des illusions\0
+
+[@ITEM 379 (L1) ]
+\0
+
+[@ITEM 379 (EN) ]
+201 Manolia Cathedral - Bromide Room\0
+
+[@ITEM 379 (L2) ]
+\0
+
+[@ITEM 379 (FR) ]
+201 Abbaye de Manolia - Salle du portrait de myanne\0
+
+[@ITEM 380 (L1) ]
+\0
+
+[@ITEM 380 (EN) ]
+Manoria Abbey\0
+
+[@ITEM 380 (L2) ]
+\0
+
+[@ITEM 380 (FR) ]
+202 Abbaye de Manolia - Salle des monstres\0
+
+[@ITEM 381 (L1) ]
+\0
+
+[@ITEM 381 (EN) ]
+Manoria Abbey\0
+
+[@ITEM 381 (L2) ]
+\0
+
+[@ITEM 381 (FR) ]
+203 Abbaye de Manolia - Statue du Magistère\0
+
+[@ITEM 382 (L1) ]
+\0
+
+[@ITEM 382 (EN) ]
+208 Bangor Dome - Gate Room\0
+
+[@ITEM 382 (L2) ]
+\0
+
+[@ITEM 382 (FR) ]
+208 Dôme de Bangor - Salle du portail\0
+
+[@ITEM 383 (L1) ]
+\0
+
+[@ITEM 383 (EN) ]
+Bango Dome\0
+
+[@ITEM 383 (L2) ]
+\0
+
+[@ITEM 383 (FR) ]
+209 Dôme de Bangor - Salle du trésor scellé\0
+
+[@ITEM 384 (L1) ]
+\0
+
+[@ITEM 384 (EN) ]
+Tran Dome\0
+
+[@ITEM 384 (L2) ]
+\0
+
+[@ITEM 384 (FR) ]
+210 Dôme de Trann\0
+
+[@ITEM 385 (L1) ]
+\0
+
+[@ITEM 385 (EN) ]
+Tran Dome\0
+
+[@ITEM 385 (L2) ]
+\0
+
+[@ITEM 385 (FR) ]
+211 Dôme de Trann - Salle du trésor scellé\0
+
+[@ITEM 386 (L1) ]
+\0
+
+[@ITEM 386 (EN) ]
+Tran Dome\0
+
+[@ITEM 386 (L2) ]
+\0
+
+[@ITEM 386 (FR) ]
+212 Ruines n° 16 - Côté du dôme de Trann\0
+
+[@ITEM 387 (L1) ]
+\0
+
+[@ITEM 387 (EN) ]
+Aris Dome\0
+
+[@ITEM 387 (L2) ]
+\0
+
+[@ITEM 387 (FR) ]
+213 Ruines n° 16 - Côté du dôme d'Arris\0
+
+[@ITEM 388 (L1) ]
+\0
+
+[@ITEM 388 (EN) ]
+Aris Dome\0
+
+[@ITEM 388 (L2) ]
+\0
+
+[@ITEM 388 (FR) ]
+214 Dôme d'Arris\0
+
+[@ITEM 389 (L1) ]
+\0
+
+[@ITEM 389 (EN) ]
+215 Arris Dome Substructure - Passcode Room 1\0
+
+[@ITEM 389 (L2) ]
+\0
+
+[@ITEM 389 (FR) ]
+215 Dôme d'Arris (sous-sol) - Salle mot de passe 1\0
+
+[@ITEM 390 (L1) ]
+\0
+
+[@ITEM 390 (EN) ]
+216 Arris Dome Substructure - Upon Entering\0
+
+[@ITEM 390 (L2) ]
+\0
+
+[@ITEM 390 (FR) ]
+216 Dôme d'Arris (sous-sol) - En entrant\0
+
+[@ITEM 391 (L1) ]
+\0
+
+[@ITEM 391 (EN) ]
+217 Arris Dome Substructure - Passcode Room 2\0
+
+[@ITEM 391 (L2) ]
+\0
+
+[@ITEM 391 (FR) ]
+217 Dôme d'Arris (sous-sol) - Salle mot de passe 2\0
+
+[@ITEM 392 (L1) ]
+\0
+
+[@ITEM 392 (EN) ]
+218 Arris Dome Substructure - Day of Lavos Record Room\0
+
+[@ITEM 392 (L2) ]
+\0
+
+[@ITEM 392 (FR) ]
+218 Dôme d'Arris (sous-sol) - Salle archives du jour de Lavos\0
+
+[@ITEM 393 (L1) ]
+\0
+
+[@ITEM 393 (EN) ]
+219 Arris Dome Substructure - Guardian Battle\0
+
+[@ITEM 393 (L2) ]
+\0
+
+[@ITEM 393 (FR) ]
+219 Dôme d'Arris (sous-sol) - Bataille contre gardien\0
+
+[@ITEM 394 (L1) ]
+\0
+
+[@ITEM 394 (EN) ]
+220 Arris Dome Substructure - Sealed Treasure Room\0
+
+[@ITEM 394 (L2) ]
+\0
+
+[@ITEM 394 (FR) ]
+220 Dôme d'Arris (sous-sol) - Salle du trésor scellé\0
+
+[@ITEM 395 (L1) ]
+\0
+
+[@ITEM 395 (EN) ]
+221 Arris Dome Substructure - Rat Room\0
+
+[@ITEM 395 (L2) ]
+\0
+
+[@ITEM 395 (FR) ]
+221 Dôme d'Arris (sous-sol) - Salle du rat\0
+
+[@ITEM 396 (L1) ]
+\0
+
+[@ITEM 396 (EN) ]
+Dinomen Hideout\0
+
+[@ITEM 396 (L2) ]
+\0
+
+[@ITEM 396 (FR) ]
+222 Antre des sauriens\0
+
+[@ITEM 397 (L1) ]
+\0
+
+[@ITEM 397 (EN) ]
+223 Site 32 - Eastern Bike Parking\0
+
+[@ITEM 397 (L2) ]
+\0
+
+[@ITEM 397 (FR) ]
+223 Ruines n° 32 - Stationnement ouest\0
+
+[@ITEM 398 (L1) ]
+\0
+
+[@ITEM 398 (EN) ]
+224 Site 32 - Road\0
+
+[@ITEM 398 (L2) ]
+\0
+
+[@ITEM 398 (FR) ]
+224 Ruines n° 32 - Route\0
+
+[@ITEM 399 (L1) ]
+\0
+
+[@ITEM 399 (EN) ]
+225 Site 32 - Eastern Bike Parking\0
+
+[@ITEM 399 (L2) ]
+\0
+
+[@ITEM 399 (FR) ]
+225 Ruines n° 32 - Stationnement est\0
+
+[@ITEM 400 (L1) ]
+\0
+
+[@ITEM 400 (EN) ]
+Promethe Dome\0
+
+[@ITEM 400 (L2) ]
+\0
+
+[@ITEM 400 (FR) ]
+226 Dôme de Prométhée - Entrée en scène de RoBo\0
+
+[@ITEM 401 (L1) ]
+\0
+
+[@ITEM 401 (EN) ]
+227 Proto Dome - Gate Room\0
+
+[@ITEM 401 (L2) ]
+\0
+
+[@ITEM 401 (FR) ]
+227 Dôme de Prométhée - Salle du portail\0
+
+[@ITEM 402 (L1) ]
+\0
+
+[@ITEM 402 (EN) ]
+228 Derelict Factory - Entrance\0
+
+[@ITEM 402 (L2) ]
+\0
+
+[@ITEM 402 (FR) ]
+228 Usine désaffectée - Entrée\0
+
+[@ITEM 403 (L1) ]
+\0
+
+[@ITEM 403 (EN) ]
+229 Derelict Factory - B2 (West)\0
+
+[@ITEM 403 (L2) ]
+\0
+
+[@ITEM 403 (FR) ]
+229 Usine désaffectée - SS1 (Ouest)\0
+
+[@ITEM 404 (L1) ]
+\0
+
+[@ITEM 404 (EN) ]
+230 Derelict Factory - B2 (West)\0
+
+[@ITEM 404 (L2) ]
+\0
+
+[@ITEM 404 (FR) ]
+230 Usine désaffectée - SS2 (Ouest)\0
+
+[@ITEM 405 (L1) ]
+\0
+
+[@ITEM 405 (EN) ]
+231 Derelict Factory - B1 (East)\0
+
+[@ITEM 405 (L2) ]
+\0
+
+[@ITEM 405 (FR) ]
+231 Usine désaffectée SS1 (Est)\0
+
+[@ITEM 406 (L1) ]
+\0
+
+[@ITEM 406 (EN) ]
+232 Derelict Factory - Bug Room\0
+
+[@ITEM 406 (L2) ]
+\0
+
+[@ITEM 406 (FR) ]
+232 Usine désaffectée - Salle des scarabogues\0
+
+[@ITEM 407 (L1) ]
+\0
+
+[@ITEM 407 (EN) ]
+233 Derelict Factory - Room Before Crane\0
+
+[@ITEM 407 (L2) ]
+\0
+
+[@ITEM 407 (FR) ]
+233 Usine désaffectée - Salle avant grue\0
+
+[@ITEM 408 (L1) ]
+\0
+
+[@ITEM 408 (EN) ]
+234 Derelict Factory - Passcode Acquisition\0
+
+[@ITEM 408 (L2) ]
+\0
+
+[@ITEM 408 (FR) ]
+234 Usine désaffectée - Obtention du mot de passe\0
+
+[@ITEM 409 (L1) ]
+\0
+
+[@ITEM 409 (EN) ]
+235 Derelict Factory - B3 (West)\0
+
+[@ITEM 409 (L2) ]
+\0
+
+[@ITEM 409 (FR) ]
+235 Usine désaffectée - SS3 (Ouest)\0
+
+[@ITEM 410 (L1) ]
+\0
+
+[@ITEM 410 (EN) ]
+Underground Waterway Ruins\0
+
+[@ITEM 410 (L2) ]
+\0
+
+[@ITEM 410 (FR) ]
+236 Ancien égout - Entrée\0
+
+[@ITEM 411 (L1) ]
+\0
+
+[@ITEM 411 (EN) ]
+Underground Waterway Ruins\0
+
+[@ITEM 411 (L2) ]
+\0
+
+[@ITEM 411 (FR) ]
+237 Ancien égout\0
+
+[@ITEM 412 (L1) ]
+\0
+
+[@ITEM 412 (EN) ]
+Watcher's Dome\0
+
+[@ITEM 412 (L2) ]
+\0
+
+[@ITEM 412 (FR) ]
+241 Dôme du gardien\0
+
+[@ITEM 413 (L1) ]
+\0
+
+[@ITEM 413 (EN) ]
+Watcher's Dome\0
+
+[@ITEM 413 (L2) ]
+\0
+
+[@ITEM 413 (FR) ]
+242 Dôme du gardien - Corridor\0
+
+[@ITEM 414 (L1) ]
+\0
+
+[@ITEM 414 (EN) ]
+243 Keeper's Dome - Epoch Storage Room\0
+
+[@ITEM 414 (L2) ]
+\0
+
+[@ITEM 414 (FR) ]
+243 Dôme du gardien - Salle de l'Ibis\0
+
+[@ITEM 415 (L1) ]
+\0
+
+[@ITEM 415 (EN) ]
+244 Death Peak - Entrance\0
+
+[@ITEM 415 (L2) ]
+\0
+
+[@ITEM 415 (FR) ]
+244 Mont des défunts - Entrée\0
+
+[@ITEM 416 (L1) ]
+\0
+
+[@ITEM 416 (EN) ]
+245 Death Peak - Map 1\0
+
+[@ITEM 416 (L2) ]
+\0
+
+[@ITEM 416 (FR) ]
+245 Mont des défunts - Carte 1\0
+
+[@ITEM 417 (L1) ]
+\0
+
+[@ITEM 417 (EN) ]
+246 Death Peak - Map 2\0
+
+[@ITEM 417 (L2) ]
+\0
+
+[@ITEM 417 (FR) ]
+246 Mont des défunts - Carte 2\0
+
+[@ITEM 418 (L1) ]
+\0
+
+[@ITEM 418 (EN) ]
+247 Death Peak - Map 4 (Lavos Spawn - 2)\0
+
+[@ITEM 418 (L2) ]
+\0
+
+[@ITEM 418 (FR) ]
+247 Mont des défunts - Carte 4 (larve de Lavos 2)\0
+
+[@ITEM 419 (L1) ]
+\0
+
+[@ITEM 419 (EN) ]
+Genocidome\0
+
+[@ITEM 419 (L2) ]
+\0
+
+[@ITEM 419 (FR) ]
+248 Dôme de Génos - Entrée\0
+
+[@ITEM 420 (L1) ]
+\0
+
+[@ITEM 420 (EN) ]
+249 Geno Dome - Conveyer Belt (Front)\0
+
+[@ITEM 420 (L2) ]
+\0
+
+[@ITEM 420 (FR) ]
+249 Dôme de Génos - Tapis roulant (Devant)\0
+
+[@ITEM 421 (L1) ]
+\0
+
+[@ITEM 421 (EN) ]
+250 Geno Dome - Conveyer Belt (Rear)\0
+
+[@ITEM 421 (L2) ]
+\0
+
+[@ITEM 421 (FR) ]
+250 Dôme de Génos - Tapis roulant (Derrière)\0
+
+[@ITEM 422 (L1) ]
+\0
+
+[@ITEM 422 (EN) ]
+251 Sun Shrine\0
+
+[@ITEM 422 (L2) ]
+\0
+
+[@ITEM 422 (FR) ]
+251 Temple du soleil\0
+
+[@ITEM 423 (L1) ]
+\0
+
+[@ITEM 423 (EN) ]
+253 Shrine of Light - Future?\0
+
+[@ITEM 423 (L2) ]
+\0
+
+[@ITEM 423 (FR) ]
+253 Berceau de la lumière - Futur ?\0
+
+[@ITEM 424 (L1) ]
+\0
+
+[@ITEM 424 (EN) ]
+255 Shrine of Light - Prehistory?\0
+
+[@ITEM 424 (L2) ]
+\0
+
+[@ITEM 424 (FR) ]
+255 Berceau de la lumière - Préhistoire ?\0
+
+[@ITEM 425 (L1) ]
+\0
+
+[@ITEM 425 (EN) ]
+256 Geno Dome - Main Room\0
+
+[@ITEM 425 (L2) ]
+\0
+
+[@ITEM 425 (FR) ]
+256 Dôme de Génos - Salle principale\0
+
+[@ITEM 426 (L1) ]
+\0
+
+[@ITEM 426 (EN) ]
+Genocidome\0
+
+[@ITEM 426 (L2) ]
+\0
+
+[@ITEM 426 (FR) ]
+257 Dôme de Génos - Salle au trésor 1\0
+
+[@ITEM 427 (L1) ]
+\0
+
+[@ITEM 427 (EN) ]
+Genocidome\0
+
+[@ITEM 427 (L2) ]
+\0
+
+[@ITEM 427 (FR) ]
+258 Dôme de Génos - Salle au trésor 2\0
+
+[@ITEM 428 (L1) ]
+\0
+
+[@ITEM 428 (EN) ]
+259 Derelict Factory - Crane Code Acquisition\0
+
+[@ITEM 428 (L2) ]
+\0
+
+[@ITEM 428 (FR) ]
+259 Usine désaffectée - Obtention du code de la grue\0
+
+[@ITEM 429 (L1) ]
+\0
+
+[@ITEM 429 (EN) ]
+260 Death Peak - Map 6\0
+
+[@ITEM 429 (L2) ]
+\0
+
+[@ITEM 429 (FR) ]
+260 Mont des défunts - Carte 6\0
+
+[@ITEM 430 (L1) ]
+\0
+
+[@ITEM 430 (EN) ]
+262 Death Peak - Map 5\0
+
+[@ITEM 430 (L2) ]
+\0
+
+[@ITEM 430 (FR) ]
+261 Mont des défunts - Carte 5\0
+
+[@ITEM 431 (L1) ]
+\0
+
+[@ITEM 431 (EN) ]
+263 Death Peak - Map 3\0
+
+[@ITEM 431 (L2) ]
+\0
+
+[@ITEM 431 (FR) ]
+263 Mont des défunts - Carte 3\0
+
+[@ITEM 432 (L1) ]
+\0
+
+[@ITEM 432 (EN) ]
+264 Death Peak - Interior (Lavos Spawn - 1)\0
+
+[@ITEM 432 (L2) ]
+\0
+
+[@ITEM 432 (FR) ]
+264 Mont des défunts - Intérieur (larve de Lavos 1)\0
+
+[@ITEM 433 (L1) ]
+\0
+
+[@ITEM 433 (EN) ]
+265 Death Peak - Summit\0
+
+[@ITEM 433 (L2) ]
+\0
+
+[@ITEM 433 (FR) ]
+265 Mont des défunts - Cime\0
+
+[@ITEM 434 (L1) ]
+\0
+
+[@ITEM 434 (EN) ]
+Genocidome\0
+
+[@ITEM 434 (L2) ]
+\0
+
+[@ITEM 434 (FR) ]
+267 Dôme de Génos - Fond du corridor étroit\0
+
+[@ITEM 435 (L1) ]
+\0
+
+[@ITEM 435 (EN) ]
+268 Geno Dome - Mother Brain Battle\0
+
+[@ITEM 435 (L2) ]
+\0
+
+[@ITEM 435 (FR) ]
+268 Dôme de Génos - Bataille contre cerveau mère\0
+
+[@ITEM 436 (L1) ]
+\0
+
+[@ITEM 436 (EN) ]
+Genocidome\0
+
+[@ITEM 436 (L2) ]
+\0
+
+[@ITEM 436 (FR) ]
+269 Dôme de Génos - Salle d'exécution\0
+
+[@ITEM 437 (L1) ]
+\0
+
+[@ITEM 437 (EN) ]
+272 Mystic Mountains - Gate\0
+
+[@ITEM 437 (L2) ]
+\0
+
+[@ITEM 437 (FR) ]
+272 Mont étrange - Portail\0
+
+[@ITEM 438 (L1) ]
+\0
+
+[@ITEM 438 (EN) ]
+273 Mystic Mountains - Ayla's Debut\0
+
+[@ITEM 438 (L2) ]
+\0
+
+[@ITEM 438 (FR) ]
+273 Mont étrange - Entrée en scène d'Ayla\0
+
+[@ITEM 439 (L1) ]
+\0
+
+[@ITEM 439 (EN) ]
+274 Mystic Mountains - Trail\0
+
+[@ITEM 439 (L2) ]
+\0
+
+[@ITEM 439 (FR) ]
+274 Mont étrange - Passage\0
+
+[@ITEM 440 (L1) ]
+\0
+
+[@ITEM 440 (EN) ]
+Ioka Village Tent\0
+
+[@ITEM 440 (L2) ]
+\0
+
+[@ITEM 440 (FR) ]
+275 Village d'Ioka - Tente du chef\0
+
+[@ITEM 441 (L1) ]
+\0
+
+[@ITEM 441 (EN) ]
+Ioka Village Tent\0
+
+[@ITEM 441 (L2) ]
+\0
+
+[@ITEM 441 (FR) ]
+276 Tente du village d'Ioka\0
+
+[@ITEM 442 (L1) ]
+\0
+
+[@ITEM 442 (EN) ]
+Ioka Village Tent\0
+
+[@ITEM 442 (L2) ]
+\0
+
+[@ITEM 442 (FR) ]
+277 Village d'Ioka - Tente de troc\0
+
+[@ITEM 443 (L1) ]
+\0
+
+[@ITEM 443 (EN) ]
+Ioka Village Tent\0
+
+[@ITEM 443 (L2) ]
+\0
+
+[@ITEM 443 (FR) ]
+278 Village d'Ioka - Tente de guérison\0
+
+[@ITEM 444 (L1) ]
+\0
+
+[@ITEM 444 (EN) ]
+279 Ioka Village - Village Center\0
+
+[@ITEM 444 (L2) ]
+\0
+
+[@ITEM 444 (FR) ]
+279 Village d'Ioka - Place du village\0
+
+[@ITEM 445 (L1) ]
+\0
+
+[@ITEM 445 (EN) ]
+280 Ioka Village - Village Center (Night)\0
+
+[@ITEM 445 (L2) ]
+\0
+
+[@ITEM 445 (FR) ]
+280 Village d'Ioka - Place du village (nuit)\0
+
+[@ITEM 446 (L1) ]
+\0
+
+[@ITEM 446 (EN) ]
+281 Forest Maze - Entrance Only\0
+
+[@ITEM 446 (L2) ]
+\0
+
+[@ITEM 446 (FR) ]
+281 Jungle - Entrée seulement\0
+
+[@ITEM 447 (L1) ]
+\0
+
+[@ITEM 447 (EN) ]
+282 Forest Maze\0
+
+[@ITEM 447 (L2) ]
+\0
+
+[@ITEM 447 (FR) ]
+282 Jungle\0
+
+[@ITEM 448 (L1) ]
+\0
+
+[@ITEM 448 (EN) ]
+Dinomen Hideout\0
+
+[@ITEM 448 (L2) ]
+\0
+
+[@ITEM 448 (FR) ]
+283 Antre des sauriens - Entrée\0
+
+[@ITEM 449 (L1) ]
+\0
+
+[@ITEM 449 (EN) ]
+284 Reptite Lair - Beetle Room\0
+
+[@ITEM 449 (L2) ]
+\0
+
+[@ITEM 449 (FR) ]
+284 Antre des sauriens - Salle des insectes\0
+
+[@ITEM 450 (L1) ]
+\0
+
+[@ITEM 450 (EN) ]
+Dinomen Hideout\0
+
+[@ITEM 450 (L2) ]
+\0
+
+[@ITEM 450 (FR) ]
+285 Antre des sauriens - Trou 1\0
+
+[@ITEM 451 (L1) ]
+\0
+
+[@ITEM 451 (EN) ]
+Dinomen Hideout\0
+
+[@ITEM 451 (L2) ]
+\0
+
+[@ITEM 451 (FR) ]
+286 Antre des sauriens - Trou 2\0
+
+[@ITEM 452 (L1) ]
+\0
+
+[@ITEM 452 (EN) ]
+Dinomen Hideout\0
+
+[@ITEM 452 (L2) ]
+\0
+
+[@ITEM 452 (FR) ]
+287 Antre des sauriens - Trou 3\0
+
+[@ITEM 453 (L1) ]
+\0
+
+[@ITEM 453 (EN) ]
+Dinomen Hideout\0
+
+[@ITEM 453 (L2) ]
+\0
+
+[@ITEM 453 (FR) ]
+288 Antre des sauriens\0
+
+[@ITEM 454 (L1) ]
+\0
+
+[@ITEM 454 (EN) ]
+289 Reptite Lair - Nizbel Battle\0
+
+[@ITEM 454 (L2) ]
+\0
+
+[@ITEM 454 (FR) ]
+289 Antre des sauriens - Bataille contre Nizbel\0
+
+[@ITEM 455 (L1) ]
+\0
+
+[@ITEM 455 (EN) ]
+Dinomen Hideout\0
+
+[@ITEM 455 (L2) ]
+\0
+
+[@ITEM 455 (FR) ]
+290 Antre des sauriens\0
+
+[@ITEM 456 (L1) ]
+\0
+
+[@ITEM 456 (EN) ]
+Hunting Forest\0
+
+[@ITEM 456 (L2) ]
+\0
+
+[@ITEM 456 (FR) ]
+291 Terrain de chasse\0
+
+[@ITEM 457 (L1) ]
+\0
+
+[@ITEM 457 (EN) ]
+Laruba Village's Burnt Remains\0
+
+[@ITEM 457 (L2) ]
+\0
+
+[@ITEM 457 (FR) ]
+292 Ruines de Laruba\0
+
+[@ITEM 458 (L1) ]
+\0
+
+[@ITEM 458 (EN) ]
+Pteran Nest\0
+
+[@ITEM 458 (L2) ]
+\0
+
+[@ITEM 458 (FR) ]
+293 Nid des ptéranodons - Entrée\0
+
+[@ITEM 459 (L1) ]
+\0
+
+[@ITEM 459 (EN) ]
+Pteran Nest\0
+
+[@ITEM 459 (L2) ]
+\0
+
+[@ITEM 459 (FR) ]
+294 Nid des ptéranodons - Montagne\0
+
+[@ITEM 460 (L1) ]
+\0
+
+[@ITEM 460 (EN) ]
+Pteran Nest\0
+
+[@ITEM 460 (L2) ]
+\0
+
+[@ITEM 460 (FR) ]
+295 Nid des ptéranodons - Sommet\0
+
+[@ITEM 461 (L1) ]
+\0
+
+[@ITEM 461 (EN) ]
+Tyran Castle\0
+
+[@ITEM 461 (L2) ]
+\0
+
+[@ITEM 461 (FR) ]
+298_1 Fort Tyrannos - Extérieur\0
+
+[@ITEM 462 (L1) ]
+\0
+
+[@ITEM 462 (EN) ]
+Tyran Castle\0
+
+[@ITEM 462 (L2) ]
+\0
+
+[@ITEM 462 (FR) ]
+298_2 Fort Tyrannos - Extérieur\0
+
+[@ITEM 463 (L1) ]
+\0
+
+[@ITEM 463 (EN) ]
+Tyran Castle\0
+
+[@ITEM 463 (L2) ]
+\0
+
+[@ITEM 463 (FR) ]
+298_3 Fort Tyrannos - Extérieur\0
+
+[@ITEM 464 (L1) ]
+\0
+
+[@ITEM 464 (EN) ]
+Tyran Castle\0
+
+[@ITEM 464 (L2) ]
+\0
+
+[@ITEM 464 (FR) ]
+299 Fort Tyrannos - Entrée\0
+
+[@ITEM 465 (L1) ]
+\0
+
+[@ITEM 465 (EN) ]
+300 Tyranno Lair - Azala Face-off\0
+
+[@ITEM 465 (L2) ]
+\0
+
+[@ITEM 465 (FR) ]
+300 Fort Tyrannos - Confrontation avec Azara\0
+
+[@ITEM 466 (L1) ]
+\0
+
+[@ITEM 466 (EN) ]
+Black Tyrano\0
+
+[@ITEM 466 (L2) ]
+\0
+
+[@ITEM 466 (FR) ]
+301 Fort Tyrannos - Bataille tyrannosaure brun\0
+
+[@ITEM 467 (L1) ]
+\0
+
+[@ITEM 467 (EN) ]
+302_1 Tyranno Lair - Interior (Traps)\0
+
+[@ITEM 467 (L2) ]
+\0
+
+[@ITEM 467 (FR) ]
+302_1 Fort Tyrannos - Intérieur (Pièges)\0
+
+[@ITEM 468 (L1) ]
+\0
+
+[@ITEM 468 (EN) ]
+Tyran Castle\0
+
+[@ITEM 468 (L2) ]
+\0
+
+[@ITEM 468 (FR) ]
+302_2 Fort Tyrannos - Intérieur (Prisoniers)\0
+
+[@ITEM 469 (L1) ]
+\0
+
+[@ITEM 469 (EN) ]
+302_3 Tyranno Lair - Interior (Prisoners, Traps)\0
+
+[@ITEM 469 (L2) ]
+\0
+
+[@ITEM 469 (FR) ]
+302_3 Fort Tyrannos - Intérieur (Prisoniers, Pièges)\0
+
+[@ITEM 470 (L1) ]
+\0
+
+[@ITEM 470 (EN) ]
+302_4 Tyranno Lair - Interior (Prisoners, Traps)\0
+
+[@ITEM 470 (L2) ]
+\0
+
+[@ITEM 470 (FR) ]
+302_4 Fort Tyrannos - Intérieur (Prisoniers, Pièges)\0
+
+[@ITEM 471 (L1) ]
+\0
+
+[@ITEM 471 (EN) ]
+302_5 Tyranno Lair - Interior (Prisoners, Traps)\0
+
+[@ITEM 471 (L2) ]
+\0
+
+[@ITEM 471 (FR) ]
+302_5 Fort Tyrannos - Intérieur (Prisoniers, Pièges)\0
+
+[@ITEM 472 (L1) ]
+\0
+
+[@ITEM 472 (EN) ]
+302_6 Tyranno Lair - Interior (Prisoners, Traps)\0
+
+[@ITEM 472 (L2) ]
+\0
+
+[@ITEM 472 (FR) ]
+302_6 Fort Tyrannos - Intérieur (Prisoniers, Pièges)\0
+
+[@ITEM 473 (L1) ]
+\0
+
+[@ITEM 473 (EN) ]
+303_1 Tyranno Lair - Interior 2 (Switches, Passages)\0
+
+[@ITEM 473 (L2) ]
+\0
+
+[@ITEM 473 (FR) ]
+303_1 Fort Tyrannos - Intérieur 2 (Boutons, Passages)\0
+
+[@ITEM 474 (L1) ]
+\0
+
+[@ITEM 474 (EN) ]
+303_2 Tyranno Lair - Interior 2 (Switches, Passages)\0
+
+[@ITEM 474 (L2) ]
+\0
+
+[@ITEM 474 (FR) ]
+303_2 Fort Tyrannos - Intérieur 2 (Boutons, Passages)\0
+
+[@ITEM 475 (L1) ]
+\0
+
+[@ITEM 475 (EN) ]
+303_3 Tyranno Lair - Interior 2 (Switches, Passages)\0
+
+[@ITEM 475 (L2) ]
+\0
+
+[@ITEM 475 (FR) ]
+303_3 Fort Tyrannos - Intérieur 2 (Boutons, Passages)\0
+
+[@ITEM 476 (L1) ]
+\0
+
+[@ITEM 476 (EN) ]
+303_5 Tyranno Lair - Interior 2 (Switches, Passages)\0
+
+[@ITEM 476 (L2) ]
+\0
+
+[@ITEM 476 (FR) ]
+303_5 Fort Tyrannos - Intérieur 2 (Boutons, Passages)\0
+
+[@ITEM 477 (L1) ]
+\0
+
+[@ITEM 477 (EN) ]
+304 Tyranno Lair - Nizbel II\0
+
+[@ITEM 477 (L2) ]
+\0
+
+[@ITEM 477 (FR) ]
+304 Fort Tyrannos - Nizbel II\0
+
+[@ITEM 478 (L1) ]
+\0
+
+[@ITEM 478 (EN) ]
+305 Tyranno Lair - Interior 3 (Warp Point)\0
+
+[@ITEM 478 (L2) ]
+\0
+
+[@ITEM 478 (FR) ]
+305 Fort Tyrannos - Intérieur 3 (Tuiles portails)\0
+
+[@ITEM 479 (L1) ]
+\0
+
+[@ITEM 479 (EN) ]
+Tyran Castle Ruins\0
+
+[@ITEM 479 (L2) ]
+\0
+
+[@ITEM 479 (FR) ]
+307 Cratère de Tyrannos\0
+
+[@ITEM 480 (L1) ]
+\0
+
+[@ITEM 480 (EN) ]
+308 Black Omen - Upper Level 1 (Mega M.)\0
+
+[@ITEM 480 (L2) ]
+\0
+
+[@ITEM 480 (FR) ]
+308 Songe obscur - Niveau supérieur 1 (Mégamutant)\0
+
+[@ITEM 481 (L1) ]
+\0
+
+[@ITEM 481 (EN) ]
+309 Black Omen - Upper Level 1\0
+
+[@ITEM 481 (L2) ]
+\0
+
+[@ITEM 481 (FR) ]
+309 Songe obscur - Niveau supérieur 1\0
+
+[@ITEM 482 (L1) ]
+\0
+
+[@ITEM 482 (EN) ]
+310 Black Omen - Upper Level 2\0
+
+[@ITEM 482 (L2) ]
+\0
+
+[@ITEM 482 (FR) ]
+310 Songe obscur - Niveau supérieur 2\0
+
+[@ITEM 483 (L1) ]
+\0
+
+[@ITEM 483 (EN) ]
+311 Black Omen - Upper Level 3\0
+
+[@ITEM 483 (L2) ]
+\0
+
+[@ITEM 483 (FR) ]
+311 Songe obscur - Niveau supérieur 3\0
+
+[@ITEM 484 (L1) ]
+\0
+
+[@ITEM 484 (EN) ]
+312 Black Omen - Upper Level 4\0
+
+[@ITEM 484 (L2) ]
+\0
+
+[@ITEM 484 (FR) ]
+312 Songe obscur - Niveau supérieur 4\0
+
+[@ITEM 485 (L1) ]
+\0
+
+[@ITEM 485 (EN) ]
+313 Black Omen - Middle Level 1\0
+
+[@ITEM 485 (L2) ]
+\0
+
+[@ITEM 485 (FR) ]
+313 Songe obscur - Niveau moyen 1\0
+
+[@ITEM 486 (L1) ]
+\0
+
+[@ITEM 486 (EN) ]
+314 Black Omen - Middle Level 2\0
+
+[@ITEM 486 (L2) ]
+\0
+
+[@ITEM 486 (FR) ]
+314 Songe obscur - Niveau moyen 2\0
+
+[@ITEM 487 (L1) ]
+\0
+
+[@ITEM 487 (EN) ]
+315 Black Omen - Middle Level 3\0
+
+[@ITEM 487 (L2) ]
+\0
+
+[@ITEM 487 (FR) ]
+315 Songe obscur - Niveau moyen 3\0
+
+[@ITEM 488 (L1) ]
+\0
+
+[@ITEM 488 (EN) ]
+316 Black Omen - Middle Level 4\0
+
+[@ITEM 488 (L2) ]
+\0
+
+[@ITEM 488 (FR) ]
+316 Songe obscur - Niveau moyen 4\0
+
+[@ITEM 489 (L1) ]
+\0
+
+[@ITEM 489 (EN) ]
+317 Black Omen - Middle Level 5\0
+
+[@ITEM 489 (L2) ]
+\0
+
+[@ITEM 489 (FR) ]
+317 Songe obscur - Niveau moyen 5\0
+
+[@ITEM 490 (L1) ]
+\0
+
+[@ITEM 490 (EN) ]
+318 Black Omen - Middle Level 6\0
+
+[@ITEM 490 (L2) ]
+\0
+
+[@ITEM 490 (FR) ]
+318 Songe obscur - Niveau moyen 6\0
+
+[@ITEM 491 (L1) ]
+\0
+
+[@ITEM 491 (EN) ]
+319 Black Omen - Middle Level 7\0
+
+[@ITEM 491 (L2) ]
+\0
+
+[@ITEM 491 (FR) ]
+319 Songe obscur - Niveau moyen 7\0
+
+[@ITEM 492 (L1) ]
+\0
+
+[@ITEM 492 (EN) ]
+320 Black Omen - Middle Level 8\0
+
+[@ITEM 492 (L2) ]
+\0
+
+[@ITEM 492 (FR) ]
+320 Songe obscur - Niveau moyen 8 (Téléporteur)\0
+
+[@ITEM 493 (L1) ]
+\0
+
+[@ITEM 493 (EN) ]
+321 Black Omen - Lower Level 1 (Warp)\0
+
+[@ITEM 493 (L2) ]
+\0
+
+[@ITEM 493 (FR) ]
+321 Songe obscur - Niveau inférieur 1 (Téléporteur)\0
+
+[@ITEM 494 (L1) ]
+\0
+
+[@ITEM 494 (EN) ]
+322 Black Omen - Lower Level 2\0
+
+[@ITEM 494 (L2) ]
+\0
+
+[@ITEM 494 (FR) ]
+322 Songe obscur - Niveau inférieur 2\0
+
+[@ITEM 495 (L1) ]
+\0
+
+[@ITEM 495 (EN) ]
+323 Black Omen - Lower Level 3 (Giga M.)\0
+
+[@ITEM 495 (L2) ]
+\0
+
+[@ITEM 495 (FR) ]
+323 Songe obscur - Niveau inférieur 3 (Gigamutant)\0
+
+[@ITEM 496 (L1) ]
+\0
+
+[@ITEM 496 (EN) ]
+324 Black Omen - Bottom Level 1\0
+
+[@ITEM 496 (L2) ]
+\0
+
+[@ITEM 496 (FR) ]
+324 Songe obscur - Profondeurs 1\0
+
+[@ITEM 497 (L1) ]
+\0
+
+[@ITEM 497 (EN) ]
+325 Black Omen - Bottom Level 2 (Terra M.)\0
+
+[@ITEM 497 (L2) ]
+\0
+
+[@ITEM 497 (FR) ]
+325 Songe obscur - Profondeurs 2 (Téramutant)\0
+
+[@ITEM 498 (L1) ]
+\0
+
+[@ITEM 498 (EN) ]
+326 Black Omen - Bottom Level 3\0
+
+[@ITEM 498 (L2) ]
+\0
+
+[@ITEM 498 (FR) ]
+326 Songe obscur - Profondeurs 3\0
+
+[@ITEM 499 (L1) ]
+\0
+
+[@ITEM 499 (EN) ]
+Shrine of Light\0
+
+[@ITEM 499 (L2) ]
+\0
+
+[@ITEM 499 (FR) ]
+327 Berceau de la lumière - Antiquité ?\0
+
+[@ITEM 500 (L1) ]
+\0
+
+[@ITEM 500 (EN) ]
+328 Zeal Palace - Janus's Chamber\0
+
+[@ITEM 500 (L2) ]
+\0
+
+[@ITEM 500 (FR) ]
+328 Palais de Zhyle - Chambre de Janus\0
+
+[@ITEM 501 (L1) ]
+\0
+
+[@ITEM 501 (EN) ]
+329 Zeal Palace - Sealed Door (Unopened)\0
+
+[@ITEM 501 (L2) ]
+\0
+
+[@ITEM 501 (FR) ]
+329 Palais de Zhyle - Porte scellée (pas ouverte)\0
+
+[@ITEM 502 (L1) ]
+\0
+
+[@ITEM 502 (EN) ]
+330 Zeal Palace - Sealed Door (Opened)\0
+
+[@ITEM 502 (L2) ]
+\0
+
+[@ITEM 502 (FR) ]
+330 Palais de Zhyle - Porte scellée (ouverte)\0
+
+[@ITEM 503 (L1) ]
+\0
+
+[@ITEM 503 (EN) ]
+331 Zeal Palace - Mammon Machine - 1\0
+
+[@ITEM 503 (L2) ]
+\0
+
+[@ITEM 503 (FR) ]
+331 Palais de Zhyle - Salle du Réceptacle sacré 1\0
+
+[@ITEM 504 (L1) ]
+\0
+
+[@ITEM 504 (EN) ]
+332 Zeal Palace - Queen's Chamber - 1\0
+
+[@ITEM 504 (L2) ]
+\0
+
+[@ITEM 504 (FR) ]
+332 Palais de Zhyle - Chambre de la reine 1\0
+
+[@ITEM 505 (L1) ]
+\0
+
+[@ITEM 505 (EN) ]
+333 Zeal Palace - Mammon Machine - 2\0
+
+[@ITEM 505 (L2) ]
+\0
+
+[@ITEM 505 (FR) ]
+333 Palais de Zhyle - Salle du Réceptacle sacré 2\0
+
+[@ITEM 506 (L1) ]
+\0
+
+[@ITEM 506 (EN) ]
+334 Zeal Palace - Queen's Chamber - 2\0
+
+[@ITEM 506 (L2) ]
+\0
+
+[@ITEM 506 (FR) ]
+334 Palais de Zhyle - Chambre de la reine 2\0
+
+[@ITEM 507 (L1) ]
+\0
+
+[@ITEM 507 (EN) ]
+Road to the Earth\0
+
+[@ITEM 507 (L2) ]
+\0
+
+[@ITEM 507 (FR) ]
+336 Voie de la terre\0
+
+[@ITEM 508 (L1) ]
+\0
+
+[@ITEM 508 (EN) ]
+338 Dream Project - Staff, Residence\0
+
+[@ITEM 508 (L2) ]
+\0
+
+[@ITEM 508 (FR) ]
+338 Dream Team - Équipe, Résidence\0
+
+[@ITEM 509 (L1) ]
+\0
+
+[@ITEM 509 (EN) ]
+339 Dream Project - Staff, Prehistoric Forest\0
+
+[@ITEM 509 (L2) ]
+\0
+
+[@ITEM 509 (FR) ]
+339 Dream Team - Équipe, Forêt préhistorique\0
+
+[@ITEM 510 (L1) ]
+\0
+
+[@ITEM 510 (EN) ]
+340 Dream Project - Staff, Ocean Palace\0
+
+[@ITEM 510 (L2) ]
+\0
+
+[@ITEM 510 (FR) ]
+340 Dream Team - Équipe, Sanctuaire sous-marin\0
+
+[@ITEM 511 (L1) ]
+\0
+
+[@ITEM 511 (EN) ]
+341 Dream Project - Staff, Prison\0
+
+[@ITEM 511 (L2) ]
+\0
+
+[@ITEM 511 (FR) ]
+341 Dream Team - Équipe, Prison\0
+
+[@ITEM 512 (L1) ]
+\0
+
+[@ITEM 512 (EN) ]
+342 Dream Project - Staff, Terrans\0
+
+[@ITEM 512 (L2) ]
+\0
+
+[@ITEM 512 (FR) ]
+342 Dream Team - Équipe, Terriens\0
+
+[@ITEM 513 (L1) ]
+\0
+
+[@ITEM 513 (EN) ]
+343 Dream Project - Dream Staff\0
+
+[@ITEM 513 (L2) ]
+\0
+
+[@ITEM 513 (FR) ]
+343 Dream Team - Équipe\0
+
+[@ITEM 514 (L1) ]
+\0
+
+[@ITEM 514 (EN) ]
+Aris Dome\0
+
+[@ITEM 514 (L2) ]
+\0
+
+[@ITEM 514 (FR) ]
+344 Dôme d'Arris (sous-sol) 4 - Salle d'entreposage des vivres\0
+
+[@ITEM 515 (L1) ]
+\0
+
+[@ITEM 515 (EN) ]
+Small Cave\0
+
+[@ITEM 515 (L2) ]
+\0
+
+[@ITEM 515 (FR) ]
+351 Petite caverne - Portail\0
+
+[@ITEM 516 (L1) ]
+\0
+
+[@ITEM 516 (EN) ]
+Road to the Earth\0
+
+[@ITEM 516 (L2) ]
+\0
+
+[@ITEM 516 (FR) ]
+352 Voie de la terre\0
+
+[@ITEM 517 (L1) ]
+\0
+
+[@ITEM 517 (EN) ]
+Road to the Earth\0
+
+[@ITEM 517 (L2) ]
+\0
+
+[@ITEM 517 (FR) ]
+353 Voie de la terre\0
+
+[@ITEM 518 (L1) ]
+\0
+
+[@ITEM 518 (EN) ]
+Road to the Sky\0
+
+[@ITEM 518 (L2) ]
+\0
+
+[@ITEM 518 (FR) ]
+354 Voie du ciel\0
+
+[@ITEM 519 (L1) ]
+\0
+
+[@ITEM 519 (EN) ]
+Enharsa\0
+
+[@ITEM 519 (L2) ]
+\0
+
+[@ITEM 519 (FR) ]
+355 Enhassa - Place\0
+
+[@ITEM 520 (L1) ]
+\0
+
+[@ITEM 520 (EN) ]
+357 Kajar - Plaza\0
+
+[@ITEM 520 (L2) ]
+\0
+
+[@ITEM 520 (FR) ]
+357 Kajar - Grande salle\0
+
+[@ITEM 521 (L1) ]
+\0
+
+[@ITEM 521 (EN) ]
+358 Kajar - Small Room\0
+
+[@ITEM 521 (L2) ]
+\0
+
+[@ITEM 521 (FR) ]
+358 Kajar - Petite salle\0
+
+[@ITEM 522 (L1) ]
+\0
+
+[@ITEM 522 (EN) ]
+359 Kajar - Hidden Room\0
+
+[@ITEM 522 (L2) ]
+\0
+
+[@ITEM 522 (FR) ]
+359 Kajar - Salle secrète\0
+
+[@ITEM 523 (L1) ]
+\0
+
+[@ITEM 523 (EN) ]
+360 Kajar - Magic Research Lab\0
+
+[@ITEM 523 (L2) ]
+\0
+
+[@ITEM 523 (FR) ]
+360 Kajar - Laboratoire de recherche magique\0
+
+[@ITEM 524 (L1) ]
+\0
+
+[@ITEM 524 (EN) ]
+Enharsa\0
+
+[@ITEM 524 (L2) ]
+\0
+
+[@ITEM 524 (FR) ]
+361 Enhassa - Salle secrète\0
+
+[@ITEM 525 (L1) ]
+\0
+
+[@ITEM 525 (EN) ]
+362 Blackbird - Boarding Point\0
+
+[@ITEM 525 (L2) ]
+\0
+
+[@ITEM 525 (FR) ]
+362 Quai du Cygne noir\0
+
+[@ITEM 526 (L1) ]
+\0
+
+[@ITEM 526 (EN) ]
+363 Blackbird - Left Wing\0
+
+[@ITEM 526 (L2) ]
+\0
+
+[@ITEM 526 (FR) ]
+363 Cygne noir - Aile gauche\0
+
+[@ITEM 527 (L1) ]
+\0
+
+[@ITEM 527 (EN) ]
+364 Blackbird - Right Deck\0
+
+[@ITEM 527 (L2) ]
+\0
+
+[@ITEM 527 (FR) ]
+364 Cygne noir - Pont droit\0
+
+[@ITEM 528 (L1) ]
+\0
+
+[@ITEM 528 (EN) ]
+365 Blackbird - Left Deck\0
+
+[@ITEM 528 (L2) ]
+\0
+
+[@ITEM 528 (FR) ]
+365 Cygne noir - Pont gauche\0
+
+[@ITEM 529 (L1) ]
+\0
+
+[@ITEM 529 (EN) ]
+366 Blackbird - Panorama\0
+
+[@ITEM 529 (L2) ]
+\0
+
+[@ITEM 529 (FR) ]
+366 Cygne noir - Panorama\0
+
+[@ITEM 530 (L1) ]
+\0
+
+[@ITEM 530 (EN) ]
+367 Blackbird - Epoch Upgrade Room\0
+
+[@ITEM 530 (L2) ]
+\0
+
+[@ITEM 530 (FR) ]
+367 Cygne noir - Salle de modification de l'Ibis\0
+
+[@ITEM 531 (L1) ]
+\0
+
+[@ITEM 531 (EN) ]
+368 Blackbird - Rearward Passage\0
+
+[@ITEM 531 (L2) ]
+\0
+
+[@ITEM 531 (FR) ]
+368 Cygne noir - Passage arrière\0
+
+[@ITEM 532 (L1) ]
+\0
+
+[@ITEM 532 (EN) ]
+369 Blackbird - Forward Passage\0
+
+[@ITEM 532 (L2) ]
+\0
+
+[@ITEM 532 (FR) ]
+369 Cygne noir - Passage avant\0
+
+[@ITEM 533 (L1) ]
+\0
+
+[@ITEM 533 (EN) ]
+370 Blackbird Room 1\0
+
+[@ITEM 533 (L2) ]
+\0
+
+[@ITEM 533 (FR) ]
+370 Cygne noir - Salle 1\0
+
+[@ITEM 534 (L1) ]
+\0
+
+[@ITEM 534 (EN) ]
+371 Blackbird Room 2\0
+
+[@ITEM 534 (L2) ]
+\0
+
+[@ITEM 534 (FR) ]
+371 Cygne noir - Salle 2\0
+
+[@ITEM 535 (L1) ]
+\0
+
+[@ITEM 535 (EN) ]
+372 Blackbird Room 3\0
+
+[@ITEM 535 (L2) ]
+\0
+
+[@ITEM 535 (FR) ]
+372 Cygne noir - Salle 3\0
+
+[@ITEM 536 (L1) ]
+\0
+
+[@ITEM 536 (EN) ]
+373 Blackbird Room 4\0
+
+[@ITEM 536 (L2) ]
+\0
+
+[@ITEM 536 (FR) ]
+373 Cygne noir - Salle 4\0
+
+[@ITEM 537 (L1) ]
+\0
+
+[@ITEM 537 (EN) ]
+374 Blackbird Room 5\0
+
+[@ITEM 537 (L2) ]
+\0
+
+[@ITEM 537 (FR) ]
+374 Cygne noir - Salle 5\0
+
+[@ITEM 538 (L1) ]
+\0
+
+[@ITEM 538 (EN) ]
+375 Blackbird Room 6\0
+
+[@ITEM 538 (L2) ]
+\0
+
+[@ITEM 538 (FR) ]
+375 Cygne noir - Salle 6\0
+
+[@ITEM 539 (L1) ]
+\0
+
+[@ITEM 539 (EN) ]
+376 Blackbird - Ventillation Shaft\0
+
+[@ITEM 539 (L2) ]
+\0
+
+[@ITEM 539 (FR) ]
+376 Cygne noir - Conduit d'aération\0
+
+[@ITEM 540 (L1) ]
+\0
+
+[@ITEM 540 (EN) ]
+378 Dream Project - Staff, Future Factory\0
+
+[@ITEM 540 (L2) ]
+\0
+
+[@ITEM 540 (FR) ]
+378 Dream Team - Équipe, Usine du Futur\0
+
+[@ITEM 541 (L1) ]
+\0
+
+[@ITEM 541 (EN) ]
+379 Dream Project - End of Time\0
+
+[@ITEM 541 (L2) ]
+\0
+
+[@ITEM 541 (FR) ]
+379 Dream Team - Fin des temps\0
+
+[@ITEM 542 (L1) ]
+\0
+
+[@ITEM 542 (EN) ]
+380 Algetty - Panorama\0
+
+[@ITEM 542 (L2) ]
+\0
+
+[@ITEM 542 (FR) ]
+380 Alguetti - Panorama\0
+
+[@ITEM 543 (L1) ]
+\0
+
+[@ITEM 543 (EN) ]
+381 Algetty - Inn\0
+
+[@ITEM 543 (L2) ]
+\0
+
+[@ITEM 543 (FR) ]
+381 Alguetti - Auberge\0
+
+[@ITEM 544 (L1) ]
+\0
+
+[@ITEM 544 (EN) ]
+382 Algetty - Elder's Room\0
+
+[@ITEM 544 (L2) ]
+\0
+
+[@ITEM 544 (FR) ]
+382 Alguetti - Salle de l'ancien\0
+
+[@ITEM 545 (L1) ]
+\0
+
+[@ITEM 545 (EN) ]
+383 Algetty Resident's Room\0
+
+[@ITEM 545 (L2) ]
+\0
+
+[@ITEM 545 (FR) ]
+383 Alguetti - Salle d'un habitant\0
+
+[@ITEM 546 (L1) ]
+\0
+
+[@ITEM 546 (EN) ]
+384 Algetty - Item Shop\0
+
+[@ITEM 546 (L2) ]
+\0
+
+[@ITEM 546 (FR) ]
+384 Alguetti - Magasin\0
+
+[@ITEM 547 (L1) ]
+\0
+
+[@ITEM 547 (EN) ]
+Mud-Eater\0
+
+[@ITEM 547 (L2) ]
+\0
+
+[@ITEM 547 (FR) ]
+388 Nid du terraphage\0
+
+[@ITEM 548 (L1) ]
+\0
+
+[@ITEM 548 (EN) ]
+Small Cave\0
+
+[@ITEM 548 (L2) ]
+\0
+
+[@ITEM 548 (FR) ]
+389_1 Petite grotte - Continent flottant\0
+
+[@ITEM 549 (L1) ]
+\0
+
+[@ITEM 549 (EN) ]
+Small Cave\0
+
+[@ITEM 549 (L2) ]
+\0
+
+[@ITEM 549 (FR) ]
+389_2 Petite grotte - Continent flottant\0
+
+[@ITEM 550 (L1) ]
+\0
+
+[@ITEM 550 (EN) ]
+Small Cave\0
+
+[@ITEM 550 (L2) ]
+\0
+
+[@ITEM 550 (FR) ]
+389_3 Petite grotte - Continent flottant\0
+
+[@ITEM 551 (L1) ]
+\0
+
+[@ITEM 551 (EN) ]
+Small Cave\0
+
+[@ITEM 551 (L2) ]
+\0
+
+[@ITEM 551 (FR) ]
+389_4 Petite grotte - Continent flottant\0
+
+[@ITEM 552 (L1) ]
+\0
+
+[@ITEM 552 (EN) ]
+390 Dream Project - Staff, Prehistoric Hut\0
+
+[@ITEM 552 (L2) ]
+\0
+
+[@ITEM 552 (FR) ]
+390 Dream Team - Équipe, tente préhistorique\0
+
+[@ITEM 553 (L1) ]
+\0
+
+[@ITEM 553 (EN) ]
+391 Dream Project - Staff, Magus's Keep\0
+
+[@ITEM 553 (L2) ]
+\0
+
+[@ITEM 553 (FR) ]
+391 Dream Team - Équipe, Palais du Magistère\0
+
+[@ITEM 554 (L1) ]
+\0
+
+[@ITEM 554 (EN) ]
+392 Mountain of Woe - Station 3\0
+
+[@ITEM 554 (L2) ]
+\0
+
+[@ITEM 554 (FR) ]
+392 Mont du tourment - Station 3\0
+
+[@ITEM 555 (L1) ]
+\0
+
+[@ITEM 555 (EN) ]
+393 Mountain of Woe - Station 5\0
+
+[@ITEM 555 (L2) ]
+\0
+
+[@ITEM 555 (FR) ]
+393 Mont du tourment - Station 5\0
+
+[@ITEM 556 (L1) ]
+\0
+
+[@ITEM 556 (EN) ]
+394 Mountain of Woe - Base\0
+
+[@ITEM 556 (L2) ]
+\0
+
+[@ITEM 556 (FR) ]
+394 Mont du tourment - Base\0
+
+[@ITEM 557 (L1) ]
+\0
+
+[@ITEM 557 (EN) ]
+395 Mountain of Woe - Station 8\0
+
+[@ITEM 557 (L2) ]
+\0
+
+[@ITEM 557 (FR) ]
+395 Mont du tourment - Station 8\0
+
+[@ITEM 558 (L1) ]
+\0
+
+[@ITEM 558 (EN) ]
+Giga Gaia\0
+
+[@ITEM 558 (L2) ]
+\0
+
+[@ITEM 558 (FR) ]
+397 Mont du tourment - Bataille gigagaïa\0
+
+[@ITEM 559 (L1) ]
+\0
+
+[@ITEM 559 (EN) ]
+Zeal Palace\0
+
+[@ITEM 559 (L2) ]
+\0
+
+[@ITEM 559 (FR) ]
+401 Palais de Zhyle - Salle principale\0
+
+[@ITEM 560 (L1) ]
+\0
+
+[@ITEM 560 (EN) ]
+402 Zeal Palace - Passage to Janus's Room\0
+
+[@ITEM 560 (L2) ]
+\0
+
+[@ITEM 560 (FR) ]
+402 Palais de Zhyle - Corridor vers la chambre de Janus\0
+
+[@ITEM 561 (L1) ]
+\0
+
+[@ITEM 561 (EN) ]
+403 Zeal Palace - Schala's Room\0
+
+[@ITEM 561 (L2) ]
+\0
+
+[@ITEM 561 (FR) ]
+403 Palais de Zhyle - Chambre de Sarah\0
+
+[@ITEM 562 (L1) ]
+\0
+
+[@ITEM 562 (EN) ]
+404 Ocean Palace - Upon Entering\0
+
+[@ITEM 562 (L2) ]
+\0
+
+[@ITEM 562 (FR) ]
+404 Sanctuaire sous-marin - En entrant\0
+
+[@ITEM 563 (L1) ]
+\0
+
+[@ITEM 563 (EN) ]
+405 Ocean Palace - Upper Level, Main Hall\0
+
+[@ITEM 563 (L2) ]
+\0
+
+[@ITEM 563 (FR) ]
+405 Sanctuaire sous-marin - Niveau supérieur, salle principale\0
+
+[@ITEM 564 (L1) ]
+\0
+
+[@ITEM 564 (EN) ]
+406_1 Ocean Palace - Upper Level, Small Room\0
+
+[@ITEM 564 (L2) ]
+\0
+
+[@ITEM 564 (FR) ]
+406_1 Sanctuaire sous-marin - Niveau supérieur, petite salle\0
+
+[@ITEM 565 (L1) ]
+\0
+
+[@ITEM 565 (EN) ]
+406_2 Ocean Palace - Upper Level, Small Room\0
+
+[@ITEM 565 (L2) ]
+\0
+
+[@ITEM 565 (FR) ]
+406_2 Sanctuaire sous-marin - Niveau supérieur, petite salle\0
+
+[@ITEM 566 (L1) ]
+\0
+
+[@ITEM 566 (EN) ]
+406_3 Ocean Palace - Upper Level, Small Room\0
+
+[@ITEM 566 (L2) ]
+\0
+
+[@ITEM 566 (FR) ]
+406_3 Sanctuaire sous-marin - Niveau supérieur, petite salle\0
+
+[@ITEM 567 (L1) ]
+\0
+
+[@ITEM 567 (EN) ]
+406_4 Ocean Palace - Upper Level, Small Room\0
+
+[@ITEM 567 (L2) ]
+\0
+
+[@ITEM 567 (FR) ]
+406_4 Sanctuaire sous-marin - Niveau supérieur, petite salle\0
+
+[@ITEM 568 (L1) ]
+\0
+
+[@ITEM 568 (EN) ]
+406_5 Ocean Palace - Upper Level, Small Room\0
+
+[@ITEM 568 (L2) ]
+\0
+
+[@ITEM 568 (FR) ]
+406_5 Sanctuaire sous-marin - Niveau supérieur, petite salle\0
+
+[@ITEM 569 (L1) ]
+\0
+
+[@ITEM 569 (EN) ]
+406_6 Ocean Palace - Upper Level, Small Room\0
+
+[@ITEM 569 (L2) ]
+\0
+
+[@ITEM 569 (FR) ]
+406_6 Sanctuaire sous-marin - Niveau supérieur, petite salle\0
+
+[@ITEM 570 (L1) ]
+\0
+
+[@ITEM 570 (EN) ]
+407 Ocean Palace - Upper Level, Door Switch\0
+
+[@ITEM 570 (L2) ]
+\0
+
+[@ITEM 570 (FR) ]
+407 Sanctuaire sous-marin - Niveau supérieur, bouton\0
+
+[@ITEM 571 (L1) ]
+\0
+
+[@ITEM 571 (EN) ]
+408 Ocean Palace - Upper Level -> Great Stair\0
+
+[@ITEM 571 (L2) ]
+\0
+
+[@ITEM 571 (FR) ]
+408 Sanctuaire sous-marin - Niveau supérieur -> grand escalier\0
+
+[@ITEM 572 (L1) ]
+\0
+
+[@ITEM 572 (EN) ]
+409 Ocean Palace - Great Stair\0
+
+[@ITEM 572 (L2) ]
+\0
+
+[@ITEM 572 (FR) ]
+409 Sanctuaire sous-marin - Grand escalier\0
+
+[@ITEM 573 (L1) ]
+\0
+
+[@ITEM 573 (EN) ]
+410 Ocean Palace - Great Stair -> Lower Level\0
+
+[@ITEM 573 (L2) ]
+\0
+
+[@ITEM 573 (FR) ]
+410 Sanctuaire sous-marin - Grand escalier -> Niveau inférieur\0
+
+[@ITEM 574 (L1) ]
+\0
+
+[@ITEM 574 (EN) ]
+411 Ocean Palace - Elevator (Lower Level)\0
+
+[@ITEM 574 (L2) ]
+\0
+
+[@ITEM 574 (FR) ]
+411 Sanctuaire sous-marin - Ascenseur (Niveau inférieur)\0
+
+[@ITEM 575 (L1) ]
+\0
+
+[@ITEM 575 (EN) ]
+412 Ocean Palace - Lowest Level, Main Hall\0
+
+[@ITEM 575 (L2) ]
+\0
+
+[@ITEM 575 (FR) ]
+412 Sanctuaire sous-marin - Niveau inférieur, salle principale\0
+
+[@ITEM 576 (L1) ]
+\0
+
+[@ITEM 576 (EN) ]
+413 Ocean Palace - Lowest Level, Passage\0
+
+[@ITEM 576 (L2) ]
+\0
+
+[@ITEM 576 (FR) ]
+413 Sanctuaire sous-marin - Niveau inférieur, passage\0
+
+[@ITEM 577 (L1) ]
+\0
+
+[@ITEM 577 (EN) ]
+414 Ocean Palace - Golem Battle\0
+
+[@ITEM 577 (L2) ]
+\0
+
+[@ITEM 577 (FR) ]
+414 Sanctuaire sous-marin - Bataille golem\0
+
+[@ITEM 578 (L1) ]
+\0
+
+[@ITEM 578 (EN) ]
+415 Ocean Palace - Lowest Level, Mammon Machine\0
+
+[@ITEM 578 (L2) ]
+\0
+
+[@ITEM 578 (FR) ]
+415 Sanctuaire sous-marin - Niveau inférieur, Réceptacle sacré\0
+
+[@ITEM 579 (L1) ]
+\0
+
+[@ITEM 579 (EN) ]
+416 Ocean Palace - Elevator (Descending)\0
+
+[@ITEM 579 (L2) ]
+\0
+
+[@ITEM 579 (FR) ]
+416 Sanctuaire sous-marin - Ascenseur (Descendant)\0
+
+[@ITEM 580 (L1) ]
+\0
+
+[@ITEM 580 (EN) ]
+417 Ocean Palace - Elevator (Upper Level)\0
+
+[@ITEM 580 (L2) ]
+\0
+
+[@ITEM 580 (FR) ]
+417 Sanctuaire sous-marin - Ascenseur (Niveau supérieur)\0
+
+[@ITEM 581 (L1) ]
+\0
+
+[@ITEM 581 (EN) ]
+418 Ocean Palace - Elevator (Bottom Level)\0
+
+[@ITEM 581 (L2) ]
+\0
+
+[@ITEM 581 (FR) ]
+418 Sanctuaire sous-marin - Ascenseur (Profondeurs)\0
+
+[@ITEM 582 (L1) ]
+\0
+
+[@ITEM 582 (EN) ]
+423 Ocean Palace - Lavos Battle (Strongest)\0
+
+[@ITEM 582 (L2) ]
+\0
+
+[@ITEM 582 (FR) ]
+423 Sanctuaire sous-marin - Bataille Lavos (Fort)\0
+
+[@ITEM 583 (L1) ]
+\0
+
+[@ITEM 583 (EN) ]
+Spared Village Square\0
+
+[@ITEM 583 (L2) ]
+\0
+
+[@ITEM 583 (FR) ]
+424 Village des survivants - Place du village\0
+
+[@ITEM 584 (L1) ]
+\0
+
+[@ITEM 584 (EN) ]
+Spared Village\0
+
+[@ITEM 584 (L2) ]
+\0
+
+[@ITEM 584 (FR) ]
+425 Village des survivants - Lits\0
+
+[@ITEM 585 (L1) ]
+\0
+
+[@ITEM 585 (EN) ]
+426 Surviving Village - Item Shop\0
+
+[@ITEM 585 (L2) ]
+\0
+
+[@ITEM 585 (FR) ]
+426 Village des survivants - Magasin\0
+
+[@ITEM 586 (L1) ]
+\0
+
+[@ITEM 586 (EN) ]
+Spared Village\0
+
+[@ITEM 586 (L2) ]
+\0
+
+[@ITEM 586 (FR) ]
+427 Village des survivants - Résidence\0
+
+[@ITEM 587 (L1) ]
+\0
+
+[@ITEM 587 (EN) ]
+Northern Cape\0
+
+[@ITEM 587 (L2) ]
+\0
+
+[@ITEM 587 (FR) ]
+428 Cap nord\0
+
+[@ITEM 588 (L1) ]
+\0
+
+[@ITEM 588 (EN) ]
+429 Death Peak - Crono Revival Event\0
+
+[@ITEM 588 (L2) ]
+\0
+
+[@ITEM 588 (FR) ]
+429 Mont des défunts - Événement résurrection de Chrono\0
+
+[@ITEM 589 (L1) ]
+\0
+
+[@ITEM 589 (EN) ]
+430 Tyranno Lair Imprisoned Villagers\0
+
+[@ITEM 589 (L2) ]
+\0
+
+[@ITEM 589 (FR) ]
+430 Fort Tyrannos - Villageois prisonniers\0
+
+[@ITEM 590 (L1) ]
+\0
+
+[@ITEM 590 (EN) ]
+434 Leene Square - Bekkler's Lab\0
+
+[@ITEM 590 (L2) ]
+\0
+
+[@ITEM 590 (FR) ]
+434 Place de Lynne - Tente de Bekkler\0
+
+[@ITEM 591 (L1) ]
+\0
+
+[@ITEM 591 (EN) ]
+435 Magic Cave - Entrance\0
+
+[@ITEM 591 (L2) ]
+\0
+
+[@ITEM 591 (FR) ]
+435 Grotte des mystiques - Entrée\0
+
+[@ITEM 592 (L1) ]
+\0
+
+[@ITEM 592 (EN) ]
+Fiona Temple\0
+
+[@ITEM 592 (L2) ]
+\0
+
+[@ITEM 592 (FR) ]
+436 Sanctuaire de Fiona - Forêt\0
+
+[@ITEM 593 (L1) ]
+\0
+
+[@ITEM 593 (EN) ]
+437 Derelict Factory - Reject Room\0
+
+[@ITEM 593 (L2) ]
+\0
+
+[@ITEM 593 (FR) ]
+437 Usine désaffectée - Salle des rejets\0
+
+[@ITEM 594 (L1) ]
+\0
+
+[@ITEM 594 (EN) ]
+438 Guardia Castle (Present) - Hall of Justice\0
+
+[@ITEM 594 (L2) ]
+\0
+
+[@ITEM 594 (FR) ]
+438 Château de Gardia (Présent) - Tribunal\0
+
+[@ITEM 595 (L1) ]
+\0
+
+[@ITEM 595 (EN) ]
+Leene Square\0
+
+[@ITEM 595 (L2) ]
+\0
+
+[@ITEM 595 (FR) ]
+439 Place de Lynne - Arrière\0
+
+[@ITEM 596 (L1) ]
+\0
+
+[@ITEM 596 (EN) ]
+440 Guardia Castle (Present) - Treasury\0
+
+[@ITEM 596 (L2) ]
+\0
+
+[@ITEM 596 (FR) ]
+440 Château de Gardia (Présent ) - Trésorerie\0
+
+[@ITEM 597 (L1) ]
+\0
+
+[@ITEM 597 (EN) ]
+441 Guardia Castle (Present) - Before Hall of Justice\0
+
+[@ITEM 597 (L2) ]
+\0
+
+[@ITEM 597 (FR) ]
+441 Château de Gardia (Présent) - Avant tribunal\0
+
+[@ITEM 598 (L1) ]
+\0
+
+[@ITEM 598 (EN) ]
+442 Blackbird - Room 7\0
+
+[@ITEM 598 (L2) ]
+\0
+
+[@ITEM 598 (FR) ]
+442 Cygne noir - Salle 7\0
+
+[@ITEM 599 (L1) ]
+\0
+
+[@ITEM 599 (EN) ]
+443 Blackbird - Room 8\0
+
+[@ITEM 599 (L2) ]
+\0
+
+[@ITEM 599 (FR) ]
+443 Cygne noir - Salle 8\0
+
+[@ITEM 600 (L1) ]
+\0
+
+[@ITEM 600 (EN) ]
+444 Blackbird - Room 9\0
+
+[@ITEM 600 (L2) ]
+\0
+
+[@ITEM 600 (FR) ]
+444 Cygne noir - Salle 9\0
+
+[@ITEM 601 (L1) ]
+\0
+
+[@ITEM 601 (EN) ]
+445 Blackbird - Room 10\0
+
+[@ITEM 601 (L2) ]
+\0
+
+[@ITEM 601 (FR) ]
+445 Cygne noir - Salle 10\0
+
+[@ITEM 602 (L1) ]
+\0
+
+[@ITEM 602 (EN) ]
+446 Magus's Keep - Exterior Stairway 2\0
+
+[@ITEM 602 (L2) ]
+\0
+
+[@ITEM 602 (FR) ]
+446 Palais du Magistère - Extérieur Escalier 2\0
+
+[@ITEM 603 (L1) ]
+\0
+
+[@ITEM 603 (EN) ]
+447 Magus's Keep  - Before Final Magus Battle\0
+
+[@ITEM 603 (L2) ]
+\0
+
+[@ITEM 603 (FR) ]
+447 Palais du Magistère - Avant dernière bataille Magus\0
+
+[@ITEM 604 (L1) ]
+\0
+
+[@ITEM 604 (EN) ]
+449 Black Omen - Entrance\0
+
+[@ITEM 604 (L2) ]
+\0
+
+[@ITEM 604 (FR) ]
+449 Songe obscur - Entrée\0
+
+[@ITEM 605 (L1) ]
+\0
+
+[@ITEM 605 (EN) ]
+450 Black Omen - Bottom Level 5\0
+
+[@ITEM 605 (L2) ]
+\0
+
+[@ITEM 605 (FR) ]
+450 Songe obscur - Profondeurs 5\0
+
+[@ITEM 606 (L1) ]
+\0
+
+[@ITEM 606 (EN) ]
+451 Black Omen - Bottom Level 6 (Lowest Reaches)\0
+
+[@ITEM 606 (L2) ]
+\0
+
+[@ITEM 606 (FR) ]
+451 Songe obscur - Profondeurs 6 (Niveau inférieur)\0
+
+[@ITEM 607 (L1) ]
+\0
+
+[@ITEM 607 (EN) ]
+464 End of Time - Gasper's Room\0
+
+[@ITEM 607 (L2) ]
+\0
+
+[@ITEM 607 (FR) ]
+464 Fin des temps - Salle de Hasch\0
+
+[@ITEM 608 (L1) ]
+\0
+
+[@ITEM 608 (EN) ]
+465 End of Time - Spekkio's Room\0
+
+[@ITEM 608 (L2) ]
+\0
+
+[@ITEM 608 (FR) ]
+465 Fin des temps - Salle de Specchio\0
+
+[@ITEM 609 (L1) ]
+\0
+
+[@ITEM 609 (EN) ]
+466 Lavos Shell - Shell Destroyed\0
+
+[@ITEM 609 (L2) ]
+\0
+
+[@ITEM 609 (FR) ]
+466 Carapace de Lavos - Carapace détruite\0
+
+[@ITEM 610 (L1) ]
+\0
+
+[@ITEM 610 (EN) ]
+467 Lavos Shell - Battle vs Shell\0
+
+[@ITEM 610 (L2) ]
+\0
+
+[@ITEM 610 (FR) ]
+467 Carapace de Lavos - Bataille contre carapace\0
+
+[@ITEM 611 (L1) ]
+\0
+
+[@ITEM 611 (EN) ]
+Guardia Castle\0
+
+[@ITEM 611 (L2) ]
+\0
+
+[@ITEM 611 (FR) ]
+468_1 Château de Gardia - Escalier ouest\0
+
+[@ITEM 612 (L1) ]
+\0
+
+[@ITEM 612 (EN) ]
+Guardia Castle\0
+
+[@ITEM 612 (L2) ]
+\0
+
+[@ITEM 612 (FR) ]
+468_2 Château de Gardia - Escalier ouest\0
+
+[@ITEM 613 (L1) ]
+\0
+
+[@ITEM 613 (EN) ]
+Guardia Castle\0
+
+[@ITEM 613 (L2) ]
+\0
+
+[@ITEM 613 (FR) ]
+468_3 Château de Gardia - Escalier ouest\0
+
+[@ITEM 614 (L1) ]
+\0
+
+[@ITEM 614 (EN) ]
+469 Magus's Keep - Western Passage\0
+
+[@ITEM 614 (L2) ]
+\0
+
+[@ITEM 614 (FR) ]
+469 Palais du Magistère - Corridor ouest\0
+
+[@ITEM 615 (L1) ]
+\0
+
+[@ITEM 615 (EN) ]
+470 Magus's Keep - Ozzie Battle Room\0
+
+[@ITEM 615 (L2) ]
+\0
+
+[@ITEM 615 (FR) ]
+470 Palais du Magistère - Avant salle de Vinnie\0
+
+[@ITEM 616 (L1) ]
+\0
+
+[@ITEM 616 (EN) ]
+471 Magus's Keep - After Pit Trap\0
+
+[@ITEM 616 (L2) ]
+\0
+
+[@ITEM 616 (FR) ]
+471 Palais du Magistère - Devant Piège (trou)\0
+
+[@ITEM 617 (L1) ]
+\0
+
+[@ITEM 617 (EN) ]
+474 Lavos Interior - Before Final Battle\0
+
+[@ITEM 617 (L2) ]
+\0
+
+[@ITEM 617 (FR) ]
+474 Lavos Intérieur - Avant dernière bataille\0
+
+[@ITEM 618 (L1) ]
+\0
+
+[@ITEM 618 (EN) ]
+478 Blackbird - Interior Exit\0
+
+[@ITEM 618 (L2) ]
+\0
+
+[@ITEM 618 (FR) ]
+478 Cygne noir - Intérieur (sortie)\0
+
+[@ITEM 619 (L1) ]
+\0
+
+[@ITEM 619 (EN) ]
+Guardia Castle\0
+
+[@ITEM 619 (L2) ]
+\0
+
+[@ITEM 619 (FR) ]
+480_1 Château de Gardia - Escalier est\0
+
+[@ITEM 620 (L1) ]
+\0
+
+[@ITEM 620 (EN) ]
+Guardia Castle\0
+
+[@ITEM 620 (L2) ]
+\0
+
+[@ITEM 620 (FR) ]
+480_2 Château de Gardia - Escalier est\0
+
+[@ITEM 621 (L1) ]
+\0
+
+[@ITEM 621 (EN) ]
+Guardia Castle\0
+
+[@ITEM 621 (L2) ]
+\0
+
+[@ITEM 621 (FR) ]
+480_3 Château de Gardia - Escalier est\0
+
+[@ITEM 622 (L1) ]
+\0
+
+[@ITEM 622 (EN) ]
+Guardia Castle\0
+
+[@ITEM 622 (L2) ]
+\0
+
+[@ITEM 622 (FR) ]
+486_1 Château de Gardia - Escalier est\0
+
+[@ITEM 623 (L1) ]
+\0
+
+[@ITEM 623 (EN) ]
+Guardia Castle\0
+
+[@ITEM 623 (L2) ]
+\0
+
+[@ITEM 623 (FR) ]
+486_2 Château de Gardia - Escalier est\0
+
+[@ITEM 624 (L1) ]
+\0
+
+[@ITEM 624 (EN) ]
+Guardia Castle\0
+
+[@ITEM 624 (L2) ]
+\0
+
+[@ITEM 624 (FR) ]
+486_3 Château de Gardia - Escalier est\0
+
+[@ITEM 625 (L1) ]
+\0
+
+[@ITEM 625 (EN) ]
+Guardia Castle\0
+
+[@ITEM 625 (L2) ]
+\0
+
+[@ITEM 625 (FR) ]
+487_1 Château de Gardia - Escalier ouest\0
+
+[@ITEM 626 (L1) ]
+\0
+
+[@ITEM 626 (EN) ]
+Guardia Castle\0
+
+[@ITEM 626 (L2) ]
+\0
+
+[@ITEM 626 (FR) ]
+487_2 Château de Gardia - Escalier ouest\0
+
+[@ITEM 627 (L1) ]
+\0
+
+[@ITEM 627 (EN) ]
+Guardia Castle\0
+
+[@ITEM 627 (L2) ]
+\0
+
+[@ITEM 627 (FR) ]
+487_3 Château de Gardia - Escalier ouest\0
+
+[@ITEM 628 (L1) ]
+\0
+
+[@ITEM 628 (EN) ]
+Guardia Castle\0
+
+[@ITEM 628 (L2) ]
+\0
+
+[@ITEM 628 (FR) ]
+488_1 Château de Gardia - Escalier du tribunal\0
+
+[@ITEM 629 (L1) ]
+\0
+
+[@ITEM 629 (EN) ]
+Guardia Castle\0
+
+[@ITEM 629 (L2) ]
+\0
+
+[@ITEM 629 (FR) ]
+488_2 Château de Gardia - Escalier du tribunal\0
+
+[@ITEM 630 (L1) ]
+\0
+
+[@ITEM 630 (EN) ]
+Guardia Castle\0
+
+[@ITEM 630 (L2) ]
+\0
+
+[@ITEM 630 (FR) ]
+488_3 Château de Gardia - Escalier du tribunal\0
+
+[@ITEM 631 (L1) ]
+\0
+
+[@ITEM 631 (EN) ]
+489_1 Guardia Castle (Present) - Prison Stairway\0
+
+[@ITEM 631 (L2) ]
+\0
+
+[@ITEM 631 (FR) ]
+489_1 Château de Gardia (Présent) - Escalier de la prison\0
+
+[@ITEM 632 (L1) ]
+\0
+
+[@ITEM 632 (EN) ]
+489_2 Guardia Castle (Present) - Prison Stairway\0
+
+[@ITEM 632 (L2) ]
+\0
+
+[@ITEM 632 (FR) ]
+489_2 Château de Gardia (Présent) - Escalier de la prison\0
+
+[@ITEM 633 (L1) ]
+\0
+
+[@ITEM 633 (EN) ]
+489_3 Guardia Castle (Present) - Prison Stairway\0
+
+[@ITEM 633 (L2) ]
+\0
+
+[@ITEM 633 (FR) ]
+489_3 Château de Gardia (Présent) - Escalier de la prison\0
+
+[@ITEM 634 (L1) ]
+\0
+
+[@ITEM 634 (EN) ]
+495 Death Peak - Lavos Spawn - 3\0
+
+[@ITEM 634 (L2) ]
+\0
+
+[@ITEM 634 (FR) ]
+495 Mont des défunts - Larve de Lavos 3\0
+
+[@ITEM 635 (L1) ]
+\0
+
+[@ITEM 635 (EN) ]
+\0
+
+[@ITEM 635 (L2) ]
+\0
+
+[@ITEM 635 (FR) ]
+\0
+
+[@ITEM 636 (L1) ]
+\0
+
+[@ITEM 636 (EN) ]
+\0
+
+[@ITEM 636 (L2) ]
+\0
+
+[@ITEM 636 (FR) ]
+\0
+
+[@ITEM 637 (L1) ]
+\0
+
+[@ITEM 637 (EN) ]
+\0
+
+[@ITEM 637 (L2) ]
+\0
+
+[@ITEM 637 (FR) ]
+\0
+
+[@ITEM 638 (L1) ]
+\0
+
+[@ITEM 638 (EN) ]
+\0
+
+[@ITEM 638 (L2) ]
+\0
+
+[@ITEM 638 (FR) ]
+\0
+
+[@ITEM 639 (L1) ]
+\0
+
+[@ITEM 639 (EN) ]
+\0
+
+[@ITEM 639 (L2) ]
+\0
+
+[@ITEM 639 (FR) ]
+\0
+
+[@ITEM 640 (L1) ]
+\0
+
+[@ITEM 640 (EN) ]
+\0
+
+[@ITEM 640 (L2) ]
+\0
+
+[@ITEM 640 (FR) ]
+\0
+
+[@ITEM 641 (L1) ]
+\0
+
+[@ITEM 641 (EN) ]
+\0
+
+[@ITEM 641 (L2) ]
+\0
+
+[@ITEM 641 (FR) ]
+\0
+
+[@ITEM 642 (L1) ]
+\0
+
+[@ITEM 642 (EN) ]
+\0
+
+[@ITEM 642 (L2) ]
+\0
+
+[@ITEM 642 (FR) ]
+\0
+
+[@ITEM 643 (L1) ]
+\0
+
+[@ITEM 643 (EN) ]
+\0
+
+[@ITEM 643 (L2) ]
+\0
+
+[@ITEM 643 (FR) ]
+\0
+
+[@ITEM 644 (L1) ]
+\0
+
+[@ITEM 644 (EN) ]
+\0
+
+[@ITEM 644 (L2) ]
+\0
+
+[@ITEM 644 (FR) ]
+\0
+
+[@ITEM 645 (L1) ]
+\0
+
+[@ITEM 645 (EN) ]
+\0
+
+[@ITEM 645 (L2) ]
+\0
+
+[@ITEM 645 (FR) ]
+\0
+
+[@ITEM 646 (L1) ]
+\0
+
+[@ITEM 646 (EN) ]
+\0
+
+[@ITEM 646 (L2) ]
+\0
+
+[@ITEM 646 (FR) ]
+\0
+
+[@ITEM 647 (L1) ]
+\0
+
+[@ITEM 647 (EN) ]
+\0
+
+[@ITEM 647 (L2) ]
+\0
+
+[@ITEM 647 (FR) ]
+\0
+
+[@ITEM 648 (L1) ]
+\0
+
+[@ITEM 648 (EN) ]
+\0
+
+[@ITEM 648 (L2) ]
+\0
+
+[@ITEM 648 (FR) ]
+\0
+
+[@ITEM 649 (L1) ]
+\0
+
+[@ITEM 649 (EN) ]
+\0
+
+[@ITEM 649 (L2) ]
+\0
+
+[@ITEM 649 (FR) ]
+\0
+
+[@ITEM 650 (L1) ]
+\0
+
+[@ITEM 650 (EN) ]
+\0
+
+[@ITEM 650 (L2) ]
+\0
+
+[@ITEM 650 (FR) ]
+\0
+
+[@ITEM 651 (L1) ]
+\0
+
+[@ITEM 651 (EN) ]
+\0
+
+[@ITEM 651 (L2) ]
+\0
+
+[@ITEM 651 (FR) ]
+\0
+
+[@ITEM 652 (L1) ]
+\0
+
+[@ITEM 652 (EN) ]
+\0
+
+[@ITEM 652 (L2) ]
+\0
+
+[@ITEM 652 (FR) ]
+\0
+
+[@ITEM 653 (L1) ]
+\0
+
+[@ITEM 653 (EN) ]
+\0
+
+[@ITEM 653 (L2) ]
+\0
+
+[@ITEM 653 (FR) ]
+\0
+
+[@ITEM 654 (L1) ]
+\0
+
+[@ITEM 654 (EN) ]
+\0
+
+[@ITEM 654 (L2) ]
+\0
+
+[@ITEM 654 (FR) ]
+\0
+
+[@ITEM 655 (L1) ]
+\0
+
+[@ITEM 655 (EN) ]
+\0
+
+[@ITEM 655 (L2) ]
+\0
+
+[@ITEM 655 (FR) ]
+\0
+
+[@ITEM 656 (L1) ]
+\0
+
+[@ITEM 656 (EN) ]
+\0
+
+[@ITEM 656 (L2) ]
+\0
+
+[@ITEM 656 (FR) ]
+\0
+
+[@ITEM 657 (L1) ]
+\0
+
+[@ITEM 657 (EN) ]
+\0
+
+[@ITEM 657 (L2) ]
+\0
+
+[@ITEM 657 (FR) ]
+\0
+
+[@ITEM 658 (L1) ]
+\0
+
+[@ITEM 658 (EN) ]
+\0
+
+[@ITEM 658 (L2) ]
+\0
+
+[@ITEM 658 (FR) ]
+\0
+
+[@ITEM 659 (L1) ]
+\0
+
+[@ITEM 659 (EN) ]
+\0
+
+[@ITEM 659 (L2) ]
+\0
+
+[@ITEM 659 (FR) ]
+\0
+
+[@ITEM 660 (L1) ]
+\0
+
+[@ITEM 660 (EN) ]
+\0
+
+[@ITEM 660 (L2) ]
+\0
+
+[@ITEM 660 (FR) ]
+\0
+
+[@ITEM 661 (L1) ]
+\0
+
+[@ITEM 661 (EN) ]
+\0
+
+[@ITEM 661 (L2) ]
+\0
+
+[@ITEM 661 (FR) ]
+\0
+
+[@ITEM 662 (L1) ]
+\0
+
+[@ITEM 662 (EN) ]
+\0
+
+[@ITEM 662 (L2) ]
+\0
+
+[@ITEM 662 (FR) ]
+\0
+
+[@ITEM 663 (L1) ]
+\0
+
+[@ITEM 663 (EN) ]
+\0
+
+[@ITEM 663 (L2) ]
+\0
+
+[@ITEM 663 (FR) ]
+\0
+
+[@ITEM 664 (L1) ]
+\0
+
+[@ITEM 664 (EN) ]
+\0
+
+[@ITEM 664 (L2) ]
+\0
+
+[@ITEM 664 (FR) ]
+\0
+
+[@ITEM 665 (L1) ]
+\0
+
+[@ITEM 665 (EN) ]
+\0
+
+[@ITEM 665 (L2) ]
+\0
+
+[@ITEM 665 (FR) ]
+\0
+
+[@ITEM 666 (L1) ]
+\0
+
+[@ITEM 666 (EN) ]
+\0
+
+[@ITEM 666 (L2) ]
+\0
+
+[@ITEM 666 (FR) ]
+\0
+
+[@ITEM 667 (L1) ]
+\0
+
+[@ITEM 667 (EN) ]
+\0
+
+[@ITEM 667 (L2) ]
+\0
+
+[@ITEM 667 (FR) ]
+\0
+
+[@ITEM 668 (L1) ]
+\0
+
+[@ITEM 668 (EN) ]
+\0
+
+[@ITEM 668 (L2) ]
+\0
+
+[@ITEM 668 (FR) ]
+\0
+
+[@ITEM 669 (L1) ]
+\0
+
+[@ITEM 669 (EN) ]
+\0
+
+[@ITEM 669 (L2) ]
+\0
+
+[@ITEM 669 (FR) ]
+\0
+
+[@ITEM 670 (L1) ]
+\0
+
+[@ITEM 670 (EN) ]
+\0
+
+[@ITEM 670 (L2) ]
+\0
+
+[@ITEM 670 (FR) ]
+\0
+
+[@ITEM 671 (L1) ]
+\0
+
+[@ITEM 671 (EN) ]
+\0
+
+[@ITEM 671 (L2) ]
+\0
+
+[@ITEM 671 (FR) ]
+\0
+
+[@ITEM 672 (L1) ]
+\0
+
+[@ITEM 672 (EN) ]
+\0
+
+[@ITEM 672 (L2) ]
+\0
+
+[@ITEM 672 (FR) ]
+\0
+
+[@ITEM 673 (L1) ]
+\0
+
+[@ITEM 673 (EN) ]
+\0
+
+[@ITEM 673 (L2) ]
+\0
+
+[@ITEM 673 (FR) ]
+\0
+
+[@ITEM 674 (L1) ]
+\0
+
+[@ITEM 674 (EN) ]
+\0
+
+[@ITEM 674 (L2) ]
+\0
+
+[@ITEM 674 (FR) ]
+\0
+
+[@ITEM 675 (L1) ]
+\0
+
+[@ITEM 675 (EN) ]
+\0
+
+[@ITEM 675 (L2) ]
+\0
+
+[@ITEM 675 (FR) ]
+\0
+
+[@ITEM 676 (L1) ]
+\0
+
+[@ITEM 676 (EN) ]
+\0
+
+[@ITEM 676 (L2) ]
+\0
+
+[@ITEM 676 (FR) ]
+\0
+
+[@ITEM 677 (L1) ]
+\0
+
+[@ITEM 677 (EN) ]
+\0
+
+[@ITEM 677 (L2) ]
+\0
+
+[@ITEM 677 (FR) ]
+\0
+
+[@ITEM 678 (L1) ]
+\0
+
+[@ITEM 678 (EN) ]
+\0
+
+[@ITEM 678 (L2) ]
+\0
+
+[@ITEM 678 (FR) ]
+\0
+
+[@ITEM 679 (L1) ]
+\0
+
+[@ITEM 679 (EN) ]
+\0
+
+[@ITEM 679 (L2) ]
+\0
+
+[@ITEM 679 (FR) ]
+\0
+
+[@ITEM 680 (L1) ]
+\0
+
+[@ITEM 680 (EN) ]
+\0
+
+[@ITEM 680 (L2) ]
+\0
+
+[@ITEM 680 (FR) ]
+\0
+
+[@ITEM 681 (L1) ]
+\0
+
+[@ITEM 681 (EN) ]
+\0
+
+[@ITEM 681 (L2) ]
+\0
+
+[@ITEM 681 (FR) ]
+\0
+
+[@ITEM 682 (L1) ]
+\0
+
+[@ITEM 682 (EN) ]
+\0
+
+[@ITEM 682 (L2) ]
+\0
+
+[@ITEM 682 (FR) ]
+\0
+
+[@ITEM 683 (L1) ]
+\0
+
+[@ITEM 683 (EN) ]
+\0
+
+[@ITEM 683 (L2) ]
+\0
+
+[@ITEM 683 (FR) ]
+\0
+
+[@ITEM 684 (L1) ]
+\0
+
+[@ITEM 684 (EN) ]
+\0
+
+[@ITEM 684 (L2) ]
+\0
+
+[@ITEM 684 (FR) ]
+\0
+
+[@ITEM 685 (L1) ]
+\0
+
+[@ITEM 685 (EN) ]
+\0
+
+[@ITEM 685 (L2) ]
+\0
+
+[@ITEM 685 (FR) ]
+\0
+
+[@ITEM 686 (L1) ]
+\0
+
+[@ITEM 686 (EN) ]
+\0
+
+[@ITEM 686 (L2) ]
+\0
+
+[@ITEM 686 (FR) ]
+\0
+
+[@ITEM 687 (L1) ]
+\0
+
+[@ITEM 687 (EN) ]
+\0
+
+[@ITEM 687 (L2) ]
+\0
+
+[@ITEM 687 (FR) ]
+\0
+
+[@ITEM 688 (L1) ]
+\0
+
+[@ITEM 688 (EN) ]
+\0
+
+[@ITEM 688 (L2) ]
+\0
+
+[@ITEM 688 (FR) ]
+\0
+
+[@ITEM 689 (L1) ]
+\0
+
+[@ITEM 689 (EN) ]
+\0
+
+[@ITEM 689 (L2) ]
+\0
+
+[@ITEM 689 (FR) ]
+\0
+
+[@ITEM 690 (L1) ]
+\0
+
+[@ITEM 690 (EN) ]
+\0
+
+[@ITEM 690 (L2) ]
+\0
+
+[@ITEM 690 (FR) ]
+\0
+
+[@ITEM 691 (L1) ]
+\0
+
+[@ITEM 691 (EN) ]
+\0
+
+[@ITEM 691 (L2) ]
+\0
+
+[@ITEM 691 (FR) ]
+\0
+
+[@ITEM 692 (L1) ]
+\0
+
+[@ITEM 692 (EN) ]
+\0
+
+[@ITEM 692 (L2) ]
+\0
+
+[@ITEM 692 (FR) ]
+\0
+
+[@ITEM 693 (L1) ]
+\0
+
+[@ITEM 693 (EN) ]
+\0
+
+[@ITEM 693 (L2) ]
+\0
+
+[@ITEM 693 (FR) ]
+\0
+
+[@ITEM 694 (L1) ]
+\0
+
+[@ITEM 694 (EN) ]
+\0
+
+[@ITEM 694 (L2) ]
+\0
+
+[@ITEM 694 (FR) ]
+\0
+
+[@ITEM 695 (L1) ]
+\0
+
+[@ITEM 695 (EN) ]
+\0
+
+[@ITEM 695 (L2) ]
+\0
+
+[@ITEM 695 (FR) ]
+\0
+
+[@ITEM 696 (L1) ]
+\0
+
+[@ITEM 696 (EN) ]
+\0
+
+[@ITEM 696 (L2) ]
+\0
+
+[@ITEM 696 (FR) ]
+\0
+
+[@ITEM 697 (L1) ]
+\0
+
+[@ITEM 697 (EN) ]
+\0
+
+[@ITEM 697 (L2) ]
+\0
+
+[@ITEM 697 (FR) ]
+\0
+
+[@ITEM 698 (L1) ]
+\0
+
+[@ITEM 698 (EN) ]
+\0
+
+[@ITEM 698 (L2) ]
+\0
+
+[@ITEM 698 (FR) ]
+\0
+
+[@ITEM 699 (L1) ]
+\0
+
+[@ITEM 699 (EN) ]
+\0
+
+[@ITEM 699 (L2) ]
+\0
+
+[@ITEM 699 (FR) ]
+\0
+
+[@ITEM 700 (L1) ]
+\0
+
+[@ITEM 700 (EN) ]
+\0
+
+[@ITEM 700 (L2) ]
+\0
+
+[@ITEM 700 (FR) ]
+\0
+
+[@ITEM 701 (L1) ]
+\0
+
+[@ITEM 701 (EN) ]
+\0
+
+[@ITEM 701 (L2) ]
+\0
+
+[@ITEM 701 (FR) ]
+\0
+
+[@ITEM 702 (L1) ]
+\0
+
+[@ITEM 702 (EN) ]
+\0
+
+[@ITEM 702 (L2) ]
+\0
+
+[@ITEM 702 (FR) ]
+\0
+
+[@ITEM 703 (L1) ]
+\0
+
+[@ITEM 703 (EN) ]
+\0
+
+[@ITEM 703 (L2) ]
+\0
+
+[@ITEM 703 (FR) ]
+\0
+
+[@ITEM 704 (L1) ]
+\0
+
+[@ITEM 704 (EN) ]
+\0
+
+[@ITEM 704 (L2) ]
+\0
+
+[@ITEM 704 (FR) ]
+\0
+
+[@ITEM 705 (L1) ]
+\0
+
+[@ITEM 705 (EN) ]
+\0
+
+[@ITEM 705 (L2) ]
+\0
+
+[@ITEM 705 (FR) ]
+\0
+
+[@ITEM 706 (L1) ]
+\0
+
+[@ITEM 706 (EN) ]
+\0
+
+[@ITEM 706 (L2) ]
+\0
+
+[@ITEM 706 (FR) ]
+\0
+
+[@ITEM 707 (L1) ]
+\0
+
+[@ITEM 707 (EN) ]
+\0
+
+[@ITEM 707 (L2) ]
+\0
+
+[@ITEM 707 (FR) ]
+\0
+
+[@ITEM 708 (L1) ]
+\0
+
+[@ITEM 708 (EN) ]
+\0
+
+[@ITEM 708 (L2) ]
+\0
+
+[@ITEM 708 (FR) ]
+\0
+
+[@ITEM 709 (L1) ]
+\0
+
+[@ITEM 709 (EN) ]
+\0
+
+[@ITEM 709 (L2) ]
+\0
+
+[@ITEM 709 (FR) ]
+\0
+
+[@ITEM 710 (L1) ]
+\0
+
+[@ITEM 710 (EN) ]
+\0
+
+[@ITEM 710 (L2) ]
+\0
+
+[@ITEM 710 (FR) ]
+\0
+
+[@ITEM 711 (L1) ]
+\0
+
+[@ITEM 711 (EN) ]
+\0
+
+[@ITEM 711 (L2) ]
+\0
+
+[@ITEM 711 (FR) ]
+\0
+
+[@ITEM 712 (L1) ]
+\0
+
+[@ITEM 712 (EN) ]
+\0
+
+[@ITEM 712 (L2) ]
+\0
+
+[@ITEM 712 (FR) ]
+\0
+
+[@ITEM 713 (L1) ]
+\0
+
+[@ITEM 713 (EN) ]
+\0
+
+[@ITEM 713 (L2) ]
+\0
+
+[@ITEM 713 (FR) ]
+\0
+
+[@ITEM 714 (L1) ]
+\0
+
+[@ITEM 714 (EN) ]
+\0
+
+[@ITEM 714 (L2) ]
+\0
+
+[@ITEM 714 (FR) ]
+\0
+
+[@ITEM 715 (L1) ]
+\0
+
+[@ITEM 715 (EN) ]
+\0
+
+[@ITEM 715 (L2) ]
+\0
+
+[@ITEM 715 (FR) ]
+\0
+
+[@ITEM 716 (L1) ]
+\0
+
+[@ITEM 716 (EN) ]
+\0
+
+[@ITEM 716 (L2) ]
+\0
+
+[@ITEM 716 (FR) ]
+\0
+
+[@ITEM 717 (L1) ]
+\0
+
+[@ITEM 717 (EN) ]
+\0
+
+[@ITEM 717 (L2) ]
+\0
+
+[@ITEM 717 (FR) ]
+\0
+
+[@ITEM 718 (L1) ]
+\0
+
+[@ITEM 718 (EN) ]
+\0
+
+[@ITEM 718 (L2) ]
+\0
+
+[@ITEM 718 (FR) ]
+\0
+
+[@ITEM 719 (L1) ]
+\0
+
+[@ITEM 719 (EN) ]
+\0
+
+[@ITEM 719 (L2) ]
+\0
+
+[@ITEM 719 (FR) ]
+\0
+
+[@ITEM 720 (L1) ]
+\0
+
+[@ITEM 720 (EN) ]
+\0
+
+[@ITEM 720 (L2) ]
+\0
+
+[@ITEM 720 (FR) ]
+\0
+
+[@ITEM 721 (L1) ]
+\0
+
+[@ITEM 721 (EN) ]
+\0
+
+[@ITEM 721 (L2) ]
+\0
+
+[@ITEM 721 (FR) ]
+\0
+
+[@ITEM 722 (L1) ]
+\0
+
+[@ITEM 722 (EN) ]
+\0
+
+[@ITEM 722 (L2) ]
+\0
+
+[@ITEM 722 (FR) ]
+\0
+
+[@ITEM 723 (L1) ]
+\0
+
+[@ITEM 723 (EN) ]
+\0
+
+[@ITEM 723 (L2) ]
+\0
+
+[@ITEM 723 (FR) ]
+\0
+
+[@ITEM 724 (L1) ]
+\0
+
+[@ITEM 724 (EN) ]
+\0
+
+[@ITEM 724 (L2) ]
+\0
+
+[@ITEM 724 (FR) ]
+\0
+
+[@ITEM 725 (L1) ]
+\0
+
+[@ITEM 725 (EN) ]
+\0
+
+[@ITEM 725 (L2) ]
+\0
+
+[@ITEM 725 (FR) ]
+\0
+
+[@ITEM 726 (L1) ]
+\0
+
+[@ITEM 726 (EN) ]
+\0
+
+[@ITEM 726 (L2) ]
+\0
+
+[@ITEM 726 (FR) ]
+\0
+
+[@ITEM 727 (L1) ]
+\0
+
+[@ITEM 727 (EN) ]
+\0
+
+[@ITEM 727 (L2) ]
+\0
+
+[@ITEM 727 (FR) ]
+\0
+
+[@ITEM 728 (L1) ]
+\0
+
+[@ITEM 728 (EN) ]
+\0
+
+[@ITEM 728 (L2) ]
+\0
+
+[@ITEM 728 (FR) ]
+\0
+
+[@ITEM 729 (L1) ]
+\0
+
+[@ITEM 729 (EN) ]
+\0
+
+[@ITEM 729 (L2) ]
+\0
+
+[@ITEM 729 (FR) ]
+\0
+
+[@ITEM 730 (L1) ]
+\0
+
+[@ITEM 730 (EN) ]
+\0
+
+[@ITEM 730 (L2) ]
+\0
+
+[@ITEM 730 (FR) ]
+\0
+
+[@ITEM 731 (L1) ]
+\0
+
+[@ITEM 731 (EN) ]
+\0
+
+[@ITEM 731 (L2) ]
+\0
+
+[@ITEM 731 (FR) ]
+\0
+
+[@ITEM 732 (L1) ]
+\0
+
+[@ITEM 732 (EN) ]
+\0
+
+[@ITEM 732 (L2) ]
+\0
+
+[@ITEM 732 (FR) ]
+\0
+
+[@ITEM 733 (L1) ]
+\0
+
+[@ITEM 733 (EN) ]
+\0
+
+[@ITEM 733 (L2) ]
+\0
+
+[@ITEM 733 (FR) ]
+\0
+
+[@ITEM 734 (L1) ]
+\0
+
+[@ITEM 734 (EN) ]
+\0
+
+[@ITEM 734 (L2) ]
+\0
+
+[@ITEM 734 (FR) ]
+\0
+
+[@ITEM 735 (L1) ]
+\0
+
+[@ITEM 735 (EN) ]
+\0
+
+[@ITEM 735 (L2) ]
+\0
+
+[@ITEM 735 (FR) ]
+\0
+
+[@ITEM 736 (L1) ]
+\0
+
+[@ITEM 736 (EN) ]
+\0
+
+[@ITEM 736 (L2) ]
+\0
+
+[@ITEM 736 (FR) ]
+\0
+
+[@ITEM 737 (L1) ]
+\0
+
+[@ITEM 737 (EN) ]
+\0
+
+[@ITEM 737 (L2) ]
+\0
+
+[@ITEM 737 (FR) ]
+\0
+
+[@ITEM 738 (L1) ]
+\0
+
+[@ITEM 738 (EN) ]
+\0
+
+[@ITEM 738 (L2) ]
+\0
+
+[@ITEM 738 (FR) ]
+\0
+
+[@ITEM 739 (L1) ]
+\0
+
+[@ITEM 739 (EN) ]
+\0
+
+[@ITEM 739 (L2) ]
+\0
+
+[@ITEM 739 (FR) ]
+\0
+
+[@ITEM 740 (L1) ]
+\0
+
+[@ITEM 740 (EN) ]
+\0
+
+[@ITEM 740 (L2) ]
+\0
+
+[@ITEM 740 (FR) ]
+\0
+
+[@ITEM 741 (L1) ]
+\0
+
+[@ITEM 741 (EN) ]
+\0
+
+[@ITEM 741 (L2) ]
+\0
+
+[@ITEM 741 (FR) ]
+\0
+
+[@ITEM 742 (L1) ]
+\0
+
+[@ITEM 742 (EN) ]
+\0
+
+[@ITEM 742 (L2) ]
+\0
+
+[@ITEM 742 (FR) ]
+\0
+
+[@ITEM 743 (L1) ]
+\0
+
+[@ITEM 743 (EN) ]
+\0
+
+[@ITEM 743 (L2) ]
+\0
+
+[@ITEM 743 (FR) ]
+\0
+
+[@ITEM 744 (L1) ]
+\0
+
+[@ITEM 744 (EN) ]
+\0
+
+[@ITEM 744 (L2) ]
+\0
+
+[@ITEM 744 (FR) ]
+\0
+
+[@ITEM 745 (L1) ]
+\0
+
+[@ITEM 745 (EN) ]
+\0
+
+[@ITEM 745 (L2) ]
+\0
+
+[@ITEM 745 (FR) ]
+\0
+
+[@ITEM 746 (L1) ]
+\0
+
+[@ITEM 746 (EN) ]
+\0
+
+[@ITEM 746 (L2) ]
+\0
+
+[@ITEM 746 (FR) ]
+\0
+
+[@ITEM 747 (L1) ]
+\0
+
+[@ITEM 747 (EN) ]
+\0
+
+[@ITEM 747 (L2) ]
+\0
+
+[@ITEM 747 (FR) ]
+\0
+
+[@ITEM 748 (L1) ]
+\0
+
+[@ITEM 748 (EN) ]
+\0
+
+[@ITEM 748 (L2) ]
+\0
+
+[@ITEM 748 (FR) ]
+\0
+
+[@ITEM 749 (L1) ]
+\0
+
+[@ITEM 749 (EN) ]
+\0
+
+[@ITEM 749 (L2) ]
+\0
+
+[@ITEM 749 (FR) ]
+\0
+
+[@ITEM 750 (L1) ]
+\0
+
+[@ITEM 750 (EN) ]
+\0
+
+[@ITEM 750 (L2) ]
+\0
+
+[@ITEM 750 (FR) ]
+\0
+
+[@ITEM 751 (L1) ]
+\0
+
+[@ITEM 751 (EN) ]
+\0
+
+[@ITEM 751 (L2) ]
+\0
+
+[@ITEM 751 (FR) ]
+\0
+
+[@ITEM 752 (L1) ]
+\0
+
+[@ITEM 752 (EN) ]
+\0
+
+[@ITEM 752 (L2) ]
+\0
+
+[@ITEM 752 (FR) ]
+\0
+
+[@ITEM 753 (L1) ]
+\0
+
+[@ITEM 753 (EN) ]
+\0
+
+[@ITEM 753 (L2) ]
+\0
+
+[@ITEM 753 (FR) ]
+\0
+
+[@ITEM 754 (L1) ]
+\0
+
+[@ITEM 754 (EN) ]
+\0
+
+[@ITEM 754 (L2) ]
+\0
+
+[@ITEM 754 (FR) ]
+\0
+
+[@ITEM 755 (L1) ]
+\0
+
+[@ITEM 755 (EN) ]
+\0
+
+[@ITEM 755 (L2) ]
+\0
+
+[@ITEM 755 (FR) ]
+\0
+
+[@ITEM 756 (L1) ]
+\0
+
+[@ITEM 756 (EN) ]
+\0
+
+[@ITEM 756 (L2) ]
+\0
+
+[@ITEM 756 (FR) ]
+\0
+
+[@ITEM 757 (L1) ]
+\0
+
+[@ITEM 757 (EN) ]
+\0
+
+[@ITEM 757 (L2) ]
+\0
+
+[@ITEM 757 (FR) ]
+\0
+
+[@ITEM 758 (L1) ]
+\0
+
+[@ITEM 758 (EN) ]
+\0
+
+[@ITEM 758 (L2) ]
+\0
+
+[@ITEM 758 (FR) ]
+\0
+
+[@ITEM 759 (L1) ]
+\0
+
+[@ITEM 759 (EN) ]
+\0
+
+[@ITEM 759 (L2) ]
+\0
+
+[@ITEM 759 (FR) ]
+\0
+
+[@ITEM 760 (L1) ]
+\0
+
+[@ITEM 760 (EN) ]
+\0
+
+[@ITEM 760 (L2) ]
+\0
+
+[@ITEM 760 (FR) ]
+\0
+
+[@ITEM 761 (L1) ]
+\0
+
+[@ITEM 761 (EN) ]
+\0
+
+[@ITEM 761 (L2) ]
+\0
+
+[@ITEM 761 (FR) ]
+\0
+
+[@ITEM 762 (L1) ]
+\0
+
+[@ITEM 762 (EN) ]
+\0
+
+[@ITEM 762 (L2) ]
+\0
+
+[@ITEM 762 (FR) ]
+\0
+
+[@ITEM 763 (L1) ]
+\0
+
+[@ITEM 763 (EN) ]
+\0
+
+[@ITEM 763 (L2) ]
+\0
+
+[@ITEM 763 (FR) ]
+\0
+
+[@ITEM 764 (L1) ]
+\0
+
+[@ITEM 764 (EN) ]
+\0
+
+[@ITEM 764 (L2) ]
+\0
+
+[@ITEM 764 (FR) ]
+\0
+
+[@ITEM 765 (L1) ]
+\0
+
+[@ITEM 765 (EN) ]
+\0
+
+[@ITEM 765 (L2) ]
+\0
+
+[@ITEM 765 (FR) ]
+\0
+
+[@ITEM 766 (L1) ]
+\0
+
+[@ITEM 766 (EN) ]
+\0
+
+[@ITEM 766 (L2) ]
+\0
+
+[@ITEM 766 (FR) ]
+\0
+
+[@ITEM 767 (L1) ]
+\0
+
+[@ITEM 767 (EN) ]
+\0
+
+[@ITEM 767 (L2) ]
+\0
+
+[@ITEM 767 (FR) ]
+\0
+
+[@ITEM 768 (L1) ]
+\0
+
+[@ITEM 768 (EN) ]
+\0
+
+[@ITEM 768 (L2) ]
+\0
+
+[@ITEM 768 (FR) ]
+\0
+
+[@ITEM 769 (L1) ]
+\0
+
+[@ITEM 769 (EN) ]
+\0
+
+[@ITEM 769 (L2) ]
+\0
+
+[@ITEM 769 (FR) ]
+\0
+
+[@ITEM 770 (L1) ]
+\0
+
+[@ITEM 770 (EN) ]
+\0
+
+[@ITEM 770 (L2) ]
+\0
+
+[@ITEM 770 (FR) ]
+\0
+
+[@ITEM 771 (L1) ]
+\0
+
+[@ITEM 771 (EN) ]
+\0
+
+[@ITEM 771 (L2) ]
+\0
+
+[@ITEM 771 (FR) ]
+\0
+
+[@ITEM 772 (L1) ]
+\0
+
+[@ITEM 772 (EN) ]
+\0
+
+[@ITEM 772 (L2) ]
+\0
+
+[@ITEM 772 (FR) ]
+\0
+
+[@ITEM 773 (L1) ]
+\0
+
+[@ITEM 773 (EN) ]
+\0
+
+[@ITEM 773 (L2) ]
+\0
+
+[@ITEM 773 (FR) ]
+\0
+
+[@ITEM 774 (L1) ]
+\0
+
+[@ITEM 774 (EN) ]
+\0
+
+[@ITEM 774 (L2) ]
+\0
+
+[@ITEM 774 (FR) ]
+\0
+
+[@ITEM 775 (L1) ]
+\0
+
+[@ITEM 775 (EN) ]
+\0
+
+[@ITEM 775 (L2) ]
+\0
+
+[@ITEM 775 (FR) ]
+\0
+
+[@ITEM 776 (L1) ]
+\0
+
+[@ITEM 776 (EN) ]
+\0
+
+[@ITEM 776 (L2) ]
+\0
+
+[@ITEM 776 (FR) ]
+\0
+
+[@ITEM 777 (L1) ]
+\0
+
+[@ITEM 777 (EN) ]
+\0
+
+[@ITEM 777 (L2) ]
+\0
+
+[@ITEM 777 (FR) ]
+\0
+
+[@ITEM 778 (L1) ]
+\0
+
+[@ITEM 778 (EN) ]
+\0
+
+[@ITEM 778 (L2) ]
+\0
+
+[@ITEM 778 (FR) ]
+\0
+
+[@ITEM 779 (L1) ]
+\0
+
+[@ITEM 779 (EN) ]
+\0
+
+[@ITEM 779 (L2) ]
+\0
+
+[@ITEM 779 (FR) ]
+\0
+
+[@ITEM 780 (L1) ]
+\0
+
+[@ITEM 780 (EN) ]
+\0
+
+[@ITEM 780 (L2) ]
+\0
+
+[@ITEM 780 (FR) ]
+\0
+
+[@ITEM 781 (L1) ]
+\0
+
+[@ITEM 781 (EN) ]
+\0
+
+[@ITEM 781 (L2) ]
+\0
+
+[@ITEM 781 (FR) ]
+\0
+
+[@ITEM 782 (L1) ]
+\0
+
+[@ITEM 782 (EN) ]
+\0
+
+[@ITEM 782 (L2) ]
+\0
+
+[@ITEM 782 (FR) ]
+\0
+
+[@ITEM 783 (L1) ]
+\0
+
+[@ITEM 783 (EN) ]
+\0
+
+[@ITEM 783 (L2) ]
+\0
+
+[@ITEM 783 (FR) ]
+\0
+
+[@ITEM 784 (L1) ]
+\0
+
+[@ITEM 784 (EN) ]
+\0
+
+[@ITEM 784 (L2) ]
+\0
+
+[@ITEM 784 (FR) ]
+\0
+
+[@ITEM 785 (L1) ]
+\0
+
+[@ITEM 785 (EN) ]
+\0
+
+[@ITEM 785 (L2) ]
+\0
+
+[@ITEM 785 (FR) ]
+\0
+
+[@ITEM 786 (L1) ]
+\0
+
+[@ITEM 786 (EN) ]
+\0
+
+[@ITEM 786 (L2) ]
+\0
+
+[@ITEM 786 (FR) ]
+\0
+
+[@ITEM 787 (L1) ]
+\0
+
+[@ITEM 787 (EN) ]
+\0
+
+[@ITEM 787 (L2) ]
+\0
+
+[@ITEM 787 (FR) ]
+\0
+
+[@ITEM 788 (L1) ]
+\0
+
+[@ITEM 788 (EN) ]
+\0
+
+[@ITEM 788 (L2) ]
+\0
+
+[@ITEM 788 (FR) ]
+\0
+
+[@ITEM 789 (L1) ]
+\0
+
+[@ITEM 789 (EN) ]
+\0
+
+[@ITEM 789 (L2) ]
+\0
+
+[@ITEM 789 (FR) ]
+\0
+
+[@ITEM 790 (L1) ]
+\0
+
+[@ITEM 790 (EN) ]
+\0
+
+[@ITEM 790 (L2) ]
+\0
+
+[@ITEM 790 (FR) ]
+\0
+
+[@ITEM 791 (L1) ]
+\0
+
+[@ITEM 791 (EN) ]
+\0
+
+[@ITEM 791 (L2) ]
+\0
+
+[@ITEM 791 (FR) ]
+\0
+
+[@ITEM 792 (L1) ]
+\0
+
+[@ITEM 792 (EN) ]
+\0
+
+[@ITEM 792 (L2) ]
+\0
+
+[@ITEM 792 (FR) ]
+\0
+
+[@ITEM 793 (L1) ]
+\0
+
+[@ITEM 793 (EN) ]
+\0
+
+[@ITEM 793 (L2) ]
+\0
+
+[@ITEM 793 (FR) ]
+\0
+
+[@ITEM 794 (L1) ]
+\0
+
+[@ITEM 794 (EN) ]
+\0
+
+[@ITEM 794 (L2) ]
+\0
+
+[@ITEM 794 (FR) ]
+\0
+
+[@ITEM 795 (L1) ]
+\0
+
+[@ITEM 795 (EN) ]
+\0
+
+[@ITEM 795 (L2) ]
+\0
+
+[@ITEM 795 (FR) ]
+\0
+
+[@ITEM 796 (L1) ]
+\0
+
+[@ITEM 796 (EN) ]
+\0
+
+[@ITEM 796 (L2) ]
+\0
+
+[@ITEM 796 (FR) ]
+\0
+
+[@ITEM 797 (L1) ]
+\0
+
+[@ITEM 797 (EN) ]
+\0
+
+[@ITEM 797 (L2) ]
+\0
+
+[@ITEM 797 (FR) ]
+\0
+
+[@ITEM 798 (L1) ]
+\0
+
+[@ITEM 798 (EN) ]
+\0
+
+[@ITEM 798 (L2) ]
+\0
+
+[@ITEM 798 (FR) ]
+\0
+
+[@ITEM 799 (L1) ]
+\0
+
+[@ITEM 799 (EN) ]
+\0
+
+[@ITEM 799 (L2) ]
+\0
+
+[@ITEM 799 (FR) ]
+\0
+
+[@ITEM 800 (L1) ]
+\0
+
+[@ITEM 800 (EN) ]
+\0
+
+[@ITEM 800 (L2) ]
+\0
+
+[@ITEM 800 (FR) ]
+\0
+
+[@ITEM 801 (L1) ]
+\0
+
+[@ITEM 801 (EN) ]
+\0
+
+[@ITEM 801 (L2) ]
+\0
+
+[@ITEM 801 (FR) ]
+\0
+
+[@ITEM 802 (L1) ]
+\0
+
+[@ITEM 802 (EN) ]
+\0
+
+[@ITEM 802 (L2) ]
+\0
+
+[@ITEM 802 (FR) ]
+\0
+
+[@ITEM 803 (L1) ]
+\0
+
+[@ITEM 803 (EN) ]
+\0
+
+[@ITEM 803 (L2) ]
+\0
+
+[@ITEM 803 (FR) ]
+\0
+
+[@ITEM 804 (L1) ]
+\0
+
+[@ITEM 804 (EN) ]
+\0
+
+[@ITEM 804 (L2) ]
+\0
+
+[@ITEM 804 (FR) ]
+\0
+
+[@ITEM 805 (L1) ]
+\0
+
+[@ITEM 805 (EN) ]
+\0
+
+[@ITEM 805 (L2) ]
+\0
+
+[@ITEM 805 (FR) ]
+\0
+
+[@ITEM 806 (L1) ]
+\0
+
+[@ITEM 806 (EN) ]
+\0
+
+[@ITEM 806 (L2) ]
+\0
+
+[@ITEM 806 (FR) ]
+\0
+
+[@ITEM 807 (L1) ]
+\0
+
+[@ITEM 807 (EN) ]
+\0
+
+[@ITEM 807 (L2) ]
+\0
+
+[@ITEM 807 (FR) ]
+\0
+
+[@ITEM 808 (L1) ]
+\0
+
+[@ITEM 808 (EN) ]
+\0
+
+[@ITEM 808 (L2) ]
+\0
+
+[@ITEM 808 (FR) ]
+\0
+
+[@ITEM 809 (L1) ]
+\0
+
+[@ITEM 809 (EN) ]
+\0
+
+[@ITEM 809 (L2) ]
+\0
+
+[@ITEM 809 (FR) ]
+\0
+
+[@ITEM 810 (L1) ]
+\0
+
+[@ITEM 810 (EN) ]
+\0
+
+[@ITEM 810 (L2) ]
+\0
+
+[@ITEM 810 (FR) ]
+\0
+
+[@ITEM 811 (L1) ]
+\0
+
+[@ITEM 811 (EN) ]
+\0
+
+[@ITEM 811 (L2) ]
+\0
+
+[@ITEM 811 (FR) ]
+\0
+
+[@ITEM 812 (L1) ]
+\0
+
+[@ITEM 812 (EN) ]
+\0
+
+[@ITEM 812 (L2) ]
+\0
+
+[@ITEM 812 (FR) ]
+\0
+
+[@ITEM 813 (L1) ]
+\0
+
+[@ITEM 813 (EN) ]
+\0
+
+[@ITEM 813 (L2) ]
+\0
+
+[@ITEM 813 (FR) ]
+\0
+
+[@ITEM 814 (L1) ]
+\0
+
+[@ITEM 814 (EN) ]
+\0
+
+[@ITEM 814 (L2) ]
+\0
+
+[@ITEM 814 (FR) ]
+\0
+
+[@ITEM 815 (L1) ]
+\0
+
+[@ITEM 815 (EN) ]
+\0
+
+[@ITEM 815 (L2) ]
+\0
+
+[@ITEM 815 (FR) ]
+\0
+
+[@ITEM 816 (L1) ]
+\0
+
+[@ITEM 816 (EN) ]
+\0
+
+[@ITEM 816 (L2) ]
+\0
+
+[@ITEM 816 (FR) ]
+\0
+
+[@ITEM 817 (L1) ]
+\0
+
+[@ITEM 817 (EN) ]
+\0
+
+[@ITEM 817 (L2) ]
+\0
+
+[@ITEM 817 (FR) ]
+\0
+
+[@ITEM 818 (L1) ]
+\0
+
+[@ITEM 818 (EN) ]
+\0
+
+[@ITEM 818 (L2) ]
+\0
+
+[@ITEM 818 (FR) ]
+\0
+
+[@ITEM 819 (L1) ]
+\0
+
+[@ITEM 819 (EN) ]
+\0
+
+[@ITEM 819 (L2) ]
+\0
+
+[@ITEM 819 (FR) ]
+\0
+
+[@ITEM 820 (L1) ]
+\0
+
+[@ITEM 820 (EN) ]
+\0
+
+[@ITEM 820 (L2) ]
+\0
+
+[@ITEM 820 (FR) ]
+\0
+
+[@ITEM 821 (L1) ]
+\0
+
+[@ITEM 821 (EN) ]
+\0
+
+[@ITEM 821 (L2) ]
+\0
+
+[@ITEM 821 (FR) ]
+\0
+
+[@ITEM 822 (L1) ]
+\0
+
+[@ITEM 822 (EN) ]
+\0
+
+[@ITEM 822 (L2) ]
+\0
+
+[@ITEM 822 (FR) ]
+\0
+
+[@ITEM 823 (L1) ]
+\0
+
+[@ITEM 823 (EN) ]
+\0
+
+[@ITEM 823 (L2) ]
+\0
+
+[@ITEM 823 (FR) ]
+\0
+
+[@ITEM 824 (L1) ]
+\0
+
+[@ITEM 824 (EN) ]
+\0
+
+[@ITEM 824 (L2) ]
+\0
+
+[@ITEM 824 (FR) ]
+\0
+
+[@ITEM 825 (L1) ]
+\0
+
+[@ITEM 825 (EN) ]
+\0
+
+[@ITEM 825 (L2) ]
+\0
+
+[@ITEM 825 (FR) ]
+\0
+
+[@ITEM 826 (L1) ]
+\0
+
+[@ITEM 826 (EN) ]
+\0
+
+[@ITEM 826 (L2) ]
+\0
+
+[@ITEM 826 (FR) ]
+\0
+
+[@ITEM 827 (L1) ]
+\0
+
+[@ITEM 827 (EN) ]
+\0
+
+[@ITEM 827 (L2) ]
+\0
+
+[@ITEM 827 (FR) ]
+\0
+
+[@ITEM 828 (L1) ]
+\0
+
+[@ITEM 828 (EN) ]
+\0
+
+[@ITEM 828 (L2) ]
+\0
+
+[@ITEM 828 (FR) ]
+\0
+
+[@ITEM 829 (L1) ]
+\0
+
+[@ITEM 829 (EN) ]
+\0
+
+[@ITEM 829 (L2) ]
+\0
+
+[@ITEM 829 (FR) ]
+\0
+
+[@ITEM 830 (L1) ]
+\0
+
+[@ITEM 830 (EN) ]
+\0
+
+[@ITEM 830 (L2) ]
+\0
+
+[@ITEM 830 (FR) ]
+\0
+
+[@ITEM 831 (L1) ]
+\0
+
+[@ITEM 831 (EN) ]
+\0
+
+[@ITEM 831 (L2) ]
+\0
+
+[@ITEM 831 (FR) ]
+\0
+
+[@ITEM 832 (L1) ]
+\0
+
+[@ITEM 832 (EN) ]
+\0
+
+[@ITEM 832 (L2) ]
+\0
+
+[@ITEM 832 (FR) ]
+\0
+
+[@ITEM 833 (L1) ]
+\0
+
+[@ITEM 833 (EN) ]
+\0
+
+[@ITEM 833 (L2) ]
+\0
+
+[@ITEM 833 (FR) ]
+\0
+
+[@ITEM 834 (L1) ]
+\0
+
+[@ITEM 834 (EN) ]
+\0
+
+[@ITEM 834 (L2) ]
+\0
+
+[@ITEM 834 (FR) ]
+\0
+
+[@ITEM 835 (L1) ]
+\0
+
+[@ITEM 835 (EN) ]
+\0
+
+[@ITEM 835 (L2) ]
+\0
+
+[@ITEM 835 (FR) ]
+\0
+
+[@ITEM 836 (L1) ]
+\0
+
+[@ITEM 836 (EN) ]
+\0
+
+[@ITEM 836 (L2) ]
+\0
+
+[@ITEM 836 (FR) ]
+\0
+
+[@ITEM 837 (L1) ]
+\0
+
+[@ITEM 837 (EN) ]
+\0
+
+[@ITEM 837 (L2) ]
+\0
+
+[@ITEM 837 (FR) ]
+\0
+
+[@ITEM 838 (L1) ]
+\0
+
+[@ITEM 838 (EN) ]
+\0
+
+[@ITEM 838 (L2) ]
+\0
+
+[@ITEM 838 (FR) ]
+\0
+
+[@ITEM 839 (L1) ]
+\0
+
+[@ITEM 839 (EN) ]
+\0
+
+[@ITEM 839 (L2) ]
+\0
+
+[@ITEM 839 (FR) ]
+\0
+
+[@ITEM 840 (L1) ]
+\0
+
+[@ITEM 840 (EN) ]
+\0
+
+[@ITEM 840 (L2) ]
+\0
+
+[@ITEM 840 (FR) ]
+\0
+
+[@ITEM 841 (L1) ]
+\0
+
+[@ITEM 841 (EN) ]
+\0
+
+[@ITEM 841 (L2) ]
+\0
+
+[@ITEM 841 (FR) ]
+\0
+
+[@ITEM 842 (L1) ]
+\0
+
+[@ITEM 842 (EN) ]
+\0
+
+[@ITEM 842 (L2) ]
+\0
+
+[@ITEM 842 (FR) ]
+\0
+
+[@ITEM 843 (L1) ]
+\0
+
+[@ITEM 843 (EN) ]
+\0
+
+[@ITEM 843 (L2) ]
+\0
+
+[@ITEM 843 (FR) ]
+\0
+
+[@ITEM 844 (L1) ]
+\0
+
+[@ITEM 844 (EN) ]
+\0
+
+[@ITEM 844 (L2) ]
+\0
+
+[@ITEM 844 (FR) ]
+\0
+
+[@ITEM 845 (L1) ]
+\0
+
+[@ITEM 845 (EN) ]
+\0
+
+[@ITEM 845 (L2) ]
+\0
+
+[@ITEM 845 (FR) ]
+\0
+
+[@ITEM 846 (L1) ]
+\0
+
+[@ITEM 846 (EN) ]
+\0
+
+[@ITEM 846 (L2) ]
+\0
+
+[@ITEM 846 (FR) ]
+\0
+
+[@ITEM 847 (L1) ]
+\0
+
+[@ITEM 847 (EN) ]
+\0
+
+[@ITEM 847 (L2) ]
+\0
+
+[@ITEM 847 (FR) ]
+\0
+
+[@ITEM 848 (L1) ]
+\0
+
+[@ITEM 848 (EN) ]
+\0
+
+[@ITEM 848 (L2) ]
+\0
+
+[@ITEM 848 (FR) ]
+\0
+
+[@ITEM 849 (L1) ]
+\0
+
+[@ITEM 849 (EN) ]
+\0
+
+[@ITEM 849 (L2) ]
+\0
+
+[@ITEM 849 (FR) ]
+\0
+
+[@ITEM 850 (L1) ]
+\0
+
+[@ITEM 850 (EN) ]
+\0
+
+[@ITEM 850 (L2) ]
+\0
+
+[@ITEM 850 (FR) ]
+\0
+
+[@ITEM 851 (L1) ]
+\0
+
+[@ITEM 851 (EN) ]
+\0
+
+[@ITEM 851 (L2) ]
+\0
+
+[@ITEM 851 (FR) ]
+\0
+
+[@ITEM 852 (L1) ]
+\0
+
+[@ITEM 852 (EN) ]
+\0
+
+[@ITEM 852 (L2) ]
+\0
+
+[@ITEM 852 (FR) ]
+\0
+
+[@ITEM 853 (L1) ]
+\0
+
+[@ITEM 853 (EN) ]
+\0
+
+[@ITEM 853 (L2) ]
+\0
+
+[@ITEM 853 (FR) ]
+\0
+
+[@ITEM 854 (L1) ]
+\0
+
+[@ITEM 854 (EN) ]
+\0
+
+[@ITEM 854 (L2) ]
+\0
+
+[@ITEM 854 (FR) ]
+\0
+
+[@ITEM 855 (L1) ]
+\0
+
+[@ITEM 855 (EN) ]
+\0
+
+[@ITEM 855 (L2) ]
+\0
+
+[@ITEM 855 (FR) ]
+\0
+
+[@ITEM 856 (L1) ]
+\0
+
+[@ITEM 856 (EN) ]
+\0
+
+[@ITEM 856 (L2) ]
+\0
+
+[@ITEM 856 (FR) ]
+\0
+
+[@ITEM 857 (L1) ]
+\0
+
+[@ITEM 857 (EN) ]
+\0
+
+[@ITEM 857 (L2) ]
+\0
+
+[@ITEM 857 (FR) ]
+\0
+
+[@ITEM 858 (L1) ]
+\0
+
+[@ITEM 858 (EN) ]
+\0
+
+[@ITEM 858 (L2) ]
+\0
+
+[@ITEM 858 (FR) ]
+\0
+
+[@ITEM 859 (L1) ]
+\0
+
+[@ITEM 859 (EN) ]
+\0
+
+[@ITEM 859 (L2) ]
+\0
+
+[@ITEM 859 (FR) ]
+\0
+
+[@ITEM 860 (L1) ]
+\0
+
+[@ITEM 860 (EN) ]
+\0
+
+[@ITEM 860 (L2) ]
+\0
+
+[@ITEM 860 (FR) ]
+\0
+
+[@ITEM 861 (L1) ]
+\0
+
+[@ITEM 861 (EN) ]
+\0
+
+[@ITEM 861 (L2) ]
+\0
+
+[@ITEM 861 (FR) ]
+\0
+
+[@ITEM 862 (L1) ]
+\0
+
+[@ITEM 862 (EN) ]
+\0
+
+[@ITEM 862 (L2) ]
+\0
+
+[@ITEM 862 (FR) ]
+\0
+
+[@ITEM 863 (L1) ]
+\0
+
+[@ITEM 863 (EN) ]
+\0
+
+[@ITEM 863 (L2) ]
+\0
+
+[@ITEM 863 (FR) ]
+\0
+
+[@ITEM 864 (L1) ]
+\0
+
+[@ITEM 864 (EN) ]
+\0
+
+[@ITEM 864 (L2) ]
+\0
+
+[@ITEM 864 (FR) ]
+\0
+
+[@ITEM 865 (L1) ]
+\0
+
+[@ITEM 865 (EN) ]
+\0
+
+[@ITEM 865 (L2) ]
+\0
+
+[@ITEM 865 (FR) ]
+\0
+
+[@ITEM 866 (L1) ]
+\0
+
+[@ITEM 866 (EN) ]
+\0
+
+[@ITEM 866 (L2) ]
+\0
+
+[@ITEM 866 (FR) ]
+\0
+
+[@ITEM 867 (L1) ]
+\0
+
+[@ITEM 867 (EN) ]
+\0
+
+[@ITEM 867 (L2) ]
+\0
+
+[@ITEM 867 (FR) ]
+\0
+
+[@ITEM 868 (L1) ]
+\0
+
+[@ITEM 868 (EN) ]
+\0
+
+[@ITEM 868 (L2) ]
+\0
+
+[@ITEM 868 (FR) ]
+\0
+
+[@ITEM 869 (L1) ]
+\0
+
+[@ITEM 869 (EN) ]
+\0
+
+[@ITEM 869 (L2) ]
+\0
+
+[@ITEM 869 (FR) ]
+\0
+
+[@ITEM 870 (L1) ]
+\0
+
+[@ITEM 870 (EN) ]
+\0
+
+[@ITEM 870 (L2) ]
+\0
+
+[@ITEM 870 (FR) ]
+\0
+
+[@ITEM 871 (L1) ]
+\0
+
+[@ITEM 871 (EN) ]
+\0
+
+[@ITEM 871 (L2) ]
+\0
+
+[@ITEM 871 (FR) ]
+\0
+
+[@ITEM 872 (L1) ]
+\0
+
+[@ITEM 872 (EN) ]
+\0
+
+[@ITEM 872 (L2) ]
+\0
+
+[@ITEM 872 (FR) ]
+\0
+
+[@ITEM 873 (L1) ]
+\0
+
+[@ITEM 873 (EN) ]
+\0
+
+[@ITEM 873 (L2) ]
+\0
+
+[@ITEM 873 (FR) ]
+\0
+
+[@ITEM 874 (L1) ]
+\0
+
+[@ITEM 874 (EN) ]
+\0
+
+[@ITEM 874 (L2) ]
+\0
+
+[@ITEM 874 (FR) ]
+\0
+
+[@ITEM 875 (L1) ]
+\0
+
+[@ITEM 875 (EN) ]
+\0
+
+[@ITEM 875 (L2) ]
+\0
+
+[@ITEM 875 (FR) ]
+\0
+
+[@ITEM 876 (L1) ]
+\0
+
+[@ITEM 876 (EN) ]
+\0
+
+[@ITEM 876 (L2) ]
+\0
+
+[@ITEM 876 (FR) ]
+\0
+
+[@ITEM 877 (L1) ]
+\0
+
+[@ITEM 877 (EN) ]
+\0
+
+[@ITEM 877 (L2) ]
+\0
+
+[@ITEM 877 (FR) ]
+\0
+
+[@ITEM 878 (L1) ]
+\0
+
+[@ITEM 878 (EN) ]
+\0
+
+[@ITEM 878 (L2) ]
+\0
+
+[@ITEM 878 (FR) ]
+\0
+
+[@ITEM 879 (L1) ]
+\0
+
+[@ITEM 879 (EN) ]
+\0
+
+[@ITEM 879 (L2) ]
+\0
+
+[@ITEM 879 (FR) ]
+\0
+
+[@ITEM 880 (L1) ]
+\0
+
+[@ITEM 880 (EN) ]
+\0
+
+[@ITEM 880 (L2) ]
+\0
+
+[@ITEM 880 (FR) ]
+\0
+
+[@ITEM 881 (L1) ]
+\0
+
+[@ITEM 881 (EN) ]
+\0
+
+[@ITEM 881 (L2) ]
+\0
+
+[@ITEM 881 (FR) ]
+\0
+
+[@ITEM 882 (L1) ]
+\0
+
+[@ITEM 882 (EN) ]
+\0
+
+[@ITEM 882 (L2) ]
+\0
+
+[@ITEM 882 (FR) ]
+\0
+
+[@ITEM 883 (L1) ]
+\0
+
+[@ITEM 883 (EN) ]
+\0
+
+[@ITEM 883 (L2) ]
+\0
+
+[@ITEM 883 (FR) ]
+\0
+
+[@ITEM 884 (L1) ]
+\0
+
+[@ITEM 884 (EN) ]
+\0
+
+[@ITEM 884 (L2) ]
+\0
+
+[@ITEM 884 (FR) ]
+\0
+
+[@ITEM 885 (L1) ]
+\0
+
+[@ITEM 885 (EN) ]
+\0
+
+[@ITEM 885 (L2) ]
+\0
+
+[@ITEM 885 (FR) ]
+\0
+
+[@ITEM 886 (L1) ]
+\0
+
+[@ITEM 886 (EN) ]
+\0
+
+[@ITEM 886 (L2) ]
+\0
+
+[@ITEM 886 (FR) ]
+\0
+
+[@ITEM 887 (L1) ]
+\0
+
+[@ITEM 887 (EN) ]
+\0
+
+[@ITEM 887 (L2) ]
+\0
+
+[@ITEM 887 (FR) ]
+\0
+
+[@ITEM 888 (L1) ]
+\0
+
+[@ITEM 888 (EN) ]
+\0
+
+[@ITEM 888 (L2) ]
+\0
+
+[@ITEM 888 (FR) ]
+\0
+
+[@ITEM 889 (L1) ]
+\0
+
+[@ITEM 889 (EN) ]
+\0
+
+[@ITEM 889 (L2) ]
+\0
+
+[@ITEM 889 (FR) ]
+\0
+
+[@ITEM 890 (L1) ]
+\0
+
+[@ITEM 890 (EN) ]
+\0
+
+[@ITEM 890 (L2) ]
+\0
+
+[@ITEM 890 (FR) ]
+\0
+
+[@ITEM 891 (L1) ]
+\0
+
+[@ITEM 891 (EN) ]
+\0
+
+[@ITEM 891 (L2) ]
+\0
+
+[@ITEM 891 (FR) ]
+\0
+
+[@ITEM 892 (L1) ]
+\0
+
+[@ITEM 892 (EN) ]
+\0
+
+[@ITEM 892 (L2) ]
+\0
+
+[@ITEM 892 (FR) ]
+\0
+
+[@ITEM 893 (L1) ]
+\0
+
+[@ITEM 893 (EN) ]
+\0
+
+[@ITEM 893 (L2) ]
+\0
+
+[@ITEM 893 (FR) ]
+\0
+
+[@ITEM 894 (L1) ]
+\0
+
+[@ITEM 894 (EN) ]
+\0
+
+[@ITEM 894 (L2) ]
+\0
+
+[@ITEM 894 (FR) ]
+\0
+
+[@ITEM 895 (L1) ]
+\0
+
+[@ITEM 895 (EN) ]
+\0
+
+[@ITEM 895 (L2) ]
+\0
+
+[@ITEM 895 (FR) ]
+\0
+
+[@ITEM 896 (L1) ]
+\0
+
+[@ITEM 896 (EN) ]
+\0
+
+[@ITEM 896 (L2) ]
+\0
+
+[@ITEM 896 (FR) ]
+\0
+
+[@ITEM 897 (L1) ]
+\0
+
+[@ITEM 897 (EN) ]
+\0
+
+[@ITEM 897 (L2) ]
+\0
+
+[@ITEM 897 (FR) ]
+\0
+
+[@ITEM 898 (L1) ]
+\0
+
+[@ITEM 898 (EN) ]
+\0
+
+[@ITEM 898 (L2) ]
+\0
+
+[@ITEM 898 (FR) ]
+\0
+
+[@ITEM 899 (L1) ]
+\0
+
+[@ITEM 899 (EN) ]
+\0
+
+[@ITEM 899 (L2) ]
+\0
+
+[@ITEM 899 (FR) ]
+\0
+
+[@ITEM 900 (L1) ]
+\0
+
+[@ITEM 900 (EN) ]
+Lost Sanctum\0
+
+[@ITEM 900 (L2) ]
+\0
+
+[@ITEM 900 (FR) ]
+Sanctuaire oublié\0
+
+[@ITEM 901 (L1) ]
+\0
+
+[@ITEM 901 (EN) ]
+All monsters defeated at Millennia Wood\0
+
+[@ITEM 901 (L2) ]
+\0
+
+[@ITEM 901 (FR) ]
+Après avoir éliminé les monstres de la forêt millénaire (Préhistoire)\0
+
+[@ITEM 902 (L1) ]
+\0
+
+[@ITEM 902 (EN) ]
+"Golden Hammer" quest\0
+
+[@ITEM 902 (L2) ]
+\0
+
+[@ITEM 902 (FR) ]
+Chercher le maillet doré\0
+
+[@ITEM 903 (L1) ]
+\0
+
+[@ITEM 903 (EN) ]
+Obtained: "Golden Sand"\0
+
+[@ITEM 903 (L2) ]
+\0
+
+[@ITEM 903 (FR) ]
+Obtention du sable doré\0
+
+[@ITEM 904 (L1) ]
+\0
+
+[@ITEM 904 (EN) ]
+Sprinkling golden san\0
+
+[@ITEM 904 (L2) ]
+\0
+
+[@ITEM 904 (FR) ]
+Répandre le sable doré\0
+
+[@ITEM 905 (L1) ]
+\0
+
+[@ITEM 905 (EN) ]
+Battle for "Golden Hammer"\0
+
+[@ITEM 905 (L2) ]
+\0
+
+[@ITEM 905 (FR) ]
+Combat avec l'ogon marteleur\0
+
+[@ITEM 906 (L1) ]
+\0
+
+[@ITEM 906 (EN) ]
+After the battle for "Hammer"\0
+
+[@ITEM 906 (L2) ]
+\0
+
+[@ITEM 906 (FR) ]
+Après le combat avec l'ogon marteleur\0
+
+[@ITEM 907 (L1) ]
+\0
+
+[@ITEM 907 (EN) ]
+"Prismastone" quest\0
+
+[@ITEM 907 (L2) ]
+\0
+
+[@ITEM 907 (FR) ]
+Chercher la pierre irisée\0
+
+[@ITEM 908 (L1) ]
+\0
+
+[@ITEM 908 (EN) ]
+Battle against "Nu Guardian"\0
+
+[@ITEM 908 (L2) ]
+\0
+
+[@ITEM 908 (FR) ]
+Combat avec le gnu gardien\0
+
+[@ITEM 909 (L1) ]
+\0
+
+[@ITEM 909 (EN) ]
+After the battle against "Nu Guardian"\0
+
+[@ITEM 909 (L2) ]
+\0
+
+[@ITEM 909 (FR) ]
+Après le combat avec le gnu gardien\0
+
+[@ITEM 910 (L1) ]
+\0
+
+[@ITEM 910 (EN) ]
+Obtained: "Prismastone" (Prehistory)\0
+
+[@ITEM 910 (L2) ]
+\0
+
+[@ITEM 910 (FR) ]
+Obtention de la pierre irisée (Préhistoire)\0
+
+[@ITEM 911 (L1) ]
+\0
+
+[@ITEM 911 (EN) ]
+Bringing the prismastone to the mother\0
+
+[@ITEM 911 (L2) ]
+\0
+
+[@ITEM 911 (FR) ]
+Montrer la pierre irisée\0
+
+[@ITEM 912 (L1) ]
+\0
+
+[@ITEM 912 (EN) ]
+Showing the elusive gem (quest)\0
+
+[@ITEM 912 (L2) ]
+\0
+
+[@ITEM 912 (FR) ]
+Chercher une deuxième pierre irisée\0
+
+[@ITEM 913 (L1) ]
+\0
+
+[@ITEM 913 (EN) ]
+Obtained: "Reptmark"\0
+
+[@ITEM 913 (L2) ]
+\0
+
+[@ITEM 913 (FR) ]
+Obtention de l'emblème saurien\0
+
+[@ITEM 914 (L1) ]
+\0
+
+[@ITEM 914 (EN) ]
+Obtained: "Prismastone" (the Middle Ages)\0
+
+[@ITEM 914 (L2) ]
+\0
+
+[@ITEM 914 (FR) ]
+Obtention de la pierre irisée (Moyen-Âge)\0
+
+[@ITEM 915 (L1) ]
+\0
+
+[@ITEM 915 (EN) ]
+Complation of "Saintstone"\0
+
+[@ITEM 915 (L2) ]
+\0
+
+[@ITEM 915 (FR) ]
+Obtention de la pierre miraculeuse\0
+
+[@ITEM 916 (L1) ]
+\0
+
+[@ITEM 916 (EN) ]
+Placing "Saintstone"\0
+
+[@ITEM 916 (L2) ]
+\0
+
+[@ITEM 916 (FR) ]
+Placer la pierre miraculeuse\0
+
+[@ITEM 917 (L1) ]
+\0
+
+[@ITEM 917 (EN) ]
+Check on the strange figure (Nu Guardian)\0
+
+[@ITEM 917 (L2) ]
+\0
+
+[@ITEM 917 (FR) ]
+Accepter d'aider le gnu\0
+
+[@ITEM 918 (L1) ]
+\0
+
+[@ITEM 918 (EN) ]
+Obtained: "Sturdy Vines"\0
+
+[@ITEM 918 (L2) ]
+\0
+
+[@ITEM 918 (FR) ]
+Obtention du lierre résistant\0
+
+[@ITEM 919 (L1) ]
+\0
+
+[@ITEM 919 (EN) ]
+Leaning a ladder\0
+
+[@ITEM 919 (L2) ]
+\0
+
+[@ITEM 919 (FR) ]
+Installer l'échelle\0
+
+[@ITEM 920 (L1) ]
+\0
+
+[@ITEM 920 (EN) ]
+Before the battle against "Nu Master"\0
+
+[@ITEM 920 (L2) ]
+\0
+
+[@ITEM 920 (FR) ]
+Avant le combat avec le gnu expert\0
+
+[@ITEM 921 (L1) ]
+\0
+
+[@ITEM 921 (EN) ]
+After the battle against "Nu Master"\0
+
+[@ITEM 921 (L2) ]
+\0
+
+[@ITEM 921 (FR) ]
+Après le combat avec le gnu expert\0
+
+[@ITEM 922 (L1) ]
+\0
+
+[@ITEM 922 (EN) ]
+Obtained: "Waystone"\0
+
+[@ITEM 922 (L2) ]
+\0
+
+[@ITEM 922 (FR) ]
+Obtention de la pierre guide\0
+
+[@ITEM 923 (L1) ]
+\0
+
+[@ITEM 923 (EN) ]
+To see what lies within the lightless cave\0
+
+[@ITEM 923 (L2) ]
+\0
+
+[@ITEM 923 (FR) ]
+Explorer la grotte sombre\0
+
+[@ITEM 924 (L1) ]
+\0
+
+[@ITEM 924 (EN) ]
+Lightless Cave\0
+
+[@ITEM 924 (L2) ]
+\0
+
+[@ITEM 924 (FR) ]
+Grotte sombre\0
+
+[@ITEM 925 (L1) ]
+\0
+
+[@ITEM 925 (EN) ]
+Primeval Fortress: Battles at the entrance\0
+
+[@ITEM 925 (L2) ]
+\0
+
+[@ITEM 925 (FR) ]
+Combat à l'entrée de la forteresse antique\0
+
+[@ITEM 926 (L1) ]
+\0
+
+[@ITEM 926 (EN) ]
+Punitive expedition in Primeval Fortress\0
+
+[@ITEM 926 (L2) ]
+\0
+
+[@ITEM 926 (FR) ]
+Subjugation de la forteresse antique\0
+
+[@ITEM 927 (L1) ]
+\0
+
+[@ITEM 927 (EN) ]
+Primeval Fortress\0
+
+[@ITEM 927 (L2) ]
+\0
+
+[@ITEM 927 (FR) ]
+Forteresse antique\0
+
+[@ITEM 928 (L1) ]
+\0
+
+[@ITEM 928 (EN) ]
+Before the battle against "Archaeofangs"\0
+
+[@ITEM 928 (L2) ]
+\0
+
+[@ITEM 928 (FR) ]
+Avant le combat avec les frères dinocrocs\0
+
+[@ITEM 929 (L1) ]
+\0
+
+[@ITEM 929 (EN) ]
+After the battle against "Archaeofangs"\0
+
+[@ITEM 929 (L2) ]
+\0
+
+[@ITEM 929 (FR) ]
+Après le combat avec les frères dinocrocs\0
+
+[@ITEM 930 (L1) ]
+\0
+
+[@ITEM 930 (EN) ]
+"Building tools" quest\0
+
+[@ITEM 930 (L2) ]
+\0
+
+[@ITEM 930 (FR) ]
+Chercher des matériaux\0
+
+[@ITEM 931 (L1) ]
+\0
+
+[@ITEM 931 (EN) ]
+Obtained: "Godwood"\0
+
+[@ITEM 931 (L2) ]
+\0
+
+[@ITEM 931 (FR) ]
+Obtention du bois divin\0
+
+[@ITEM 932 (L1) ]
+\0
+
+[@ITEM 932 (EN) ]
+Obtained: "Golden Hummer"\0
+
+[@ITEM 932 (L2) ]
+\0
+
+[@ITEM 932 (FR) ]
+Obtention du maillet doré (bis)\0
+
+[@ITEM 933 (L1) ]
+\0
+
+[@ITEM 933 (EN) ]
+Obtained: "Steel Ingot"\0
+
+[@ITEM 933 (L2) ]
+\0
+
+[@ITEM 933 (FR) ]
+Obtention du morceau d'acier\0
+
+[@ITEM 934 (L1) ]
+\0
+
+[@ITEM 934 (EN) ]
+Obtained: "All the building tools"\0
+
+[@ITEM 934 (L2) ]
+\0
+
+[@ITEM 934 (FR) ]
+Obtention de tous les matériaux\0
+
+[@ITEM 935 (L1) ]
+\0
+
+[@ITEM 935 (EN) ]
+Check on the bridge builder\0
+
+[@ITEM 935 (L2) ]
+\0
+
+[@ITEM 935 (FR) ]
+Chercher le constructeur de pont\0
+
+[@ITEM 936 (L1) ]
+\0
+
+[@ITEM 936 (EN) ]
+"Great Bridge"1\0
+
+[@ITEM 936 (L2) ]
+\0
+
+[@ITEM 936 (FR) ]
+Pont 1ère partie\0
+
+[@ITEM 937 (L1) ]
+\0
+
+[@ITEM 937 (EN) ]
+Request Nu to build a bridge.\0
+
+[@ITEM 937 (L2) ]
+\0
+
+[@ITEM 937 (FR) ]
+Demander au gnu d'aider à construire le pont\0
+
+[@ITEM 938 (L1) ]
+\0
+
+[@ITEM 938 (EN) ]
+Obtained: "Hearty Lunch"\0
+
+[@ITEM 938 (L2) ]
+\0
+
+[@ITEM 938 (FR) ]
+Obtention du panier garni\0
+
+[@ITEM 939 (L1) ]
+\0
+
+[@ITEM 939 (EN) ]
+Bringing "Hearty Lunch" to Nu\0
+
+[@ITEM 939 (L2) ]
+\0
+
+[@ITEM 939 (FR) ]
+Donner le panier garni au gnu\0
+
+[@ITEM 940 (L1) ]
+\0
+
+[@ITEM 940 (EN) ]
+Obtained: "Sweet Banana"\0
+
+[@ITEM 940 (L2) ]
+\0
+
+[@ITEM 940 (FR) ]
+Obtention d'une banane sucrée\0
+
+[@ITEM 941 (L1) ]
+\0
+
+[@ITEM 941 (EN) ]
+"Great Bridge"2\0
+
+[@ITEM 941 (L2) ]
+\0
+
+[@ITEM 941 (FR) ]
+Pont 2e partie\0
+
+[@ITEM 942 (L1) ]
+\0
+
+[@ITEM 942 (EN) ]
+The reptites return to the Nu village\0
+
+[@ITEM 942 (L2) ]
+\0
+
+[@ITEM 942 (FR) ]
+Rentrer au village avec le gnu\0
+
+[@ITEM 943 (L1) ]
+\0
+
+[@ITEM 943 (EN) ]
+Investigating "Ancient Tower" quest\0
+
+[@ITEM 943 (L2) ]
+\0
+
+[@ITEM 943 (FR) ]
+Explorer la tour séculaire\0
+
+[@ITEM 944 (L1) ]
+\0
+
+[@ITEM 944 (EN) ]
+Ancient Tower\0
+
+[@ITEM 944 (L2) ]
+\0
+
+[@ITEM 944 (FR) ]
+Tour séculaire\0
+
+[@ITEM 945 (L1) ]
+\0
+
+[@ITEM 945 (EN) ]
+Before the battle against "Master-at-Arms"\0
+
+[@ITEM 945 (L2) ]
+\0
+
+[@ITEM 945 (FR) ]
+Avant le combat avec le mikado sabreur\0
+
+[@ITEM 946 (L1) ]
+\0
+
+[@ITEM 946 (EN) ]
+After the battle against "Master-at-Arms"\0
+
+[@ITEM 946 (L2) ]
+\0
+
+[@ITEM 946 (FR) ]
+Après le combat avec le mikado sabreur\0
+
+[@ITEM 947 (L1) ]
+\0
+
+[@ITEM 947 (EN) ]
+Dimensional Vortex (The Present)\0
+
+[@ITEM 947 (L2) ]
+\0
+
+[@ITEM 947 (FR) ]
+Vortex dimensionnel (Présent)\0
+
+[@ITEM 948 (L1) ]
+\0
+
+[@ITEM 948 (EN) ]
+Cave (The Present)\0
+
+[@ITEM 948 (L2) ]
+\0
+
+[@ITEM 948 (FR) ]
+Grotte sans nom (Présent)\0
+
+[@ITEM 949 (L1) ]
+\0
+
+[@ITEM 949 (EN) ]
+Before the battle against "Dalton"\0
+
+[@ITEM 949 (L2) ]
+\0
+
+[@ITEM 949 (FR) ]
+Avant le combat avec Dalton (Présent)\0
+
+[@ITEM 950 (L1) ]
+\0
+
+[@ITEM 950 (EN) ]
+After the battle against "Dalton"\0
+
+[@ITEM 950 (L2) ]
+\0
+
+[@ITEM 950 (FR) ]
+Après le combat avec Dalton\0
+
+[@ITEM 951 (L1) ]
+\0
+
+[@ITEM 951 (EN) ]
+Before the battle against "Steel Shade"\0
+
+[@ITEM 951 (L2) ]
+\0
+
+[@ITEM 951 (FR) ]
+Avant le combat avec l'ombre noire\0
+
+[@ITEM 952 (L1) ]
+\0
+
+[@ITEM 952 (EN) ]
+After the battle against "Steel Shade"\0
+
+[@ITEM 952 (L2) ]
+\0
+
+[@ITEM 952 (FR) ]
+Après le combat avec l'ombre noire\0
+
+[@ITEM 953 (L1) ]
+\0
+
+[@ITEM 953 (EN) ]
+Dimensional Vortex (Antiquity)\0
+
+[@ITEM 953 (L2) ]
+\0
+
+[@ITEM 953 (FR) ]
+Vortex dimensionnel (Antiquité)\0
+
+[@ITEM 954 (L1) ]
+\0
+
+[@ITEM 954 (EN) ]
+Cave (Antiquity)\0
+
+[@ITEM 954 (L2) ]
+\0
+
+[@ITEM 954 (FR) ]
+Grotte sans nom (Antiquité)\0
+
+[@ITEM 955 (L1) ]
+\0
+
+[@ITEM 955 (EN) ]
+Before the battle against "Alabaster Shade"\0
+
+[@ITEM 955 (L2) ]
+\0
+
+[@ITEM 955 (FR) ]
+Avant le combat avec l'ombre blanche\0
+
+[@ITEM 956 (L1) ]
+\0
+
+[@ITEM 956 (EN) ]
+After the battle against "Alabaster Shade"\0
+
+[@ITEM 956 (L2) ]
+\0
+
+[@ITEM 956 (FR) ]
+Après le combat avec l'ombre blanche\0
+
+[@ITEM 957 (L1) ]
+\0
+
+[@ITEM 957 (EN) ]
+Dimensional Vortex (Future)\0
+
+[@ITEM 957 (L2) ]
+\0
+
+[@ITEM 957 (FR) ]
+Vortex dimensionnel (Futur)\0
+
+[@ITEM 958 (L1) ]
+\0
+
+[@ITEM 958 (EN) ]
+Cave (Future)\0
+
+[@ITEM 958 (L2) ]
+\0
+
+[@ITEM 958 (FR) ]
+Grotte sans nom (Futur)\0
+
+[@ITEM 959 (L1) ]
+\0
+
+[@ITEM 959 (EN) ]
+Temporal Research Lab\0
+
+[@ITEM 959 (L2) ]
+\0
+
+[@ITEM 959 (FR) ]
+Labo spatio-temporel\0
+
+[@ITEM 960 (L1) ]
+\0
+
+[@ITEM 960 (EN) ]
+Member Change\0
+
+[@ITEM 960 (L2) ]
+\0
+
+[@ITEM 960 (FR) ]
+Changer les membres de l'équipe\0
+
+[@ITEM 961 (L1) ]
+\0
+
+[@ITEM 961 (EN) ]
+Before the battle against "Crimson Shade"\0
+
+[@ITEM 961 (L2) ]
+\0
+
+[@ITEM 961 (FR) ]
+Avant le combat avec l'ombre rouge\0
+
+[@ITEM 962 (L1) ]
+\0
+
+[@ITEM 962 (EN) ]
+Strath\0
+
+[@ITEM 962 (L2) ]
+\0
+
+[@ITEM 962 (FR) ]
+Gorge\0
+
+[@ITEM 963 (L1) ]
+\0
+
+[@ITEM 963 (EN) ]
+Hallowed Falls\0
+
+[@ITEM 963 (L2) ]
+\0
+
+[@ITEM 963 (FR) ]
+Chutes sacrées\0
+
+[@ITEM 964 (L1) ]
+\0
+
+[@ITEM 964 (EN) ]
+Ancient Keep\0
+
+[@ITEM 964 (L2) ]
+\0
+
+[@ITEM 964 (FR) ]
+Vieux château\0
+
+[@ITEM 965 (L1) ]
+\0
+
+[@ITEM 965 (EN) ]
+Curious Village(Room of Questions)\0
+
+[@ITEM 965 (L2) ]
+\0
+
+[@ITEM 965 (FR) ]
+Village étrange (salle des questions)\0
+
+[@ITEM 966 (L1) ]
+\0
+
+[@ITEM 966 (EN) ]
+Curious Village(Room of Punishment)\0
+
+[@ITEM 966 (L2) ]
+\0
+
+[@ITEM 966 (FR) ]
+Village étrange (salle des punitions)\0
+
+[@ITEM 967 (L1) ]
+\0
+
+[@ITEM 967 (EN) ]
+Time's Eclipse\0
+
+[@ITEM 967 (L2) ]
+\0
+
+[@ITEM 967 (FR) ]
+Ténèbres du temps\0
+
+[@ITEM 968 (L1) ]
+\0
+
+[@ITEM 968 (EN) ]
+\0
+
+[@ITEM 968 (L2) ]
+\0
+
+[@ITEM 968 (FR) ]
+\0
+
+[@ITEM 969 (L1) ]
+\0
+
+[@ITEM 969 (EN) ]
+\0
+
+[@ITEM 969 (L2) ]
+\0
+
+[@ITEM 969 (FR) ]
+\0
+
+[@ITEM 970 (L1) ]
+\0
+
+[@ITEM 970 (EN) ]
+\0
+
+[@ITEM 970 (L2) ]
+\0
+
+[@ITEM 970 (FR) ]
+\0
+
+[@ITEM 971 (L1) ]
+\0
+
+[@ITEM 971 (EN) ]
+\0
+
+[@ITEM 971 (L2) ]
+\0
+
+[@ITEM 971 (FR) ]
+\0
+
+[@ITEM 972 (L1) ]
+\0
+
+[@ITEM 972 (EN) ]
+\0
+
+[@ITEM 972 (L2) ]
+\0
+
+[@ITEM 972 (FR) ]
+\0
+
+[@ITEM 973 (L1) ]
+\0
+
+[@ITEM 973 (EN) ]
+\0
+
+[@ITEM 973 (L2) ]
+\0
+
+[@ITEM 973 (FR) ]
+\0
+
+[@ITEM 974 (L1) ]
+\0
+
+[@ITEM 974 (EN) ]
+\0
+
+[@ITEM 974 (L2) ]
+\0
+
+[@ITEM 974 (FR) ]
+\0
+
+[@ITEM 975 (L1) ]
+\0
+
+[@ITEM 975 (EN) ]
+\0
+
+[@ITEM 975 (L2) ]
+\0
+
+[@ITEM 975 (FR) ]
+\0
+
+[@ITEM 976 (L1) ]
+\0
+
+[@ITEM 976 (EN) ]
+\0
+
+[@ITEM 976 (L2) ]
+\0
+
+[@ITEM 976 (FR) ]
+\0
+
+[@ITEM 977 (L1) ]
+\0
+
+[@ITEM 977 (EN) ]
+\0
+
+[@ITEM 977 (L2) ]
+\0
+
+[@ITEM 977 (FR) ]
+\0
+
+[@ITEM 978 (L1) ]
+\0
+
+[@ITEM 978 (EN) ]
+\0
+
+[@ITEM 978 (L2) ]
+\0
+
+[@ITEM 978 (FR) ]
+\0
+
+[@ITEM 979 (L1) ]
+\0
+
+[@ITEM 979 (EN) ]
+\0
+
+[@ITEM 979 (L2) ]
+\0
+
+[@ITEM 979 (FR) ]
+\0
+
+[@ITEM 980 (L1) ]
+\0
+
+[@ITEM 980 (EN) ]
+\0
+
+[@ITEM 980 (L2) ]
+\0
+
+[@ITEM 980 (FR) ]
+\0
+
+[@ITEM 981 (L1) ]
+\0
+
+[@ITEM 981 (EN) ]
+\0
+
+[@ITEM 981 (L2) ]
+\0
+
+[@ITEM 981 (FR) ]
+\0
+
+[@ITEM 982 (L1) ]
+\0
+
+[@ITEM 982 (EN) ]
+\0
+
+[@ITEM 982 (L2) ]
+\0
+
+[@ITEM 982 (FR) ]
+\0
+
+[@ITEM 983 (L1) ]
+\0
+
+[@ITEM 983 (EN) ]
+\0
+
+[@ITEM 983 (L2) ]
+\0
+
+[@ITEM 983 (FR) ]
+\0
+
+[@ITEM 984 (L1) ]
+\0
+
+[@ITEM 984 (EN) ]
+\0
+
+[@ITEM 984 (L2) ]
+\0
+
+[@ITEM 984 (FR) ]
+\0
+
+[@ITEM 985 (L1) ]
+\0
+
+[@ITEM 985 (EN) ]
+\0
+
+[@ITEM 985 (L2) ]
+\0
+
+[@ITEM 985 (FR) ]
+\0
+
+[@ITEM 986 (L1) ]
+\0
+
+[@ITEM 986 (EN) ]
+\0
+
+[@ITEM 986 (L2) ]
+\0
+
+[@ITEM 986 (FR) ]
+\0
+
+[@ITEM 987 (L1) ]
+\0
+
+[@ITEM 987 (EN) ]
+\0
+
+[@ITEM 987 (L2) ]
+\0
+
+[@ITEM 987 (FR) ]
+\0
+
+[@ITEM 988 (L1) ]
+\0
+
+[@ITEM 988 (EN) ]
+\0
+
+[@ITEM 988 (L2) ]
+\0
+
+[@ITEM 988 (FR) ]
+\0
+
+[@ITEM 989 (L1) ]
+\0
+
+[@ITEM 989 (EN) ]
+\0
+
+[@ITEM 989 (L2) ]
+\0
+
+[@ITEM 989 (FR) ]
+\0
+
+[@ITEM 990 (L1) ]
+\0
+
+[@ITEM 990 (EN) ]
+\0
+
+[@ITEM 990 (L2) ]
+\0
+
+[@ITEM 990 (FR) ]
+\0
+
+[@ITEM 991 (L1) ]
+\0
+
+[@ITEM 991 (EN) ]
+\0
+
+[@ITEM 991 (L2) ]
+\0
+
+[@ITEM 991 (FR) ]
+\0
+
+[@ITEM 992 (L1) ]
+\0
+
+[@ITEM 992 (EN) ]
+\0
+
+[@ITEM 992 (L2) ]
+\0
+
+[@ITEM 992 (FR) ]
+\0
+
+[@ITEM 993 (L1) ]
+\0
+
+[@ITEM 993 (EN) ]
+\0
+
+[@ITEM 993 (L2) ]
+\0
+
+[@ITEM 993 (FR) ]
+\0
+
+[@ITEM 994 (L1) ]
+\0
+
+[@ITEM 994 (EN) ]
+\0
+
+[@ITEM 994 (L2) ]
+\0
+
+[@ITEM 994 (FR) ]
+\0
+
+[@ITEM 995 (L1) ]
+\0
+
+[@ITEM 995 (EN) ]
+\0
+
+[@ITEM 995 (L2) ]
+\0
+
+[@ITEM 995 (FR) ]
+\0
+
+[@ITEM 996 (L1) ]
+\0
+
+[@ITEM 996 (EN) ]
+Time's Eclipse\0
+
+[@ITEM 996 (L2) ]
+\0
+
+[@ITEM 996 (FR) ]
+Ténèbres du temps\0
+
+[@ITEM 997 (L1) ]
+\0
+
+[@ITEM 997 (EN) ]
+Dimensional Vortex\0
+
+[@ITEM 997 (L2) ]
+\0
+
+[@ITEM 997 (FR) ]
+Vortex dimensionnel\0
+
+[@ITEM 998 (L1) ]
+\0
+
+[@ITEM 998 (EN) ]
+Dimensional Vortex (For Demo)\0
+
+[@ITEM 998 (L2) ]
+\0
+
+[@ITEM 998 (FR) ]
+Vortex dimensionnel (pour démo)\0
+
+[@ITEM 999 (L1) ]
+\0
+
+[@ITEM 999 (EN) ]
+\0
+
+[@ITEM 999 (L2) ]
+\0
+
+[@ITEM 999 (FR) ]
+\0
+

@@ -1,0 +1,3632 @@
+[@cmes2.msg]
+
+[@ITEM 0 (L1) ]
+\0
+
+[@ITEM 0 (EN) ]
+{Marle}: Wh, what are they? These things!?\0
+
+[@ITEM 0 (L2) ]
+\0
+
+[@ITEM 0 (FR) ]
+{Marle} : Qui sont-ils ?\0
+
+[@ITEM 1 (L1) ]
+\0
+
+[@ITEM 1 (EN) ]
+{Lucca}: Gr, green scaly skin!\0
+
+[@ITEM 1 (L2) ]
+\0
+
+[@ITEM 1 (FR) ]
+{Lucca} : Ils sont tout vert et recouverts
+d'écailles !\0
+
+[@ITEM 2 (L1) ]
+\0
+
+[@ITEM 2 (EN) ]
+{Robo}: Midway between human and dinosaur......
+It IS an unlikely mode of life.\0
+
+[@ITEM 2 (L2) ]
+\0
+
+[@ITEM 2 (FR) ]
+{Robo} : Des créatures à mi-chemin entre un humain
+et un dinosaure... Inconcevable.\0
+
+[@ITEM 3 (L1) ]
+\0
+
+[@ITEM 3 (EN) ]
+{Marle}: What'll we do, {Crono}!?\0
+
+[@ITEM 3 (L2) ]
+\0
+
+[@ITEM 3 (FR) ]
+{Marle} : Qu'allons-nous faire, {Crono} ?\0
+
+[@ITEM 4 (L1) ]
+\0
+
+[@ITEM 4 (EN) ]
+{Lucca}: There's too many!\0
+
+[@ITEM 4 (L2) ]
+\0
+
+[@ITEM 4 (FR) ]
+{Lucca} : Ils sont trop nombreux !\0
+
+[@ITEM 5 (L1) ]
+\0
+
+[@ITEM 5 (EN) ]
+{Marle}: Stroooong!\0
+
+[@ITEM 5 (L2) ]
+\0
+
+[@ITEM 5 (FR) ]
+{Marle} : Ce qu'elle est forte !\0
+
+[@ITEM 6 (L1) ]
+\0
+
+[@ITEM 6 (EN) ]
+{Lucca}: Wh, what's up with her? That woman!\0
+
+[@ITEM 6 (L2) ]
+\0
+
+[@ITEM 6 (FR) ]
+{Lucca} : Qui est-elle ?\0
+
+[@ITEM 7 (L1) ]
+\0
+
+[@ITEM 7 (EN) ]
+{Robo}: Her combat ability level far exceeds
+human levels.\0
+
+[@ITEM 7 (L2) ]
+\0
+
+[@ITEM 7 (FR) ]
+{Robo} : L'aptitude au combat de cette femme
+dépasse de loin celle d'un être humain normal.\0
+
+[@ITEM 8 (L1) ]
+\0
+
+[@ITEM 8 (EN) ]
+{Marle}: The rest are coming this way!\0
+
+[@ITEM 8 (L2) ]
+\0
+
+[@ITEM 8 (FR) ]
+{Marle} : Oh oh... Pourquoi ils nous regardent comme
+ça ?\0
+
+[@ITEM 9 (L1) ]
+\0
+
+[@ITEM 9 (EN) ]
+{Robo}: It appeaRS they have changed their
+target to US.\0
+
+[@ITEM 9 (L2) ]
+\0
+
+[@ITEM 9 (FR) ]
+{Robo} : Il semblerait que nous sommes désormais
+leur cible.\0
+
+[@ITEM 10 (L1) ]
+\0
+
+[@ITEM 10 (EN) ]
+{Marle}: Wh, what......?\0
+
+[@ITEM 10 (L2) ]
+\0
+
+[@ITEM 10 (FR) ]
+{Marle} : Qu'est-ce qu'elle nous veut ?\0
+
+[@ITEM 11 (L1) ]
+\0
+
+[@ITEM 11 (EN) ]
+{Lucca}: Wh, what......!{56}\0
+
+[@ITEM 11 (L2) ]
+\0
+
+[@ITEM 11 (FR) ]
+{Lucca} : Qu'est-ce que...!\0
+
+[@ITEM 12 (L1) ]
+\0
+
+[@ITEM 12 (EN) ]
+{Robo}: We MUST NOT EXCITE her.
+Her present mental state is extremely
+agitated.\0
+
+[@ITEM 12 (L2) ]
+\0
+
+[@ITEM 12 (FR) ]
+{Robo} : Ne la provoquez pas. Elle est déjà
+surexcitée.\0
+
+[@ITEM 13 (L1) ]
+\0
+
+[@ITEM 13 (EN) ]
+{Marle}: Kyah!\0
+
+[@ITEM 13 (L2) ]
+\0
+
+[@ITEM 13 (FR) ]
+{Marle} : Ah !\0
+
+[@ITEM 14 (L1) ]
+\0
+
+[@ITEM 14 (EN) ]
+{Lucca}: Y, you wanna fight!?\0
+
+[@ITEM 14 (L2) ]
+\0
+
+[@ITEM 14 (FR) ]
+{Lucca} : Elle veut nous attaquer ?!\0
+
+[@ITEM 15 (L1) ]
+\0
+
+[@ITEM 15 (EN) ]
+'{Crono}!\0
+
+[@ITEM 15 (L2) ]
+\0
+
+[@ITEM 15 (FR) ]
+{Crono} !\0
+
+[@ITEM 16 (L1) ]
+\0
+
+[@ITEM 16 (EN) ]
+{Robo}: Her ability to move suddenly also
+greatly excEEDS human levels.\0
+
+[@ITEM 16 (L2) ]
+\0
+
+[@ITEM 16 (FR) ]
+{Robo} : Et sa rapidité dépasse de loin celle d'un
+humain, elle aussi.\0
+
+[@ITEM 17 (L1) ]
+\0
+
+[@ITEM 17 (EN) ]
+Woman: You strong.
+What is name?{PRESS_CLEAR}
+Called {Crono}? Is good name.
+Me? My name......\0
+
+[@ITEM 17 (L2) ]
+\0
+
+[@ITEM 17 (FR) ]
+Femme : Toi être fort. Toi t'appeler comment ?{PRESS_CLEAR}
+{Crono}, hein ?
+Joli nom. Moi...\0
+
+[@ITEM 18 (L1) ]
+\0
+
+[@ITEM 18 (EN) ]
+{Ayla}: Called {Ayla}.
+{Ayla} like strong men.
+So {Ayla} like {Crono}.\0
+
+[@ITEM 18 (L2) ]
+\0
+
+[@ITEM 18 (FR) ]
+{Ayla} : Moi {Ayla}. {Ayla} aimer hommes
+forts ! {Ayla} aimer {Crono} !\0
+
+[@ITEM 19 (L1) ]
+\0
+
+[@ITEM 19 (EN) ]
+{Marle}: G, get away from her, {Crono}!\0
+
+[@ITEM 19 (L2) ]
+\0
+
+[@ITEM 19 (FR) ]
+{Marle} : Écarte-toi, {Crono} !\0
+
+[@ITEM 20 (L1) ]
+\0
+
+[@ITEM 20 (EN) ]
+{Lucca}: You've been found suitable to be Ayla's,
+Crono......\0
+
+[@ITEM 20 (L2) ]
+\0
+
+[@ITEM 20 (FR) ]
+{Lucca} : Tu as une admiratrice musclée,
+{Crono}...\0
+
+[@ITEM 21 (L1) ]
+\0
+
+[@ITEM 21 (EN) ]
+{Ayla}: Yous strong too.
+{Ayla} like strong people.
+Even if man, even if woman.\0
+
+[@ITEM 21 (L2) ]
+\0
+
+[@ITEM 21 (FR) ]
+{Ayla} : Vous être tous forts. {Ayla} aimer
+hommes forts ET femmes fortes.\0
+
+[@ITEM 22 (L1) ]
+\0
+
+[@ITEM 22 (EN) ]
+{Marle}: What's THAT supposed to mean?\0
+
+[@ITEM 22 (L2) ]
+\0
+
+[@ITEM 22 (FR) ]
+{Marle} : Ah, d'accord...\0
+
+[@ITEM 23 (L1) ]
+\0
+
+[@ITEM 23 (EN) ]
+{Lucca}: I, I'm not interested in that sort of thing{56}!\0
+
+[@ITEM 23 (L2) ]
+\0
+
+[@ITEM 23 (FR) ]
+{Lucca} : Je... Je ne suis pas intéressée !\0
+
+[@ITEM 24 (L1) ]
+\0
+
+[@ITEM 24 (EN) ]
+{Robo}: Wh, what MIGHT it BE?\0
+
+[@ITEM 24 (L2) ]
+\0
+
+[@ITEM 24 (FR) ]
+{Robo} : Qu'y a-t-il ?\0
+
+[@ITEM 25 (L1) ]
+\0
+
+[@ITEM 25 (EN) ]
+{Ayla}: You weird guy.\0
+
+[@ITEM 25 (L2) ]
+\0
+
+[@ITEM 25 (FR) ]
+{Ayla} : Toi être différent, mais toi être fort,
+aussi.\0
+
+[@ITEM 26 (L1) ]
+\0
+
+[@ITEM 26 (EN) ]
+{Robo}: It is BECAUSE I AM a robot, unlike all
+of you.\0
+
+[@ITEM 26 (L2) ]
+\0
+
+[@ITEM 26 (FR) ]
+{Robo} : C'est parce que je ne suis pas comme
+vous. Je suis un robot.\0
+
+[@ITEM 27 (L1) ]
+\0
+
+[@ITEM 27 (EN) ]
+{Ayla}: Robot? What that?
+{Ayla} not understand.\0
+
+[@ITEM 27 (L2) ]
+\0
+
+[@ITEM 27 (FR) ]
+{Ayla} : Rot-beau ? {Ayla} pas comprendre.\0
+
+[@ITEM 28 (L1) ]
+\0
+
+[@ITEM 28 (EN) ]
+{Robo}: It IS a humanoid machine built by
+humans.\0
+
+[@ITEM 28 (L2) ]
+\0
+
+[@ITEM 28 (FR) ]
+{Robo} : Je suis un automate à forme humaine créé
+par l'Homme.\0
+
+[@ITEM 29 (L1) ]
+\0
+
+[@ITEM 29 (EN) ]
+{Ayla}: What you say?
+No say not understand thing.
+{Ayla} head turn volcano.\0
+
+[@ITEM 29 (L2) ]
+\0
+
+[@ITEM 29 (FR) ]
+{Ayla} : Toi arrêter de dire choses que {Ayla}
+pas comprendre ! Tête de {Ayla} exploser !\0
+
+[@ITEM 30 (L1) ]
+\0
+
+[@ITEM 30 (EN) ]
+{Ayla}: Where Cros come from?\0
+
+[@ITEM 30 (L2) ]
+\0
+
+[@ITEM 30 (FR) ]
+{Ayla} : Vous venir d'où ?\0
+
+[@ITEM 31 (L1) ]
+\0
+
+[@ITEM 31 (EN) ]
+{Marle}: Uh, errr, I wonder how we should
+say this......\0
+
+[@ITEM 31 (L2) ]
+\0
+
+[@ITEM 31 (FR) ]
+{Marle} : Euh... Comment pourrions-nous te
+l'expliquer...?\0
+
+[@ITEM 32 (L1) ]
+\0
+
+[@ITEM 32 (EN) ]
+{Robo}: It IS impossible to explain so that THIS
+person can comprehend.\0
+
+[@ITEM 32 (L2) ]
+\0
+
+[@ITEM 32 (FR) ]
+{Robo} : Il serait impossible de le lui expliquer de
+façon à ce qu'elle comprenne.\0
+
+[@ITEM 33 (L1) ]
+\0
+
+[@ITEM 33 (EN) ]
+{Lucca}: We came from tomorrow's tomorrow's
+tomorrow's...... faaar off tomorrow.\0
+
+[@ITEM 33 (L2) ]
+\0
+
+[@ITEM 33 (FR) ]
+{Lucca} : Nous venons d'après-après-après-
+après-demain.\0
+
+[@ITEM 34 (L1) ]
+\0
+
+[@ITEM 34 (EN) ]
+{Marle}: We came from a faaar, faaar, faaar
+ahead tomorrow.\0
+
+[@ITEM 34 (L2) ]
+\0
+
+[@ITEM 34 (FR) ]
+{Marle} : Nous venons d'un jour beaucoup, beaucoup
+plus lointain que demain.\0
+
+[@ITEM 35 (L1) ]
+\0
+
+[@ITEM 35 (EN) ]
+{Ayla}: Ha, ha, ha! You interesting.
+{Ayla} like interesting people.\0
+
+[@ITEM 35 (L2) ]
+\0
+
+[@ITEM 35 (FR) ]
+{Ayla} : Ha, ha, ha ! Vous être drôles !
+{Ayla} aimer gens drôles.\0
+
+[@ITEM 36 (L1) ]
+\0
+
+[@ITEM 36 (EN) ]
+{Lucca}: This's hopeless.\0
+
+[@ITEM 36 (L2) ]
+\0
+
+[@ITEM 36 (FR) ]
+{Lucca} : Nous n'y arriverons pas.\0
+
+[@ITEM 37 (L1) ]
+\0
+
+[@ITEM 37 (EN) ]
+{Ayla}: Yous come village!
+Do welcome. Have party
+Drink sake! Dance! Fun!!\0
+
+[@ITEM 37 (L2) ]
+\0
+
+[@ITEM 37 (FR) ]
+{Ayla} : Vous venir village ! Festin de bienvenue !
+Boire ! Danser ! S'amuser !\0
+
+[@ITEM 38 (L1) ]
+\0
+
+[@ITEM 38 (EN) ]
+{Marle}: I feel pleased, but now's not the time for
+that......
+We're looking a stone called Dreamstone.\0
+
+[@ITEM 38 (L2) ]
+\0
+
+[@ITEM 38 (FR) ]
+{Marle} : C'est très gentil de nous inviter, mais nous
+sommes à la recherche d'une pierre onirique.\0
+
+[@ITEM 39 (L1) ]
+\0
+
+[@ITEM 39 (EN) ]
+{Lucca}: We very much want to come, but we're
+looking for a stone called Dreamstone.\0
+
+[@ITEM 39 (L2) ]
+\0
+
+[@ITEM 39 (FR) ]
+{Lucca} : Nous aimerions vraiment t'accompagner,
+mais nous sommes à la recherche d'une pierre onirique.\0
+
+[@ITEM 40 (L1) ]
+\0
+
+[@ITEM 40 (EN) ]
+{Ayla}: Stone? Full of stone.
+There too, here too, in village too.
+If want, give lots.\0
+
+[@ITEM 40 (L2) ]
+\0
+
+[@ITEM 40 (FR) ]
+{Ayla} : Pierre ? Pierres partout. Là-bas, ici,
+village. Si vouloir pierre, {Ayla} donner beaucoup
+de pierres.\0
+
+[@ITEM 41 (L1) ]
+\0
+
+[@ITEM 41 (EN) ]
+Ioka village this way.
+Follow {Ayla}!\0
+
+[@ITEM 41 (L2) ]
+\0
+
+[@ITEM 41 (FR) ]
+{Crono} suivre {Ayla} ! Ioka par ici !\0
+
+[@ITEM 42 (L1) ]
+\0
+
+[@ITEM 42 (EN) ]
+{Ayla}: {Crono} slow slow!\0
+
+[@ITEM 42 (L2) ]
+\0
+
+[@ITEM 42 (FR) ]
+{Ayla} : {Crono} être trop lent !\0
+
+[@ITEM 43 (L1) ]
+\0
+
+[@ITEM 43 (EN) ]
+Jump down?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 43 (L2) ]
+\0
+
+[@ITEM 43 (FR) ]
+Voulez-vous sauter ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 44 (L1) ]
+\0
+
+[@ITEM 44 (EN) ]
+Chief's tent north village.\0
+
+[@ITEM 44 (L2) ]
+\0
+
+[@ITEM 44 (FR) ]
+Tente du chef être nord du village.\0
+
+[@ITEM 45 (L1) ]
+\0
+
+[@ITEM 45 (EN) ]
+Your look lame......\0
+
+[@ITEM 45 (L2) ]
+\0
+
+[@ITEM 45 (FR) ]
+Vous porter peaux bizarres...\0
+
+[@ITEM 46 (L1) ]
+\0
+
+[@ITEM 46 (EN) ]
+You with Dinomen?
+I beat you up!\0
+
+[@ITEM 46 (L2) ]
+\0
+
+[@ITEM 46 (FR) ]
+Vous être amis des sauriens ?
+Moi vous écraser !\0
+
+[@ITEM 47 (L1) ]
+\0
+
+[@ITEM 47 (EN) ]
+Dinomen cruel cold blood.
+Dinomen hard scales.
+Need much power to beat.\0
+
+[@ITEM 47 (L2) ]
+\0
+
+[@ITEM 47 (FR) ]
+Sauriens être féroces. Sauriens avoir écailles dures.
+Pour battre sauriens, besoin de beaucoup de force.\0
+
+[@ITEM 48 (L1) ]
+\0
+
+[@ITEM 48 (EN) ]
+Red stone very pretty.
+You want see?
+Chief has.\0
+
+[@ITEM 48 (L2) ]
+\0
+
+[@ITEM 48 (FR) ]
+Pierre rouge être très jolie. Vous vouloir voir pierre
+rouge ? Chef avoir pierre rouge.\0
+
+[@ITEM 49 (L1) ]
+\0
+
+[@ITEM 49 (EN) ]
+You came that mountain?
+Many mystery things happen that mountain.
+So called Mystery Mountain.\0
+
+[@ITEM 49 (L2) ]
+\0
+
+[@ITEM 49 (FR) ]
+Vous venir de montagne ? Beaucoup de choses étranges
+dans montagne, alors nous appeler montagne « mont
+étrange ».\0
+
+[@ITEM 50 (L1) ]
+\0
+
+[@ITEM 50 (EN) ]
+Kino same too.
+Was crying at mountain one day.
+Chief raised Kino.
+Now Kino chief's right arm.\0
+
+[@ITEM 50 (L2) ]
+\0
+
+[@ITEM 50 (FR) ]
+Kino aussi venir de montagne. Un jour, Kino pleurer dans
+montagne. Chef sauver et élever Kino. Maintenant Kino
+aider chef.\0
+
+[@ITEM 51 (L1) ]
+\0
+
+[@ITEM 51 (EN) ]
+We fight Dinomen.
+Laruba clan no fight.\0
+
+[@ITEM 51 (L2) ]
+\0
+
+[@ITEM 51 (FR) ]
+Nous combattre sauriens. Tribu de Laruba pas
+combattre sauriens.\0
+
+[@ITEM 52 (L1) ]
+\0
+
+[@ITEM 52 (EN) ]
+Laruba clan hidden north forest.
+Hide here, there.
+Laruba clan cowards run from Dinomen!\0
+
+[@ITEM 52 (L2) ]
+\0
+
+[@ITEM 52 (FR) ]
+Tribu de Laruba se cacher dans forêt du nord.
+Se cacher partout ! Tribu de Laruba fuir sauriens.
+Lâches !\0
+
+[@ITEM 53 (L1) ]
+\0
+
+[@ITEM 53 (EN) ]
+Drink healthy water?
+Healthy surge up when drink.
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 53 (L2) ]
+\0
+
+[@ITEM 53 (FR) ]
+Vous vouloir boire eau de courage ? Eau de courage
+rendre fort !
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 54 (L1) ]
+\0
+
+[@ITEM 54 (EN) ]
+Rest?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 54 (L2) ]
+\0
+
+[@ITEM 54 (FR) ]
+Voulez-vous vous reposer ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 55 (L1) ]
+\0
+
+[@ITEM 55 (EN) ]
+Kino: Where you come from?
+Why came here?{PRESS_CLEAR}
+Kino not like you!\0
+
+[@ITEM 55 (L2) ]
+\0
+
+[@ITEM 55 (FR) ]
+Kino : Vous venir d'où ? Pourquoi vous venir ici ?{PRESS_CLEAR}
+Kino pas aimer vous !\0
+
+[@ITEM 56 (L1) ]
+\0
+
+[@ITEM 56 (EN) ]
+You weird.
+Got strange stuff?
+No, can't do trade chief not okay.\0
+
+[@ITEM 56 (L2) ]
+\0
+
+[@ITEM 56 (FR) ]
+Vous être bizarres. Vous vouloir troquer ? Si chef pas
+être d'accord, pas pouvoir troquer.\0
+
+[@ITEM 57 (L1) ]
+\0
+
+[@ITEM 57 (EN) ]
+Well come.
+What you have?\0
+
+[@ITEM 57 (L2) ]
+\0
+
+[@ITEM 57 (FR) ]
+Bienvenue.
+Vous vouloir troquer ?\0
+
+[@ITEM 58 (L1) ]
+\0
+
+[@ITEM 58 (EN) ]
+{MSGWND}
+Dopple chaaange!\0
+
+[@ITEM 58 (L2) ]
+\0
+
+[@ITEM 58 (FR) ]
+{MSGWND}
+Transformation !\0
+
+[@ITEM 59 (L1) ]
+\0
+
+[@ITEM 59 (EN) ]
+This trade hut.
+Swap brought stuff, various stuff.\0
+
+[@ITEM 59 (L2) ]
+\0
+
+[@ITEM 59 (FR) ]
+Ici, tente de troc. Pouvoir échanger plein d'objets.\0
+
+[@ITEM 60 (L1) ]
+\0
+
+[@ITEM 60 (EN) ]
+{Ayla}: Everyone listen!
+Made new companions!\0
+
+[@ITEM 60 (L2) ]
+\0
+
+[@ITEM 60 (FR) ]
+{Ayla} : Tout le monde écouter {Ayla} !
+Voici nouveaux amis !\0
+
+[@ITEM 61 (L1) ]
+\0
+
+[@ITEM 61 (EN) ]
+Strong man, {Crono}!\0
+
+[@ITEM 61 (L2) ]
+\0
+
+[@ITEM 61 (FR) ]
+Homme fort !
+{Crono} !\0
+
+[@ITEM 62 (L1) ]
+\0
+
+[@ITEM 62 (EN) ]
+{Crono}'s companions, {HERO2}, {HERO3}!\0
+
+[@ITEM 62 (L2) ]
+\0
+
+[@ITEM 62 (FR) ]
+Et aussi {HERO2} et {HERO3} !\0
+
+[@ITEM 63 (L1) ]
+\0
+
+[@ITEM 63 (EN) ]
+All: Uho, hohhhh!!\0
+
+[@ITEM 63 (L2) ]
+\0
+
+[@ITEM 63 (FR) ]
+Tous : Oungaaah !\0
+
+[@ITEM 64 (L1) ]
+\0
+
+[@ITEM 64 (EN) ]
+{Ayla}: Now! We dance Bobonga!!\0
+
+[@ITEM 64 (L2) ]
+\0
+
+[@ITEM 64 (FR) ]
+{Ayla} : Maintenant, danser bobonga !\0
+
+[@ITEM 65 (L1) ]
+\0
+
+[@ITEM 65 (EN) ]
+Bobonga, koinga♪
+Noinga, hoinga♪
+Sing, dance, with winds♪♪\0
+
+[@ITEM 65 (L2) ]
+\0
+
+[@ITEM 65 (FR) ]
+Bobonga, konga ! ♪
+Ounga, bounga ! ♪
+Chanter, danser avec vents ! ♪\0
+
+[@ITEM 66 (L1) ]
+\0
+
+[@ITEM 66 (EN) ]
+Bobonga, koinga♪
+Noinga, hoinga♪
+Sing, dance, with mountains♪♪\0
+
+[@ITEM 66 (L2) ]
+\0
+
+[@ITEM 66 (FR) ]
+Bobonga, konga ! ♪
+Ounga, bounga ! ♪
+Chanter, danser avec monts ! ♪\0
+
+[@ITEM 67 (L1) ]
+\0
+
+[@ITEM 67 (EN) ]
+Bobonga, koinga♪
+Noinga, hoinga♪
+Sing, dance, all this night♪♪\0
+
+[@ITEM 67 (L2) ]
+\0
+
+[@ITEM 67 (FR) ]
+Bobonga, konga ! ♪
+Ounga, bounga ! ♪
+Chanter, danser toute la nuit ! ♪\0
+
+[@ITEM 68 (L1) ]
+\0
+
+[@ITEM 68 (EN) ]
+{Ayla}: Come on, {Crono} too, drink, eat, sing,
+dance!\0
+
+[@ITEM 68 (L2) ]
+\0
+
+[@ITEM 68 (FR) ]
+{Ayla} : {Crono} boire, manger, chanter,
+danser !\0
+
+[@ITEM 69 (L1) ]
+\0
+
+[@ITEM 69 (EN) ]
+{Marle}: They've gone to all this trouble, so let's\0
+
+[@ITEM 69 (L2) ]
+\0
+
+[@ITEM 69 (FR) ]
+{Marle} : Allez, {Crono}, amusons-nous !\0
+
+[@ITEM 70 (L1) ]
+\0
+
+[@ITEM 70 (EN) ]
+{Lucca}: I give up......\0
+
+[@ITEM 70 (L2) ]
+\0
+
+[@ITEM 70 (FR) ]
+{Lucca} : Nous voilà dans de beaux draps...\0
+
+[@ITEM 71 (L1) ]
+\0
+
+[@ITEM 71 (EN) ]
+{Robo}: I do not feel that this IS a situation in
+which to be doing such a thing......\0
+
+[@ITEM 71 (L2) ]
+\0
+
+[@ITEM 71 (FR) ]
+{Robo} : Le moment est-il bien choisi pour faire la
+fête ?\0
+
+[@ITEM 72 (L1) ]
+\0
+
+[@ITEM 72 (EN) ]
+{Marle}: I'm kinda getting to feel reaaaly good,
+{Crono}......\0
+
+[@ITEM 72 (L2) ]
+\0
+
+[@ITEM 72 (FR) ]
+{Marle} : C'est bizarre, mais je me sens bien tout à
+coup !\0
+
+[@ITEM 73 (L1) ]
+\0
+
+[@ITEM 73 (EN) ]
+{Marle}: I'm gunna dance too (heart)\0
+
+[@ITEM 73 (L2) ]
+\0
+
+[@ITEM 73 (FR) ]
+{Marle} : Je veux danser, moi aussi ! ♥\0
+
+[@ITEM 74 (L1) ]
+\0
+
+[@ITEM 74 (EN) ]
+{Marle}: This's th' bessst (heart)
+{Crono}, you dansss too!
+		{SEL1}Sure.{/SEL1}
+		{SEL2}Nah.{/SEL2}\0
+
+[@ITEM 74 (L2) ]
+\0
+
+[@ITEM 74 (FR) ]
+{Marle} : C'est génial ! ♥ Viens, {Crono}, danse
+avec moi !
+       {SEL1}Accepter{/SEL1}
+       {SEL2}Refuser{/SEL2}\0
+
+[@ITEM 75 (L1) ]
+\0
+
+[@ITEM 75 (EN) ]
+{Lucca}: Uhhya~!
+{Crono}! You drinnnk too!
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 75 (L2) ]
+\0
+
+[@ITEM 75 (FR) ]
+{Lucca} : Miam ! {Crono} !
+Goûtes-y toi aussi !
+       {SEL1}Accepter{/SEL1}
+       {SEL2}Refuser{/SEL2}\0
+
+[@ITEM 76 (L1) ]
+\0
+
+[@ITEM 76 (EN) ]
+{Lucca}: Hey, hey! Aincha a man!
+Allit once, like gulp, gulp......\0
+
+[@ITEM 76 (L2) ]
+\0
+
+[@ITEM 76 (FR) ]
+{Lucca} : Allez, sois un homme !
+Avale tout d'une traite !\0
+
+[@ITEM 77 (L1) ]
+\0
+
+[@ITEM 77 (EN) ]
+{Lucca}: urp......\0
+
+[@ITEM 77 (L2) ]
+\0
+
+[@ITEM 77 (FR) ]
+{Lucca} : Oh... Burp !\0
+
+[@ITEM 78 (L1) ]
+\0
+
+[@ITEM 78 (EN) ]
+{Lucca}: Ya shay ya not gunna drink mah sake?
+Drink!
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 78 (L2) ]
+\0
+
+[@ITEM 78 (FR) ]
+{Lucca} : T'as peur ou quoi ?
+Allez, vas-y, goûte !
+       {SEL1}Accepter{/SEL1}
+       {SEL2}Refuser{/SEL2}\0
+
+[@ITEM 79 (L1) ]
+\0
+
+[@ITEM 79 (EN) ]
+{Robo}: Th, this fluid......
+has TOO many impurities......!\0
+
+[@ITEM 79 (L2) ]
+\0
+
+[@ITEM 79 (FR) ]
+{Robo} : Ce... liquide contient trop d'impuretés.\0
+
+[@ITEM 80 (L1) ]
+\0
+
+[@ITEM 80 (EN) ]
+Kino: Yous strangers......
+{Ayla} welcome yous
+No understand....\0
+
+[@ITEM 80 (L2) ]
+\0
+
+[@ITEM 80 (FR) ]
+Kino : {Ayla} organiser festin pour étrangers.
+Kino pas comprendre.\0
+
+[@ITEM 81 (L1) ]
+\0
+
+[@ITEM 81 (EN) ]
+{Ayla}: Drinking? {Crono}!
+This sake, drink at special time.
+Cocktail called Rock Crash.
+Delicious, intense!\0
+
+[@ITEM 81 (L2) ]
+\0
+
+[@ITEM 81 (FR) ]
+{Ayla} : {Crono} goûter ? Soupe spéciale de
+grains écrasés ! Miam, miam !\0
+
+[@ITEM 82 (L1) ]
+\0
+
+[@ITEM 82 (EN) ]
+{Ayla}: Aylas fighting Dinomen.
+Dinomen leader called Azarla.
+Azarla very smart......\0
+
+[@ITEM 82 (L2) ]
+\0
+
+[@ITEM 82 (FR) ]
+{Ayla} : {Ayla} combattre sauriens.
+Azara être chef des sauriens.
+Très intelligent !\0
+
+[@ITEM 83 (L1) ]
+\0
+
+[@ITEM 83 (EN) ]
+{Ayla}: Ioka village everyone fight.
+No fight people go Laruba Village.
+Laruba Village, no know where.
+Always running from Dinomen.\0
+
+[@ITEM 83 (L2) ]
+\0
+
+[@ITEM 83 (FR) ]
+{Ayla} : Tribu d'Ioka se battre, sinon joindre tribu
+de Laruba. {Ayla} pas savoir où Laruba être.
+Laruba toujours fuir sauriens.\0
+
+[@ITEM 84 (L1) ]
+\0
+
+[@ITEM 84 (EN) ]
+Azarla mean to get rid of Ioka too,
+Laruba too......\0
+
+[@ITEM 84 (L2) ]
+\0
+
+[@ITEM 84 (FR) ]
+Azara vouloir détruire Ioka et Laruba.\0
+
+[@ITEM 85 (L1) ]
+\0
+
+[@ITEM 85 (EN) ]
+But {Ayla} not lose.
+Stop fight, that when {Ayla} die!\0
+
+[@ITEM 85 (L2) ]
+\0
+
+[@ITEM 85 (FR) ]
+Mais {Ayla} pas abandonner ! Si {Ayla} être
+vivante, {Ayla} combattre !\0
+
+[@ITEM 86 (L1) ]
+\0
+
+[@ITEM 86 (EN) ]
+{Ayla}: No mind that.\0
+
+[@ITEM 86 (L2) ]
+\0
+
+[@ITEM 86 (FR) ]
+{Ayla} : Bon.\0
+
+[@ITEM 87 (L1) ]
+\0
+
+[@ITEM 87 (EN) ]
+Today happy met {Crono} day.
+Drink, eat, sing, dance!\0
+
+[@ITEM 87 (L2) ]
+\0
+
+[@ITEM 87 (FR) ]
+Aujourd'hui, {Ayla} rencontrer {Crono} !
+Jour heureux !
+Boire, manger, chanter, danser !\0
+
+[@ITEM 88 (L1) ]
+\0
+
+[@ITEM 88 (EN) ]
+{Ayla}: Oh yeah, {Crono}.
+What yous looking for, this red stone?\0
+
+[@ITEM 88 (L2) ]
+\0
+
+[@ITEM 88 (FR) ]
+{Ayla} : {Crono} chercher pierre rouge comme
+pierre de {Ayla} ?\0
+
+[@ITEM 89 (L1) ]
+\0
+
+[@ITEM 89 (EN) ]
+{Ayla}: This very rare.
+This stone proof of strong guy.
+Strongest in Ioka Village {Ayla}!
+So this {Ayla}'s.{PRESS_CLEAR}
+If want, have match with {Ayla}!
+If {Crono} win, this {Crono}'s.\0
+
+[@ITEM 89 (L2) ]
+\0
+
+[@ITEM 89 (FR) ]
+Pierre rouge être très rare. Preuve de force !
+{Ayla} être plus forte d'Ioka, alors {Ayla}
+avoir pierre rouge.{PRESS_CLEAR}
+Si {Crono} battre {Ayla}, {Ayla} donner
+pierre rouge à {Crono}.\0
+
+[@ITEM 90 (L1) ]
+\0
+
+[@ITEM 90 (EN) ]
+{Ayla}: {Crono}, have match with {Ayla}?
+		{SEL1}Yes.{/SEL1}
+		{SEL2}No.{/SEL2}\0
+
+[@ITEM 90 (L2) ]
+\0
+
+[@ITEM 90 (FR) ]
+{Ayla} : Défier {Ayla} ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 91 (L1) ]
+\0
+
+[@ITEM 91 (EN) ]
+{Ayla}: You run away? {Crono}!
+{Crono} strong. {Ayla} strong too!
+Have match, {Crono}!\0
+
+[@ITEM 91 (L2) ]
+\0
+
+[@ITEM 91 (FR) ]
+{Ayla} : {Crono} avoir peur ? {Crono} être
+fort, comme {Ayla} ! Bon défi !\0
+
+[@ITEM 92 (L1) ]
+\0
+
+[@ITEM 92 (EN) ]
+{Ayla}: Bring much much sake!\0
+
+[@ITEM 92 (L2) ]
+\0
+
+[@ITEM 92 (FR) ]
+{Ayla} : Apporter beaucoup de soupe !\0
+
+[@ITEM 93 (L1) ]
+\0
+
+[@ITEM 93 (EN) ]
+{Ayla}: It party now, so drink sake.
+{Crono} and {Ayla}, which one drink much contest!\0
+
+[@ITEM 93 (L2) ]
+\0
+
+[@ITEM 93 (FR) ]
+{Ayla} : Aujourd'hui festin, alors défi de soupe !
+{Crono} essayer de manger plus que {Ayla} !\0
+
+[@ITEM 94 (L1) ]
+\0
+
+[@ITEM 94 (EN) ]
+{Ayla}: Then we start.
+A button hitting!\0
+
+[@ITEM 94 (L2) ]
+\0
+
+[@ITEM 94 (FR) ]
+{Ayla} : Appuyer beaucoup sur bouton A !\0
+
+[@ITEM 95 (L1) ]
+\0
+
+[@ITEM 95 (EN) ]
+{Ayla}: Buhaaah....!\0
+
+[@ITEM 95 (L2) ]
+\0
+
+[@ITEM 95 (FR) ]
+{Ayla} : Burp !\0
+
+[@ITEM 96 (L1) ]
+\0
+
+[@ITEM 96 (EN) ]
+{Ayla}: What wrong {Crono}?
+Over already?
+		{SEL1}Yes{/SEL1}
+		{SEL2}Not even close!{/SEL2}\0
+
+[@ITEM 96 (L2) ]
+\0
+
+[@ITEM 96 (FR) ]
+{Ayla} : Quoi ?
+{Crono} abandonner ?!
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 97 (L1) ]
+\0
+
+[@ITEM 97 (EN) ]
+{Ayla}: {Crono} still can drink?
+{Ayla} no can drink more......\0
+
+[@ITEM 97 (L2) ]
+\0
+
+[@ITEM 97 (FR) ]
+{Ayla} : {Crono} encore manger ?
+{Ayla} abandonner...\0
+
+[@ITEM 98 (L1) ]
+\0
+
+[@ITEM 98 (EN) ]
+{Ayla}: What, no good already?
+You strong but weak for sake......\0
+
+[@ITEM 98 (L2) ]
+\0
+
+[@ITEM 98 (FR) ]
+{Ayla} : {Crono} déjà abandonner ?
+{Crono} être fort, mais avoir petit estomac.\0
+
+[@ITEM 99 (L1) ]
+\0
+
+[@ITEM 99 (EN) ]
+{Ayla}: That enough, {Crono}......
+You win...... this stone yours!\0
+
+[@ITEM 99 (L2) ]
+\0
+
+[@ITEM 99 (FR) ]
+{Ayla} : Assez. {Crono} gagner.
+{Ayla} donner pierre à {Crono}.\0
+
+[@ITEM 100 (L1) ]
+\0
+
+[@ITEM 100 (EN) ]
+{Ayla}: {Crono} drank well.
+Final, one more drink, your strength, kanpai!\0
+
+[@ITEM 100 (L2) ]
+\0
+
+[@ITEM 100 (FR) ]
+{Ayla} : {Crono} bien manger.
+Dernier bol pour honorer {Crono} !\0
+
+[@ITEM 101 (L1) ]
+\0
+
+[@ITEM 101 (EN) ]
+{Ayla}: Then, we drink......\0
+
+[@ITEM 101 (L2) ]
+\0
+
+[@ITEM 101 (FR) ]
+{Ayla} : Prêts ?\0
+
+[@ITEM 102 (L1) ]
+\0
+
+[@ITEM 102 (EN) ]
+{Ayla}: Kanpaaai!!\0
+
+[@ITEM 102 (L2) ]
+\0
+
+[@ITEM 102 (FR) ]
+{Ayla} : Pour {Crono} !\0
+
+[@ITEM 103 (L1) ]
+\0
+
+[@ITEM 103 (EN) ]
+Want to pass down this music looooong
+loooong loooong looooong loooong ahead.\0
+
+[@ITEM 103 (L2) ]
+\0
+
+[@ITEM 103 (FR) ]
+Moi vouloir transmettre musique à enfants et enfants
+des enfants, très, très longtemps !\0
+
+[@ITEM 104 (L1) ]
+\0
+
+[@ITEM 104 (EN) ]
+{Lucca}: hic......\0
+
+[@ITEM 104 (L2) ]
+\0
+
+[@ITEM 104 (FR) ]
+{Lucca} : Oooh, j'ai trop mangé...\0
+
+[@ITEM 105 (L1) ]
+\0
+
+[@ITEM 105 (EN) ]
+{Lucca}: Kya, ha, ha, ha, ha, ha!\0
+
+[@ITEM 105 (L2) ]
+\0
+
+[@ITEM 105 (FR) ]
+{Lucca} : Ha, ha, ha, ha !\0
+
+[@ITEM 106 (L1) ]
+\0
+
+[@ITEM 106 (EN) ]
+{Marle}: Morning, {Crono}.
+Last night was reaaally fun!\0
+
+[@ITEM 106 (L2) ]
+\0
+
+[@ITEM 106 (FR) ]
+{Marle} : Bonjour {Crono} !
+On s'est bien amusés hier soir, hein ?\0
+
+[@ITEM 107 (L1) ]
+\0
+
+[@ITEM 107 (EN) ]
+{Lucca}: uuuun...... ow ow ow......{PRESS_CLEAR}
+Huh? I did such a thing?
+You're lying!
+But why do I have such a headache......\0
+
+[@ITEM 107 (L2) ]
+\0
+
+[@ITEM 107 (FR) ]
+{Lucca} : Ooooh... J'ai mal au ventre...{PRESS_CLEAR}
+Hein ? Qu'est-ce que tu dis ? Je n'ai rien fait de tel !
+Ce n'est pas vrai !{PRESS_CLEAR}
+...
+Mais, j'ai tout de même l'estomac à l'envers...\0
+
+[@ITEM 108 (L1) ]
+\0
+
+[@ITEM 108 (EN) ]
+{Robo}: G, good MORning.......
+It seems that for humans, that fluid has a
+special effect.\0
+
+[@ITEM 108 (L2) ]
+\0
+
+[@ITEM 108 (FR) ]
+{Robo} : Bon... Bonjour. Il semble que ce liquide a un
+effet spécial sur les humains.\0
+
+[@ITEM 109 (L1) ]
+\0
+
+[@ITEM 109 (EN) ]
+{Marle}: Wh, what's this? These footprints!\0
+
+[@ITEM 109 (L2) ]
+\0
+
+[@ITEM 109 (FR) ]
+{Marle} : D'où viennent ces empreintes ?\0
+
+[@ITEM 110 (L1) ]
+\0
+
+[@ITEM 110 (EN) ]
+{Lucca}: H, hold on, what the!\0
+
+[@ITEM 110 (L2) ]
+\0
+
+[@ITEM 110 (FR) ]
+{Lucca} : Oh, c'est quoi, ces empreintes ?\0
+
+[@ITEM 111 (L1) ]
+\0
+
+[@ITEM 111 (EN) ]
+{Marle}: It, it's not here!\0
+
+[@ITEM 111 (L2) ]
+\0
+
+[@ITEM 111 (FR) ]
+{Marle} : Elle a disparu !\0
+
+[@ITEM 112 (L1) ]
+\0
+
+[@ITEM 112 (EN) ]
+{Lucca}: It, it's gone!\0
+
+[@ITEM 112 (L2) ]
+\0
+
+[@ITEM 112 (FR) ]
+{Lucca} : Elle a disparu !\0
+
+[@ITEM 113 (L1) ]
+\0
+
+[@ITEM 113 (EN) ]
+{Marle}: This's awful! The Gate Holder's gone!!\0
+
+[@ITEM 113 (L2) ]
+\0
+
+[@ITEM 113 (FR) ]
+{Marle} : Oh non ! La clef stabilisatrice a disparu !\0
+
+[@ITEM 114 (L1) ]
+\0
+
+[@ITEM 114 (EN) ]
+{Lucca}: Th, th, the Gate Holder's gone......\0
+
+[@ITEM 114 (L2) ]
+\0
+
+[@ITEM 114 (FR) ]
+{Lucca} : On a volé la clef stabilisatrice !\0
+
+[@ITEM 115 (L1) ]
+\0
+
+[@ITEM 115 (EN) ]
+{Lucca}: Whoever made these footprints took the
+Gate Holder......\0
+
+[@ITEM 115 (L2) ]
+\0
+
+[@ITEM 115 (FR) ]
+{Lucca} : Ces empreintes doivent être celles du
+voleur !\0
+
+[@ITEM 116 (L1) ]
+\0
+
+[@ITEM 116 (EN) ]
+{Robo}: I DOUBT there is any mistaking that the
+one who made these footprints is the one who
+took away the Gate Holder.\0
+
+[@ITEM 116 (L2) ]
+\0
+
+[@ITEM 116 (FR) ]
+{Robo} : Ces empreintes sont sans doute celles de
+la personne qui a volé la clef stabilisatrice.\0
+
+[@ITEM 117 (L1) ]
+\0
+
+[@ITEM 117 (EN) ]
+{Lucca}: Without that, we'll be here until we die......\0
+
+[@ITEM 117 (L2) ]
+\0
+
+[@ITEM 117 (FR) ]
+{Lucca} : Sans la clef, nous devrons rester ici pour
+toujours !\0
+
+[@ITEM 118 (L1) ]
+\0
+
+[@ITEM 118 (EN) ]
+{Robo}: Utilizing a Gate without the Gate Holder
+IS too dangerous.\0
+
+[@ITEM 118 (L2) ]
+\0
+
+[@ITEM 118 (FR) ]
+{Robo} : Il serait trop dangereux de traverser le
+portail sans la clef.\0
+
+[@ITEM 119 (L1) ]
+\0
+
+[@ITEM 119 (EN) ]
+{Marle}: Let's try talking it over with {Ayla},
+{Crono}!\0
+
+[@ITEM 119 (L2) ]
+\0
+
+[@ITEM 119 (FR) ]
+{Marle} : {Crono} !
+Allons parler à {Ayla} !\0
+
+[@ITEM 120 (L1) ]
+\0
+
+[@ITEM 120 (EN) ]
+{Lucca}: Th, this is no laughing matter!
+Let's try asking {Ayla}!\0
+
+[@ITEM 120 (L2) ]
+\0
+
+[@ITEM 120 (FR) ]
+{Lucca} : La situation est sérieuse !
+Allons parler à {Ayla} !\0
+
+[@ITEM 121 (L1) ]
+\0
+
+[@ITEM 121 (EN) ]
+{Ayla}: snore~ snkkkh~!\0
+
+[@ITEM 121 (L2) ]
+\0
+
+[@ITEM 121 (FR) ]
+{Ayla} : Rrrrrfl... Zzz... Zzz...\0
+
+[@ITEM 122 (L1) ]
+\0
+
+[@ITEM 122 (EN) ]
+{Ayla}: Nh......
+Oh, {Crono} up......?
+uhg......!\0
+
+[@ITEM 122 (L2) ]
+\0
+
+[@ITEM 122 (FR) ]
+{Ayla} : Oooh...
+Oh, {Crono} réveillé ?\0
+
+[@ITEM 123 (L1) ]
+\0
+
+[@ITEM 123 (EN) ]
+{Ayla}: Drank too much Rock Crash.\0
+
+[@ITEM 123 (L2) ]
+\0
+
+[@ITEM 123 (FR) ]
+{Ayla} : Trop de soupe hier. Bleuh...\0
+
+[@ITEM 124 (L1) ]
+\0
+
+[@ITEM 124 (EN) ]
+{Lucca}: Sorry to bother you when you're hung
+over, but it looks like something important was
+stolen while we were sleeping.\0
+
+[@ITEM 124 (L2) ]
+\0
+
+[@ITEM 124 (FR) ]
+{Lucca} : Nous sommes désolés de t'avoir réveillée,
+mais on dirait qu'un objet précieux nous a été volé
+pendant notre sommeil.\0
+
+[@ITEM 125 (L1) ]
+\0
+
+[@ITEM 125 (EN) ]
+{Marle}: Sorry to bother you when you're feeling bad.
+Something important to us......
+was stolen.\0
+
+[@ITEM 125 (L2) ]
+\0
+
+[@ITEM 125 (FR) ]
+{Marle} : Désolée de te réveiller, mais on nous a
+volé un objet précieux.\0
+
+[@ITEM 126 (L1) ]
+\0
+
+[@ITEM 126 (EN) ]
+{Ayla}: Wh, what? Must be Dino......\0
+
+[@ITEM 126 (L2) ]
+\0
+
+[@ITEM 126 (FR) ]
+{Ayla} : Quoi ?
+...
+Sauriens ! {Ayla} être certaine !
+... Bleuuh...\0
+
+[@ITEM 127 (L1) ]
+\0
+
+[@ITEM 127 (EN) ]
+{Ayla}: Dinomen act!
+{Crono} come with {Ayla}!\0
+
+[@ITEM 127 (L2) ]
+\0
+
+[@ITEM 127 (FR) ]
+{Ayla} : Faute des sauriens ! {Crono} venir
+avec {Ayla} !\0
+
+[@ITEM 128 (L1) ]
+\0
+
+[@ITEM 128 (EN) ]
+{Ayla}: Someone else come?\0
+
+[@ITEM 128 (L2) ]
+\0
+
+[@ITEM 128 (FR) ]
+{Ayla} : Qui venir avec {Crono} et {Ayla} ?\0
+
+[@ITEM 129 (L1) ]
+\0
+
+[@ITEM 129 (EN) ]
+{Ayla}: Should be person who saw in village.
+First ask story!
+{Crono}, we go...... urrp!\0
+
+[@ITEM 129 (L2) ]
+\0
+
+[@ITEM 129 (FR) ]
+{Ayla} : Les autres peut-être voir voleur.
+{Crono} aller demander !
+... Bleuuh...\0
+
+[@ITEM 130 (L1) ]
+\0
+
+[@ITEM 130 (EN) ]
+Where Kino went?
+Not see since morning.\0
+
+[@ITEM 130 (L2) ]
+\0
+
+[@ITEM 130 (FR) ]
+Où être Kino ? Pas voir Kino depuis matin.\0
+
+[@ITEM 131 (L1) ]
+\0
+
+[@ITEM 131 (EN) ]
+Me saw dinomen.
+Left from village square.
+Went in Bewilderment Forest to south.\0
+
+[@ITEM 131 (L2) ]
+\0
+
+[@ITEM 131 (FR) ]
+Moi voir sauriens sortir de place d'Ioka. Aller vers jungle
+au sud.\0
+
+[@ITEM 132 (L1) ]
+\0
+
+[@ITEM 132 (EN) ]
+Bewilderment Forest scary place.
+Path tricky.
+Many monsters.
+Chief be careful.\0
+
+[@ITEM 132 (L2) ]
+\0
+
+[@ITEM 132 (FR) ]
+Jungle être très dangereuse. Pleine de monstres.
+Perdre chemin. Chef être prudent !\0
+
+[@ITEM 133 (L1) ]
+\0
+
+[@ITEM 133 (EN) ]
+Dinomen tough.
+Chief take this.\0
+
+[@ITEM 133 (L2) ]
+\0
+
+[@ITEM 133 (FR) ]
+Sauriens être très forts. Chef prendre ça.\0
+
+[@ITEM 134 (L1) ]
+\0
+
+[@ITEM 134 (EN) ]
+THEY leave footprints, run.
+Chase footprints.
+Find where THEY are!\0
+
+[@ITEM 134 (L2) ]
+\0
+
+[@ITEM 134 (FR) ]
+Sauriens laisser empreintes. Suivre empreintes pour
+suivre sauriens !\0
+
+[@ITEM 135 (L1) ]
+\0
+
+[@ITEM 135 (EN) ]
+You cool.\0
+
+[@ITEM 135 (L2) ]
+\0
+
+[@ITEM 135 (FR) ]
+Vous être courageux !\0
+
+[@ITEM 136 (L1) ]
+\0
+
+[@ITEM 136 (EN) ]
+You strong too!\0
+
+[@ITEM 136 (L2) ]
+\0
+
+[@ITEM 136 (FR) ]
+Chef être fort ! Vous être fort !\0
+
+[@ITEM 137 (L1) ]
+\0
+
+[@ITEM 137 (EN) ]
+Dinomen not come out for while after this.\0
+
+[@ITEM 137 (L2) ]
+\0
+
+[@ITEM 137 (FR) ]
+Sauriens plus venir.\0
+
+[@ITEM 138 (L1) ]
+\0
+
+[@ITEM 138 (EN) ]
+{Ayla}: {Crono} came?
+Night come soon.
+Party preparing done.
+This way, {Crono}!\0
+
+[@ITEM 138 (L2) ]
+\0
+
+[@ITEM 138 (FR) ]
+{Ayla} : {Crono} ! Nuit bientôt tomber.
+Festin être prêt ! {Crono} suivre {Ayla} !\0
+
+[@ITEM 139 (L1) ]
+\0
+
+[@ITEM 139 (EN) ]
+Middle of preparing party.
+Wait still.\0
+
+[@ITEM 139 (L2) ]
+\0
+
+[@ITEM 139 (FR) ]
+Festin pas être encore prêt. Vous attendre.\0
+
+[@ITEM 140 (L1) ]
+\0
+
+[@ITEM 140 (EN) ]
+Where Azarla run?\0
+
+[@ITEM 140 (L2) ]
+\0
+
+[@ITEM 140 (FR) ]
+Azara fuir où ?\0
+
+[@ITEM 141 (L1) ]
+\0
+
+[@ITEM 141 (EN) ]
+{Crono} strong, praise!\0
+
+[@ITEM 141 (L2) ]
+\0
+
+[@ITEM 141 (FR) ]
+Moi admirer force de {Crono} !\0
+
+[@ITEM 142 (L1) ]
+\0
+
+[@ITEM 142 (EN) ]
+What on earth is this......?
+Something so advanced, did those monkeys
+really.......?\0
+
+[@ITEM 142 (L2) ]
+\0
+
+[@ITEM 142 (FR) ]
+Qu'est-ce que ce peut bien être ? Comment ces
+primates ont-ils fabriqué un objet aussi complexe ?\0
+
+[@ITEM 143 (L1) ]
+\0
+
+[@ITEM 143 (EN) ]
+{Ayla}: Azarla!!\0
+
+[@ITEM 143 (L2) ]
+\0
+
+[@ITEM 143 (FR) ]
+{Ayla} : Azara !\0
+
+[@ITEM 144 (L1) ]
+\0
+
+[@ITEM 144 (EN) ]
+Azarla: They're come, the monkeys......
+Oh? You seem to be of a marginally different
+quality than {Ayla} and the others......{PRESS_CLEAR}
+Hu, hu, perfect timing.
+What do you use this device for......?\0
+
+[@ITEM 144 (L2) ]
+\0
+
+[@ITEM 144 (FR) ]
+Azara : Voilà les primates...{PRESS_CLEAR}
+Tiens, vous n'avez pas l'air d'être des membres de la
+tribu de {Ayla}...\0
+
+[@ITEM 145 (L1) ]
+\0
+
+[@ITEM 145 (EN) ]
+Could I have you tell me?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 145 (L2) ]
+\0
+
+[@ITEM 145 (FR) ]
+Hum, parfait ! Dites-moi, à quoi sert cette chose ?
+       {SEL1}Répondre{/SEL1}
+       {SEL2}Refuser de répondre{/SEL2}\0
+
+[@ITEM 146 (L1) ]
+\0
+
+[@ITEM 146 (EN) ]
+Azarla: You lie.
+Even I didn't expect that I could get you to tell
+me so easily......
+But, how about this?\0
+
+[@ITEM 146 (L2) ]
+\0
+
+[@ITEM 146 (FR) ]
+Azara : Menteurs. Personne ne dirait la vérité aussi
+facilement. Néanmoins, ceci devrait vous aider à ne
+plus mentir.\0
+
+[@ITEM 147 (L1) ]
+\0
+
+[@ITEM 147 (EN) ]
+Azarla: Then I have no choice......
+I'll make you want to talk!\0
+
+[@ITEM 147 (L2) ]
+\0
+
+[@ITEM 147 (FR) ]
+Azara : Très bien. Je vois que vous avez besoin d'un
+peu de persuasion...\0
+
+[@ITEM 148 (L1) ]
+\0
+
+[@ITEM 148 (EN) ]
+Azarla: Come forth, Nizbel!\0
+
+[@ITEM 148 (L2) ]
+\0
+
+[@ITEM 148 (FR) ]
+Azara : Viens, Nizbel !\0
+
+[@ITEM 149 (L1) ]
+\0
+
+[@ITEM 149 (EN) ]
+Azarla: I...... I can't believe Nizbel lost to the
+monkeys......\0
+
+[@ITEM 149 (L2) ]
+\0
+
+[@ITEM 149 (FR) ]
+Azara : Impossible... Comment des primates ont-ils pu
+vaincre Nizbel ?!\0
+
+[@ITEM 150 (L1) ]
+\0
+
+[@ITEM 150 (EN) ]
+{Ayla}: Now, give back Cros' that!\0
+
+[@ITEM 150 (L2) ]
+\0
+
+[@ITEM 150 (FR) ]
+{Ayla} : Azara rendre objet précieux de
+{Crono} maintenant !\0
+
+[@ITEM 151 (L1) ]
+\0
+
+[@ITEM 151 (EN) ]
+Azarla: ......but remember.
+This earth belongs to we Dinomen......\0
+
+[@ITEM 151 (L2) ]
+\0
+
+[@ITEM 151 (FR) ]
+Azara : Vous avez gagné cette bataille, mais n'oubliez
+pas ! Ces terres appartiennent aux sauriens !\0
+
+[@ITEM 152 (L1) ]
+\0
+
+[@ITEM 152 (EN) ]
+Azarla: We will not give it over to the likes of
+you monkeys!\0
+
+[@ITEM 152 (L2) ]
+\0
+
+[@ITEM 152 (FR) ]
+Azara : Nous ne les céderons jamais à de vulgaires
+primates !\0
+
+[@ITEM 153 (L1) ]
+\0
+
+[@ITEM 153 (EN) ]
+{Marle}: Is, is the Gate Holder safe?\0
+
+[@ITEM 153 (L2) ]
+\0
+
+[@ITEM 153 (FR) ]
+{Marle} : Est-ce que la clef est endommagée ?!\0
+
+[@ITEM 154 (L1) ]
+\0
+
+[@ITEM 154 (EN) ]
+{Lucca}: It, it's not broken.\0
+
+[@ITEM 154 (L2) ]
+\0
+
+[@ITEM 154 (FR) ]
+{Lucca} : La clef n'est pas endommagée, j'espère ?!\0
+
+[@ITEM 155 (L1) ]
+\0
+
+[@ITEM 155 (EN) ]
+{Lucca}: Phew, it's okay.\0
+
+[@ITEM 155 (L2) ]
+\0
+
+[@ITEM 155 (FR) ]
+{Lucca} : Ouf ! Elle fonctionne toujours.
+Nous pourrons rentrer !\0
+
+[@ITEM 156 (L1) ]
+\0
+
+[@ITEM 156 (EN) ]
+{Robo}: It IS all right.
+NO particular faults ARE found.\0
+
+[@ITEM 156 (L2) ]
+\0
+
+[@ITEM 156 (FR) ]
+{Robo} : Je ne vois aucun dommage particulier.\0
+
+[@ITEM 157 (L1) ]
+\0
+
+[@ITEM 157 (EN) ]
+{Marle}: Thank goodness.
+It looks like it's okay.\0
+
+[@ITEM 157 (L2) ]
+\0
+
+[@ITEM 157 (FR) ]
+{Marle} : Ouf ! On dirait qu'elle est intacte.\0
+
+[@ITEM 158 (L1) ]
+\0
+
+[@ITEM 158 (EN) ]
+{Ayla}: Come any time Azarla!
+{Ayla} no los......{56}
+u...... ugeh......\0
+
+[@ITEM 158 (L2) ]
+\0
+
+[@ITEM 158 (FR) ]
+{Ayla} : Azara défier {Ayla} ?
+{Ayla} pas perdre !
+...{PRESS_CLEAR}
+Bleuuh...\0
+
+[@ITEM 159 (L1) ]
+\0
+
+[@ITEM 159 (EN) ]
+{Ayla}: ghehhh! ghkhkh......!\0
+
+[@ITEM 159 (L2) ]
+\0
+
+[@ITEM 159 (FR) ]
+{Ayla} : Bleuuh...\0
+
+[@ITEM 160 (L1) ]
+\0
+
+[@ITEM 160 (EN) ]
+{Ayla}: {Crono} go......?
+No {Crono}, {Ayla} bored.\0
+
+[@ITEM 160 (L2) ]
+\0
+
+[@ITEM 160 (FR) ]
+{Ayla} : {Crono} partir ?
+{Ayla} s'ennuyer.\0
+
+[@ITEM 161 (L1) ]
+\0
+
+[@ITEM 161 (EN) ]
+{Marle}: We owe you one for all you've done......
+It's been fun, {Ayla}.\0
+
+[@ITEM 161 (L2) ]
+\0
+
+[@ITEM 161 (FR) ]
+{Marle} : Merci encore pour tout...
+On s'est bien amusés !\0
+
+[@ITEM 162 (L1) ]
+\0
+
+[@ITEM 162 (EN) ]
+{Lucca}: Thanks, {Ayla}.
+We've been taught a lot by you.\0
+
+[@ITEM 162 (L2) ]
+\0
+
+[@ITEM 162 (FR) ]
+{Lucca} : Merci, {Ayla}. Tu m'as beaucoup
+appris.\0
+
+[@ITEM 163 (L1) ]
+\0
+
+[@ITEM 163 (EN) ]
+Kino: Sorry, {Crono}.
+Kino get stronger, even more than {Crono}!\0
+
+[@ITEM 163 (L2) ]
+\0
+
+[@ITEM 163 (FR) ]
+Kino : Pardon, {Crono}. Kino devenir fort, plus fort
+que {Crono} !\0
+
+[@ITEM 164 (L1) ]
+\0
+
+[@ITEM 164 (EN) ]
+{Ayla}: Come again, {Crono}!
+Have party. Drink. Eat.
+Dance. Fight. Fun!\0
+
+[@ITEM 164 (L2) ]
+\0
+
+[@ITEM 164 (FR) ]
+{Ayla} : {Crono} revenir bientôt !
+Festin ! Boire ! Manger ! Danser !
+Combattre ! S'amuser !\0
+
+[@ITEM 165 (L1) ]
+\0
+
+[@ITEM 165 (EN) ]
+{Ayla}: Come again, {Crono}!
+{HERO2}! {HERO3}~!\0
+
+[@ITEM 165 (L2) ]
+\0
+
+[@ITEM 165 (FR) ]
+{Ayla} : À bientôt, {Crono} !
+À bientôt, {HERO2} ! À bientôt, {HERO3} !\0
+
+[@ITEM 166 (L1) ]
+\0
+
+[@ITEM 166 (EN) ]
+LRXYB dance!!
+A stop.\0
+
+[@ITEM 166 (L2) ]
+\0
+
+[@ITEM 166 (FR) ]
+Danser ! Appuyer sur bouton L, bouton R, bouton X,
+bouton Y, bouton B ! Appuyer sur bouton A pour
+arrêter.\0
+
+[@ITEM 167 (L1) ]
+\0
+
+[@ITEM 167 (EN) ]
+"Fang", "Flower Petal", "Horn", "Feather",
+2 type, 3 each, 6 total, then
+trade 1 weapon, armor!
+What you give?\0
+
+[@ITEM 167 (L2) ]
+\0
+
+[@ITEM 167 (FR) ]
+Crocs, pétales, cornes et plumes être objets de troc.
+Troquer deux types, trois chaque, contre arme ou
+protection. Vous troquer quoi ?\0
+
+[@ITEM 168 (L1) ]
+\0
+
+[@ITEM 168 (EN) ]
+		{SEL1}Flower Petal: {COUNT}{/SEL1}
+		{SEL2}Fang: {COUNT}{/SEL2}
+		{SEL3}Horn: {COUNT}{/SEL3}
+		{SEL4}Feather: {COUNT}{/SEL4}\0
+
+[@ITEM 168 (L2) ]
+\0
+
+[@ITEM 168 (FR) ]
+       {SEL1}{COUNT} pétale(s){/SEL1}
+       {SEL2}{COUNT} croc(s){/SEL2}
+       {SEL3}{COUNT} corne(s){/SEL3}
+       {SEL4}{COUNT} plume(s){/SEL4}\0
+
+[@ITEM 169 (L1) ]
+\0
+
+[@ITEM 169 (EN) ]
+What else give?\0
+
+[@ITEM 169 (L2) ]
+\0
+
+[@ITEM 169 (FR) ]
+Et quoi troquer aussi ?\0
+
+[@ITEM 170 (L1) ]
+\0
+
+[@ITEM 170 (EN) ]
+Same one no good, trade with 2.\0
+
+[@ITEM 170 (L2) ]
+\0
+
+[@ITEM 170 (FR) ]
+Non, pas même objet ! Choisir deux types !\0
+
+[@ITEM 171 (L1) ]
+\0
+
+[@ITEM 171 (EN) ]
+You no have, trade no good!\0
+
+[@ITEM 171 (L2) ]
+\0
+
+[@ITEM 171 (FR) ]
+Pas d'objets, pas de troc !\0
+
+[@ITEM 172 (L1) ]
+\0
+
+[@ITEM 172 (EN) ]
+"Fang", "Flower Petal", "Horn", "Feather",
+2 type, 3 each, 6 total, then
+trade 1 weapon, armor!\0
+
+[@ITEM 172 (L2) ]
+\0
+
+[@ITEM 172 (FR) ]
+Pétales, crocs, cornes et plumes être objets de troc.
+Troquer deux types, trois chaque, contre arme ou
+protection.\0
+
+[@ITEM 173 (L1) ]
+\0
+
+[@ITEM 173 (EN) ]
+You still trade?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 173 (L2) ]
+\0
+
+[@ITEM 173 (FR) ]
+Vouloir encore troquer ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 174 (L1) ]
+\0
+
+[@ITEM 174 (EN) ]
+Trade for "Ruby Gun", okay?
+		{SEL1}Yes.{/SEL1}
+		{SEL2}No.{/SEL2}\0
+
+[@ITEM 174 (L2) ]
+\0
+
+[@ITEM 174 (FR) ]
+Troquer contre pistolet à rubis ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 175 (L1) ]
+\0
+
+[@ITEM 175 (EN) ]
+{MSGWND}
+Got a Ruby Gun!\0
+
+[@ITEM 175 (L2) ]
+\0
+
+[@ITEM 175 (FR) ]
+{MSGWND}
+Vous obtenez un pistolet à rubis !\0
+
+[@ITEM 176 (L1) ]
+\0
+
+[@ITEM 176 (EN) ]
+Trade for "Saint's Bow", okay?
+		{SEL1}Yes.{/SEL1}
+		{SEL2}No.{/SEL2}\0
+
+[@ITEM 176 (L2) ]
+\0
+
+[@ITEM 176 (FR) ]
+Troquer contre arc de shaman ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 177 (L1) ]
+\0
+
+[@ITEM 177 (EN) ]
+{MSGWND}
+Got a Saint's Bow!\0
+
+[@ITEM 177 (L2) ]
+\0
+
+[@ITEM 177 (FR) ]
+{MSGWND}
+Vous obtenez un arc de shaman !\0
+
+[@ITEM 178 (L1) ]
+\0
+
+[@ITEM 178 (EN) ]
+Trade for "Stone Arm", okay?
+		{SEL1}Yes.{/SEL1}
+		{SEL2}No.{/SEL2}\0
+
+[@ITEM 178 (L2) ]
+\0
+
+[@ITEM 178 (FR) ]
+Troquer contre bras de pierre ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 179 (L1) ]
+\0
+
+[@ITEM 179 (EN) ]
+{MSGWND}
+Got a Stone Arm!\0
+
+[@ITEM 179 (L2) ]
+\0
+
+[@ITEM 179 (FR) ]
+{MSGWND}
+Vous obtenez un bras de pierre !\0
+
+[@ITEM 180 (L1) ]
+\0
+
+[@ITEM 180 (EN) ]
+Trade for "Mammoth Sword", okay?
+		{SEL1}Yes.{/SEL1}
+		{SEL2}No.{/SEL2}\0
+
+[@ITEM 180 (L2) ]
+\0
+
+[@ITEM 180 (FR) ]
+Troquer contre sabre d'ivoire ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 181 (L1) ]
+\0
+
+[@ITEM 181 (EN) ]
+{MSGWND}
+Got a Mammoth Sword!\0
+
+[@ITEM 181 (L2) ]
+\0
+
+[@ITEM 181 (FR) ]
+{MSGWND}
+Vous obtenez un sabre d'ivoire !\0
+
+[@ITEM 182 (L1) ]
+\0
+
+[@ITEM 182 (EN) ]
+Trade for "Ruby Vest", okay?
+		{SEL1}Yes.{/SEL1}
+		{SEL2}No.{/SEL2}\0
+
+[@ITEM 182 (L2) ]
+\0
+
+[@ITEM 182 (FR) ]
+Troquer contre veste de rubis ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 183 (L1) ]
+\0
+
+[@ITEM 183 (EN) ]
+{MSGWND}
+Got a Ruby Vest!\0
+
+[@ITEM 183 (L2) ]
+\0
+
+[@ITEM 183 (FR) ]
+{MSGWND}
+Vous obtenez une veste de rubis !\0
+
+[@ITEM 184 (L1) ]
+\0
+
+[@ITEM 184 (EN) ]
+Trade for "Stone Helm", okay?
+		{SEL1}Yes.{/SEL1}
+		{SEL2}No.{/SEL2}\0
+
+[@ITEM 184 (L2) ]
+\0
+
+[@ITEM 184 (FR) ]
+Troquer contre armet de pierre ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 185 (L1) ]
+\0
+
+[@ITEM 185 (EN) ]
+{MSGWND}
+Got a Stone Helm!\0
+
+[@ITEM 185 (L2) ]
+\0
+
+[@ITEM 185 (FR) ]
+{MSGWND}
+Vous obtenez un armet de pierre !\0
+
+[@ITEM 186 (L1) ]
+\0
+
+[@ITEM 186 (EN) ]
+Trade for "Ancient Sword", okay?
+		{SEL1}Yes.{/SEL1}
+		{SEL2}No.{/SEL2}\0
+
+[@ITEM 186 (L2) ]
+\0
+
+[@ITEM 186 (FR) ]
+Troquer contre sabre antique ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 187 (L1) ]
+\0
+
+[@ITEM 187 (EN) ]
+{MSGWND}
+Got an Ancient Sword!\0
+
+[@ITEM 187 (L2) ]
+\0
+
+[@ITEM 187 (FR) ]
+{MSGWND}
+Vous obtenez un sabre antique !\0
+
+[@ITEM 188 (L1) ]
+\0
+
+[@ITEM 188 (EN) ]
+Trade for "Magma Hand", okay?
+		{SEL1}Yes.{/SEL1}
+		{SEL2}No.{/SEL2}\0
+
+[@ITEM 188 (L2) ]
+\0
+
+[@ITEM 188 (FR) ]
+Troquer contre bras de magma ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 189 (L1) ]
+\0
+
+[@ITEM 189 (EN) ]
+{MSGWND}
+Got a Magma Hand!\0
+
+[@ITEM 189 (L2) ]
+\0
+
+[@ITEM 189 (FR) ]
+{MSGWND}
+Vous obtenez un bras de magma !\0
+
+[@ITEM 190 (L1) ]
+\0
+
+[@ITEM 190 (EN) ]
+Trade for "Dreamstone Bow", okay?
+		{SEL1}Yes.{/SEL1}
+		{SEL2}No.{/SEL2}\0
+
+[@ITEM 190 (L2) ]
+\0
+
+[@ITEM 190 (FR) ]
+Troquer contre arc onirique ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 191 (L1) ]
+\0
+
+[@ITEM 191 (EN) ]
+{MSGWND}
+Got a Dreamstone Bow!\0
+
+[@ITEM 191 (L2) ]
+\0
+
+[@ITEM 191 (FR) ]
+{MSGWND}
+Vous obtenez un arc onirique !\0
+
+[@ITEM 192 (L1) ]
+\0
+
+[@ITEM 192 (EN) ]
+Trade for "Dreamstone Gun", okay?
+		{SEL1}Yes.{/SEL1}
+		{SEL2}No.{/SEL2}\0
+
+[@ITEM 192 (L2) ]
+\0
+
+[@ITEM 192 (FR) ]
+Troquer contre un pistolet onirique ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 193 (L1) ]
+\0
+
+[@ITEM 193 (EN) ]
+{MSGWND}
+Got a Dreamstone Gun!\0
+
+[@ITEM 193 (L2) ]
+\0
+
+[@ITEM 193 (FR) ]
+{MSGWND}
+Vous obtenez un pistolet onirique !\0
+
+[@ITEM 194 (L1) ]
+\0
+
+[@ITEM 194 (EN) ]
+Trade for your shiny stone!\0
+
+[@ITEM 194 (L2) ]
+\0
+
+[@ITEM 194 (FR) ]
+Troquer pierres brillantes !\0
+
+[@ITEM 195 (L1) ]
+\0
+
+[@ITEM 195 (EN) ]
+{MSGWND}
+Obtained 4 Potions!\0
+
+[@ITEM 195 (L2) ]
+\0
+
+[@ITEM 195 (FR) ]
+{MSGWND}
+Vous obtenez quatre potions !\0
+
+[@ITEM 196 (L1) ]
+\0
+
+[@ITEM 196 (EN) ]
+Hardened much ruby,
+made armor.
+"Flower Petal", "Fang", "Horn", "Feather",
+10 each, 40 total, trade.\0
+
+[@ITEM 196 (L2) ]
+\0
+
+[@ITEM 196 (FR) ]
+Moi fabriquer armure avec beaucoup de rubis. Troquer
+contre dix pétales, dix crocs, dix cornes et dix plumes.\0
+
+[@ITEM 197 (L1) ]
+\0
+
+[@ITEM 197 (EN) ]
+You trade?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 197 (L2) ]
+\0
+
+[@ITEM 197 (FR) ]
+Vous vouloir troquer ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 198 (L1) ]
+\0
+
+[@ITEM 198 (EN) ]
+You still want?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 198 (L2) ]
+\0
+
+[@ITEM 198 (FR) ]
+Vous vouloir encore troquer ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 199 (L1) ]
+\0
+
+[@ITEM 199 (EN) ]
+{MSGWND}
+Got a Ruby Armor!\0
+
+[@ITEM 199 (L2) ]
+\0
+
+[@ITEM 199 (FR) ]
+{MSGWND}
+Vous obtenez une armure de rubis !\0
+
+[@ITEM 200 (L1) ]
+\0
+
+[@ITEM 200 (EN) ]
+{Ayla}: {Crono} came to!?\0
+
+[@ITEM 200 (L2) ]
+\0
+
+[@ITEM 200 (FR) ]
+{Ayla} : {Crono} être réveillé ?\0
+
+[@ITEM 201 (L1) ]
+\0
+
+[@ITEM 201 (EN) ]
+{Marle}: {Ayla}!\0
+
+[@ITEM 201 (L2) ]
+\0
+
+[@ITEM 201 (FR) ]
+{Marle} : {Ayla} !\0
+
+[@ITEM 202 (L1) ]
+\0
+
+[@ITEM 202 (EN) ]
+{Lucca}: {Ayla}!?\0
+
+[@ITEM 202 (L2) ]
+\0
+
+[@ITEM 202 (FR) ]
+{Lucca} : {Ayla} ?!\0
+
+[@ITEM 203 (L1) ]
+\0
+
+[@ITEM 203 (EN) ]
+{Robo}: {Ayla}-san.
+Which means this is......\0
+
+[@ITEM 203 (L2) ]
+\0
+
+[@ITEM 203 (FR) ]
+{Robo} : {Ayla} ? Alors, nous sommes...\0
+
+[@ITEM 204 (L1) ]
+\0
+
+[@ITEM 204 (EN) ]
+{Ayla}: {Ayla} wanted meet {Crono}.
+Went Mystery Mountain. Yous were fallen.{PRESS_CLEAR}
+{Ayla} carried everyone by herself, brought to tent.\0
+
+[@ITEM 204 (L2) ]
+\0
+
+[@ITEM 204 (FR) ]
+{Ayla} : {Ayla} vouloir voir {Crono}.
+{Ayla} aller sur montagne étrange et
+trouver {Crono} avec amis, blessés.{PRESS_CLEAR}
+{Ayla} transporter {Crono} et amis ici.\0
+
+[@ITEM 205 (L1) ]
+\0
+
+[@ITEM 205 (EN) ]
+{Frog}: M, {Magus}!\0
+
+[@ITEM 205 (L2) ]
+\0
+
+[@ITEM 205 (FR) ]
+{Frog} : {Magus} !\0
+
+[@ITEM 206 (L1) ]
+\0
+
+[@ITEM 206 (EN) ]
+{Ayla}: This frog huge.
+Present? Can {Ayla} eat?\0
+
+[@ITEM 206 (L2) ]
+\0
+
+[@ITEM 206 (FR) ]
+{Ayla} : Grosse grenouille ! Cadeau pour
+{Ayla} ? Miam, miam !\0
+
+[@ITEM 207 (L1) ]
+\0
+
+[@ITEM 207 (EN) ]
+{Frog}: Wh, why you!
+More importantly, that pale-faced caped
+bastard wasn't there!?\0
+
+[@ITEM 207 (L2) ]
+\0
+
+[@ITEM 207 (FR) ]
+{Frog} : Idiote ! Dis-moi plutôt si tu as aperçu un
+homme au visage pâle portant une cape !\0
+
+[@ITEM 208 (L1) ]
+\0
+
+[@ITEM 208 (EN) ]
+{Ayla}: No, just yous.
+That one tastier than you?\0
+
+[@ITEM 208 (L2) ]
+\0
+
+[@ITEM 208 (FR) ]
+{Ayla} : Non, juste {Crono} et amis.
+Visage pâle être meilleur que grenouille ?\0
+
+[@ITEM 209 (L1) ]
+\0
+
+[@ITEM 209 (EN) ]
+{Frog}: ......we've let him get away?\0
+
+[@ITEM 209 (L2) ]
+\0
+
+[@ITEM 209 (FR) ]
+{Frog} : Il s'est donc enfui...\0
+
+[@ITEM 210 (L1) ]
+\0
+
+[@ITEM 210 (EN) ]
+{Ayla}: Lavos?
+More important, rest good.
+Yous full of wounds.\0
+
+[@ITEM 210 (L2) ]
+\0
+
+[@ITEM 210 (FR) ]
+{Ayla} : Lavos ? Pas important. {Crono} et amis
+être blessés. Se reposer.\0
+
+[@ITEM 211 (L1) ]
+\0
+
+[@ITEM 211 (EN) ]
+{Marle}: But if {Magus} didn't bring forth
+Lavos......
+Just how long has Lavos......?\0
+
+[@ITEM 211 (L2) ]
+\0
+
+[@ITEM 211 (FR) ]
+{Marle} : Mais si {Magus} n'a pas créé Lavos,
+d'où vient-il ?\0
+
+[@ITEM 212 (L1) ]
+\0
+
+[@ITEM 212 (EN) ]
+{Robo}: The records that say {Magus} produced
+Lavos WERE mistaken.
+Then, when MIGHT the actual time of Lavos's
+birth be?\0
+
+[@ITEM 212 (L2) ]
+\0
+
+[@ITEM 212 (FR) ]
+{Robo} : Les archives disant que {Magus} avait
+créé Lavos étaient donc incorrectes.{PRESS_CLEAR}
+Alors, quand Lavos est-il vraiment né ?\0
+
+[@ITEM 213 (L1) ]
+\0
+
+[@ITEM 213 (EN) ]
+{Lucca}: Come to think of it, {Magus} was saying.
+Lavos has existed since ancient times
+long ago......\0
+
+[@ITEM 213 (L2) ]
+\0
+
+[@ITEM 213 (FR) ]
+{Lucca} : Au fait, {Magus} a dit que Lavos
+existait depuis des temps immémoriaux...\0
+
+[@ITEM 214 (L1) ]
+\0
+
+[@ITEM 214 (EN) ]
+Kino: Healthy, {Crono}?
+{Ayla} hard time now.
+Searching Laruba Village.{PRESS_CLEAR}
+Join power with Laruba Village, have final
+battle with Dinomen!
+If not destroy Dinomen, Kinos destroyed.\0
+
+[@ITEM 214 (L2) ]
+\0
+
+[@ITEM 214 (FR) ]
+Kino : {Crono} et amis aller mieux ? {Ayla} être
+partie chercher tribu de Laruba.{PRESS_CLEAR}
+Ioka et Laruba combattre sauriens ensemble ! Si Ioka et
+Laruba pas détruire sauriens, sauriens détruire Ioka et
+Laruba !\0
+
+[@ITEM 215 (L1) ]
+\0
+
+[@ITEM 215 (EN) ]
+Kino!\0
+
+[@ITEM 215 (L2) ]
+\0
+
+[@ITEM 215 (FR) ]
+Kino !\0
+
+[@ITEM 216 (L1) ]
+\0
+
+[@ITEM 216 (EN) ]
+Kino: What wrong!? {Crono} resting.
+Make quiet!\0
+
+[@ITEM 216 (L2) ]
+\0
+
+[@ITEM 216 (FR) ]
+Kino : Quoi ? {Crono} et amis se reposer !
+Pas faire de bruit !\0
+
+[@ITEM 217 (L1) ]
+\0
+
+[@ITEM 217 (EN) ]
+North wood flaming! Flaming!! Flaming!!!\0
+
+[@ITEM 217 (L2) ]
+\0
+
+[@ITEM 217 (FR) ]
+Feu ! Feu ! Forêt du nord brûler !\0
+
+[@ITEM 218 (L1) ]
+\0
+
+[@ITEM 218 (EN) ]
+Chief went north wood, look for Laruba!\0
+
+[@ITEM 218 (L2) ]
+\0
+
+[@ITEM 218 (FR) ]
+Chef chercher Laruba dans forêt du nord !
+Chef en danger ?\0
+
+[@ITEM 219 (L1) ]
+\0
+
+[@ITEM 219 (EN) ]
+Can see red star in sky, even daytime!\0
+
+[@ITEM 219 (L2) ]
+\0
+
+[@ITEM 219 (FR) ]
+Voir étoile rouge dans le ciel ! Même quand faire soleil !\0
+
+[@ITEM 220 (L1) ]
+\0
+
+[@ITEM 220 (EN) ]
+Red star light keep getting stronger!\0
+
+[@ITEM 220 (L2) ]
+\0
+
+[@ITEM 220 (FR) ]
+Étoile rouge briller fort ! Mauvais signe...\0
+
+[@ITEM 221 (L1) ]
+\0
+
+[@ITEM 221 (EN) ]
+Me saw Dinomen!
+Went after chief!
+Headed for north wood!!\0
+
+[@ITEM 221 (L2) ]
+\0
+
+[@ITEM 221 (FR) ]
+Moi voir sauriens suivre chef vers forêt du nord !\0
+
+[@ITEM 222 (L1) ]
+\0
+
+[@ITEM 222 (EN) ]
+East lava zone.
+Can hear creepy voice......
+Never heard before animal voice......\0
+
+[@ITEM 222 (L2) ]
+\0
+
+[@ITEM 222 (FR) ]
+Entendre cri sinistre dans champ de lave à l'est.
+Jamais entendre avant.\0
+
+[@ITEM 223 (L1) ]
+\0
+
+[@ITEM 223 (EN) ]
+Weird thing made in lava zone.
+Must be Azarla!
+But need Pteran cross mountain.\0
+
+[@ITEM 223 (L2) ]
+\0
+
+[@ITEM 223 (FR) ]
+Chose bizarre apparaître dans champ de lave.
+Sûrement Azara ! Mais pour passer montagnes,
+besoin de ptéranodons.\0
+
+[@ITEM 224 (L1) ]
+\0
+
+[@ITEM 224 (EN) ]
+Trade hut weapons new.
+Should try looking.\0
+
+[@ITEM 224 (L2) ]
+\0
+
+[@ITEM 224 (FR) ]
+Tente de troc avoir nouvelles armes.
+Vous aller voir ?\0
+
+[@ITEM 225 (L1) ]
+\0
+
+[@ITEM 225 (EN) ]
+Laruba clan call Pteran. Fly sky!
+We no can call. No can fly sky.\0
+
+[@ITEM 225 (L2) ]
+\0
+
+[@ITEM 225 (FR) ]
+Tribu de Laruba pouvoir appeler ptéranodons.
+Voler dans ciel ! Ioka pas pouvoir appeler
+ptéranodons. Pas voler dans ciel...\0
+
+[@ITEM 226 (L1) ]
+\0
+
+[@ITEM 226 (EN) ]
+Hunt in Hunting Forest.
+Gather "Flower Petal", "Fang",
+"Horn", "Feather"!{PRESS_CLEAR}
+And when rain, very rare
+monster come out.
+That one good profit! Good profit!!\0
+
+[@ITEM 226 (L2) ]
+\0
+
+[@ITEM 226 (FR) ]
+Trouver pétales, crocs, cornes et plumes sur terrain de
+chasse !{PRESS_CLEAR}
+Si pluie tomber, monstre rare apparaître ! Monstre rare
+être très bonne prise !\0
+
+[@ITEM 227 (L1) ]
+\0
+
+[@ITEM 227 (EN) ]
+Strong one become chief.
+Man, woman, child, not matter.
+Ioka chief lithe muscle.\0
+
+[@ITEM 227 (L2) ]
+\0
+
+[@ITEM 227 (FR) ]
+Plus fort être chef d'Ioka. Homme, femme ou enfant !
+Chef d'Ioka être toujours musclé !\0
+
+[@ITEM 228 (L1) ]
+\0
+
+[@ITEM 228 (EN) ]
+{MSGWND}
+HP and MP recovered!\0
+
+[@ITEM 228 (L2) ]
+\0
+
+[@ITEM 228 (FR) ]
+{MSGWND}
+Régénération des PV et des PM !\0
+
+[@ITEM 229 (L1) ]
+\0
+
+[@ITEM 229 (EN) ]
+Dinomen all, all get shock
+by thunder! You knew that?\0
+
+[@ITEM 229 (L2) ]
+\0
+
+[@ITEM 229 (FR) ]
+Vous savoir ? Dinosaures avoir peur de foudre !\0
+
+[@ITEM 230 (L1) ]
+\0
+
+[@ITEM 230 (EN) ]
+Want know goods here?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 230 (L2) ]
+\0
+
+[@ITEM 230 (FR) ]
+Vous vouloir connaître marchandises ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 231 (L1) ]
+\0
+
+[@ITEM 231 (EN) ]
+"Flower Petal" and "Fang": Ruby Gun,
+"Flower Petal" and "Horn": Saint's Bow,
+"Flower Petal" and "Feather": Stone Arm,
+"Fang" and "Horn": Mammoth Sword,{PRESS_CLEAR}
+"Fang" and "Feather": Ruby Vest,
+"Horn" and "Feather": Stone Helm,
+that how trade.
+I teach good thing.{PRESS_CLEAR}
+"Ruby Vest" strong fire.
+Not too hot when wearing.\0
+
+[@ITEM 231 (L2) ]
+\0
+
+[@ITEM 231 (FR) ]
+Troquer pétales et crocs contre pistolet à rubis.
+Troquer pétales et cornes contre arc de shaman.
+Troquer pétales et plumes contre bras de pierre.{PRESS_CLEAR}
+Troquer crocs et cornes contre sabre d'ivoire.
+Troquer crocs et plumes contre veste de rubis.
+Troquer cornes et plumes contre armet de pierre.{PRESS_CLEAR}
+Bon conseil : veste de rubis résister feu.
+Pas brûler quand porter.\0
+
+[@ITEM 232 (L1) ]
+\0
+
+[@ITEM 232 (EN) ]
+"Flower Petal" and "Fang": Dreamstone Gun,
+"Flower Petal" and "Horn": Dreamstone Bow,
+"Flower Petal" and "Feather": Magma Hand,
+"Fang" and "Horn": Ancient Sword,{PRESS_CLEAR}
+"Fang" and "Feather": Ruby Vest,
+"Horn" and "Feather": Stone Helm,
+that how trade.
+I teach good thing.{PRESS_CLEAR}
+"Ruby Vest" strong fire.
+Not too hot when wearing.\0
+
+[@ITEM 232 (L2) ]
+\0
+
+[@ITEM 232 (FR) ]
+Troquer pétales et crocs contre pistolet onirique.
+Troquer pétales et cornes contre arc onirique.
+Troquer pétales et plumes contre bras de magma.{PRESS_CLEAR}
+Troquer crocs et cornes contre sabre antique.
+Troquer crocs et plumes contre veste de rubis.
+Troquer cornes et plumes contre armet de pierre.{PRESS_CLEAR}
+Bon conseil : veste de rubis résister feu.
+Pas brûler quand porter.\0
+
+[@ITEM 233 (L1) ]
+\0
+
+[@ITEM 233 (EN) ]
+Dinomen destroyed! Happy!!\0
+
+[@ITEM 233 (L2) ]
+\0
+
+[@ITEM 233 (FR) ]
+Sauriens être finis !
+Ounga ! Ounga !\0
+
+[@ITEM 234 (L1) ]
+\0
+
+[@ITEM 234 (EN) ]
+Everyone relief.
+Peace came.
+Everyone waited this day.\0
+
+[@ITEM 234 (L2) ]
+\0
+
+[@ITEM 234 (FR) ]
+Tribu être rassurée. Paix enfin régner.\0
+
+[@ITEM 235 (L1) ]
+\0
+
+[@ITEM 235 (EN) ]
+Red star fell!
+Very bad sign......
+But Dinomen all destroyed.
+Happy.\0
+
+[@ITEM 235 (L2) ]
+\0
+
+[@ITEM 235 (FR) ]
+Étoile rouge tombée ! Très mauvais !
+Mais sauriens être tous finis ! Très bien !\0
+
+[@ITEM 236 (L1) ]
+\0
+
+[@ITEM 236 (EN) ]
+Me saw red star!
+When big fire Lavos fall.
+Was awesome.
+Me a bit scared.\0
+
+[@ITEM 236 (L2) ]
+\0
+
+[@ITEM 236 (FR) ]
+Moi avoir vu étoile rouge ! Avoir vu grand feu Lavos
+s'écraser. Terrible ! Moi avoir peur !\0
+
+[@ITEM 237 (L1) ]
+\0
+
+[@ITEM 237 (EN) ]
+Now Dinomen not come out!
+Happy, happy.\0
+
+[@ITEM 237 (L2) ]
+\0
+
+[@ITEM 237 (FR) ]
+Sauriens plus attaquer ! Youpi !\0
+
+[@ITEM 238 (L1) ]
+\0
+
+[@ITEM 238 (EN) ]
+Dinomen destroyed! Happy!!\0
+
+[@ITEM 238 (L2) ]
+\0
+
+[@ITEM 238 (FR) ]
+Sauriens être finis !
+Ounga !\0
+
+[@ITEM 239 (L1) ]
+\0
+
+[@ITEM 239 (EN) ]
+Chief and Cros strong, praise!\0
+
+[@ITEM 239 (L2) ]
+\0
+
+[@ITEM 239 (FR) ]
+Moi admirer force du chef, {Crono} et amis !\0
+
+[@ITEM 240 (L1) ]
+\0
+
+[@ITEM 240 (EN) ]
+Kino: Yous well come!
+Rest, take time.\0
+
+[@ITEM 240 (L2) ]
+\0
+
+[@ITEM 240 (FR) ]
+Kino : Bienvenue !
+Ici pouvoir se reposer !\0
+
+[@ITEM 241 (L1) ]
+\0
+
+[@ITEM 241 (EN) ]
+Kino: {Ayla}!!
+{Ayla} healthy? Kino healthy!\0
+
+[@ITEM 241 (L2) ]
+\0
+
+[@ITEM 241 (FR) ]
+Kino : {Ayla} !! {Ayla} bien aller ?
+Kino bien aller !\0
+
+[@ITEM 242 (L1) ]
+\0
+
+[@ITEM 242 (EN) ]
+Kino: Lavos fell.
+Dinomen destroyed, good.
+But getting cold since then......
+No can hunt much......\0
+
+[@ITEM 242 (L2) ]
+\0
+
+[@ITEM 242 (FR) ]
+Kino : Lavos s'écraser, sauriens être finis, bon !
+Mais maintenant, devenir froid... Pas bon pour chasser.\0
+
+[@ITEM 243 (L1) ]
+\0
+
+[@ITEM 243 (EN) ]
+But Kino not lose!
+{Ayla} no need worry.
+Leave to Kino.\0
+
+[@ITEM 243 (L2) ]
+\0
+
+[@ITEM 243 (FR) ]
+Kino pas abandonner ! {Ayla} pas s'inquiéter.
+Kino s'occuper d'Ioka.\0
+
+[@ITEM 244 (L1) ]
+\0
+
+[@ITEM 244 (EN) ]
+{Ayla} quit chief.
+Now Kino chief.\0
+
+[@ITEM 244 (L2) ]
+\0
+
+[@ITEM 244 (FR) ]
+{Ayla} plus être chef. Maintenant, Kino être chef.\0
+
+[@ITEM 245 (L1) ]
+\0
+
+[@ITEM 245 (EN) ]
+Big fire Lavos.
+It fell.
+Got cold......\0
+
+[@ITEM 245 (L2) ]
+\0
+
+[@ITEM 245 (FR) ]
+Grand feu Lavos s'écraser. Maintenant, dehors être
+froid...\0
+
+[@ITEM 246 (L1) ]
+\0
+
+[@ITEM 246 (EN) ]
+Brr! Cold......!\0
+
+[@ITEM 246 (L2) ]
+\0
+
+[@ITEM 246 (FR) ]
+Brrr ! Froid !\0
+
+[@ITEM 247 (L1) ]
+\0
+
+[@ITEM 247 (EN) ]
+Got cold, less monsters.\0
+
+[@ITEM 247 (L2) ]
+\0
+
+[@ITEM 247 (FR) ]
+Dehors être froid, alors moins de monstres.
+Moins d'animaux, aussi...\0
+
+[@ITEM 248 (L1) ]
+\0
+
+[@ITEM 248 (EN) ]
+No can get healthy water no more.
+First time this happen.\0
+
+[@ITEM 248 (L2) ]
+\0
+
+[@ITEM 248 (FR) ]
+Eau du courage être épuisée.
+Jamais arriver avant...\0
+
+[@ITEM 249 (L1) ]
+\0
+
+[@ITEM 249 (EN) ]
+Found weird rock!
+Felt sick when have......
+Threw away soon.\0
+
+[@ITEM 249 (L2) ]
+\0
+
+[@ITEM 249 (FR) ]
+Moi trouver pierre étrange ! Désagréable à toucher,
+alors moi jeter pierre.\0
+
+[@ITEM 250 (L1) ]
+\0
+
+[@ITEM 250 (EN) ]
+Grateful to Ioka.
+Took us in when village gone.\0
+
+[@ITEM 250 (L2) ]
+\0
+
+[@ITEM 250 (FR) ]
+Nous être reconnaissants. Quand village être détruit,
+Ioka recueillir tribu.\0
+
+[@ITEM 251 (L1) ]
+\0
+
+[@ITEM 251 (EN) ]
+Can't see sun much.\0
+
+[@ITEM 251 (L2) ]
+\0
+
+[@ITEM 251 (FR) ]
+Beaucoup de nuages dans ciel.
+Difficile de voir soleil.\0
+
+[@ITEM 252 (L1) ]
+\0
+
+[@ITEM 252 (EN) ]
+Peeked in trade hut.
+New armor made.\0
+
+[@ITEM 252 (L2) ]
+\0
+
+[@ITEM 252 (FR) ]
+Visiter tente de troc.
+Nouvelle protection !\0
+
+[@ITEM 253 (L1) ]
+\0
+
+[@ITEM 253 (EN) ]
+Falling white cold.
+What that?\0
+
+[@ITEM 253 (L2) ]
+\0
+
+[@ITEM 253 (FR) ]
+Petite chose blanche et froide tomber du ciel.
+Quoi être ? Jamais vue avant.\0
+
+[@ITEM 254 (L1) ]
+\0
+
+[@ITEM 254 (EN) ]
+\0
+
+[@ITEM 254 (L2) ]
+\0
+
+[@ITEM 254 (FR) ]
+\0
+
+[@ITEM 255 (L1) ]
+\0
+
+[@ITEM 255 (EN) ]
+\0
+
+[@ITEM 255 (L2) ]
+\0
+
+[@ITEM 255 (FR) ]
+\0
+

@@ -1,0 +1,3302 @@
+[@exms0.msg]
+
+[@ITEM 0 (L1) ]
+\0
+
+[@ITEM 0 (EN) ]
+{MSGWND}
+Obtained {ITEM}!\0
+
+[@ITEM 0 (L2) ]
+\0
+
+[@ITEM 0 (FR) ]
+{MSGWND}
+Obtenu : {ITEM} !\0
+
+[@ITEM 1 (L1) ]
+\0
+
+[@ITEM 1 (EN) ]
+{HERO1}: Ugh...\0
+
+[@ITEM 1 (L2) ]
+\0
+
+[@ITEM 1 (FR) ]
+{HERO1} : Oh...\0
+
+[@ITEM 2 (L1) ]
+\0
+
+[@ITEM 2 (EN) ]
+{HERO2}: Ugh...\0
+
+[@ITEM 2 (L2) ]
+\0
+
+[@ITEM 2 (FR) ]
+{HERO2} : Ooh...\0
+
+[@ITEM 3 (L1) ]
+\0
+
+[@ITEM 3 (EN) ]
+{Robo}: Unh...\0
+
+[@ITEM 3 (L2) ]
+\0
+
+[@ITEM 3 (FR) ]
+{Robo} : Oh...\0
+
+[@ITEM 4 (L1) ]
+\0
+
+[@ITEM 4 (EN) ]
+{HERO2}: Where is this......?\0
+
+[@ITEM 4 (L2) ]
+\0
+
+[@ITEM 4 (FR) ]
+{HERO2} : Où sommes-nous...?\0
+
+[@ITEM 5 (L1) ]
+\0
+
+[@ITEM 5 (EN) ]
+{HERO3}: Where is this......?\0
+
+[@ITEM 5 (L2) ]
+\0
+
+[@ITEM 5 (FR) ]
+{HERO3} : Où sommes-nous...?\0
+
+[@ITEM 6 (L1) ]
+\0
+
+[@ITEM 6 (EN) ]
+{Robo}: TH, THIS PLACE is......\0
+
+[@ITEM 6 (L2) ]
+\0
+
+[@ITEM 6 (FR) ]
+{Robo} : Quel est cet endroit...?\0
+
+[@ITEM 7 (L1) ]
+\0
+
+[@ITEM 7 (EN) ]
+Voice: Here, Lavos is no more.
+This is the future in which we've defeated him.\0
+
+[@ITEM 7 (L2) ]
+\0
+
+[@ITEM 7 (FR) ]
+??? : Vous êtes dans un futur où Lavos n'existe plus.
+Dans un espace-temps où nous l'avons déjà vaincu.\0
+
+[@ITEM 8 (L1) ]
+\0
+
+[@ITEM 8 (EN) ]
+{Magus}: .........!\0
+
+[@ITEM 8 (L2) ]
+\0
+
+[@ITEM 8 (FR) ]
+{Magus} : ...!\0
+
+[@ITEM 9 (L1) ]
+\0
+
+[@ITEM 9 (EN) ]
+{Magus}: Whether that is the future of the world
+from which you've come, I do not know.{PRESS_CLEAR}
+There are as many worlds as there are potentialities.\0
+
+[@ITEM 9 (L2) ]
+\0
+
+[@ITEM 9 (FR) ]
+{Magus} : Toutefois, je ne saurais dire s'il s'agit du
+futur de votre monde.{PRESS_CLEAR}
+Il existe autant de mondes parallèles que de choix.\0
+
+[@ITEM 10 (L1) ]
+\0
+
+[@ITEM 10 (EN) ]
+{Magus}: A new foe has arisen here, in this endless
+expanse that is Time's Eclipse.{PRESS_CLEAR}
+It feasts upon thoughts, dreams, and memories.\0
+
+[@ITEM 10 (L2) ]
+\0
+
+[@ITEM 10 (FR) ]
+{Magus} : Un nouvel ennemi s'apprête à naître dans
+les profondeurs des ténèbres du temps qui s'étendent
+au-delà.{PRESS_CLEAR}
+Il cherche à dévorer les souvenirs, les rêves et les
+sentiments des êtres humains...\0
+
+[@ITEM 11 (L1) ]
+\0
+
+[@ITEM 11 (EN) ]
+{Magus}: Do not think to meddle here.
+This enemy is my affair.\0
+
+[@ITEM 11 (L2) ]
+\0
+
+[@ITEM 11 (FR) ]
+{Magus} : Je vous interdis d'intervenir.
+Vous n'avez qu'à regarder de là où vous êtes.\0
+
+[@ITEM 12 (L1) ]
+\0
+
+[@ITEM 12 (EN) ]
+{Magus}: Grr...
+I've not finished with you yet.\0
+
+[@ITEM 12 (L2) ]
+\0
+
+[@ITEM 12 (FR) ]
+{Magus} : Aaargh...
+Je ne suis pas... encore... vaincu...\0
+
+[@ITEM 13 (L1) ]
+\0
+
+[@ITEM 13 (EN) ]
+{HERO1}: {Magus}!\0
+
+[@ITEM 13 (L2) ]
+\0
+
+[@ITEM 13 (FR) ]
+{HERO1} : {Magus} !\0
+
+[@ITEM 14 (L1) ]
+\0
+
+[@ITEM 14 (EN) ]
+{HERO2}: {Magus}!\0
+
+[@ITEM 14 (L2) ]
+\0
+
+[@ITEM 14 (FR) ]
+{HERO2} : {Magus} !\0
+
+[@ITEM 15 (L1) ]
+\0
+
+[@ITEM 15 (EN) ]
+{HERO3}: {Magus}!\0
+
+[@ITEM 15 (L2) ]
+\0
+
+[@ITEM 15 (FR) ]
+{HERO3} : {Magus} !\0
+
+[@ITEM 16 (L1) ]
+\0
+
+[@ITEM 16 (EN) ]
+{Magus}: I believe I told you...not to interfere!\0
+
+[@ITEM 16 (L2) ]
+\0
+
+[@ITEM 16 (FR) ]
+{Magus} : Je vous ai dit de ne pas intervenir !\0
+
+[@ITEM 17 (L1) ]
+\0
+
+[@ITEM 17 (EN) ]
+Sara: Let all that once was fade into oblivion!
+I welcome the end of existence.\0
+
+[@ITEM 17 (L2) ]
+\0
+
+[@ITEM 17 (FR) ]
+Sarah : Tout doit disparaître. Rien ne mérite de
+subsister !\0
+
+[@ITEM 18 (L1) ]
+\0
+
+[@ITEM 18 (EN) ]
+{Magus}: No, Sara!
+Free yourself from its spell!
+Please... You must open your eyes!\0
+
+[@ITEM 18 (L2) ]
+\0
+
+[@ITEM 18 (FR) ]
+{Magus} : Non ! Ouvre les yeux ! Réveille-toi,
+Sarah, je t'en prie !\0
+
+[@ITEM 19 (L1) ]
+\0
+
+[@ITEM 19 (EN) ]
+Oh no!\0
+
+[@ITEM 19 (L2) ]
+\0
+
+[@ITEM 19 (FR) ]
+Attention !\0
+
+[@ITEM 20 (L1) ]
+\0
+
+[@ITEM 20 (EN) ]
+{Lucca}: This is the new enemy?
+What...what is doing here?\0
+
+[@ITEM 20 (L2) ]
+\0
+
+[@ITEM 20 (FR) ]
+{Lucca} : C'est... le nouvel ennemi ?!
+Que s'est-il passé ?!\0
+
+[@ITEM 21 (L1) ]
+\0
+
+[@ITEM 21 (EN) ]
+{Robo}: Offensive power incalculable.
+We are in extreme danger!\0
+
+[@ITEM 21 (L2) ]
+\0
+
+[@ITEM 21 (FR) ]
+{Robo} : Alerte ! Il m'est impossible de mesurer sa
+puissance !\0
+
+[@ITEM 22 (L1) ]
+\0
+
+[@ITEM 22 (EN) ]
+{Frog}: It seems we've little choice but to fight.\0
+
+[@ITEM 22 (L2) ]
+\0
+
+[@ITEM 22 (FR) ]
+{Frog} : Pfft, on dirait que nous allons devoir nous
+en charger.\0
+
+[@ITEM 23 (L1) ]
+\0
+
+[@ITEM 23 (EN) ]
+{Marle}: Isn't that...Lavos?
+Why is Sara with it?\0
+
+[@ITEM 23 (L2) ]
+\0
+
+[@ITEM 23 (FR) ]
+{Marle} : Est-ce Lavos ?! Pourquoi Sarah est-elle
+ici ?!\0
+
+[@ITEM 24 (L1) ]
+\0
+
+[@ITEM 24 (EN) ]
+{Ayla}: {Ayla} not lose!\0
+
+[@ITEM 24 (L2) ]
+\0
+
+[@ITEM 24 (FR) ]
+{Ayla} : {Ayla} pas perdre !\0
+
+[@ITEM 25 (L1) ]
+\0
+
+[@ITEM 25 (EN) ]
+{Magus}: No...
+Impossible!\0
+
+[@ITEM 25 (L2) ]
+\0
+
+[@ITEM 25 (FR) ]
+{Magus} : Non...! C'est impossible...!\0
+
+[@ITEM 26 (L1) ]
+\0
+
+[@ITEM 26 (EN) ]
+Sara: Embrace your destruction!
+It is inevitable!\0
+
+[@ITEM 26 (L2) ]
+\0
+
+[@ITEM 26 (FR) ]
+Sarah : La fin approche !\0
+
+[@ITEM 27 (L1) ]
+\0
+
+[@ITEM 27 (EN) ]
+Sara: The end of all is nigh.\0
+
+[@ITEM 27 (L2) ]
+\0
+
+[@ITEM 27 (FR) ]
+Sarah : Que l'univers entier soit détruit !\0
+
+[@ITEM 28 (L1) ]
+\0
+
+[@ITEM 28 (EN) ]
+{Magus}: No!
+Sara!\0
+
+[@ITEM 28 (L2) ]
+\0
+
+[@ITEM 28 (FR) ]
+{Magus} : Non ! Arrête, Sarah...!\0
+
+[@ITEM 29 (L1) ]
+\0
+
+[@ITEM 29 (EN) ]
+{Magus}: 'Ane-ue......!!\0
+
+[@ITEM 29 (L2) ]
+\0
+
+[@ITEM 29 (FR) ]
+{Magus} : Sarah !!\0
+
+[@ITEM 30 (L1) ]
+\0
+
+[@ITEM 30 (EN) ]
+{Magus}: Sara?\0
+
+[@ITEM 30 (L2) ]
+\0
+
+[@ITEM 30 (FR) ]
+{Magus} : Sa... Sarah...?\0
+
+[@ITEM 31 (L1) ]
+\0
+
+[@ITEM 31 (EN) ]
+Sara: It is no doubt but a matter of time before
+Lavos consumes the whole of my awareness.{PRESS_CLEAR}
+It was I, after all, who wished it{56}wished from the
+depths of my sadness and despair that all that was
+would be erased.\0
+
+[@ITEM 31 (L2) ]
+\0
+
+[@ITEM 31 (FR) ]
+Sarah : Tôt ou tard, ma conscience sera complètement
+absorbée par Lavos.{PRESS_CLEAR}
+Dans les profondeurs du désespoir et de la tristesse,
+j'ai moi-même souhaité disparaître avec tout le reste...\0
+
+[@ITEM 32 (L1) ]
+\0
+
+[@ITEM 32 (EN) ]
+Sara: The strength you wield now cannot free me.{PRESS_CLEAR}
+No, perhaps it is better said that no strength can.
+So long as you lean upon the crutch of power, this
+world's sorrow can know no true end.{PRESS_CLEAR}
+Return to your own time now.
+Dwell not on this.\0
+
+[@ITEM 32 (L2) ]
+\0
+
+[@ITEM 32 (FR) ]
+Sarah : Vous n'avez pas la force nécessaire pour me
+libérer.{PRESS_CLEAR}
+D'ailleurs, tant que vous vous en remettrez à la force,
+vous n'aurez pas la moindre chance d'apaiser la
+tristesse et le désespoir de ce monde...{PRESS_CLEAR}
+Allez, retournez maintenant dans votre propre
+espace-temps.\0
+
+[@ITEM 33 (L1) ]
+\0
+
+[@ITEM 33 (EN) ]
+{Magus}: Ane-ue......\0
+
+[@ITEM 33 (L2) ]
+\0
+
+[@ITEM 33 (FR) ]
+{Magus} : Sarah...\0
+
+[@ITEM 34 (L1) ]
+\0
+
+[@ITEM 34 (EN) ]
+Sara: Jyaki...thank you.
+But I am the girl I was no more.
+Live, and be strong.\0
+
+[@ITEM 34 (L2) ]
+\0
+
+[@ITEM 34 (FR) ]
+Sarah : Janus... Je te remercie. Je ne suis plus celle que
+j'étais... Mais toi, tu dois vivre, envers et contre tout.\0
+
+[@ITEM 35 (L1) ]
+\0
+
+[@ITEM 35 (EN) ]
+{Magus}: 'Ane-ue......!!\0
+
+[@ITEM 35 (L2) ]
+\0
+
+[@ITEM 35 (FR) ]
+{Magus} : Sarah !\0
+
+[@ITEM 36 (L1) ]
+\0
+
+[@ITEM 36 (EN) ]
+Sara: Farewell...\0
+
+[@ITEM 36 (L2) ]
+\0
+
+[@ITEM 36 (FR) ]
+Sarah : Adieu...\0
+
+[@ITEM 37 (L1) ]
+\0
+
+[@ITEM 37 (EN) ]
+{Magus}: So, you mean to say that no matter how
+hard I strive{56}no matter how strong I grow{56}there
+is nothing I might do to save you?{PRESS_CLEAR}
+What purpose, then, does this existence serve?\0
+
+[@ITEM 37 (L2) ]
+\0
+
+[@ITEM 37 (FR) ]
+{Magus} : Est-ce à dire que je ne serai jamais assez
+puissant ?{PRESS_CLEAR}
+Si c'est le cas, à quoi bon continuer d'exister...?\0
+
+[@ITEM 38 (L1) ]
+\0
+
+[@ITEM 38 (EN) ]
+{Magus}: Hmph. If this is to be the way of things,
+then let me abandon all that was and fade away as well.{PRESS_CLEAR}
+Should a part of me somehow even then remain,
+then perhaps that will be the birth of something
+new{56}something with greater meaning than all this.\0
+
+[@ITEM 38 (L2) ]
+\0
+
+[@ITEM 38 (FR) ]
+{Magus} : Tsst ! Soit... Je vais moi aussi tout
+abandonner et disparaître.{PRESS_CLEAR}
+Si malgré tout une petite partie de mon âme venait à
+subsister, peut-être donnerait-elle naissance à quelque
+chose de nouveau...\0
+
+[@ITEM 39 (L1) ]
+\0
+
+[@ITEM 39 (EN) ]
+This is......\0
+
+[@ITEM 39 (L2) ]
+\0
+
+[@ITEM 39 (FR) ]
+Où suis-je...?\0
+
+[@ITEM 40 (L1) ]
+\0
+
+[@ITEM 40 (EN) ]
+Who...who am I?
+What's happened?
+I...I don't remember anything.\0
+
+[@ITEM 40 (L2) ]
+\0
+
+[@ITEM 40 (FR) ]
+Je... Qui suis-je ? Je ne me souviens de rien...
+Que m'est-il arrivé...?\0
+
+[@ITEM 41 (L1) ]
+\0
+
+[@ITEM 41 (EN) ]
+There was something...something I needed to do.
+Something I needed to...to find.\0
+
+[@ITEM 41 (L2) ]
+\0
+
+[@ITEM 41 (FR) ]
+Il y avait quelque chose que je devais faire...
+Quelque chose que je devais trouver...\0
+
+[@ITEM 42 (L1) ]
+\0
+
+[@ITEM 42 (EN) ]
+I must find a way to remember.
+I will.\0
+
+[@ITEM 42 (L2) ]
+\0
+
+[@ITEM 42 (FR) ]
+Je vais le récupérer, coûte que coûte. Je le jure...\0
+
+[@ITEM 43 (L1) ]
+\0
+
+[@ITEM 43 (EN) ]
+A new enemy waits beyond.
+What will you do?
+\t\t{SEL1}Fight!{/SEL1}
+\t\t{SEL2}Turn back for now.{/SEL2}\0
+
+[@ITEM 43 (L2) ]
+\0
+
+[@ITEM 43 (FR) ]
+Un nouvel ennemi vous attend au-delà du portail.
+Que voulez-vous faire ?
+       {SEL1}Combattre !{/SEL1}
+       {SEL2}Faire demi-tour...{/SEL2}\0
+
+[@ITEM 44 (L1) ]
+\0
+
+[@ITEM 44 (EN) ]
+Return to the Farthest Reaches of Time?
+		{SEL1}Yes.{/SEL1}
+		{SEL2}No.{/SEL2}\0
+
+[@ITEM 44 (L2) ]
+\0
+
+[@ITEM 44 (FR) ]
+Voulez-vous retourner à la Fin des temps ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 45 (L1) ]
+\0
+
+[@ITEM 45 (EN) ]
+{Ayla}: Ugh...\0
+
+[@ITEM 45 (L2) ]
+\0
+
+[@ITEM 45 (FR) ]
+{Ayla} : Oh...\0
+
+[@ITEM 46 (L1) ]
+\0
+
+[@ITEM 46 (EN) ]
+{Ayla}: What this place?\0
+
+[@ITEM 46 (L2) ]
+\0
+
+[@ITEM 46 (FR) ]
+{Ayla} : Où nous être...?\0
+
+[@ITEM 47 (L1) ]
+\0
+
+[@ITEM 47 (EN) ]
+Oohh......\0
+
+[@ITEM 47 (L2) ]
+\0
+
+[@ITEM 47 (FR) ]
+Oh...\0
+
+[@ITEM 48 (L1) ]
+\0
+
+[@ITEM 48 (EN) ]
+'Ane-ue!{56}\0
+
+[@ITEM 48 (L2) ]
+\0
+
+[@ITEM 48 (FR) ]
+{Magus} : Sarah ?!\0
+
+[@ITEM 49 (L1) ]
+\0
+
+[@ITEM 49 (EN) ]
+{Magus}: Urgh!\0
+
+[@ITEM 49 (L2) ]
+\0
+
+[@ITEM 49 (FR) ]
+{Magus} : Sa... Sarah...!\0
+
+[@ITEM 50 (L1) ]
+\0
+
+[@ITEM 50 (EN) ]
+\0
+
+[@ITEM 50 (L2) ]
+\0
+
+[@ITEM 50 (FR) ]
+\0
+
+[@ITEM 51 (L1) ]
+\0
+
+[@ITEM 51 (EN) ]
+\0
+
+[@ITEM 51 (L2) ]
+\0
+
+[@ITEM 51 (FR) ]
+\0
+
+[@ITEM 52 (L1) ]
+\0
+
+[@ITEM 52 (EN) ]
+\0
+
+[@ITEM 52 (L2) ]
+\0
+
+[@ITEM 52 (FR) ]
+\0
+
+[@ITEM 53 (L1) ]
+\0
+
+[@ITEM 53 (EN) ]
+\0
+
+[@ITEM 53 (L2) ]
+\0
+
+[@ITEM 53 (FR) ]
+\0
+
+[@ITEM 54 (L1) ]
+\0
+
+[@ITEM 54 (EN) ]
+\0
+
+[@ITEM 54 (L2) ]
+\0
+
+[@ITEM 54 (FR) ]
+\0
+
+[@ITEM 55 (L1) ]
+\0
+
+[@ITEM 55 (EN) ]
+\0
+
+[@ITEM 55 (L2) ]
+\0
+
+[@ITEM 55 (FR) ]
+\0
+
+[@ITEM 56 (L1) ]
+\0
+
+[@ITEM 56 (EN) ]
+\0
+
+[@ITEM 56 (L2) ]
+\0
+
+[@ITEM 56 (FR) ]
+\0
+
+[@ITEM 57 (L1) ]
+\0
+
+[@ITEM 57 (EN) ]
+\0
+
+[@ITEM 57 (L2) ]
+\0
+
+[@ITEM 57 (FR) ]
+\0
+
+[@ITEM 58 (L1) ]
+\0
+
+[@ITEM 58 (EN) ]
+\0
+
+[@ITEM 58 (L2) ]
+\0
+
+[@ITEM 58 (FR) ]
+\0
+
+[@ITEM 59 (L1) ]
+\0
+
+[@ITEM 59 (EN) ]
+\0
+
+[@ITEM 59 (L2) ]
+\0
+
+[@ITEM 59 (FR) ]
+\0
+
+[@ITEM 60 (L1) ]
+\0
+
+[@ITEM 60 (EN) ]
+\0
+
+[@ITEM 60 (L2) ]
+\0
+
+[@ITEM 60 (FR) ]
+\0
+
+[@ITEM 61 (L1) ]
+\0
+
+[@ITEM 61 (EN) ]
+\0
+
+[@ITEM 61 (L2) ]
+\0
+
+[@ITEM 61 (FR) ]
+\0
+
+[@ITEM 62 (L1) ]
+\0
+
+[@ITEM 62 (EN) ]
+\0
+
+[@ITEM 62 (L2) ]
+\0
+
+[@ITEM 62 (FR) ]
+\0
+
+[@ITEM 63 (L1) ]
+\0
+
+[@ITEM 63 (EN) ]
+\0
+
+[@ITEM 63 (L2) ]
+\0
+
+[@ITEM 63 (FR) ]
+\0
+
+[@ITEM 64 (L1) ]
+\0
+
+[@ITEM 64 (EN) ]
+\0
+
+[@ITEM 64 (L2) ]
+\0
+
+[@ITEM 64 (FR) ]
+\0
+
+[@ITEM 65 (L1) ]
+\0
+
+[@ITEM 65 (EN) ]
+\0
+
+[@ITEM 65 (L2) ]
+\0
+
+[@ITEM 65 (FR) ]
+\0
+
+[@ITEM 66 (L1) ]
+\0
+
+[@ITEM 66 (EN) ]
+\0
+
+[@ITEM 66 (L2) ]
+\0
+
+[@ITEM 66 (FR) ]
+\0
+
+[@ITEM 67 (L1) ]
+\0
+
+[@ITEM 67 (EN) ]
+\0
+
+[@ITEM 67 (L2) ]
+\0
+
+[@ITEM 67 (FR) ]
+\0
+
+[@ITEM 68 (L1) ]
+\0
+
+[@ITEM 68 (EN) ]
+\0
+
+[@ITEM 68 (L2) ]
+\0
+
+[@ITEM 68 (FR) ]
+\0
+
+[@ITEM 69 (L1) ]
+\0
+
+[@ITEM 69 (EN) ]
+\0
+
+[@ITEM 69 (L2) ]
+\0
+
+[@ITEM 69 (FR) ]
+\0
+
+[@ITEM 70 (L1) ]
+\0
+
+[@ITEM 70 (EN) ]
+\0
+
+[@ITEM 70 (L2) ]
+\0
+
+[@ITEM 70 (FR) ]
+\0
+
+[@ITEM 71 (L1) ]
+\0
+
+[@ITEM 71 (EN) ]
+\0
+
+[@ITEM 71 (L2) ]
+\0
+
+[@ITEM 71 (FR) ]
+\0
+
+[@ITEM 72 (L1) ]
+\0
+
+[@ITEM 72 (EN) ]
+\0
+
+[@ITEM 72 (L2) ]
+\0
+
+[@ITEM 72 (FR) ]
+\0
+
+[@ITEM 73 (L1) ]
+\0
+
+[@ITEM 73 (EN) ]
+\0
+
+[@ITEM 73 (L2) ]
+\0
+
+[@ITEM 73 (FR) ]
+\0
+
+[@ITEM 74 (L1) ]
+\0
+
+[@ITEM 74 (EN) ]
+\0
+
+[@ITEM 74 (L2) ]
+\0
+
+[@ITEM 74 (FR) ]
+\0
+
+[@ITEM 75 (L1) ]
+\0
+
+[@ITEM 75 (EN) ]
+\0
+
+[@ITEM 75 (L2) ]
+\0
+
+[@ITEM 75 (FR) ]
+\0
+
+[@ITEM 76 (L1) ]
+\0
+
+[@ITEM 76 (EN) ]
+\0
+
+[@ITEM 76 (L2) ]
+\0
+
+[@ITEM 76 (FR) ]
+\0
+
+[@ITEM 77 (L1) ]
+\0
+
+[@ITEM 77 (EN) ]
+\0
+
+[@ITEM 77 (L2) ]
+\0
+
+[@ITEM 77 (FR) ]
+\0
+
+[@ITEM 78 (L1) ]
+\0
+
+[@ITEM 78 (EN) ]
+\0
+
+[@ITEM 78 (L2) ]
+\0
+
+[@ITEM 78 (FR) ]
+\0
+
+[@ITEM 79 (L1) ]
+\0
+
+[@ITEM 79 (EN) ]
+\0
+
+[@ITEM 79 (L2) ]
+\0
+
+[@ITEM 79 (FR) ]
+\0
+
+[@ITEM 80 (L1) ]
+\0
+
+[@ITEM 80 (EN) ]
+\0
+
+[@ITEM 80 (L2) ]
+\0
+
+[@ITEM 80 (FR) ]
+\0
+
+[@ITEM 81 (L1) ]
+\0
+
+[@ITEM 81 (EN) ]
+\0
+
+[@ITEM 81 (L2) ]
+\0
+
+[@ITEM 81 (FR) ]
+\0
+
+[@ITEM 82 (L1) ]
+\0
+
+[@ITEM 82 (EN) ]
+\0
+
+[@ITEM 82 (L2) ]
+\0
+
+[@ITEM 82 (FR) ]
+\0
+
+[@ITEM 83 (L1) ]
+\0
+
+[@ITEM 83 (EN) ]
+\0
+
+[@ITEM 83 (L2) ]
+\0
+
+[@ITEM 83 (FR) ]
+\0
+
+[@ITEM 84 (L1) ]
+\0
+
+[@ITEM 84 (EN) ]
+\0
+
+[@ITEM 84 (L2) ]
+\0
+
+[@ITEM 84 (FR) ]
+\0
+
+[@ITEM 85 (L1) ]
+\0
+
+[@ITEM 85 (EN) ]
+\0
+
+[@ITEM 85 (L2) ]
+\0
+
+[@ITEM 85 (FR) ]
+\0
+
+[@ITEM 86 (L1) ]
+\0
+
+[@ITEM 86 (EN) ]
+\0
+
+[@ITEM 86 (L2) ]
+\0
+
+[@ITEM 86 (FR) ]
+\0
+
+[@ITEM 87 (L1) ]
+\0
+
+[@ITEM 87 (EN) ]
+\0
+
+[@ITEM 87 (L2) ]
+\0
+
+[@ITEM 87 (FR) ]
+\0
+
+[@ITEM 88 (L1) ]
+\0
+
+[@ITEM 88 (EN) ]
+\0
+
+[@ITEM 88 (L2) ]
+\0
+
+[@ITEM 88 (FR) ]
+\0
+
+[@ITEM 89 (L1) ]
+\0
+
+[@ITEM 89 (EN) ]
+\0
+
+[@ITEM 89 (L2) ]
+\0
+
+[@ITEM 89 (FR) ]
+\0
+
+[@ITEM 90 (L1) ]
+\0
+
+[@ITEM 90 (EN) ]
+\0
+
+[@ITEM 90 (L2) ]
+\0
+
+[@ITEM 90 (FR) ]
+\0
+
+[@ITEM 91 (L1) ]
+\0
+
+[@ITEM 91 (EN) ]
+\0
+
+[@ITEM 91 (L2) ]
+\0
+
+[@ITEM 91 (FR) ]
+\0
+
+[@ITEM 92 (L1) ]
+\0
+
+[@ITEM 92 (EN) ]
+\0
+
+[@ITEM 92 (L2) ]
+\0
+
+[@ITEM 92 (FR) ]
+\0
+
+[@ITEM 93 (L1) ]
+\0
+
+[@ITEM 93 (EN) ]
+\0
+
+[@ITEM 93 (L2) ]
+\0
+
+[@ITEM 93 (FR) ]
+\0
+
+[@ITEM 94 (L1) ]
+\0
+
+[@ITEM 94 (EN) ]
+\0
+
+[@ITEM 94 (L2) ]
+\0
+
+[@ITEM 94 (FR) ]
+\0
+
+[@ITEM 95 (L1) ]
+\0
+
+[@ITEM 95 (EN) ]
+\0
+
+[@ITEM 95 (L2) ]
+\0
+
+[@ITEM 95 (FR) ]
+\0
+
+[@ITEM 96 (L1) ]
+\0
+
+[@ITEM 96 (EN) ]
+\0
+
+[@ITEM 96 (L2) ]
+\0
+
+[@ITEM 96 (FR) ]
+\0
+
+[@ITEM 97 (L1) ]
+\0
+
+[@ITEM 97 (EN) ]
+\0
+
+[@ITEM 97 (L2) ]
+\0
+
+[@ITEM 97 (FR) ]
+\0
+
+[@ITEM 98 (L1) ]
+\0
+
+[@ITEM 98 (EN) ]
+\0
+
+[@ITEM 98 (L2) ]
+\0
+
+[@ITEM 98 (FR) ]
+\0
+
+[@ITEM 99 (L1) ]
+\0
+
+[@ITEM 99 (EN) ]
+\0
+
+[@ITEM 99 (L2) ]
+\0
+
+[@ITEM 99 (FR) ]
+\0
+
+[@ITEM 100 (L1) ]
+\0
+
+[@ITEM 100 (EN) ]
+Br-brave heroes! H-help!\0
+
+[@ITEM 100 (L2) ]
+\0
+
+[@ITEM 100 (FR) ]
+Je vous en supplie ! Aidez-moi !\0
+
+[@ITEM 101 (L1) ]
+\0
+
+[@ITEM 101 (EN) ]
+M-my thanks.
+I fear I'd not have survived much longer.\0
+
+[@ITEM 101 (L2) ]
+\0
+
+[@ITEM 101 (FR) ]
+Merci beaucoup de m'avoir porté secours ! J'ai bien cru
+que j'allais y rester.\0
+
+[@ITEM 102 (L1) ]
+\0
+
+[@ITEM 102 (EN) ]
+I've been toiling away at this bridge, but the work
+takes a good deal out of a man. Seems I grew a tad
+careless and lost my footing.\0
+
+[@ITEM 102 (L2) ]
+\0
+
+[@ITEM 102 (FR) ]
+Je construis ce pont depuis des lustres, mais c'est un
+travail harassant. Je n'ai pas fait assez attention et j'ai
+perdu l'équilibre.\0
+
+[@ITEM 103 (L1) ]
+\0
+
+[@ITEM 103 (EN) ]
+If only I'd someone with more brawn to assist me.
+It'll be some time before I finish at this rate.\0
+
+[@ITEM 103 (L2) ]
+\0
+
+[@ITEM 103 (FR) ]
+Si seulement j'avais l'aide de quelqu'un de très costaud...
+Tout seul, je ne suis pas près d'en voir le bout...\0
+
+[@ITEM 104 (L1) ]
+\0
+
+[@ITEM 104 (EN) ]
+{Magus}: Why not use a Nu?
+They've strength and stamina enough.\0
+
+[@ITEM 104 (L2) ]
+\0
+
+[@ITEM 104 (FR) ]
+{Magus} : Pourquoi ne pas utiliser un gnu ?
+Leur force et leur endurance devraient
+convenir parfaitement.\0
+
+[@ITEM 105 (L1) ]
+\0
+
+[@ITEM 105 (EN) ]
+{Ayla}: Nu strong!
+Ask Nu!\0
+
+[@ITEM 105 (L2) ]
+\0
+
+[@ITEM 105 (FR) ]
+{Ayla} : Gnu avoir force et endurance !
+Demander à gnu !\0
+
+[@ITEM 106 (L1) ]
+\0
+
+[@ITEM 106 (EN) ]
+{Robo}: Nu possess great strength and endurance.
+Why do we not ask that Nu?\0
+
+[@ITEM 106 (L2) ]
+\0
+
+[@ITEM 106 (FR) ]
+{Robo} : Les gnus ont la force et l'endurance
+nécessaires. Allons demander à celui que nous
+avons rencontré.\0
+
+[@ITEM 107 (L1) ]
+\0
+
+[@ITEM 107 (EN) ]
+{Frog}: Would that Nu not serve?
+They've strength and stamina to match.
+We ought to ask.\0
+
+[@ITEM 107 (L2) ]
+\0
+
+[@ITEM 107 (FR) ]
+{Frog} : Le gnu pourrait le faire, non ? Il aurait
+la force et l'endurance nécessaires. Allons le lui
+demander pour voir.\0
+
+[@ITEM 108 (L1) ]
+\0
+
+[@ITEM 108 (EN) ]
+{Lucca}: Couldn't that Nu help?
+They're incredibly strong.
+Let's ask!\0
+
+[@ITEM 108 (L2) ]
+\0
+
+[@ITEM 108 (FR) ]
+{Lucca} : Le gnu pourrait s'en charger, non ?
+Il a la force et l'endurance nécessaires.
+Allons le lui demander !\0
+
+[@ITEM 109 (L1) ]
+\0
+
+[@ITEM 109 (EN) ]
+You've an idea of someone who could help?
+My pardons, but it would be most gracious
+of you if you could inquire on my behalf.\0
+
+[@ITEM 109 (L2) ]
+\0
+
+[@ITEM 109 (FR) ]
+Vous savez qui pourrait m'aider ? J'étais certain de
+pouvoir compter sur vous !\0
+
+[@ITEM 110 (L1) ]
+\0
+
+[@ITEM 110 (EN) ]
+This...this is the assistant of whom you spoke?\0
+
+[@ITEM 110 (L2) ]
+\0
+
+[@ITEM 110 (FR) ]
+Euh... c'est lui qui va m'aider ?\0
+
+[@ITEM 111 (L1) ]
+\0
+
+[@ITEM 111 (EN) ]
+{Marle}: Don't worry.
+He's a lot stronger than he looks!\0
+
+[@ITEM 111 (L2) ]
+\0
+
+[@ITEM 111 (FR) ]
+{Marle} : Ne vous en faites pas.
+Malgré son apparence, il est très fort !\0
+
+[@ITEM 112 (L1) ]
+\0
+
+[@ITEM 112 (EN) ]
+{Lucca}: Sure is!
+Don't judge the book by its cover.
+He's a strong one!\0
+
+[@ITEM 112 (L2) ]
+\0
+
+[@ITEM 112 (FR) ]
+{Lucca} : Oui ! Ne le jugez pas sur son apparence !
+Il est très fort !\0
+
+[@ITEM 113 (L1) ]
+\0
+
+[@ITEM 113 (EN) ]
+{Frog}: Do not be deceived by appearances.
+Ten men could not match the might of this Nu.\0
+
+[@ITEM 113 (L2) ]
+\0
+
+[@ITEM 113 (FR) ]
+{Frog} : Ne le jugez pas sur son apparence.
+Il est plus fort que dix hommes !\0
+
+[@ITEM 114 (L1) ]
+\0
+
+[@ITEM 114 (EN) ]
+{Robo}: Yes, it is.
+His strength is far greater than it appears.
+Please exercise caution.\0
+
+[@ITEM 114 (L2) ]
+\0
+
+[@ITEM 114 (FR) ]
+{Robo} : C'est exact. Prenez garde, il est
+beaucoup plus fort que vous ne le croyez.\0
+
+[@ITEM 115 (L1) ]
+\0
+
+[@ITEM 115 (EN) ]
+{Ayla}: He strong.
+So, no worry!\0
+
+[@ITEM 115 (L2) ]
+\0
+
+[@ITEM 115 (FR) ]
+{Ayla} : Gnu être fort ! Gnu réussir !\0
+
+[@ITEM 116 (L1) ]
+\0
+
+[@ITEM 116 (EN) ]
+I...I see.
+Well, I suppose if you say so...\0
+
+[@ITEM 116 (L2) ]
+\0
+
+[@ITEM 116 (FR) ]
+Ah bon... Si vous le dites...\0
+
+[@ITEM 117 (L1) ]
+\0
+
+[@ITEM 117 (EN) ]
+It all right. I strong.\0
+
+[@ITEM 117 (L2) ]
+\0
+
+[@ITEM 117 (FR) ]
+Pas de problème. Je suis fort.\0
+
+[@ITEM 118 (L1) ]
+\0
+
+[@ITEM 118 (EN) ]
+Well then, haste makes waste.
+First things first...\0
+
+[@ITEM 118 (L2) ]
+\0
+
+[@ITEM 118 (FR) ]
+Eh bien, mettons-nous au travail sans plus tarder.
+D'abord...\0
+
+[@ITEM 119 (L1) ]
+\0
+
+[@ITEM 119 (EN) ]
+You aren't so bad at all.\0
+
+[@ITEM 119 (L2) ]
+\0
+
+[@ITEM 119 (FR) ]
+Tu te débrouilles bien, gnu !\0
+
+[@ITEM 120 (L1) ]
+\0
+
+[@ITEM 120 (EN) ]
+No, I not bad at all.\0
+
+[@ITEM 120 (L2) ]
+\0
+
+[@ITEM 120 (FR) ]
+Oui, je me débrouille bien.\0
+
+[@ITEM 121 (L1) ]
+\0
+
+[@ITEM 121 (EN) ]
+All right, next we need to{56}\0
+
+[@ITEM 121 (L2) ]
+\0
+
+[@ITEM 121 (FR) ]
+Alors, ensuite...\0
+
+[@ITEM 122 (L1) ]
+\0
+
+[@ITEM 122 (EN) ]
+What's the matter, Nu!?\0
+
+[@ITEM 122 (L2) ]
+\0
+
+[@ITEM 122 (FR) ]
+Qu'y a-t-il, gnu ?!\0
+
+[@ITEM 123 (L1) ]
+\0
+
+[@ITEM 123 (EN) ]
+Hungry. Can't move.
+Need food!\0
+
+[@ITEM 123 (L2) ]
+\0
+
+[@ITEM 123 (FR) ]
+J'ai faim, alors je ne peux plus bouger !
+Je veux manger quelque chose !\0
+
+[@ITEM 124 (L1) ]
+\0
+
+[@ITEM 124 (EN) ]
+{Robo}: We have a lunch we obtained in the village.\0
+
+[@ITEM 124 (L2) ]
+\0
+
+[@ITEM 124 (FR) ]
+{Robo} : Nous avons le panier garni que nous avons
+obtenu au village.\0
+
+[@ITEM 125 (L1) ]
+\0
+
+[@ITEM 125 (EN) ]
+{Frog}: We've a lunch we acquired in the village.\0
+
+[@ITEM 125 (L2) ]
+\0
+
+[@ITEM 125 (FR) ]
+{Frog} : Nous avons le panier garni que nous avons
+obtenu au village.\0
+
+[@ITEM 126 (L1) ]
+\0
+
+[@ITEM 126 (EN) ]
+{Lucca}: We have a lunch we got in the village.
+You're welcome to it.\0
+
+[@ITEM 126 (L2) ]
+\0
+
+[@ITEM 126 (FR) ]
+{Lucca} : Nous avons le panier garni que nous avons
+obtenu au village. Tu peux le manger si tu veux.\0
+
+[@ITEM 127 (L1) ]
+\0
+
+[@ITEM 127 (EN) ]
+{Marle}: Well, we do have this lunch we got in the
+village. You can have it if you'd like.\0
+
+[@ITEM 127 (L2) ]
+\0
+
+[@ITEM 127 (FR) ]
+{Marle} : Nous avons le panier garni que nous avons
+obtenu au village. Tu peux le manger si tu veux.\0
+
+[@ITEM 128 (L1) ]
+\0
+
+[@ITEM 128 (EN) ]
+{Magus}: What of that lunch we had?
+We could let it eat that.\0
+
+[@ITEM 128 (L2) ]
+\0
+
+[@ITEM 128 (FR) ]
+{Magus} : N'avons-nous pas un panier garni ?
+Pourquoi ne pas le laisser le manger ?\0
+
+[@ITEM 129 (L1) ]
+\0
+
+[@ITEM 129 (EN) ]
+Mmm... Taste good.\0
+
+[@ITEM 129 (L2) ]
+\0
+
+[@ITEM 129 (FR) ]
+C'est délicieux !\0
+
+[@ITEM 130 (L1) ]
+\0
+
+[@ITEM 130 (EN) ]
+{Marle}: You like it?
+A villager made that for you.\0
+
+[@ITEM 130 (L2) ]
+\0
+
+[@ITEM 130 (FR) ]
+{Marle} : Tant mieux ! Un villageois l'a préparé
+exprès pour toi.\0
+
+[@ITEM 131 (L1) ]
+\0
+
+[@ITEM 131 (EN) ]
+{Lucca}: Glad you like it.
+A villager made that for you.\0
+
+[@ITEM 131 (L2) ]
+\0
+
+[@ITEM 131 (FR) ]
+{Lucca} : Tant mieux ! Un villageois l'a préparé
+exprès pour toi.\0
+
+[@ITEM 132 (L1) ]
+\0
+
+[@ITEM 132 (EN) ]
+{Frog}: A villager made that for you.
+It's to her you owe your thanks.\0
+
+[@ITEM 132 (L2) ]
+\0
+
+[@ITEM 132 (FR) ]
+{Frog} : Un villageois l'a préparé exprès pour toi.
+Tu devrais être reconnaissant.\0
+
+[@ITEM 133 (L1) ]
+\0
+
+[@ITEM 133 (EN) ]
+{Robo}: A reptite in the village worked very hard to
+make that for you. It is no wonder it tastes so good.\0
+
+[@ITEM 133 (L2) ]
+\0
+
+[@ITEM 133 (FR) ]
+{Robo} : Un villageois l'a préparé avec ardeur pour
+toi. Il est normal qu'il soit savoureux.\0
+
+[@ITEM 134 (L1) ]
+\0
+
+[@ITEM 134 (EN) ]
+{Ayla}: Villager make for you.\0
+
+[@ITEM 134 (L2) ]
+\0
+
+[@ITEM 134 (FR) ]
+{Ayla} : Villageois préparer panier garni pour gnu.\0
+
+[@ITEM 135 (L1) ]
+\0
+
+[@ITEM 135 (EN) ]
+Oh, she made this?
+I feel strong now.
+I work hard again.\0
+
+[@ITEM 135 (L2) ]
+\0
+
+[@ITEM 135 (FR) ]
+Il l'a préparé pour moi...? J'ai repris beaucoup de forces.
+Je vais de nouveau travailler dur.\0
+
+[@ITEM 136 (L1) ]
+\0
+
+[@ITEM 136 (EN) ]
+Can I ask favor?\0
+
+[@ITEM 136 (L2) ]
+\0
+
+[@ITEM 136 (FR) ]
+J'ai une faveur à vous demander.\0
+
+[@ITEM 137 (L1) ]
+\0
+
+[@ITEM 137 (EN) ]
+{Ayla}: Favor? What favor?\0
+
+[@ITEM 137 (L2) ]
+\0
+
+[@ITEM 137 (FR) ]
+{Ayla} : Faveur ? Quoi être ?\0
+
+[@ITEM 138 (L1) ]
+\0
+
+[@ITEM 138 (EN) ]
+{Magus}: Speak.\0
+
+[@ITEM 138 (L2) ]
+\0
+
+[@ITEM 138 (FR) ]
+{Magus} : ... Que veux-tu ?\0
+
+[@ITEM 139 (L1) ]
+\0
+
+[@ITEM 139 (EN) ]
+{Marle}: What is it?\0
+
+[@ITEM 139 (L2) ]
+\0
+
+[@ITEM 139 (FR) ]
+{Marle} : Qu'est-ce que c'est ?\0
+
+[@ITEM 140 (L1) ]
+\0
+
+[@ITEM 140 (EN) ]
+{Lucca}: Huh!?\0
+
+[@ITEM 140 (L2) ]
+\0
+
+[@ITEM 140 (FR) ]
+{Lucca} : Qu'est-ce que c'est ?\0
+
+[@ITEM 141 (L1) ]
+\0
+
+[@ITEM 141 (EN) ]
+{Frog}: What manner of favor?\0
+
+[@ITEM 141 (L2) ]
+\0
+
+[@ITEM 141 (FR) ]
+{Frog} : Quelle sorte de faveur ?\0
+
+[@ITEM 142 (L1) ]
+\0
+
+[@ITEM 142 (EN) ]
+I get hungry, I can't work.
+I want you bring me food.{PRESS_CLEAR}
+Old monster have good food, long, long time ago.
+Sweet, yellow thing. I like that food.\0
+
+[@ITEM 142 (L2) ]
+\0
+
+[@ITEM 142 (FR) ]
+Quand mon estomac est vide, je perds mes forces.{PRESS_CLEAR}
+J'aimerais que vous m'apportiez des vivres... Ce sont
+les fruits jaunes sucrés des créatures d'il y a très
+longtemps qui me redonnent le plus d'énergie.\0
+
+[@ITEM 143 (L1) ]
+\0
+
+[@ITEM 143 (EN) ]
+{Lucca}: All right.
+You just keep working on the bridge!\0
+
+[@ITEM 143 (L2) ]
+\0
+
+[@ITEM 143 (FR) ]
+{Lucca} : Entendu. Occupe-toi de construire le pont !\0
+
+[@ITEM 144 (L1) ]
+\0
+
+[@ITEM 144 (EN) ]
+{Marle}: Okay.
+We'll try to bring you some!\0
+
+[@ITEM 144 (L2) ]
+\0
+
+[@ITEM 144 (FR) ]
+{Marle} : Entendu. Nous te rapporterons quelque
+chose de bon !\0
+
+[@ITEM 145 (L1) ]
+\0
+
+[@ITEM 145 (EN) ]
+{Robo}: More food, correct?
+Understood.\0
+
+[@ITEM 145 (L2) ]
+\0
+
+[@ITEM 145 (FR) ]
+{Robo} : Des vivres ? C'est entendu.\0
+
+[@ITEM 146 (L1) ]
+\0
+
+[@ITEM 146 (EN) ]
+{Frog}: Very well.
+I'd not deny such a simple request.\0
+
+[@ITEM 146 (L2) ]
+\0
+
+[@ITEM 146 (FR) ]
+{Frog} : C'est entendu. Je ne pourrais refuser une
+faveur à un ami.\0
+
+[@ITEM 147 (L1) ]
+\0
+
+[@ITEM 147 (EN) ]
+{Ayla}: Okay.
+{Ayla} bring good food!\0
+
+[@ITEM 147 (L2) ]
+\0
+
+[@ITEM 147 (FR) ]
+{Ayla} : {Ayla} comprendre.
+{Ayla} rapporter vivres !\0
+
+[@ITEM 148 (L1) ]
+\0
+
+[@ITEM 148 (EN) ]
+I'll watch over this Nu.
+Please, hurry back if you can.\0
+
+[@ITEM 148 (L2) ]
+\0
+
+[@ITEM 148 (FR) ]
+Je veillerai sur le gnu. Je compte sur vous !\0
+
+[@ITEM 149 (L1) ]
+\0
+
+[@ITEM 149 (EN) ]
+{Frog}: As promised.\0
+
+[@ITEM 149 (L2) ]
+\0
+
+[@ITEM 149 (FR) ]
+{Frog} : Nous t'avons apporté des vivres, tel que
+promis.\0
+
+[@ITEM 150 (L1) ]
+\0
+
+[@ITEM 150 (EN) ]
+{Robo}: We have brought food.\0
+
+[@ITEM 150 (L2) ]
+\0
+
+[@ITEM 150 (FR) ]
+{Robo} : Nous t'avons apporté des vivres.\0
+
+[@ITEM 151 (L1) ]
+\0
+
+[@ITEM 151 (EN) ]
+{Ayla}: Bring food.
+Eat!\0
+
+[@ITEM 151 (L2) ]
+\0
+
+[@ITEM 151 (FR) ]
+{Ayla} : {Ayla} apporter vivres !
+Toi manger et devenir fort !\0
+
+[@ITEM 152 (L1) ]
+\0
+
+[@ITEM 152 (EN) ]
+{Magus}: I trust this will suffice.\0
+
+[@ITEM 152 (L2) ]
+\0
+
+[@ITEM 152 (FR) ]
+{Magus} : ...
+Ceci devrait te convenir.\0
+
+[@ITEM 153 (L1) ]
+\0
+
+[@ITEM 153 (EN) ]
+{Marle}: We brought you this to eat.\0
+
+[@ITEM 153 (L2) ]
+\0
+
+[@ITEM 153 (FR) ]
+{Marle} : Nous t'avons apporté des vivres !\0
+
+[@ITEM 154 (L1) ]
+\0
+
+[@ITEM 154 (EN) ]
+monsters for us.\0
+
+[@ITEM 154 (L2) ]
+\0
+
+[@ITEM 154 (FR) ]
+Merci.\0
+
+[@ITEM 155 (L1) ]
+\0
+
+[@ITEM 155 (EN) ]
+Hmm...
+Not food I wanted.
+Still hungry.\0
+
+[@ITEM 155 (L2) ]
+\0
+
+[@ITEM 155 (FR) ]
+J'ai encore faim.\0
+
+[@ITEM 156 (L1) ]
+\0
+
+[@ITEM 156 (EN) ]
+Oh, better now!
+You wait, I finish.\0
+
+[@ITEM 156 (L2) ]
+\0
+
+[@ITEM 156 (FR) ]
+J'ai bien mangé. Attendez que je termine le pont.\0
+
+[@ITEM 157 (L1) ]
+\0
+
+[@ITEM 157 (EN) ]
+Nu: All done!\0
+
+[@ITEM 157 (L2) ]
+\0
+
+[@ITEM 157 (FR) ]
+J'ai fini !\0
+
+[@ITEM 158 (L1) ]
+\0
+
+[@ITEM 158 (EN) ]
+Oh, at long last! The bridge is complete!
+You have my deepest gratitude for all your help.\0
+
+[@ITEM 158 (L2) ]
+\0
+
+[@ITEM 158 (FR) ]
+Hourra ! Mon pont adoré est enfin terminé !
+Je vous remercie tous infiniment !\0
+
+[@ITEM 159 (L1) ]
+\0
+
+[@ITEM 159 (EN) ]
+I'd best return to the village.
+I'm sure everyone's worried.\0
+
+[@ITEM 159 (L2) ]
+\0
+
+[@ITEM 159 (FR) ]
+Je crois que les habitants du village s'inquiètent, alors
+je vais rentrer.\0
+
+[@ITEM 160 (L1) ]
+\0
+
+[@ITEM 160 (EN) ]
+{Lucca}: We'll go with you.\0
+
+[@ITEM 160 (L2) ]
+\0
+
+[@ITEM 160 (FR) ]
+{Lucca} : Nous allons t'accompagner.\0
+
+[@ITEM 161 (L1) ]
+\0
+
+[@ITEM 161 (EN) ]
+{Marle}: Why don't we go with you?\0
+
+[@ITEM 161 (L2) ]
+\0
+
+[@ITEM 161 (FR) ]
+{Marle} : Vous avez raison. Retournons au village,
+nous aussi.\0
+
+[@ITEM 162 (L1) ]
+\0
+
+[@ITEM 162 (EN) ]
+{Robo}: We will accompany you.\0
+
+[@ITEM 162 (L2) ]
+\0
+
+[@ITEM 162 (FR) ]
+{Robo} : Nous allons retourner au village, nous
+aussi.\0
+
+[@ITEM 163 (L1) ]
+\0
+
+[@ITEM 163 (EN) ]
+{Frog}: Shall we go together, then?\0
+
+[@ITEM 163 (L2) ]
+\0
+
+[@ITEM 163 (FR) ]
+{Frog} : Retournons au village, nous aussi.\0
+
+[@ITEM 164 (L1) ]
+\0
+
+[@ITEM 164 (EN) ]
+{Ayla}: {Ayla} go, too!\0
+
+[@ITEM 164 (L2) ]
+\0
+
+[@ITEM 164 (FR) ]
+{Ayla} : {Ayla} aussi retourner au village !\0
+
+[@ITEM 165 (L1) ]
+\0
+
+[@ITEM 165 (EN) ]
+Death to all who yet draw breath!\0
+
+[@ITEM 165 (L2) ]
+\0
+
+[@ITEM 165 (FR) ]
+Mort aux êtres vivants...\0
+
+[@ITEM 166 (L1) ]
+\0
+
+[@ITEM 166 (EN) ]
+{Magus}: That spirit will stir no more.
+Let us find the idols.\0
+
+[@ITEM 166 (L2) ]
+\0
+
+[@ITEM 166 (FR) ]
+{Magus} : Les fantômes ont disparu. Et maintenant,
+où sont ces déités tutélaires ?\0
+
+[@ITEM 167 (L1) ]
+\0
+
+[@ITEM 167 (EN) ]
+{Ayla}: {Ayla} win!
+Where idol?\0
+
+[@ITEM 167 (L2) ]
+\0
+
+[@ITEM 167 (FR) ]
+{Ayla} : {Ayla} éliminer ennemis.
+Où être déités tutélaires ?\0
+
+[@ITEM 168 (L1) ]
+\0
+
+[@ITEM 168 (EN) ]
+{Robo}: Did we eliminate that ghost?\0
+
+[@ITEM 168 (L2) ]
+\0
+
+[@ITEM 168 (FR) ]
+{Robo} : Les fantômes sont-ils désormais dans
+l'au-delà ?\0
+
+[@ITEM 169 (L1) ]
+\0
+
+[@ITEM 169 (EN) ]
+{Frog}: I do believe we've exorcised that ghost.
+All that remains now is to find the idols.\0
+
+[@ITEM 169 (L2) ]
+\0
+
+[@ITEM 169 (FR) ]
+{Frog} : Nous nous sommes débarrassés des
+esprits malins. Et maintenant, cherchons ces
+déités tutélaires.\0
+
+[@ITEM 170 (L1) ]
+\0
+
+[@ITEM 170 (EN) ]
+{Lucca}: Well, that spirit's been put to rest.
+Now let's look for the village's guardian idols!\0
+
+[@ITEM 170 (L2) ]
+\0
+
+[@ITEM 170 (FR) ]
+{Lucca} : Je me demande si leur âme est allée au
+ciel, mais l'important est désormais de chercher
+ces déités tutélaires.\0
+
+[@ITEM 171 (L1) ]
+\0
+
+[@ITEM 171 (EN) ]
+{Marle}: These...these are statues of us!\0
+
+[@ITEM 171 (L2) ]
+\0
+
+[@ITEM 171 (FR) ]
+{Marle} : Mais ce sont... des statues de nous !\0
+
+[@ITEM 172 (L1) ]
+\0
+
+[@ITEM 172 (EN) ]
+{Lucca}: They've...idolized us.\0
+
+[@ITEM 172 (L2) ]
+\0
+
+[@ITEM 172 (FR) ]
+{Lucca} : Ces statues de nous sont donc les déités
+tutélaires des habitants du village.\0
+
+[@ITEM 173 (L1) ]
+\0
+
+[@ITEM 173 (EN) ]
+{Magus}: Trust to a primitive people to engage in
+such foolishness.\0
+
+[@ITEM 173 (L2) ]
+\0
+
+[@ITEM 173 (FR) ]
+{Magus} : Les habitants du village de la
+Préhistoire étaient bien habiles...\0
+
+[@ITEM 174 (L1) ]
+\0
+
+[@ITEM 174 (EN) ]
+{Frog}: We must have become the stuff of legend
+to these people. I feel honored.\0
+
+[@ITEM 174 (L2) ]
+\0
+
+[@ITEM 174 (FR) ]
+{Frog} : Nous sommes passés dans les mythes du
+village ? Quel honneur !\0
+
+[@ITEM 175 (L1) ]
+\0
+
+[@ITEM 175 (EN) ]
+{Robo}: This work is exquisite.
+They resemble us in every detail.\0
+
+[@ITEM 175 (L2) ]
+\0
+
+[@ITEM 175 (FR) ]
+{Robo} : Elles ont été sculptées avec habileté.
+Elles nous ressemblent beaucoup.\0
+
+[@ITEM 176 (L1) ]
+\0
+
+[@ITEM 176 (EN) ]
+{Ayla}: Village person see, maybe surprise!\0
+
+[@ITEM 176 (L2) ]
+\0
+
+[@ITEM 176 (FR) ]
+{Ayla} : Quand {Ayla} apprendre nouvelle aux
+sauriens, eux être surpris !\0
+
+[@ITEM 177 (L1) ]
+\0
+
+[@ITEM 177 (EN) ]
+{Marle}: Well, I guess this ends our investigation.
+Time to head back to the village.\0
+
+[@ITEM 177 (L2) ]
+\0
+
+[@ITEM 177 (FR) ]
+{Marle} : Eh bien, nous avons terminé notre
+investigation. Retournons au village, d'accord ?\0
+
+[@ITEM 178 (L1) ]
+\0
+
+[@ITEM 178 (EN) ]
+{Lucca}: Well, looks like we're all done here.
+Why don't we head back to the village?\0
+
+[@ITEM 178 (L2) ]
+\0
+
+[@ITEM 178 (FR) ]
+{Lucca} : Eh bien, nous avons terminé notre
+investigation. Retournons au village, d'accord ?\0
+
+[@ITEM 179 (L1) ]
+\0
+
+[@ITEM 179 (EN) ]
+{Magus}: Are we done here?
+Let us return.\0
+
+[@ITEM 179 (L2) ]
+\0
+
+[@ITEM 179 (FR) ]
+{Magus} : Nous avons terminé notre investigation.
+Rentrons...\0
+
+[@ITEM 180 (L1) ]
+\0
+
+[@ITEM 180 (EN) ]
+{Frog}: Well, we've seen all there is to see.
+Shall we be on our way?\0
+
+[@ITEM 180 (L2) ]
+\0
+
+[@ITEM 180 (FR) ]
+{Frog} : Nous avons terminé notre investigation...
+Retournons au village.\0
+
+[@ITEM 181 (L1) ]
+\0
+
+[@ITEM 181 (EN) ]
+{Robo}: Our investigation is complete.
+Shall we return to the village?\0
+
+[@ITEM 181 (L2) ]
+\0
+
+[@ITEM 181 (FR) ]
+{Robo} : Notre investigation est terminée.
+Retournons au village.\0
+
+[@ITEM 182 (L1) ]
+\0
+
+[@ITEM 182 (EN) ]
+{Ayla}: Done here.
+Go back village now!\0
+
+[@ITEM 182 (L2) ]
+\0
+
+[@ITEM 182 (FR) ]
+{Ayla} : Fini ! Maintenant, retourner au village !\0
+
+[@ITEM 183 (L1) ]
+\0
+
+[@ITEM 183 (EN) ]
+You bring food?\0
+
+[@ITEM 183 (L2) ]
+\0
+
+[@ITEM 183 (FR) ]
+Vous m'avez apporté de la nourriture ?\0
+
+[@ITEM 184 (L1) ]
+\0
+
+[@ITEM 184 (EN) ]
+Oh, dear. This is a problem.
+Please, I beg you!
+Bring this poor Nu something to eat.\0
+
+[@ITEM 184 (L2) ]
+\0
+
+[@ITEM 184 (FR) ]
+Je vous en supplie, apportez-lui de la nourriture !\0
+
+[@ITEM 185 (L1) ]
+\0
+
+[@ITEM 185 (EN) ]
+{Robo}: Why do we not ask that villager if there
+is somewhere we might obtain food?\0
+
+[@ITEM 185 (L2) ]
+\0
+
+[@ITEM 185 (FR) ]
+{Robo} : De la nourriture ? Pourquoi ne pas aller
+parler à ce saurien qui était inquiet pour le gnu ?\0
+
+[@ITEM 186 (L1) ]
+\0
+
+[@ITEM 186 (EN) ]
+{Frog}: Something to eat?
+Mayhap that villager could help us.\0
+
+[@ITEM 186 (L2) ]
+\0
+
+[@ITEM 186 (FR) ]
+{Frog} : De la nourriture... Allons parler à ce
+saurien qui était inquiet pour le gnu.\0
+
+[@ITEM 187 (L1) ]
+\0
+
+[@ITEM 187 (EN) ]
+{Lucca}: Hmm...
+Why don't we ask that villager?\0
+
+[@ITEM 187 (L2) ]
+\0
+
+[@ITEM 187 (FR) ]
+{Lucca} : Hum... Pourquoi ne pas aller parler à ce
+saurien qui s'inquiétait pour le gnu ?\0
+
+[@ITEM 188 (L1) ]
+\0
+
+[@ITEM 188 (EN) ]
+{Marle}: All right.
+We should ask that reptite in the village!\0
+
+[@ITEM 188 (L2) ]
+\0
+
+[@ITEM 188 (FR) ]
+{Marle} : Tu as faim ? Nous devrions aller parler au
+saurien qui s'inquiétait à ton sujet.\0
+
+[@ITEM 189 (L1) ]
+\0
+
+[@ITEM 189 (EN) ]
+{Magus}: Well?
+Shall we ask at the village?\0
+
+[@ITEM 189 (L2) ]
+\0
+
+[@ITEM 189 (FR) ]
+{Magus} : Qu'allez-vous faire ? Retourner au
+village parler aux sauriens ?\0
+
+[@ITEM 190 (L1) ]
+\0
+
+[@ITEM 190 (EN) ]
+Oh, you know where you might be able to get some
+food? Wonderful! I'll wait here with him.\0
+
+[@ITEM 190 (L2) ]
+\0
+
+[@ITEM 190 (FR) ]
+Vous avez une idée ? Je vous en prie, aidez le gnu !\0
+
+[@ITEM 191 (L1) ]
+\0
+
+[@ITEM 191 (EN) ]
+Oh, you've brought him food?
+Thank you ever so much!\0
+
+[@ITEM 191 (L2) ]
+\0
+
+[@ITEM 191 (FR) ]
+Vous lui avez apporté de la nourriture ? Merci !\0
+
+[@ITEM 192 (L1) ]
+\0
+
+[@ITEM 192 (EN) ]
+Yes. This is sweet yellow food.
+Now I can work.
+You wait.
+I build bridge.\0
+
+[@ITEM 192 (L2) ]
+\0
+
+[@ITEM 192 (FR) ]
+C'est bien ce que je voulais manger. Attendez que je
+termine le pont. Je ferai de mon mieux.\0
+
+[@ITEM 193 (L1) ]
+\0
+
+[@ITEM 193 (EN) ]
+The bridge is almost finished now, thanks to all his
+help. You should check back from time to time and
+watch how things are coming along.\0
+
+[@ITEM 193 (L2) ]
+\0
+
+[@ITEM 193 (FR) ]
+Grâce au gnu, le pont sera bientôt terminé. Je vais
+rester avec lui pour l'aider. Revenez nous voir de
+temps à autre, d'accord ?\0
+
+[@ITEM 194 (L1) ]
+\0
+
+[@ITEM 194 (EN) ]
+This isn't sweet yellow food.
+Oh, I'm hungry.
+I can't work.\0
+
+[@ITEM 194 (L2) ]
+\0
+
+[@ITEM 194 (FR) ]
+Ce ne sont pas des fruits jaunes sucrés.
+Ça ne me donnera pas assez de force...\0
+
+[@ITEM 195 (L1) ]
+\0
+
+[@ITEM 195 (EN) ]
+\0
+
+[@ITEM 195 (L2) ]
+\0
+
+[@ITEM 195 (FR) ]
+\0
+
+[@ITEM 196 (L1) ]
+\0
+
+[@ITEM 196 (EN) ]
+\0
+
+[@ITEM 196 (L2) ]
+\0
+
+[@ITEM 196 (FR) ]
+\0
+
+[@ITEM 197 (L1) ]
+\0
+
+[@ITEM 197 (EN) ]
+\0
+
+[@ITEM 197 (L2) ]
+\0
+
+[@ITEM 197 (FR) ]
+\0
+
+[@ITEM 198 (L1) ]
+\0
+
+[@ITEM 198 (EN) ]
+\0
+
+[@ITEM 198 (L2) ]
+\0
+
+[@ITEM 198 (FR) ]
+\0
+
+[@ITEM 199 (L1) ]
+\0
+
+[@ITEM 199 (EN) ]
+\0
+
+[@ITEM 199 (L2) ]
+\0
+
+[@ITEM 199 (FR) ]
+\0
+
+[@ITEM 200 (L1) ]
+\0
+
+[@ITEM 200 (EN) ]
+\0
+
+[@ITEM 200 (L2) ]
+\0
+
+[@ITEM 200 (FR) ]
+\0
+
+[@ITEM 201 (L1) ]
+\0
+
+[@ITEM 201 (EN) ]
+\0
+
+[@ITEM 201 (L2) ]
+\0
+
+[@ITEM 201 (FR) ]
+\0
+
+[@ITEM 202 (L1) ]
+\0
+
+[@ITEM 202 (EN) ]
+\0
+
+[@ITEM 202 (L2) ]
+\0
+
+[@ITEM 202 (FR) ]
+\0
+
+[@ITEM 203 (L1) ]
+\0
+
+[@ITEM 203 (EN) ]
+\0
+
+[@ITEM 203 (L2) ]
+\0
+
+[@ITEM 203 (FR) ]
+\0
+
+[@ITEM 204 (L1) ]
+\0
+
+[@ITEM 204 (EN) ]
+\0
+
+[@ITEM 204 (L2) ]
+\0
+
+[@ITEM 204 (FR) ]
+\0
+
+[@ITEM 205 (L1) ]
+\0
+
+[@ITEM 205 (EN) ]
+\0
+
+[@ITEM 205 (L2) ]
+\0
+
+[@ITEM 205 (FR) ]
+\0
+
+[@ITEM 206 (L1) ]
+\0
+
+[@ITEM 206 (EN) ]
+\0
+
+[@ITEM 206 (L2) ]
+\0
+
+[@ITEM 206 (FR) ]
+\0
+
+[@ITEM 207 (L1) ]
+\0
+
+[@ITEM 207 (EN) ]
+\0
+
+[@ITEM 207 (L2) ]
+\0
+
+[@ITEM 207 (FR) ]
+\0
+
+[@ITEM 208 (L1) ]
+\0
+
+[@ITEM 208 (EN) ]
+\0
+
+[@ITEM 208 (L2) ]
+\0
+
+[@ITEM 208 (FR) ]
+\0
+
+[@ITEM 209 (L1) ]
+\0
+
+[@ITEM 209 (EN) ]
+\0
+
+[@ITEM 209 (L2) ]
+\0
+
+[@ITEM 209 (FR) ]
+\0
+
+[@ITEM 210 (L1) ]
+\0
+
+[@ITEM 210 (EN) ]
+\0
+
+[@ITEM 210 (L2) ]
+\0
+
+[@ITEM 210 (FR) ]
+\0
+
+[@ITEM 211 (L1) ]
+\0
+
+[@ITEM 211 (EN) ]
+\0
+
+[@ITEM 211 (L2) ]
+\0
+
+[@ITEM 211 (FR) ]
+\0
+
+[@ITEM 212 (L1) ]
+\0
+
+[@ITEM 212 (EN) ]
+\0
+
+[@ITEM 212 (L2) ]
+\0
+
+[@ITEM 212 (FR) ]
+\0
+
+[@ITEM 213 (L1) ]
+\0
+
+[@ITEM 213 (EN) ]
+\0
+
+[@ITEM 213 (L2) ]
+\0
+
+[@ITEM 213 (FR) ]
+\0
+
+[@ITEM 214 (L1) ]
+\0
+
+[@ITEM 214 (EN) ]
+\0
+
+[@ITEM 214 (L2) ]
+\0
+
+[@ITEM 214 (FR) ]
+\0
+
+[@ITEM 215 (L1) ]
+\0
+
+[@ITEM 215 (EN) ]
+\0
+
+[@ITEM 215 (L2) ]
+\0
+
+[@ITEM 215 (FR) ]
+\0
+
+[@ITEM 216 (L1) ]
+\0
+
+[@ITEM 216 (EN) ]
+\0
+
+[@ITEM 216 (L2) ]
+\0
+
+[@ITEM 216 (FR) ]
+\0
+
+[@ITEM 217 (L1) ]
+\0
+
+[@ITEM 217 (EN) ]
+\0
+
+[@ITEM 217 (L2) ]
+\0
+
+[@ITEM 217 (FR) ]
+\0
+
+[@ITEM 218 (L1) ]
+\0
+
+[@ITEM 218 (EN) ]
+\0
+
+[@ITEM 218 (L2) ]
+\0
+
+[@ITEM 218 (FR) ]
+\0
+
+[@ITEM 219 (L1) ]
+\0
+
+[@ITEM 219 (EN) ]
+\0
+
+[@ITEM 219 (L2) ]
+\0
+
+[@ITEM 219 (FR) ]
+\0
+
+[@ITEM 220 (L1) ]
+\0
+
+[@ITEM 220 (EN) ]
+\0
+
+[@ITEM 220 (L2) ]
+\0
+
+[@ITEM 220 (FR) ]
+\0
+
+[@ITEM 221 (L1) ]
+\0
+
+[@ITEM 221 (EN) ]
+\0
+
+[@ITEM 221 (L2) ]
+\0
+
+[@ITEM 221 (FR) ]
+\0
+
+[@ITEM 222 (L1) ]
+\0
+
+[@ITEM 222 (EN) ]
+\0
+
+[@ITEM 222 (L2) ]
+\0
+
+[@ITEM 222 (FR) ]
+\0
+
+[@ITEM 223 (L1) ]
+\0
+
+[@ITEM 223 (EN) ]
+\0
+
+[@ITEM 223 (L2) ]
+\0
+
+[@ITEM 223 (FR) ]
+\0
+
+[@ITEM 224 (L1) ]
+\0
+
+[@ITEM 224 (EN) ]
+\0
+
+[@ITEM 224 (L2) ]
+\0
+
+[@ITEM 224 (FR) ]
+\0
+
+[@ITEM 225 (L1) ]
+\0
+
+[@ITEM 225 (EN) ]
+\0
+
+[@ITEM 225 (L2) ]
+\0
+
+[@ITEM 225 (FR) ]
+\0
+
+[@ITEM 226 (L1) ]
+\0
+
+[@ITEM 226 (EN) ]
+\0
+
+[@ITEM 226 (L2) ]
+\0
+
+[@ITEM 226 (FR) ]
+\0
+
+[@ITEM 227 (L1) ]
+\0
+
+[@ITEM 227 (EN) ]
+\0
+
+[@ITEM 227 (L2) ]
+\0
+
+[@ITEM 227 (FR) ]
+\0
+
+[@ITEM 228 (L1) ]
+\0
+
+[@ITEM 228 (EN) ]
+\0
+
+[@ITEM 228 (L2) ]
+\0
+
+[@ITEM 228 (FR) ]
+\0
+
+[@ITEM 229 (L1) ]
+\0
+
+[@ITEM 229 (EN) ]
+\0
+
+[@ITEM 229 (L2) ]
+\0
+
+[@ITEM 229 (FR) ]
+\0
+
+[@ITEM 230 (L1) ]
+\0
+
+[@ITEM 230 (EN) ]
+\0
+
+[@ITEM 230 (L2) ]
+\0
+
+[@ITEM 230 (FR) ]
+\0
+
+[@ITEM 231 (L1) ]
+\0
+
+[@ITEM 231 (EN) ]
+\0
+
+[@ITEM 231 (L2) ]
+\0
+
+[@ITEM 231 (FR) ]
+\0
+
+[@ITEM 232 (L1) ]
+\0
+
+[@ITEM 232 (EN) ]
+\0
+
+[@ITEM 232 (L2) ]
+\0
+
+[@ITEM 232 (FR) ]
+\0
+
+[@ITEM 233 (L1) ]
+\0
+
+[@ITEM 233 (EN) ]
+\0
+
+[@ITEM 233 (L2) ]
+\0
+
+[@ITEM 233 (FR) ]
+\0
+
+[@ITEM 234 (L1) ]
+\0
+
+[@ITEM 234 (EN) ]
+\0
+
+[@ITEM 234 (L2) ]
+\0
+
+[@ITEM 234 (FR) ]
+\0
+
+[@ITEM 235 (L1) ]
+\0
+
+[@ITEM 235 (EN) ]
+\0
+
+[@ITEM 235 (L2) ]
+\0
+
+[@ITEM 235 (FR) ]
+\0
+
+[@ITEM 236 (L1) ]
+\0
+
+[@ITEM 236 (EN) ]
+\0
+
+[@ITEM 236 (L2) ]
+\0
+
+[@ITEM 236 (FR) ]
+\0
+
+[@ITEM 237 (L1) ]
+\0
+
+[@ITEM 237 (EN) ]
+\0
+
+[@ITEM 237 (L2) ]
+\0
+
+[@ITEM 237 (FR) ]
+\0
+
+[@ITEM 238 (L1) ]
+\0
+
+[@ITEM 238 (EN) ]
+\0
+
+[@ITEM 238 (L2) ]
+\0
+
+[@ITEM 238 (FR) ]
+\0
+
+[@ITEM 239 (L1) ]
+\0
+
+[@ITEM 239 (EN) ]
+\0
+
+[@ITEM 239 (L2) ]
+\0
+
+[@ITEM 239 (FR) ]
+\0
+
+[@ITEM 240 (L1) ]
+\0
+
+[@ITEM 240 (EN) ]
+\0
+
+[@ITEM 240 (L2) ]
+\0
+
+[@ITEM 240 (FR) ]
+\0
+
+[@ITEM 241 (L1) ]
+\0
+
+[@ITEM 241 (EN) ]
+\0
+
+[@ITEM 241 (L2) ]
+\0
+
+[@ITEM 241 (FR) ]
+\0
+
+[@ITEM 242 (L1) ]
+\0
+
+[@ITEM 242 (EN) ]
+\0
+
+[@ITEM 242 (L2) ]
+\0
+
+[@ITEM 242 (FR) ]
+\0
+
+[@ITEM 243 (L1) ]
+\0
+
+[@ITEM 243 (EN) ]
+\0
+
+[@ITEM 243 (L2) ]
+\0
+
+[@ITEM 243 (FR) ]
+\0
+
+[@ITEM 244 (L1) ]
+\0
+
+[@ITEM 244 (EN) ]
+\0
+
+[@ITEM 244 (L2) ]
+\0
+
+[@ITEM 244 (FR) ]
+\0
+
+[@ITEM 245 (L1) ]
+\0
+
+[@ITEM 245 (EN) ]
+\0
+
+[@ITEM 245 (L2) ]
+\0
+
+[@ITEM 245 (FR) ]
+\0
+
+[@ITEM 246 (L1) ]
+\0
+
+[@ITEM 246 (EN) ]
+\0
+
+[@ITEM 246 (L2) ]
+\0
+
+[@ITEM 246 (FR) ]
+\0
+
+[@ITEM 247 (L1) ]
+\0
+
+[@ITEM 247 (EN) ]
+\0
+
+[@ITEM 247 (L2) ]
+\0
+
+[@ITEM 247 (FR) ]
+\0
+
+[@ITEM 248 (L1) ]
+\0
+
+[@ITEM 248 (EN) ]
+\0
+
+[@ITEM 248 (L2) ]
+\0
+
+[@ITEM 248 (FR) ]
+\0
+
+[@ITEM 249 (L1) ]
+\0
+
+[@ITEM 249 (EN) ]
+\0
+
+[@ITEM 249 (L2) ]
+\0
+
+[@ITEM 249 (FR) ]
+\0
+
+[@ITEM 250 (L1) ]
+\0
+
+[@ITEM 250 (EN) ]
+\0
+
+[@ITEM 250 (L2) ]
+\0
+
+[@ITEM 250 (FR) ]
+\0
+
+[@ITEM 251 (L1) ]
+\0
+
+[@ITEM 251 (EN) ]
+\0
+
+[@ITEM 251 (L2) ]
+\0
+
+[@ITEM 251 (FR) ]
+\0
+
+[@ITEM 252 (L1) ]
+\0
+
+[@ITEM 252 (EN) ]
+\0
+
+[@ITEM 252 (L2) ]
+\0
+
+[@ITEM 252 (FR) ]
+\0
+
+[@ITEM 253 (L1) ]
+\0
+
+[@ITEM 253 (EN) ]
+\0
+
+[@ITEM 253 (L2) ]
+\0
+
+[@ITEM 253 (FR) ]
+\0
+
+[@ITEM 254 (L1) ]
+\0
+
+[@ITEM 254 (EN) ]
+\0
+
+[@ITEM 254 (L2) ]
+\0
+
+[@ITEM 254 (FR) ]
+\0
+
+[@ITEM 255 (L1) ]
+\0
+
+[@ITEM 255 (EN) ]
+\0
+
+[@ITEM 255 (L2) ]
+\0
+
+[@ITEM 255 (FR) ]
+\0
+

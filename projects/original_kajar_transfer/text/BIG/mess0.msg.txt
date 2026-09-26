@@ -1,0 +1,3408 @@
+[@mess0.msg]
+
+[@ITEM 0 (L1) ]
+\0
+
+[@ITEM 0 (EN) ]
+{MSGWND}
+Obtained {ITEM}!\0
+
+[@ITEM 0 (L2) ]
+\0
+
+[@ITEM 0 (FR) ]
+{MSGWND}
+Trouvé : {ITEM} !\0
+
+[@ITEM 1 (L1) ]
+\0
+
+[@ITEM 1 (EN) ]
+Primeval~ rhythm~♪\0
+
+[@ITEM 1 (L2) ]
+\0
+
+[@ITEM 1 (FR) ]
+Oh, le rythme préhistorique ! ♪\0
+
+[@ITEM 2 (L1) ]
+\0
+
+[@ITEM 2 (EN) ]
+You~'re weak♪
+I~'m strong♪
+So you're
+A ne~w~b!!♪\0
+
+[@ITEM 2 (L2) ]
+\0
+
+[@ITEM 2 (FR) ]
+Ah, vous avez perdu ! ♪
+Vous battre n'a pas été ardu ! ♪
+Je ne peux passer sous silence ♪
+Que vous manquez d'expérience ! ♪\0
+
+[@ITEM 3 (L1) ]
+\0
+
+[@ITEM 3 (EN) ]
+Ah~, Gonza~les♪
+I~'m strong♪
+If you beat m~e
+15 point~s!!♪\0
+
+[@ITEM 3 (L2) ]
+\0
+
+[@ITEM 3 (FR) ]
+Gonzales est mon nom ! ♪
+Je suis un combattant de renom ! ♪
+Si de moi vous triomphez, ♪
+15 points d'argent vous obtiendrez ! ♪\0
+
+[@ITEM 4 (L1) ]
+\0
+
+[@ITEM 4 (EN) ]
+You~'re strong♪
+You~'re amazing♪
+So~ I give you
+15 point~s!!♪\0
+
+[@ITEM 4 (L2) ]
+\0
+
+[@ITEM 4 (FR) ]
+Votre force est extraordinaire ! ♪
+Vous êtes vraiment du tonnerre ! ♪
+Je vous donnerai 15 points ! ♪
+Pas plus, pas moins ! ♪\0
+
+[@ITEM 5 (L1) ]
+\0
+
+[@ITEM 5 (EN) ]
+Soldier: There they are!
+Don't let them escape!!\0
+
+[@ITEM 5 (L2) ]
+\0
+
+[@ITEM 5 (FR) ]
+Soldat : Les voilà ! Ne les laissez pas s'échapper !\0
+
+[@ITEM 6 (L1) ]
+\0
+
+[@ITEM 6 (EN) ]
+{Marle}: A dead end!?\0
+
+[@ITEM 6 (L2) ]
+\0
+
+[@ITEM 6 (FR) ]
+{Marle} : Un cul-de-sac ?!\0
+
+[@ITEM 7 (L1) ]
+\0
+
+[@ITEM 7 (EN) ]
+{Lucca}: !! A Gate!\0
+
+[@ITEM 7 (L2) ]
+\0
+
+[@ITEM 7 (FR) ]
+{Lucca} : Regardez ! Un portail !\0
+
+[@ITEM 8 (L1) ]
+\0
+
+[@ITEM 8 (EN) ]
+{Marle}: Let's go!\0
+
+[@ITEM 8 (L2) ]
+\0
+
+[@ITEM 8 (FR) ]
+{Marle} : Allons-y !\0
+
+[@ITEM 9 (L1) ]
+\0
+
+[@ITEM 9 (EN) ]
+{Lucca}: Let's go, you say......
+We don't know which era we'll come out in!
+Or even whether we'll be able to come back\0
+
+[@ITEM 9 (L2) ]
+\0
+
+[@ITEM 9 (FR) ]
+{Lucca} : Je veux bien, mais nous ne savons pas
+dans quelle époque nous allons aboutir, ni même si
+nous allons pouvoir rentrer cette fois !!\0
+
+[@ITEM 10 (L1) ]
+\0
+
+[@ITEM 10 (EN) ]
+this time!
+{Marle}: It's fine anyway!
+Better than this era where Crono
+was arrested because of me!\0
+
+[@ITEM 10 (L2) ]
+\0
+
+[@ITEM 10 (FR) ]
+{Marle} : Je m'en fiche ! N'importe quelle époque
+sera mieux que celle où {Crono} va se faire
+capturer à cause de moi !\0
+
+[@ITEM 11 (L1) ]
+\0
+
+[@ITEM 11 (EN) ]
+Chancellor: Marledia-samaaa!\0
+
+[@ITEM 11 (L2) ]
+\0
+
+[@ITEM 11 (FR) ]
+Chancelier : Votre Altesse !\0
+
+[@ITEM 12 (L1) ]
+\0
+
+[@ITEM 12 (EN) ]
+{Lucca}: Eey, I'm even getting used to
+acting without thinking it over!\0
+
+[@ITEM 12 (L2) ]
+\0
+
+[@ITEM 12 (FR) ]
+{Lucca} : Eh bien, advienne que pourra !\0
+
+[@ITEM 13 (L1) ]
+\0
+
+[@ITEM 13 (EN) ]
+{Marle}: Let's go, {Crono}!\0
+
+[@ITEM 13 (L2) ]
+\0
+
+[@ITEM 13 (FR) ]
+{Marle} : Partons, {Crono} !\0
+
+[@ITEM 14 (L1) ]
+\0
+
+[@ITEM 14 (EN) ]
+Chancellor: Th, they disappeared......\0
+
+[@ITEM 14 (L2) ]
+\0
+
+[@ITEM 14 (FR) ]
+Chancelier : Ils... Ils ont disparu !\0
+
+[@ITEM 15 (L1) ]
+\0
+
+[@ITEM 15 (EN) ]
+Soldier: You can't run any more!!\0
+
+[@ITEM 15 (L2) ]
+\0
+
+[@ITEM 15 (FR) ]
+Soldat : Vous n'irez pas plus loin !\0
+
+[@ITEM 16 (L1) ]
+\0
+
+[@ITEM 16 (EN) ]
+Soldier: Come along quietly!\0
+
+[@ITEM 16 (L2) ]
+\0
+
+[@ITEM 16 (FR) ]
+Soldat : Rendez-vous !\0
+
+[@ITEM 17 (L1) ]
+\0
+
+[@ITEM 17 (EN) ]
+Chancellor: Princess, move away from that man!\0
+
+[@ITEM 17 (L2) ]
+\0
+
+[@ITEM 17 (FR) ]
+Chancelier : Votre Altesse, éloignez-vous de ce vaurien !\0
+
+[@ITEM 18 (L1) ]
+\0
+
+[@ITEM 18 (EN) ]
+20 G, paid in advance.
+Would you like to stay?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 18 (L2) ]
+\0
+
+[@ITEM 18 (FR) ]
+Voulez-vous une chambre ?
+Cela vous coûtera 20 G.
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 19 (L1) ]
+\0
+
+[@ITEM 19 (EN) ]
+Ho, ho, I see!\0
+
+[@ITEM 19 (L2) ]
+\0
+
+[@ITEM 19 (FR) ]
+Ho, ho ! Très bien !\0
+
+[@ITEM 20 (L1) ]
+\0
+
+[@ITEM 20 (EN) ]
+Come again any time.\0
+
+[@ITEM 20 (L2) ]
+\0
+
+[@ITEM 20 (FR) ]
+Revenez quand vous voulez !\0
+
+[@ITEM 21 (L1) ]
+\0
+
+[@ITEM 21 (EN) ]
+A one-way ticket is 10 G.
+You want one?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 21 (L2) ]
+\0
+
+[@ITEM 21 (FR) ]
+Un billet vous coûtera 10 G.
+Voulez-vous en acheter un ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 22 (L1) ]
+\0
+
+[@ITEM 22 (EN) ]
+Here. This is your ticket.\0
+
+[@ITEM 22 (L2) ]
+\0
+
+[@ITEM 22 (FR) ]
+Voilà votre billet. Merci beaucoup !\0
+
+[@ITEM 23 (L1) ]
+\0
+
+[@ITEM 23 (EN) ]
+It feels great if you ride!
+I don't think it would hurt you......\0
+
+[@ITEM 23 (L2) ]
+\0
+
+[@ITEM 23 (FR) ]
+Un voyage en bateau, c'est si rafraîchissant !
+À ce prix-là, c'est dommage de se priver...\0
+
+[@ITEM 24 (L1) ]
+\0
+
+[@ITEM 24 (EN) ]
+You don't have enough money......\0
+
+[@ITEM 24 (L2) ]
+\0
+
+[@ITEM 24 (FR) ]
+Vous n'avez pas assez d'argent...\0
+
+[@ITEM 25 (L1) ]
+\0
+
+[@ITEM 25 (EN) ]
+The ferry's nice.\0
+
+[@ITEM 25 (L2) ]
+\0
+
+[@ITEM 25 (FR) ]
+J'adore prendre le bateau !\0
+
+[@ITEM 26 (L1) ]
+\0
+
+[@ITEM 26 (EN) ]
+The ferry's nice......\0
+
+[@ITEM 26 (L2) ]
+\0
+
+[@ITEM 26 (FR) ]
+Rien ne vaut un petit tour en bateau !\0
+
+[@ITEM 27 (L1) ]
+\0
+
+[@ITEM 27 (EN) ]
+Mayor: Ga ha hah!
+I'm this town's mayor.
+The truth is, I'm rich!!\0
+
+[@ITEM 27 (L2) ]
+\0
+
+[@ITEM 27 (FR) ]
+Maire : Mouah, ha, ha ! Je suis le maire de cette ville !
+C'est moi le plus riche !\0
+
+[@ITEM 28 (L1) ]
+\0
+
+[@ITEM 28 (EN) ]
+Give you 10 G if you spin around three times and
+cluck like a chicken!
+\t\t{SEL1}Okay.{/SEL1}
+\t\t{SEL2}No thanks.{/SEL2}\0
+
+[@ITEM 28 (L2) ]
+\0
+
+[@ITEM 28 (FR) ]
+Si tu fais trois pirouettes en poussant un cocorico,
+je te donnerai 10 G. Alors, qu'en dis-tu ?
+       {SEL1}Accepter{/SEL1}
+       {SEL2}Refuser{/SEL2}\0
+
+[@ITEM 29 (L1) ]
+\0
+
+[@ITEM 29 (EN) ]
+Mayor: Boring.\0
+
+[@ITEM 29 (L2) ]
+\0
+
+[@ITEM 29 (FR) ]
+Maire : Pfft. T'es pas drôle.\0
+
+[@ITEM 30 (L1) ]
+\0
+
+[@ITEM 30 (EN) ]
+Mayor: Ga ha hah!
+There, 10G!\0
+
+[@ITEM 30 (L2) ]
+\0
+
+[@ITEM 30 (FR) ]
+Maire : Mouah, ha, ha ! Tiens ! 10 G !\0
+
+[@ITEM 31 (L1) ]
+\0
+
+[@ITEM 31 (EN) ]
+Whatever it is, we share it with everyone!
+To those in trouble, we hold out a hand!
+I think I'll make this into this town's motto.{56}\0
+
+[@ITEM 31 (L2) ]
+\0
+
+[@ITEM 31 (FR) ]
+« Partagez toujours avec votre prochain et tendez la
+main aux gens dans le besoin ! » Je crois que je vais
+en faire la devise de la ville !\0
+
+[@ITEM 32 (L1) ]
+\0
+
+[@ITEM 32 (EN) ]
+The person I hate most in this world?
+My father, of course.\0
+
+[@ITEM 32 (L2) ]
+\0
+
+[@ITEM 32 (FR) ]
+La personne que je déteste le plus au monde ?
+Mon père, bien sûr !\0
+
+[@ITEM 33 (L1) ]
+\0
+
+[@ITEM 33 (EN) ]
+The person I like most in this world?
+My father, of course!\0
+
+[@ITEM 33 (L2) ]
+\0
+
+[@ITEM 33 (FR) ]
+La personne que j'aime le plus au monde ?
+Mon père, bien sûr !\0
+
+[@ITEM 34 (L1) ]
+\0
+
+[@ITEM 34 (EN) ]
+Dad loves money......\0
+
+[@ITEM 34 (L2) ]
+\0
+
+[@ITEM 34 (FR) ]
+Papa aime son argent plus que moi...\0
+
+[@ITEM 35 (L1) ]
+\0
+
+[@ITEM 35 (EN) ]
+I love my dad!\0
+
+[@ITEM 35 (L2) ]
+\0
+
+[@ITEM 35 (FR) ]
+J'adore mon papa !\0
+
+[@ITEM 36 (L1) ]
+\0
+
+[@ITEM 36 (EN) ]
+It's very painful that the children's hearts
+are moving away......\0
+
+[@ITEM 36 (L2) ]
+\0
+
+[@ITEM 36 (FR) ]
+Les enfants sont de plus en plus distants.
+C'est à vous fendre le cœur...\0
+
+[@ITEM 37 (L1) ]
+\0
+
+[@ITEM 37 (EN) ]
+My husband has no avarice......
+It would be okay if he were a little more greedy.\0
+
+[@ITEM 37 (L2) ]
+\0
+
+[@ITEM 37 (FR) ]
+Mon mari est si altruiste... Si seulement il pensait un peu
+plus à lui-même...\0
+
+[@ITEM 38 (L1) ]
+\0
+
+[@ITEM 38 (EN) ]
+Everyone theth daddy'th greedy......\0
+
+[@ITEM 38 (L2) ]
+\0
+
+[@ITEM 38 (FR) ]
+Tout le monde dit que papa est un rapace...
+Ce n'est pas vrai, hein ?\0
+
+[@ITEM 39 (L1) ]
+\0
+
+[@ITEM 39 (EN) ]
+Everyone theth daddy'th generouth.
+I wonder if "generouth" meanth "cool".
+If it doth, they're wrong!\0
+
+[@ITEM 39 (L2) ]
+\0
+
+[@ITEM 39 (FR) ]
+Tout le monde dit que papa est généreux... Est-ce
+qu'être généreux, c'est la même chose qu'être cool ?
+Si c'est le cas, alors papa n'est pas généreux !\0
+
+[@ITEM 40 (L1) ]
+\0
+
+[@ITEM 40 (EN) ]
+Grandpa, grandma, they've all gone to
+Truce's Millennial Festival......
+We're house-watching.\0
+
+[@ITEM 40 (L2) ]
+\0
+
+[@ITEM 40 (FR) ]
+Tout le monde est parti à la foire du millénaire de
+Truce, même papi et mamie... Nous prenons soin
+de la maison en leur absence.\0
+
+[@ITEM 41 (L1) ]
+\0
+
+[@ITEM 41 (EN) ]
+I wanna go to the festival too!\0
+
+[@ITEM 41 (L2) ]
+\0
+
+[@ITEM 41 (FR) ]
+Moi aussi, je veux aller à la foire !\0
+
+[@ITEM 42 (L1) ]
+\0
+
+[@ITEM 42 (EN) ]
+Some monsters live with and get on well with
+humans. That piano player, for example.\0
+
+[@ITEM 42 (L2) ]
+\0
+
+[@ITEM 42 (FR) ]
+Il y a aussi des monstres qui vivent paisiblement avec
+les humains. Prenez ce pianiste, par exemple.\0
+
+[@ITEM 43 (L1) ]
+\0
+
+[@ITEM 43 (EN) ]
+Eeeveryone's gone to Truce's Millennial Festival.
+I mean, come on, getting damn festive...... urp......\0
+
+[@ITEM 43 (L2) ]
+\0
+
+[@ITEM 43 (FR) ]
+Tout le monde est parti à la foire du millénaire de
+Truce. Pfft. C'est ça, qu'ils s'amusent !\0
+
+[@ITEM 44 (L1) ]
+\0
+
+[@ITEM 44 (EN) ]
+400 years ago, a woman called Fiona
+died trying to turn the rough land to the north
+into forest...... it's a sad story......\0
+
+[@ITEM 44 (L2) ]
+\0
+
+[@ITEM 44 (FR) ]
+Il y a 400 ans, une femme appelée Fiona a péri en
+essayant de transformer les terres arides situées
+au nord d'ici en forêt... C'est si triste...\0
+
+[@ITEM 45 (L1) ]
+\0
+
+[@ITEM 45 (EN) ]
+400 years ago, a woman called Fiona
+had a mysterious iron doll help her bring
+the forest back to life in the land to the north.
+That iron doll is enshrined in a temple.\0
+
+[@ITEM 45 (L2) ]
+\0
+
+[@ITEM 45 (FR) ]
+Il y a 400 ans, une femme appelée Fiona a fait revenir
+à la vie la forêt située au nord d'ici avec l'aide d'une
+étrange poupée de fer qui repose désormais dans le
+sanctuaire.\0
+
+[@ITEM 46 (L1) ]
+\0
+
+[@ITEM 46 (EN) ]
+I'm the piano man! Whaddaya want me to play? ♪
+\t\t{SEL1}Play me a sad one!{/SEL1}
+\t\t{SEL2}Something upbeat!{/SEL2}\0
+
+[@ITEM 46 (L2) ]
+\0
+
+[@ITEM 46 (FR) ]
+Qu'est-ce que je vous joue ? ♪
+       {SEL1}Un morceau triste{/SEL1}
+       {SEL2}Un morceau enjoué{/SEL2}\0
+
+[@ITEM 47 (L1) ]
+\0
+
+[@ITEM 47 (EN) ]
+I'm gonna put on this armor and fight Magus too!\0
+
+[@ITEM 47 (L2) ]
+\0
+
+[@ITEM 47 (FR) ]
+Équipé de cette armure, je vais combattre le Magistère,
+moi aussi !\0
+
+[@ITEM 48 (L1) ]
+\0
+
+[@ITEM 48 (EN) ]
+Urgh...
+It's so...so heavy!\0
+
+[@ITEM 48 (L2) ]
+\0
+
+[@ITEM 48 (FR) ]
+Oooh...!
+Elle est lourde...\0
+
+[@ITEM 49 (L1) ]
+\0
+
+[@ITEM 49 (EN) ]
+Big brother, you're trying too hard!\0
+
+[@ITEM 49 (L2) ]
+\0
+
+[@ITEM 49 (FR) ]
+Ce soldat en fait trop...\0
+
+[@ITEM 50 (L1) ]
+\0
+
+[@ITEM 50 (EN) ]
+It's Magus's fault the forest in the north is
+gone......\0
+
+[@ITEM 50 (L2) ]
+\0
+
+[@ITEM 50 (FR) ]
+C'est le Magistère qui a détruit la forêt du nord.\0
+
+[@ITEM 51 (L1) ]
+\0
+
+[@ITEM 51 (EN) ]
+Chief: The mountain to the east of the Denadoro
+Mountains is called the Demon Cavern.
+It sends shivers down my back when I go there.\0
+
+[@ITEM 51 (L2) ]
+\0
+
+[@ITEM 51 (FR) ]
+Maire : La grotte située dans la montagne à l'est
+des monts Dénadoro est surnommée la grotte des
+mystiques. Elle me donne la chair de poule.\0
+
+[@ITEM 52 (L1) ]
+\0
+
+[@ITEM 52 (EN) ]
+Next to the bed is an unopened treasure chest that's
+been passed down in this family for generations.
+I wonder what's inside?
+I'll give it to you if by some chance you can open it.\0
+
+[@ITEM 52 (L2) ]
+\0
+
+[@ITEM 52 (FR) ]
+Les coffres à côté du lit ont été transmis de génération
+en génération dans notre famille sans être ouverts.
+Je me demande ce qu'il y a à l'intérieur... Si vous
+arrivez à les ouvrir, je vous donnerai leur contenu.\0
+
+[@ITEM 53 (L1) ]
+\0
+
+[@ITEM 53 (EN) ]
+Fiona-san has a beautiful heart that loves greenery.
+I hope her dreams come true...\0
+
+[@ITEM 53 (L2) ]
+\0
+
+[@ITEM 53 (FR) ]
+Fiona a bon cœur et aime la nature. Si seulement son
+rêve pouvait se réaliser...\0
+
+[@ITEM 54 (L1) ]
+\0
+
+[@ITEM 54 (EN) ]
+Tarta had the badge that's proof of the hero.
+At first, I thought it might have been a fake, but
+that's definitely the hero's proof.
+Tarta was really the Hero!
+He's sure to be in the Denadoro Mountains to
+the north now, searching for the legendary sword.{PRESS_CLEAR}{PRESS_CLEAR}\0
+
+[@ITEM 54 (L2) ]
+\0
+
+[@ITEM 54 (FR) ]
+Tarta possède la médaille du héros !{PRESS_CLEAR}
+Je croyais d'abord que c'était une copie, mais c'est la
+vraie ! Tarta est réellement le héros !{PRESS_CLEAR}
+En ce moment même, il doit être à la recherche de l'épée
+légendaire dans les monts Dénadoro au nord d'ici.\0
+
+[@ITEM 55 (L1) ]
+\0
+
+[@ITEM 55 (EN) ]
+Tarta's so hopeless......
+But you just can't hate him.\0
+
+[@ITEM 55 (L2) ]
+\0
+
+[@ITEM 55 (FR) ]
+Tarta est un bon à rien... Mais on l'aime bien quand
+même.\0
+
+[@ITEM 56 (L1) ]
+\0
+
+[@ITEM 56 (EN) ]
+I'm gonna have Tarta make me his bride!\0
+
+[@ITEM 56 (L2) ]
+\0
+
+[@ITEM 56 (FR) ]
+Je serai l'épouse de Tarta !\0
+
+[@ITEM 57 (L1) ]
+\0
+
+[@ITEM 57 (EN) ]
+ZABIE door lock system operational.
+Please enter passcode.\0
+
+[@ITEM 57 (L2) ]
+\0
+
+[@ITEM 57 (FR) ]
+Verrouillage de Zabi actif.
+Veuillez saisir le mot de passe.\0
+
+[@ITEM 58 (L1) ]
+\0
+
+[@ITEM 58 (EN) ]
+ELEVATOR OPERATION NOT POSSIBLE.\0
+
+[@ITEM 58 (L2) ]
+\0
+
+[@ITEM 58 (FR) ]
+État d'urgence.
+Ascenseurs hors d'usage.\0
+
+[@ITEM 59 (L1) ]
+\0
+
+[@ITEM 59 (EN) ]
+{Robo}: It IS an emergency situation!
+The security system is runNING wild.
+We MUST escape!\0
+
+[@ITEM 59 (L2) ]
+\0
+
+[@ITEM 59 (FR) ]
+{Robo} : État d'urgence ! Le système de sécurité
+est détraqué. Nous devons nous enfuir !\0
+
+[@ITEM 60 (L1) ]
+\0
+
+[@ITEM 60 (EN) ]
+{Robo}: QUICKLY!
+RIGHT NOW!!!\0
+
+[@ITEM 60 (L2) ]
+\0
+
+[@ITEM 60 (FR) ]
+{Robo} : Vite ! Dépêchez-vous !\0
+
+[@ITEM 61 (L1) ]
+\0
+
+[@ITEM 61 (EN) ]
+I got tired out from running around with the
+B button dash.
+But since watching the dance, I'm energetic again!\0
+
+[@ITEM 61 (L2) ]
+\0
+
+[@ITEM 61 (FR) ]
+J'ai trop couru, je suis épuisée. Mais ça me redonne de
+l'énergie de les regarder danser !\0
+
+[@ITEM 62 (L1) ]
+\0
+
+[@ITEM 62 (EN) ]
+They say it's a dance from the distant past.
+Such mystique!\0
+
+[@ITEM 62 (L2) ]
+\0
+
+[@ITEM 62 (FR) ]
+Ils disent que c'est une danse des temps anciens.
+Ça a un charme inexplicable, vous ne trouvez pas ?\0
+
+[@ITEM 63 (L1) ]
+\0
+
+[@ITEM 63 (EN) ]
+Hot rhythm!
+You dance too, with the X, Y, L, and R buttons!\0
+
+[@ITEM 63 (L2) ]
+\0
+
+[@ITEM 63 (FR) ]
+Quelle mélodie entraînante ! Dansez, vous aussi !
+Appuyez sur le bouton X, le bouton Y, le bouton R
+ou le bouton L !\0
+
+[@ITEM 64 (L1) ]
+\0
+
+[@ITEM 64 (EN) ]
+I got spending money from the elder's house!\0
+
+[@ITEM 64 (L2) ]
+\0
+
+[@ITEM 64 (FR) ]
+La, lala, lalère ! J'ai reçu de l'argent de poche à la
+résidence du maire !\0
+
+[@ITEM 65 (L1) ]
+\0
+
+[@ITEM 65 (EN) ]
+{Marle}, that is, Princess Marledia, is a
+descendant of this era's queen.\0
+
+[@ITEM 65 (L2) ]
+\0
+
+[@ITEM 65 (FR) ]
+{Marle}, c'est-à-dire la princesse Marledia, est une
+descendante de la reine de cette époque.\0
+
+[@ITEM 66 (L1) ]
+\0
+
+[@ITEM 66 (EN) ]
+This era's queen was kidnapped......
+The truth is that, after that, it happened that
+someone saved her.
+But we've changed history......\0
+
+[@ITEM 66 (L2) ]
+\0
+
+[@ITEM 66 (FR) ]
+Cette dernière avait été enlevée, mais quelqu'un était
+censé l'avoir sauvée par la suite. Cependant, l'histoire
+a changé...\0
+
+[@ITEM 67 (L1) ]
+\0
+
+[@ITEM 67 (EN) ]
+In other words, due to {Marle} appearing in this
+era and being mistaken for the queen, the
+search for the real queen was discontinued.
+If the queen were to be killed...\0
+
+[@ITEM 67 (L2) ]
+\0
+
+[@ITEM 67 (FR) ]
+Quand {Marle} est apparue à cette époque, on l'a
+prise pour son ancêtre, et les recherches pour
+retrouver la vraie reine ont été interrompues.
+Si elle meurt...\0
+
+[@ITEM 68 (L1) ]
+\0
+
+[@ITEM 68 (EN) ]
+{Marle}'s existence would vanish......
+But we're still in time!
+If we can help out the queen, even after now,
+history should revert to the way it was!!\0
+
+[@ITEM 68 (L2) ]
+\0
+
+[@ITEM 68 (FR) ]
+... {Marle} n'aura jamais existé. Cependant, il nous
+reste encore du temps ! Si nous arrivons à porter
+secours à la reine, l'histoire devrait retrouver son
+cours normal !\0
+
+[@ITEM 69 (L1) ]
+\0
+
+[@ITEM 69 (EN) ]
+They say my son's the hero. Guess this's that thing
+about even normal parents having genius kids......
+But, no matter how favorably you look at it, this's
+like a huge exaggeration, ain't it though......
+Well, being the hero's old man ain't bad either.
+Heh, heh.{PRESS_CLEAR}\0
+
+[@ITEM 69 (L2) ]
+\0
+
+[@ITEM 69 (FR) ]
+On dit que mon fiston est le héros. Ce doit être un de
+de ces cas où « noire géline pond blanc œuf », hein ?
+J'ai quand même du mal à y croire...{PRESS_CLEAR}
+Bah, être le père du héros n'est pas mal du tout...
+Hé, hé, hé !\0
+
+[@ITEM 70 (L1) ]
+\0
+
+[@ITEM 70 (EN) ]
+Tarta: I, I'm sorry......
+This Hero Badge, the truth is, a seriously drunk
+frog man dropped it in the bar and left.{PRESS_CLEAR}
+Then, when I went out in the city thinking I
+could sell it for a lot, everyone made a big fuss
+over me, calling me the Hero, so I was in too
+deep to back out......\0
+
+[@ITEM 70 (L2) ]
+\0
+
+[@ITEM 70 (FR) ]
+Tarta : Je... Je suis désolé... C'est un homme à
+l'apparence de grenouille qui l'a laissée tomber
+à la taverne alors qu'il était saoul.{PRESS_CLEAR}
+Je pensais que je pourrais la revendre à prix fort
+en ville, mais tout le monde s'est mis à me traiter
+en héros, alors j'ai décidé de jouer le jeu...\0
+
+[@ITEM 71 (L1) ]
+\0
+
+[@ITEM 71 (EN) ]
+But it's too much for me after all.
+Legendary hero, as if......
+I've learned my lesson now.
+I'll give you guys this badge!\0
+
+[@ITEM 71 (L2) ]
+\0
+
+[@ITEM 71 (FR) ]
+Mais je ne suis pas à la hauteur... Je n'ai rien d'un héros
+légendaire. J'en ai assez ! Tenez, je vous donne la
+médaille !\0
+
+[@ITEM 72 (L1) ]
+\0
+
+[@ITEM 72 (EN) ]
+Tarta's Father: Sheesh, I thought it might be
+something like this......
+Your father's ashamed to the point of tears!\0
+
+[@ITEM 72 (L2) ]
+\0
+
+[@ITEM 72 (FR) ]
+Père de Tarta : Je m'en doutais bien... J'ai si honte que
+je pourrais pleurer !\0
+
+[@ITEM 73 (L1) ]
+\0
+
+[@ITEM 73 (EN) ]
+No, I'm embarrassed to have been caught up
+thinking my son was the hero.
+For the sake of my dead wife as well, both I and
+my son will live with our feet on the ground.\0
+
+[@ITEM 73 (L2) ]
+\0
+
+[@ITEM 73 (FR) ]
+Quand je pense que j'ai cru que mon fils était le héros.
+Pour le bien de ma femme qui n'est plus de ce monde,
+dorénavant, mon fils et moi garderons les pieds sur
+terre.\0
+
+[@ITEM 74 (L1) ]
+\0
+
+[@ITEM 74 (EN) ]
+Tarta: This even though YOU'RE the one who
+was all proud about, "I'm the dad who raised
+the hero"......!\0
+
+[@ITEM 74 (L2) ]
+\0
+
+[@ITEM 74 (FR) ]
+Tarta : Pfft ! Il était bien content de raconter à toute
+la ville qu'il avait élevé le héros...!\0
+
+[@ITEM 75 (L1) ]
+\0
+
+[@ITEM 75 (EN) ]
+I hear my grandson's the hero!
+That's my blood!
+Fwa, ha, ha......!!!!\0
+
+[@ITEM 75 (L2) ]
+\0
+
+[@ITEM 75 (FR) ]
+Il paraît que mon petit-fils est le héros ! Mon propre
+sang ! Ha, ha, ha, ha !\0
+
+[@ITEM 76 (L1) ]
+\0
+
+[@ITEM 76 (EN) ]
+Hey, he's my grandchild.
+Tarta won't be crushed by something like this.{PRESS_CLEAR}
+He secretly told me......
+"My next goal is to be a super legendary sailor
+special deluxe!!"
+That's what he said.
+Fwa, ha, ha...!!!\0
+
+[@ITEM 76 (L2) ]
+\0
+
+[@ITEM 76 (FR) ]
+Ne vous faites pas de souci pour mon petit-fils, il n'est
+pas du genre à se laisser décourager par si peu ! Il me
+l'a confié, son prochain objectif est de devenir un marin
+légendaire ! Ha, ha, ha !\0
+
+[@ITEM 77 (L1) ]
+\0
+
+[@ITEM 77 (EN) ]
+\0
+
+[@ITEM 77 (L2) ]
+\0
+
+[@ITEM 77 (FR) ]
+\0
+
+[@ITEM 78 (L1) ]
+\0
+
+[@ITEM 78 (EN) ]
+{MSGWND}
+500G was stolen!{WAIT}04{/WAIT}{CLOSE}\0
+
+[@ITEM 78 (L2) ]
+\0
+
+[@ITEM 78 (FR) ]
+{MSGWND}
+Il vous a volé 500 G !{WAIT}04{/WAIT}{CLOSE}\0
+
+[@ITEM 79 (L1) ]
+\0
+
+[@ITEM 79 (EN) ]
+{MSGWND}
+A potion was stolen!{WAIT}04{/WAIT}{CLOSE}\0
+
+[@ITEM 79 (L2) ]
+\0
+
+[@ITEM 79 (FR) ]
+{MSGWND}
+Il vous a volé une potion !{WAIT}04{/WAIT}{CLOSE}\0
+
+[@ITEM 80 (L1) ]
+\0
+
+[@ITEM 80 (EN) ]
+Uwaan!\0
+
+[@ITEM 80 (L2) ]
+\0
+
+[@ITEM 80 (FR) ]
+Aaah !\0
+
+[@ITEM 81 (L1) ]
+\0
+
+[@ITEM 81 (EN) ]
+You guuuys!\0
+
+[@ITEM 81 (L2) ]
+\0
+
+[@ITEM 81 (FR) ]
+Hé, chenapans !\0
+
+[@ITEM 82 (L1) ]
+\0
+
+[@ITEM 82 (EN) ]
+Look out, it's Cyrus, run awaaay!\0
+
+[@ITEM 82 (L2) ]
+\0
+
+[@ITEM 82 (FR) ]
+Oh non ! C'est Cyrus ! Fuyons !\0
+
+[@ITEM 83 (L1) ]
+\0
+
+[@ITEM 83 (EN) ]
+hic...... thanks...... Cyrus...... hic.\0
+
+[@ITEM 83 (L2) ]
+\0
+
+[@ITEM 83 (FR) ]
+Snif... Merci... Cyrus... Snif...\0
+
+[@ITEM 84 (L1) ]
+\0
+
+[@ITEM 84 (EN) ]
+Cyrus: Look, Glenn, a man's got times when
+he has to fight back, too.\0
+
+[@ITEM 84 (L2) ]
+\0
+
+[@ITEM 84 (FR) ]
+Cyrus : Tu sais Glenn, il y a des moments dans la vie où
+un homme doit rendre les coups.\0
+
+[@ITEM 85 (L1) ]
+\0
+
+[@ITEM 85 (EN) ]
+Glenn: But...... getting hit hurts.\0
+
+[@ITEM 85 (L2) ]
+\0
+
+[@ITEM 85 (FR) ]
+Glenn : Oui, mais... Ça fait mal. Et puis ils ne sont pas
+vraiment méchants...\0
+
+[@ITEM 86 (L1) ]
+\0
+
+[@ITEM 86 (EN) ]
+Cyrus: You're too gentle, Glenn......\0
+
+[@ITEM 86 (L2) ]
+\0
+
+[@ITEM 86 (FR) ]
+Cyrus : Tu es trop gentil, Glenn...\0
+
+[@ITEM 87 (L1) ]
+\0
+
+[@ITEM 87 (EN) ]
+{MSGWND}
+North through the forest...... Guardia Castle\0
+
+[@ITEM 87 (L2) ]
+\0
+
+[@ITEM 87 (FR) ]
+{MSGWND}
+↑ Château de Gardia\0
+
+[@ITEM 88 (L1) ]
+\0
+
+[@ITEM 88 (EN) ]
+{MSGWND}
+Guardia Castle is ahead.
+Passage prohibited to those without business.\0
+
+[@ITEM 88 (L2) ]
+\0
+
+[@ITEM 88 (FR) ]
+{MSGWND}
+Château de Gardia
+Entrée interdite sans permission.\0
+
+[@ITEM 89 (L1) ]
+\0
+
+[@ITEM 89 (EN) ]
+{MSGWND}
+A dead end is ahead.\0
+
+[@ITEM 89 (L2) ]
+\0
+
+[@ITEM 89 (FR) ]
+{MSGWND}
+Cul-de-sac\0
+
+[@ITEM 90 (L1) ]
+\0
+
+[@ITEM 90 (EN) ]
+{MSGWND}
+An open area is ahead.\0
+
+[@ITEM 90 (L2) ]
+\0
+
+[@ITEM 90 (FR) ]
+{MSGWND}
+→ Clairière\0
+
+[@ITEM 91 (L1) ]
+\0
+
+[@ITEM 91 (EN) ]
+You can't accumulate any more silver points
+than this.\0
+
+[@ITEM 91 (L2) ]
+\0
+
+[@ITEM 91 (FR) ]
+Vous ne pouvez pas accumuler davantage de points
+d'argent.\0
+
+[@ITEM 92 (L1) ]
+\0
+
+[@ITEM 92 (EN) ]
+Our piano player's skilled.
+Be sure to go listen!\0
+
+[@ITEM 92 (L2) ]
+\0
+
+[@ITEM 92 (FR) ]
+Notre pianiste est doué. Allez l'écouter jouer !\0
+
+[@ITEM 93 (L1) ]
+\0
+
+[@ITEM 93 (EN) ]
+I've got Hyper Dried Meat set aside...
+And since it IS set aside...\0
+
+[@ITEM 93 (L2) ]
+\0
+
+[@ITEM 93 (FR) ]
+J'ai du jambon épicé en réserve, mais...\0
+
+[@ITEM 94 (L1) ]
+\0
+
+[@ITEM 94 (EN) ]
+I might let some go for, say, 9,900 G.
+How's about it?
+\t\t{SEL1}Sold.{/SEL1}
+\t\t{SEL2}No thanks.{/SEL2}\0
+
+[@ITEM 94 (L2) ]
+\0
+
+[@ITEM 94 (FR) ]
+Je pourrais peut-être vous en vendre pour 9900 G.
+Alors, ça vous intéresse ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 95 (L1) ]
+\0
+
+[@ITEM 95 (EN) ]
+There ya go, Hyper Dried Meat!\0
+
+[@ITEM 95 (L2) ]
+\0
+
+[@ITEM 95 (FR) ]
+Eh bien dites donc !
+Voilà !\0
+
+[@ITEM 96 (L1) ]
+\0
+
+[@ITEM 96 (EN) ]
+Thought so.\0
+
+[@ITEM 96 (L2) ]
+\0
+
+[@ITEM 96 (FR) ]
+Je m'en doutais bien.\0
+
+[@ITEM 97 (L1) ]
+\0
+
+[@ITEM 97 (EN) ]
+Yous strong!
+I give this!!\0
+
+[@ITEM 97 (L2) ]
+\0
+
+[@ITEM 97 (FR) ]
+Quelle force ! Acceptez ceci ! Gnu...\0
+
+[@ITEM 98 (L1) ]
+\0
+
+[@ITEM 98 (EN) ]
+{MSGWND}
+Received three each Flower Petals, Fangs, Horns,\0
+
+[@ITEM 98 (L2) ]
+\0
+
+[@ITEM 98 (FR) ]
+{MSGWND}
+Vous obtenez trois pétales, trois crocs,
+trois cornes et trois plumes !\0
+
+[@ITEM 99 (L1) ]
+\0
+
+[@ITEM 99 (EN) ]
+You very strong!
+Take this, too!{PRESS_CLEAR}{MSGWND}
+
+Obtained Third Eye!\0
+
+[@ITEM 99 (L2) ]
+\0
+
+[@ITEM 99 (FR) ]
+Votre force m'éblouit ! Acceptez aussi ceci !
+Gnu...{PRESS_CLEAR}{MSGWND}
+
+Vous obtenez un troisième œil !\0
+
+[@ITEM 100 (L1) ]
+\0
+
+[@ITEM 100 (EN) ]
+{MSGWND}
+Got a Power Ring!\0
+
+[@ITEM 100 (L2) ]
+\0
+
+[@ITEM 100 (FR) ]
+{MSGWND}
+Vous obtenez une bague de force !\0
+
+[@ITEM 101 (L1) ]
+\0
+
+[@ITEM 101 (EN) ]
+{MSGWND}
+A mysterious force seals it shut.\0
+
+[@ITEM 101 (L2) ]
+\0
+
+[@ITEM 101 (FR) ]
+{MSGWND}
+Un sceau magique en empêche l'ouverture...\0
+
+[@ITEM 102 (L1) ]
+\0
+
+[@ITEM 102 (EN) ]
+Something inside reacted to the pendant and
+began glowing. Remove the contents?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 102 (L2) ]
+\0
+
+[@ITEM 102 (FR) ]
+Il y a quelque chose à l'intérieur qui luit à l'approche du
+pendentif. Voulez-vous le prendre ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 103 (L1) ]
+\0
+
+[@ITEM 103 (EN) ]
+{MSGWND}
+Got a White Vest!\0
+
+[@ITEM 103 (L2) ]
+\0
+
+[@ITEM 103 (FR) ]
+{MSGWND}
+Vous obtenez une veste blanche !\0
+
+[@ITEM 104 (L1) ]
+\0
+
+[@ITEM 104 (EN) ]
+{MSGWND}
+White Vest upgraded!
+Obtained White Plate!\0
+
+[@ITEM 104 (L2) ]
+\0
+
+[@ITEM 104 (FR) ]
+{MSGWND}
+La veste blanche est devenue plus puissante !
+Vous obtenez un plastron blanc !\0
+
+[@ITEM 105 (L1) ]
+\0
+
+[@ITEM 105 (EN) ]
+{MSGWND}
+Got a Black Vest!\0
+
+[@ITEM 105 (L2) ]
+\0
+
+[@ITEM 105 (FR) ]
+{MSGWND}
+Vous obtenez une veste noire !\0
+
+[@ITEM 106 (L1) ]
+\0
+
+[@ITEM 106 (EN) ]
+{MSGWND}
+Black Vest upgraded!
+Obtained Black Plate!\0
+
+[@ITEM 106 (L2) ]
+\0
+
+[@ITEM 106 (FR) ]
+{MSGWND}
+La veste noire est devenue plus puissante !
+Vous obtenez un plastron noir !\0
+
+[@ITEM 107 (L1) ]
+\0
+
+[@ITEM 107 (EN) ]
+If I had Hyper Dried Meat, I could make some
+incredible cooking, but......\0
+
+[@ITEM 107 (L2) ]
+\0
+
+[@ITEM 107 (FR) ]
+Si seulement j'avais du jambon épicé, je pourrais
+préparer un repas formidable...\0
+
+[@ITEM 108 (L1) ]
+\0
+
+[@ITEM 108 (EN) ]
+Oh! Isn't that Hyper Dried Meat that you've got!?\0
+
+[@ITEM 108 (L2) ]
+\0
+
+[@ITEM 108 (FR) ]
+Oh ! Vous avez du jambon épicé ?!\0
+
+[@ITEM 109 (L1) ]
+\0
+
+[@ITEM 109 (EN) ]
+Might you part with it for 10,000 G?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}Take it for free.{/SEL2}
+\t\t{SEL3}No.{/SEL3}\0
+
+[@ITEM 109 (L2) ]
+\0
+
+[@ITEM 109 (FR) ]
+Voulez-vous me le vendre pour 10 000 G ?
+       {SEL1}Accepter{/SEL1}
+       {SEL2}Le lui donner gratuitement{/SEL2}
+       {SEL3}Refuser{/SEL3}\0
+
+[@ITEM 110 (L1) ]
+\0
+
+[@ITEM 110 (EN) ]
+Okay. Then here's 10,000G!\0
+
+[@ITEM 110 (L2) ]
+\0
+
+[@ITEM 110 (FR) ]
+D'accord, voici 10 000 G !\0
+
+[@ITEM 111 (L1) ]
+\0
+
+[@ITEM 111 (EN) ]
+For free!!? There's still people like you in the
+world......
+I'll teach my children that the world isn't just
+about money, too!!\0
+
+[@ITEM 111 (L2) ]
+\0
+
+[@ITEM 111 (FR) ]
+Vous voulez me le donner ?! Il y a donc encore des gens
+aussi généreux que vous dans le monde...{PRESS_CLEAR}
+Je vais apprendre à mes enfants qu'il n'y a pas que
+l'argent qui compte dans la vie !\0
+
+[@ITEM 112 (L1) ]
+\0
+
+[@ITEM 112 (EN) ]
+That's too bad......\0
+
+[@ITEM 112 (L2) ]
+\0
+
+[@ITEM 112 (FR) ]
+Oh, dommage...\0
+
+[@ITEM 113 (L1) ]
+\0
+
+[@ITEM 113 (EN) ]
+Now! I'm making some tasty cooking!\0
+
+[@ITEM 113 (L2) ]
+\0
+
+[@ITEM 113 (FR) ]
+Bien ! Je vais préparer un repas délicieux !\0
+
+[@ITEM 114 (L1) ]
+\0
+
+[@ITEM 114 (EN) ]
+Darkness Stone? Ah, if you mean that, a young
+traveler left it here.
+It seems to be something important to you.
+Please feel free to take it with you!\0
+
+[@ITEM 114 (L2) ]
+\0
+
+[@ITEM 114 (FR) ]
+La pierre obscure ? Un jeune voyageur l'a laissée ici.
+On dirait qu'elle vous est précieuse. Ne vous gênez
+pas, vous pouvez l'emporter.\0
+
+[@ITEM 115 (L1) ]
+\0
+
+[@ITEM 115 (EN) ]
+I dunno anything like that!\0
+
+[@ITEM 115 (L2) ]
+\0
+
+[@ITEM 115 (FR) ]
+La pierre obscure ? Je n'ai jamais entendu parler d'une
+chose pareille.\0
+
+[@ITEM 116 (L1) ]
+\0
+
+[@ITEM 116 (EN) ]
+{Marle}: Tyran Castle?\0
+
+[@ITEM 116 (L2) ]
+\0
+
+[@ITEM 116 (FR) ]
+{Marle} : Le fort Tyrannos ?\0
+
+[@ITEM 117 (L1) ]
+\0
+
+[@ITEM 117 (EN) ]
+{Lucca}: Tyran Castle?\0
+
+[@ITEM 117 (L2) ]
+\0
+
+[@ITEM 117 (FR) ]
+{Lucca} : Le fort Tyrannos ?\0
+
+[@ITEM 118 (L1) ]
+\0
+
+[@ITEM 118 (EN) ]
+{Robo}: THIS appears to BE the castle of the
+Dinomen.\0
+
+[@ITEM 118 (L2) ]
+\0
+
+[@ITEM 118 (FR) ]
+{Robo} : On dirait que nous sommes dans le château
+des sauriens.\0
+
+[@ITEM 119 (L1) ]
+\0
+
+[@ITEM 119 (EN) ]
+{Frog}: Tyran Castle?\0
+
+[@ITEM 119 (L2) ]
+\0
+
+[@ITEM 119 (FR) ]
+{Frog} : Le fort Tyrannos ?\0
+
+[@ITEM 120 (L1) ]
+\0
+
+[@ITEM 120 (EN) ]
+{Ayla}: Zowaa!!
+Why Dinomen's castle in place like this?\0
+
+[@ITEM 120 (L2) ]
+\0
+
+[@ITEM 120 (FR) ]
+{Ayla} : Quoi ?! Pourquoi fort Tyrannos être dans
+endroit pareil ?\0
+
+[@ITEM 121 (L1) ]
+\0
+
+[@ITEM 121 (EN) ]
+{Magus}: A castle of the Primeval era?\0
+
+[@ITEM 121 (L2) ]
+\0
+
+[@ITEM 121 (FR) ]
+{Magus} : Une ancienne forteresse ?\0
+
+[@ITEM 122 (L1) ]
+\0
+
+[@ITEM 122 (EN) ]
+{Marle}: When Lavos came falling it was buried
+deep underground...... and it stayed like it was
+and became an ancient ruin.\0
+
+[@ITEM 122 (L2) ]
+\0
+
+[@ITEM 122 (FR) ]
+{Marle} : Ces ruines ont été enfouies loin sous le sol
+quand Lavos s'est écrasé...\0
+
+[@ITEM 123 (L1) ]
+\0
+
+[@ITEM 123 (EN) ]
+{Lucca}: When Lavos fell it was buried deep
+underground and became an ancient ruin.\0
+
+[@ITEM 123 (L2) ]
+\0
+
+[@ITEM 123 (FR) ]
+{Lucca} : Quand Lavos s'est écrasé, ses ruines ont
+été enfouies sous le sol.\0
+
+[@ITEM 124 (L1) ]
+\0
+
+[@ITEM 124 (EN) ]
+{Robo}: When Lavos fell, it was buried
+underground, then stayed as it was and
+BECAME an ancient ruin.\0
+
+[@ITEM 124 (L2) ]
+\0
+
+[@ITEM 124 (FR) ]
+{Robo} : Quand Lavos s'est écrasé, ses ruines ont
+été enfouies sous le sol.\0
+
+[@ITEM 125 (L1) ]
+\0
+
+[@ITEM 125 (EN) ]
+{Frog}: When Lavos came falling it was buried
+deep underground...... so this means it stayed
+like it was and became an ancient ruin......?\0
+
+[@ITEM 125 (L2) ]
+\0
+
+[@ITEM 125 (FR) ]
+{Frog} : Ces ruines auraient été enfouies loin sous
+le sol quand Lavos s'est écrasé...?\0
+
+[@ITEM 126 (L1) ]
+\0
+
+[@ITEM 126 (EN) ]
+{Ayla}: When Lavos rained down Tyran Castle
+buried.
+It stay same looong time under ground......!\0
+
+[@ITEM 126 (L2) ]
+\0
+
+[@ITEM 126 (FR) ]
+{Ayla} : Quand Lavos s'écraser, fort
+Tyrannos être enfoui sous le sol pour toujours !\0
+
+[@ITEM 127 (L1) ]
+\0
+
+[@ITEM 127 (EN) ]
+{Magus}: A Primeval castle......\0
+
+[@ITEM 127 (L2) ]
+\0
+
+[@ITEM 127 (FR) ]
+{Magus} : Un château de la Préhistoire ?\0
+
+[@ITEM 128 (L1) ]
+\0
+
+[@ITEM 128 (EN) ]
+{Marle}: This is the Rainbow-Colored Shell!\0
+
+[@ITEM 128 (L2) ]
+\0
+
+[@ITEM 128 (FR) ]
+{Marle} : Le coquillage arc-en-ciel !\0
+
+[@ITEM 129 (L1) ]
+\0
+
+[@ITEM 129 (EN) ]
+{Lucca}: This is the Rainbow-Colored Shell!\0
+
+[@ITEM 129 (L2) ]
+\0
+
+[@ITEM 129 (FR) ]
+{Lucca} : Le coquillage arc-en-ciel !\0
+
+[@ITEM 130 (L1) ]
+\0
+
+[@ITEM 130 (EN) ]
+{Robo}: It IS the Rainbow-Colored Shell.\0
+
+[@ITEM 130 (L2) ]
+\0
+
+[@ITEM 130 (FR) ]
+{Robo} : C'est le coquillage arc-en-ciel.\0
+
+[@ITEM 131 (L1) ]
+\0
+
+[@ITEM 131 (EN) ]
+{Frog}: Hmm. So this is the rainbow shell.\0
+
+[@ITEM 131 (L2) ]
+\0
+
+[@ITEM 131 (FR) ]
+{Frog} : Hum. Serait-ce le coquillage arc-en-ciel ?\0
+
+[@ITEM 132 (L1) ]
+\0
+
+[@ITEM 132 (EN) ]
+{Ayla}: Pretty! Big!
+This Rainbow-Colored Shell?
+Can eat?\0
+
+[@ITEM 132 (L2) ]
+\0
+
+[@ITEM 132 (FR) ]
+{Ayla} : Joli ! Très gros ! Être coquillage
+arc-en-ciel ? {Ayla} le manger ?\0
+
+[@ITEM 133 (L1) ]
+\0
+
+[@ITEM 133 (EN) ]
+{Magus}: The color doesn't suit me......\0
+
+[@ITEM 133 (L2) ]
+\0
+
+[@ITEM 133 (FR) ]
+{Magus} : Sa couleur ne me va pas...\0
+
+[@ITEM 134 (L1) ]
+\0
+
+[@ITEM 134 (EN) ]
+{Marle}: Heaaaavy!
+We can't move it like this.
+Let's go call for support from the castle!\0
+
+[@ITEM 134 (L2) ]
+\0
+
+[@ITEM 134 (FR) ]
+{Marle} : Il est lourd ! Nous ne pourrons pas le
+transporter ainsi. Allons demander de l'aide au
+château !\0
+
+[@ITEM 135 (L1) ]
+\0
+
+[@ITEM 135 (EN) ]
+{Lucca}: It's too heavy.
+Let's go call for support from Guardia Castle.\0
+
+[@ITEM 135 (L2) ]
+\0
+
+[@ITEM 135 (FR) ]
+{Lucca} : Il est trop lourd. Allons demander de l'aide
+au château !\0
+
+[@ITEM 136 (L1) ]
+\0
+
+[@ITEM 136 (EN) ]
+{Robo}: It IS too heavy.
+We must call for SUPPORT from Guardia
+Castle.\0
+
+[@ITEM 136 (L2) ]
+\0
+
+[@ITEM 136 (FR) ]
+{Robo} : Il est trop lourd. Allons demander de l'aide
+au château !\0
+
+[@ITEM 137 (L1) ]
+\0
+
+[@ITEM 137 (EN) ]
+{Frog}: Heavy!
+Let's go make a request to the king for
+support from the castle.\0
+
+[@ITEM 137 (L2) ]
+\0
+
+[@ITEM 137 (FR) ]
+{Frog} : Il est lourd ! Allons demander de l'aide au
+château !\0
+
+[@ITEM 138 (L1) ]
+\0
+
+[@ITEM 138 (EN) ]
+{Ayla}: Heavy, heavy!
+Can't move. Nobody at castle?\0
+
+[@ITEM 138 (L2) ]
+\0
+
+[@ITEM 138 (FR) ]
+{Ayla} : Lourd ! Très lourd ! {Ayla} pas
+pouvoir transporter coquillage. Demander aide
+au château ?\0
+
+[@ITEM 139 (L1) ]
+\0
+
+[@ITEM 139 (EN) ]
+{Magus}: Can we get someone to move it?\0
+
+[@ITEM 139 (L2) ]
+\0
+
+[@ITEM 139 (FR) ]
+{Magus} : Qui pourrait le transporter ?\0
+
+[@ITEM 140 (L1) ]
+\0
+
+[@ITEM 140 (EN) ]
+Soldier: H, heeeavyyy.
+But, we will unfailingly transport it to the castle!\0
+
+[@ITEM 140 (L2) ]
+\0
+
+[@ITEM 140 (FR) ]
+Soldat : Il est lourd, mais nous le transporterons sans
+faute jusqu'au château !\0
+
+[@ITEM 141 (L1) ]
+\0
+
+[@ITEM 141 (EN) ]
+Knight Captain: Everyone!
+Keep at it!!\0
+
+[@ITEM 141 (L2) ]
+\0
+
+[@ITEM 141 (FR) ]
+Capitaine : Allez, tous ensemble !\0
+
+[@ITEM 142 (L1) ]
+\0
+
+[@ITEM 142 (EN) ]
+{MSGWND}
+The monster dropped a Shelter and left!\0
+
+[@ITEM 142 (L2) ]
+\0
+
+[@ITEM 142 (FR) ]
+{MSGWND}
+Le monstre a laissé tomber une tente !\0
+
+[@ITEM 143 (L1) ]
+\0
+
+[@ITEM 143 (EN) ]
+{MSGWND}
+Found a Speed Capsule!\0
+
+[@ITEM 143 (L2) ]
+\0
+
+[@ITEM 143 (FR) ]
+{MSGWND}
+Vous obtenez une gélule de rapidité !\0
+
+[@ITEM 144 (L1) ]
+\0
+
+[@ITEM 144 (EN) ]
+A memo that it seems Toma wrote has
+fallen......
+"The pit... maybe fall deliberately?
+Tch... start over......?"\0
+
+[@ITEM 144 (L2) ]
+\0
+
+[@ITEM 144 (FR) ]
+Il y a une note sur le sol. On dirait l'écriture de Toma...{PRESS_CLEAR}
+« Ces trous... Y tomber est peut-être le seul moyen
+d'avancer... Et ensuite je pourrais revenir sur mes
+pas et... »\0
+
+[@ITEM 145 (L1) ]
+\0
+
+[@ITEM 145 (EN) ]
+\0
+
+[@ITEM 145 (L2) ]
+\0
+
+[@ITEM 145 (FR) ]
+\0
+
+[@ITEM 146 (L1) ]
+\0
+
+[@ITEM 146 (EN) ]
+\0
+
+[@ITEM 146 (L2) ]
+\0
+
+[@ITEM 146 (FR) ]
+\0
+
+[@ITEM 147 (L1) ]
+\0
+
+[@ITEM 147 (EN) ]
+\0
+
+[@ITEM 147 (L2) ]
+\0
+
+[@ITEM 147 (FR) ]
+\0
+
+[@ITEM 148 (L1) ]
+\0
+
+[@ITEM 148 (EN) ]
+\0
+
+[@ITEM 148 (L2) ]
+\0
+
+[@ITEM 148 (FR) ]
+\0
+
+[@ITEM 149 (L1) ]
+\0
+
+[@ITEM 149 (EN) ]
+\0
+
+[@ITEM 149 (L2) ]
+\0
+
+[@ITEM 149 (FR) ]
+\0
+
+[@ITEM 150 (L1) ]
+\0
+
+[@ITEM 150 (EN) ]
+\0
+
+[@ITEM 150 (L2) ]
+\0
+
+[@ITEM 150 (FR) ]
+\0
+
+[@ITEM 151 (L1) ]
+\0
+
+[@ITEM 151 (EN) ]
+\0
+
+[@ITEM 151 (L2) ]
+\0
+
+[@ITEM 151 (FR) ]
+\0
+
+[@ITEM 152 (L1) ]
+\0
+
+[@ITEM 152 (EN) ]
+\0
+
+[@ITEM 152 (L2) ]
+\0
+
+[@ITEM 152 (FR) ]
+\0
+
+[@ITEM 153 (L1) ]
+\0
+
+[@ITEM 153 (EN) ]
+\0
+
+[@ITEM 153 (L2) ]
+\0
+
+[@ITEM 153 (FR) ]
+\0
+
+[@ITEM 154 (L1) ]
+\0
+
+[@ITEM 154 (EN) ]
+\0
+
+[@ITEM 154 (L2) ]
+\0
+
+[@ITEM 154 (FR) ]
+\0
+
+[@ITEM 155 (L1) ]
+\0
+
+[@ITEM 155 (EN) ]
+\0
+
+[@ITEM 155 (L2) ]
+\0
+
+[@ITEM 155 (FR) ]
+\0
+
+[@ITEM 156 (L1) ]
+\0
+
+[@ITEM 156 (EN) ]
+\0
+
+[@ITEM 156 (L2) ]
+\0
+
+[@ITEM 156 (FR) ]
+\0
+
+[@ITEM 157 (L1) ]
+\0
+
+[@ITEM 157 (EN) ]
+\0
+
+[@ITEM 157 (L2) ]
+\0
+
+[@ITEM 157 (FR) ]
+\0
+
+[@ITEM 158 (L1) ]
+\0
+
+[@ITEM 158 (EN) ]
+\0
+
+[@ITEM 158 (L2) ]
+\0
+
+[@ITEM 158 (FR) ]
+\0
+
+[@ITEM 159 (L1) ]
+\0
+
+[@ITEM 159 (EN) ]
+\0
+
+[@ITEM 159 (L2) ]
+\0
+
+[@ITEM 159 (FR) ]
+\0
+
+[@ITEM 160 (L1) ]
+\0
+
+[@ITEM 160 (EN) ]
+\0
+
+[@ITEM 160 (L2) ]
+\0
+
+[@ITEM 160 (FR) ]
+\0
+
+[@ITEM 161 (L1) ]
+\0
+
+[@ITEM 161 (EN) ]
+\0
+
+[@ITEM 161 (L2) ]
+\0
+
+[@ITEM 161 (FR) ]
+\0
+
+[@ITEM 162 (L1) ]
+\0
+
+[@ITEM 162 (EN) ]
+\0
+
+[@ITEM 162 (L2) ]
+\0
+
+[@ITEM 162 (FR) ]
+\0
+
+[@ITEM 163 (L1) ]
+\0
+
+[@ITEM 163 (EN) ]
+\0
+
+[@ITEM 163 (L2) ]
+\0
+
+[@ITEM 163 (FR) ]
+\0
+
+[@ITEM 164 (L1) ]
+\0
+
+[@ITEM 164 (EN) ]
+\0
+
+[@ITEM 164 (L2) ]
+\0
+
+[@ITEM 164 (FR) ]
+\0
+
+[@ITEM 165 (L1) ]
+\0
+
+[@ITEM 165 (EN) ]
+\0
+
+[@ITEM 165 (L2) ]
+\0
+
+[@ITEM 165 (FR) ]
+\0
+
+[@ITEM 166 (L1) ]
+\0
+
+[@ITEM 166 (EN) ]
+\0
+
+[@ITEM 166 (L2) ]
+\0
+
+[@ITEM 166 (FR) ]
+\0
+
+[@ITEM 167 (L1) ]
+\0
+
+[@ITEM 167 (EN) ]
+\0
+
+[@ITEM 167 (L2) ]
+\0
+
+[@ITEM 167 (FR) ]
+\0
+
+[@ITEM 168 (L1) ]
+\0
+
+[@ITEM 168 (EN) ]
+\0
+
+[@ITEM 168 (L2) ]
+\0
+
+[@ITEM 168 (FR) ]
+\0
+
+[@ITEM 169 (L1) ]
+\0
+
+[@ITEM 169 (EN) ]
+\0
+
+[@ITEM 169 (L2) ]
+\0
+
+[@ITEM 169 (FR) ]
+\0
+
+[@ITEM 170 (L1) ]
+\0
+
+[@ITEM 170 (EN) ]
+\0
+
+[@ITEM 170 (L2) ]
+\0
+
+[@ITEM 170 (FR) ]
+\0
+
+[@ITEM 171 (L1) ]
+\0
+
+[@ITEM 171 (EN) ]
+\0
+
+[@ITEM 171 (L2) ]
+\0
+
+[@ITEM 171 (FR) ]
+\0
+
+[@ITEM 172 (L1) ]
+\0
+
+[@ITEM 172 (EN) ]
+\0
+
+[@ITEM 172 (L2) ]
+\0
+
+[@ITEM 172 (FR) ]
+\0
+
+[@ITEM 173 (L1) ]
+\0
+
+[@ITEM 173 (EN) ]
+\0
+
+[@ITEM 173 (L2) ]
+\0
+
+[@ITEM 173 (FR) ]
+\0
+
+[@ITEM 174 (L1) ]
+\0
+
+[@ITEM 174 (EN) ]
+\0
+
+[@ITEM 174 (L2) ]
+\0
+
+[@ITEM 174 (FR) ]
+\0
+
+[@ITEM 175 (L1) ]
+\0
+
+[@ITEM 175 (EN) ]
+\0
+
+[@ITEM 175 (L2) ]
+\0
+
+[@ITEM 175 (FR) ]
+\0
+
+[@ITEM 176 (L1) ]
+\0
+
+[@ITEM 176 (EN) ]
+\0
+
+[@ITEM 176 (L2) ]
+\0
+
+[@ITEM 176 (FR) ]
+\0
+
+[@ITEM 177 (L1) ]
+\0
+
+[@ITEM 177 (EN) ]
+\0
+
+[@ITEM 177 (L2) ]
+\0
+
+[@ITEM 177 (FR) ]
+\0
+
+[@ITEM 178 (L1) ]
+\0
+
+[@ITEM 178 (EN) ]
+\0
+
+[@ITEM 178 (L2) ]
+\0
+
+[@ITEM 178 (FR) ]
+\0
+
+[@ITEM 179 (L1) ]
+\0
+
+[@ITEM 179 (EN) ]
+\0
+
+[@ITEM 179 (L2) ]
+\0
+
+[@ITEM 179 (FR) ]
+\0
+
+[@ITEM 180 (L1) ]
+\0
+
+[@ITEM 180 (EN) ]
+\0
+
+[@ITEM 180 (L2) ]
+\0
+
+[@ITEM 180 (FR) ]
+\0
+
+[@ITEM 181 (L1) ]
+\0
+
+[@ITEM 181 (EN) ]
+\0
+
+[@ITEM 181 (L2) ]
+\0
+
+[@ITEM 181 (FR) ]
+\0
+
+[@ITEM 182 (L1) ]
+\0
+
+[@ITEM 182 (EN) ]
+\0
+
+[@ITEM 182 (L2) ]
+\0
+
+[@ITEM 182 (FR) ]
+\0
+
+[@ITEM 183 (L1) ]
+\0
+
+[@ITEM 183 (EN) ]
+\0
+
+[@ITEM 183 (L2) ]
+\0
+
+[@ITEM 183 (FR) ]
+\0
+
+[@ITEM 184 (L1) ]
+\0
+
+[@ITEM 184 (EN) ]
+\0
+
+[@ITEM 184 (L2) ]
+\0
+
+[@ITEM 184 (FR) ]
+\0
+
+[@ITEM 185 (L1) ]
+\0
+
+[@ITEM 185 (EN) ]
+\0
+
+[@ITEM 185 (L2) ]
+\0
+
+[@ITEM 185 (FR) ]
+\0
+
+[@ITEM 186 (L1) ]
+\0
+
+[@ITEM 186 (EN) ]
+\0
+
+[@ITEM 186 (L2) ]
+\0
+
+[@ITEM 186 (FR) ]
+\0
+
+[@ITEM 187 (L1) ]
+\0
+
+[@ITEM 187 (EN) ]
+\0
+
+[@ITEM 187 (L2) ]
+\0
+
+[@ITEM 187 (FR) ]
+\0
+
+[@ITEM 188 (L1) ]
+\0
+
+[@ITEM 188 (EN) ]
+\0
+
+[@ITEM 188 (L2) ]
+\0
+
+[@ITEM 188 (FR) ]
+\0
+
+[@ITEM 189 (L1) ]
+\0
+
+[@ITEM 189 (EN) ]
+\0
+
+[@ITEM 189 (L2) ]
+\0
+
+[@ITEM 189 (FR) ]
+\0
+
+[@ITEM 190 (L1) ]
+\0
+
+[@ITEM 190 (EN) ]
+\0
+
+[@ITEM 190 (L2) ]
+\0
+
+[@ITEM 190 (FR) ]
+\0
+
+[@ITEM 191 (L1) ]
+\0
+
+[@ITEM 191 (EN) ]
+\0
+
+[@ITEM 191 (L2) ]
+\0
+
+[@ITEM 191 (FR) ]
+\0
+
+[@ITEM 192 (L1) ]
+\0
+
+[@ITEM 192 (EN) ]
+\0
+
+[@ITEM 192 (L2) ]
+\0
+
+[@ITEM 192 (FR) ]
+\0
+
+[@ITEM 193 (L1) ]
+\0
+
+[@ITEM 193 (EN) ]
+\0
+
+[@ITEM 193 (L2) ]
+\0
+
+[@ITEM 193 (FR) ]
+\0
+
+[@ITEM 194 (L1) ]
+\0
+
+[@ITEM 194 (EN) ]
+\0
+
+[@ITEM 194 (L2) ]
+\0
+
+[@ITEM 194 (FR) ]
+\0
+
+[@ITEM 195 (L1) ]
+\0
+
+[@ITEM 195 (EN) ]
+\0
+
+[@ITEM 195 (L2) ]
+\0
+
+[@ITEM 195 (FR) ]
+\0
+
+[@ITEM 196 (L1) ]
+\0
+
+[@ITEM 196 (EN) ]
+\0
+
+[@ITEM 196 (L2) ]
+\0
+
+[@ITEM 196 (FR) ]
+\0
+
+[@ITEM 197 (L1) ]
+\0
+
+[@ITEM 197 (EN) ]
+\0
+
+[@ITEM 197 (L2) ]
+\0
+
+[@ITEM 197 (FR) ]
+\0
+
+[@ITEM 198 (L1) ]
+\0
+
+[@ITEM 198 (EN) ]
+\0
+
+[@ITEM 198 (L2) ]
+\0
+
+[@ITEM 198 (FR) ]
+\0
+
+[@ITEM 199 (L1) ]
+\0
+
+[@ITEM 199 (EN) ]
+\0
+
+[@ITEM 199 (L2) ]
+\0
+
+[@ITEM 199 (FR) ]
+\0
+
+[@ITEM 200 (L1) ]
+\0
+
+[@ITEM 200 (EN) ]
+\0
+
+[@ITEM 200 (L2) ]
+\0
+
+[@ITEM 200 (FR) ]
+\0
+
+[@ITEM 201 (L1) ]
+\0
+
+[@ITEM 201 (EN) ]
+\0
+
+[@ITEM 201 (L2) ]
+\0
+
+[@ITEM 201 (FR) ]
+\0
+
+[@ITEM 202 (L1) ]
+\0
+
+[@ITEM 202 (EN) ]
+\0
+
+[@ITEM 202 (L2) ]
+\0
+
+[@ITEM 202 (FR) ]
+\0
+
+[@ITEM 203 (L1) ]
+\0
+
+[@ITEM 203 (EN) ]
+\0
+
+[@ITEM 203 (L2) ]
+\0
+
+[@ITEM 203 (FR) ]
+\0
+
+[@ITEM 204 (L1) ]
+\0
+
+[@ITEM 204 (EN) ]
+\0
+
+[@ITEM 204 (L2) ]
+\0
+
+[@ITEM 204 (FR) ]
+\0
+
+[@ITEM 205 (L1) ]
+\0
+
+[@ITEM 205 (EN) ]
+\0
+
+[@ITEM 205 (L2) ]
+\0
+
+[@ITEM 205 (FR) ]
+\0
+
+[@ITEM 206 (L1) ]
+\0
+
+[@ITEM 206 (EN) ]
+\0
+
+[@ITEM 206 (L2) ]
+\0
+
+[@ITEM 206 (FR) ]
+\0
+
+[@ITEM 207 (L1) ]
+\0
+
+[@ITEM 207 (EN) ]
+\0
+
+[@ITEM 207 (L2) ]
+\0
+
+[@ITEM 207 (FR) ]
+\0
+
+[@ITEM 208 (L1) ]
+\0
+
+[@ITEM 208 (EN) ]
+\0
+
+[@ITEM 208 (L2) ]
+\0
+
+[@ITEM 208 (FR) ]
+\0
+
+[@ITEM 209 (L1) ]
+\0
+
+[@ITEM 209 (EN) ]
+\0
+
+[@ITEM 209 (L2) ]
+\0
+
+[@ITEM 209 (FR) ]
+\0
+
+[@ITEM 210 (L1) ]
+\0
+
+[@ITEM 210 (EN) ]
+\0
+
+[@ITEM 210 (L2) ]
+\0
+
+[@ITEM 210 (FR) ]
+\0
+
+[@ITEM 211 (L1) ]
+\0
+
+[@ITEM 211 (EN) ]
+\0
+
+[@ITEM 211 (L2) ]
+\0
+
+[@ITEM 211 (FR) ]
+\0
+
+[@ITEM 212 (L1) ]
+\0
+
+[@ITEM 212 (EN) ]
+\0
+
+[@ITEM 212 (L2) ]
+\0
+
+[@ITEM 212 (FR) ]
+\0
+
+[@ITEM 213 (L1) ]
+\0
+
+[@ITEM 213 (EN) ]
+\0
+
+[@ITEM 213 (L2) ]
+\0
+
+[@ITEM 213 (FR) ]
+\0
+
+[@ITEM 214 (L1) ]
+\0
+
+[@ITEM 214 (EN) ]
+\0
+
+[@ITEM 214 (L2) ]
+\0
+
+[@ITEM 214 (FR) ]
+\0
+
+[@ITEM 215 (L1) ]
+\0
+
+[@ITEM 215 (EN) ]
+\0
+
+[@ITEM 215 (L2) ]
+\0
+
+[@ITEM 215 (FR) ]
+\0
+
+[@ITEM 216 (L1) ]
+\0
+
+[@ITEM 216 (EN) ]
+\0
+
+[@ITEM 216 (L2) ]
+\0
+
+[@ITEM 216 (FR) ]
+\0
+
+[@ITEM 217 (L1) ]
+\0
+
+[@ITEM 217 (EN) ]
+\0
+
+[@ITEM 217 (L2) ]
+\0
+
+[@ITEM 217 (FR) ]
+\0
+
+[@ITEM 218 (L1) ]
+\0
+
+[@ITEM 218 (EN) ]
+\0
+
+[@ITEM 218 (L2) ]
+\0
+
+[@ITEM 218 (FR) ]
+\0
+
+[@ITEM 219 (L1) ]
+\0
+
+[@ITEM 219 (EN) ]
+\0
+
+[@ITEM 219 (L2) ]
+\0
+
+[@ITEM 219 (FR) ]
+\0
+
+[@ITEM 220 (L1) ]
+\0
+
+[@ITEM 220 (EN) ]
+\0
+
+[@ITEM 220 (L2) ]
+\0
+
+[@ITEM 220 (FR) ]
+\0
+
+[@ITEM 221 (L1) ]
+\0
+
+[@ITEM 221 (EN) ]
+\0
+
+[@ITEM 221 (L2) ]
+\0
+
+[@ITEM 221 (FR) ]
+\0
+
+[@ITEM 222 (L1) ]
+\0
+
+[@ITEM 222 (EN) ]
+\0
+
+[@ITEM 222 (L2) ]
+\0
+
+[@ITEM 222 (FR) ]
+\0
+
+[@ITEM 223 (L1) ]
+\0
+
+[@ITEM 223 (EN) ]
+\0
+
+[@ITEM 223 (L2) ]
+\0
+
+[@ITEM 223 (FR) ]
+\0
+
+[@ITEM 224 (L1) ]
+\0
+
+[@ITEM 224 (EN) ]
+\0
+
+[@ITEM 224 (L2) ]
+\0
+
+[@ITEM 224 (FR) ]
+\0
+
+[@ITEM 225 (L1) ]
+\0
+
+[@ITEM 225 (EN) ]
+\0
+
+[@ITEM 225 (L2) ]
+\0
+
+[@ITEM 225 (FR) ]
+\0
+
+[@ITEM 226 (L1) ]
+\0
+
+[@ITEM 226 (EN) ]
+\0
+
+[@ITEM 226 (L2) ]
+\0
+
+[@ITEM 226 (FR) ]
+\0
+
+[@ITEM 227 (L1) ]
+\0
+
+[@ITEM 227 (EN) ]
+\0
+
+[@ITEM 227 (L2) ]
+\0
+
+[@ITEM 227 (FR) ]
+\0
+
+[@ITEM 228 (L1) ]
+\0
+
+[@ITEM 228 (EN) ]
+\0
+
+[@ITEM 228 (L2) ]
+\0
+
+[@ITEM 228 (FR) ]
+\0
+
+[@ITEM 229 (L1) ]
+\0
+
+[@ITEM 229 (EN) ]
+\0
+
+[@ITEM 229 (L2) ]
+\0
+
+[@ITEM 229 (FR) ]
+\0
+
+[@ITEM 230 (L1) ]
+\0
+
+[@ITEM 230 (EN) ]
+\0
+
+[@ITEM 230 (L2) ]
+\0
+
+[@ITEM 230 (FR) ]
+\0
+
+[@ITEM 231 (L1) ]
+\0
+
+[@ITEM 231 (EN) ]
+\0
+
+[@ITEM 231 (L2) ]
+\0
+
+[@ITEM 231 (FR) ]
+\0
+
+[@ITEM 232 (L1) ]
+\0
+
+[@ITEM 232 (EN) ]
+\0
+
+[@ITEM 232 (L2) ]
+\0
+
+[@ITEM 232 (FR) ]
+\0
+
+[@ITEM 233 (L1) ]
+\0
+
+[@ITEM 233 (EN) ]
+\0
+
+[@ITEM 233 (L2) ]
+\0
+
+[@ITEM 233 (FR) ]
+\0
+
+[@ITEM 234 (L1) ]
+\0
+
+[@ITEM 234 (EN) ]
+\0
+
+[@ITEM 234 (L2) ]
+\0
+
+[@ITEM 234 (FR) ]
+\0
+
+[@ITEM 235 (L1) ]
+\0
+
+[@ITEM 235 (EN) ]
+\0
+
+[@ITEM 235 (L2) ]
+\0
+
+[@ITEM 235 (FR) ]
+\0
+
+[@ITEM 236 (L1) ]
+\0
+
+[@ITEM 236 (EN) ]
+\0
+
+[@ITEM 236 (L2) ]
+\0
+
+[@ITEM 236 (FR) ]
+\0
+
+[@ITEM 237 (L1) ]
+\0
+
+[@ITEM 237 (EN) ]
+\0
+
+[@ITEM 237 (L2) ]
+\0
+
+[@ITEM 237 (FR) ]
+\0
+
+[@ITEM 238 (L1) ]
+\0
+
+[@ITEM 238 (EN) ]
+\0
+
+[@ITEM 238 (L2) ]
+\0
+
+[@ITEM 238 (FR) ]
+\0
+
+[@ITEM 239 (L1) ]
+\0
+
+[@ITEM 239 (EN) ]
+\0
+
+[@ITEM 239 (L2) ]
+\0
+
+[@ITEM 239 (FR) ]
+\0
+
+[@ITEM 240 (L1) ]
+\0
+
+[@ITEM 240 (EN) ]
+\0
+
+[@ITEM 240 (L2) ]
+\0
+
+[@ITEM 240 (FR) ]
+\0
+
+[@ITEM 241 (L1) ]
+\0
+
+[@ITEM 241 (EN) ]
+\0
+
+[@ITEM 241 (L2) ]
+\0
+
+[@ITEM 241 (FR) ]
+\0
+
+[@ITEM 242 (L1) ]
+\0
+
+[@ITEM 242 (EN) ]
+\0
+
+[@ITEM 242 (L2) ]
+\0
+
+[@ITEM 242 (FR) ]
+\0
+
+[@ITEM 243 (L1) ]
+\0
+
+[@ITEM 243 (EN) ]
+\0
+
+[@ITEM 243 (L2) ]
+\0
+
+[@ITEM 243 (FR) ]
+\0
+
+[@ITEM 244 (L1) ]
+\0
+
+[@ITEM 244 (EN) ]
+\0
+
+[@ITEM 244 (L2) ]
+\0
+
+[@ITEM 244 (FR) ]
+\0
+
+[@ITEM 245 (L1) ]
+\0
+
+[@ITEM 245 (EN) ]
+\0
+
+[@ITEM 245 (L2) ]
+\0
+
+[@ITEM 245 (FR) ]
+\0
+
+[@ITEM 246 (L1) ]
+\0
+
+[@ITEM 246 (EN) ]
+\0
+
+[@ITEM 246 (L2) ]
+\0
+
+[@ITEM 246 (FR) ]
+\0
+
+[@ITEM 247 (L1) ]
+\0
+
+[@ITEM 247 (EN) ]
+\0
+
+[@ITEM 247 (L2) ]
+\0
+
+[@ITEM 247 (FR) ]
+\0
+
+[@ITEM 248 (L1) ]
+\0
+
+[@ITEM 248 (EN) ]
+\0
+
+[@ITEM 248 (L2) ]
+\0
+
+[@ITEM 248 (FR) ]
+\0
+
+[@ITEM 249 (L1) ]
+\0
+
+[@ITEM 249 (EN) ]
+\0
+
+[@ITEM 249 (L2) ]
+\0
+
+[@ITEM 249 (FR) ]
+\0
+
+[@ITEM 250 (L1) ]
+\0
+
+[@ITEM 250 (EN) ]
+\0
+
+[@ITEM 250 (L2) ]
+\0
+
+[@ITEM 250 (FR) ]
+\0
+
+[@ITEM 251 (L1) ]
+\0
+
+[@ITEM 251 (EN) ]
+\0
+
+[@ITEM 251 (L2) ]
+\0
+
+[@ITEM 251 (FR) ]
+\0
+
+[@ITEM 252 (L1) ]
+\0
+
+[@ITEM 252 (EN) ]
+\0
+
+[@ITEM 252 (L2) ]
+\0
+
+[@ITEM 252 (FR) ]
+\0
+
+[@ITEM 253 (L1) ]
+\0
+
+[@ITEM 253 (EN) ]
+\0
+
+[@ITEM 253 (L2) ]
+\0
+
+[@ITEM 253 (FR) ]
+\0
+
+[@ITEM 254 (L1) ]
+\0
+
+[@ITEM 254 (EN) ]
+\0
+
+[@ITEM 254 (L2) ]
+\0
+
+[@ITEM 254 (FR) ]
+\0
+
+[@ITEM 255 (L1) ]
+\0
+
+[@ITEM 255 (EN) ]
+\0
+
+[@ITEM 255 (L2) ]
+\0
+
+[@ITEM 255 (FR) ]
+\0
+

@@ -1,0 +1,1931 @@
+[@comu0.msg]
+
+[@ITEM 0 (L1) ]
+\0
+
+[@ITEM 0 (EN) ]
+Man: Welcome to the Arena of the Ages!{PRESS_CLEAR}
+This coliseum hosts battles between monsters
+from all across time. I'm the stable master.\0
+
+[@ITEM 0 (L2) ]
+\0
+
+[@ITEM 0 (FR) ]
+??? : Bienvenue à l'arène, l'endroit où se rassemblent
+des gens de différentes époques pour faire combattre
+des monstres. Je suis un instructeur.\0
+
+[@ITEM 1 (L1) ]
+\0
+
+[@ITEM 1 (EN) ]
+Stable Master: You want a rundown of the place?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 1 (L2) ]
+\0
+
+[@ITEM 1 (FR) ]
+Instructeur : Voulez-vous en savoir plus ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 2 (L1) ]
+\0
+
+[@ITEM 2 (EN) ]
+Stable Master: These are the monster stables.
+We raise 'em up strong here. Even monsters need
+training if they want to be tough!{PRESS_CLEAR}
+What do we train 'em for, you ask?
+Why, for fighting, of course!
+Then we set 'em against each other in the Pit.\0
+
+[@ITEM 2 (L2) ]
+\0
+
+[@ITEM 2 (FR) ]
+Instructeur : Dans l'arène, vous pouvez entraîner des
+monstres et les rendre puissants !{PRESS_CLEAR}
+Dans quel but ? Mais pour les faire combattre d'autres
+monstres, pardi !\0
+
+[@ITEM 3 (L1) ]
+\0
+
+[@ITEM 3 (EN) ]
+That blue-faced fellow with the winsome smile?
+He's a merchant.\0
+
+[@ITEM 3 (L2) ]
+\0
+
+[@ITEM 3 (FR) ]
+La charmante créature bleue tient quant à elle la
+boutique de l'arène.\0
+
+[@ITEM 4 (L1) ]
+\0
+
+[@ITEM 4 (EN) ]
+There are a lot of specialized items that we use for
+training and battling beasts, and he deals in the tools
+of the trade. You'll want to talk to him later on.{PRESS_CLEAR}
+Well, that's the meat and bones of it.
+You'll catch on quick, don't you worry.{PRESS_CLEAR}
+Oh, one more thing, though{56}this is important.\0
+
+[@ITEM 4 (L2) ]
+\0
+
+[@ITEM 4 (FR) ]
+Il vous faudra des objets spéciaux pour entraîner ou
+faire combattre un monstre. Vous devriez aller jeter un
+coup d'œil à ses marchandises plus tard.{PRESS_CLEAR}
+Alors, vous avez compris ? Bah, vous vous y habituerez
+bien assez vite.{PRESS_CLEAR}
+Ah oui ! Il y a quelque chose que vous ne devez pas
+oublier.\0
+
+[@ITEM 5 (L1) ]
+\0
+
+[@ITEM 5 (EN) ]
+Stable Master: One of them learn-by-doing types, eh?
+Well, you've got me here if you need anything.
+You should be all right.{PRESS_CLEAR}
+Oh, but there is one more thing I should tell you.\0
+
+[@ITEM 5 (L2) ]
+\0
+
+[@ITEM 5 (FR) ]
+Instructeur : Vous préférez apprendre sur le tas,
+c'est ça ? Bah, je suis là pour vous aider.
+Vous devriez pouvoir vous débrouiller.{PRESS_CLEAR}
+Toutefois, il y a quelque chose que vous ne devez pas
+oublier.\0
+
+[@ITEM 6 (L1) ]
+\0
+
+[@ITEM 6 (EN) ]
+Stable Master: Got the itch to raise yourself a
+monster, eh?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 6 (L2) ]
+\0
+
+[@ITEM 6 (FR) ]
+Instructeur : Vous voulez essayer d'élever un monstre,
+n'est-ce pas ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 7 (L1) ]
+\0
+
+[@ITEM 7 (EN) ]
+Stable Master: Like that one, do you?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 7 (L2) ]
+\0
+
+[@ITEM 7 (FR) ]
+Instructeur : Ce monstre vous plaît ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 8 (L1) ]
+\0
+
+[@ITEM 8 (EN) ]
+Stable Master: Take good care of it, then, and raise
+it up tough!\0
+
+[@ITEM 8 (L2) ]
+\0
+
+[@ITEM 8 (FR) ]
+Instructeur : Faites-en un champion !\0
+
+[@ITEM 9 (L1) ]
+\0
+
+[@ITEM 9 (EN) ]
+Stable Master: What do you need?\0
+
+[@ITEM 9 (L2) ]
+\0
+
+[@ITEM 9 (FR) ]
+Instructeur : Que voulez-vous faire ?\0
+
+[@ITEM 10 (L1) ]
+\0
+
+[@ITEM 10 (EN) ]
+{Marle}: Good luck!\0
+
+[@ITEM 10 (L2) ]
+\0
+
+[@ITEM 10 (FR) ]
+{Marle} : Bon courage ! ♥\0
+
+[@ITEM 11 (L1) ]
+\0
+
+[@ITEM 11 (EN) ]
+{Lucca}: Don't hurt yourself!\0
+
+[@ITEM 11 (L2) ]
+\0
+
+[@ITEM 11 (FR) ]
+{Lucca} : N'en fais pas trop !\0
+
+[@ITEM 12 (L1) ]
+\0
+
+[@ITEM 12 (EN) ]
+{Robo}: Please make good developmental progress.\0
+
+[@ITEM 12 (L2) ]
+\0
+
+[@ITEM 12 (FR) ]
+{Robo} : Tu atteindras peut-être bientôt ton
+objectif de croissance !\0
+
+[@ITEM 13 (L1) ]
+\0
+
+[@ITEM 13 (EN) ]
+{Frog}: Return strong!\0
+
+[@ITEM 13 (L2) ]
+\0
+
+[@ITEM 13 (FR) ]
+{Frog} : Reviens quand tu seras plus fort !\0
+
+[@ITEM 14 (L1) ]
+\0
+
+[@ITEM 14 (EN) ]
+{Ayla}: Not strong, lose.
+So, get strong!\0
+
+[@ITEM 14 (L2) ]
+\0
+
+[@ITEM 14 (FR) ]
+{Ayla} : Sans entraînement, devenir pâture.
+Loi du plus fort !\0
+
+[@ITEM 15 (L1) ]
+\0
+
+[@ITEM 15 (EN) ]
+{Magus}: The weak die like worms.\0
+
+[@ITEM 15 (L2) ]
+\0
+
+[@ITEM 15 (FR) ]
+{Magus} : N'oublie pas, les faibles se font écraser du
+pied comme de misérables vers.\0
+
+[@ITEM 16 (L1) ]
+\0
+
+[@ITEM 16 (EN) ]
+Stable Master: Your monster's safely on its way.
+I take it you'll be off again as well?{PRESS_CLEAR}
+Your little darling should return before too long.
+Give it some time and then check back.\0
+
+[@ITEM 16 (L2) ]
+\0
+
+[@ITEM 16 (FR) ]
+Instructeur : Votre monstre a l'air d'être parti sans
+problème. Allez-vous retourner à votre aventure ?{PRESS_CLEAR}
+Revenez un peu plus tard, il sera sans doute rentré.\0
+
+[@ITEM 17 (L1) ]
+\0
+
+[@ITEM 17 (EN) ]
+Stable Master: Oh, excellent timing! Your monster
+should be back from training any moment now.\0
+
+[@ITEM 17 (L2) ]
+\0
+
+[@ITEM 17 (FR) ]
+Instructeur : Vous tombez pile. Votre monstre devrait
+bientôt être de retour...\0
+
+[@ITEM 18 (L1) ]
+\0
+
+[@ITEM 18 (EN) ]
+Stable Master: Oh, looks like it's got something.
+Must have found it while it was off training.\0
+
+[@ITEM 18 (L2) ]
+\0
+
+[@ITEM 18 (FR) ]
+Instructeur : Oh, il a rapporté quelque chose. On dirait
+qu'il l'a trouvé pendant son entraînement.\0
+
+[@ITEM 19 (L1) ]
+\0
+
+[@ITEM 19 (EN) ]
+{MSGWND}
+Obtained {ITEM}!\0
+
+[@ITEM 19 (L2) ]
+\0
+
+[@ITEM 19 (FR) ]
+{MSGWND}
+Obtenu : {ITEM} !\0
+
+[@ITEM 20 (L1) ]
+\0
+
+[@ITEM 20 (EN) ]
+Pit Boss: This must be your first time, no?
+This is the Pit, where monsters put their training
+to the test.{PRESS_CLEAR}
+Want to see how strong the one you've raised is?{PRESS_CLEAR}
+You can let it fight another one of our monsters
+in a prize match, or set it against an opponent's
+monster in an interdimensional battle via DS Wireless
+Communications.\0
+
+[@ITEM 20 (L2) ]
+\0
+
+[@ITEM 20 (FR) ]
+Employé de l'arène : C'est votre première visite ?
+Bienvenue à l'arène, l'endroit où les monstres
+s'affrontent en duel !{PRESS_CLEAR}
+Vous pouvez y mesurer la force de votre monstre !{PRESS_CLEAR}
+Il existe deux types de batailles. Vous pouvez lui faire
+combattre les monstres enregistrés à l'arène dans un
+tournoi.{PRESS_CLEAR}
+Vous pouvez aussi combattre les monstres d'autres
+joueurs grâce à la communication sans fil !\0
+
+[@ITEM 21 (L1) ]
+\0
+
+[@ITEM 21 (EN) ]
+Pit Boss: What do you say?
+Want to enter a monster battle?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 21 (L2) ]
+\0
+
+[@ITEM 21 (FR) ]
+Employé de l'arène : Voulez-vous prendre part à une
+bataille ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 22 (L1) ]
+\0
+
+[@ITEM 22 (EN) ]
+Pit Boss: Sorry, the Pit's only for monster battles.
+If you don't have a monsters, well...not much I can do
+for you, I'm afraid. Come back again when you've got
+one.\0
+
+[@ITEM 22 (L2) ]
+\0
+
+[@ITEM 22 (FR) ]
+Employé de l'arène : Je suis désolé. Pour prendre part à
+une bataille dans l'arène, vous devez d'abord avoir un
+monstre. Au plaisir de vous revoir bientôt !\0
+
+[@ITEM 23 (L1) ]
+\0
+
+[@ITEM 23 (EN) ]
+Pit Boss: Excellent! Just select a tier and I'll sign
+you up.{PRESS_CLEAR}
+Higher tiered battles have higher entrance fees and
+offer better prizes, but the entrants are usually
+stronger. Which tier would you like to compete in?\0
+
+[@ITEM 23 (L2) ]
+\0
+
+[@ITEM 23 (FR) ]
+Employé de l'arène : Choisissez avec soin le niveau de la
+bataille à laquelle vous voulez prendre part. Des frais
+de participation s'appliquent.{PRESS_CLEAR}
+Plus le niveau est élevé, plus les récompenses en valent
+la peine, mais votre adversaire sera évidemment plus
+féroce !\0
+
+[@ITEM 24 (L1) ]
+\0
+
+[@ITEM 24 (EN) ]
+Pit Boss: Sorry, looks like you're short on funds.
+I'll go ahead and cancel your registration.
+Please come again soon.\0
+
+[@ITEM 24 (L2) ]
+\0
+
+[@ITEM 24 (FR) ]
+Employé de l'arène : Vous n'avez pas assez d'argent.
+Votre participation à la bataille a été annulée.
+Au plaisir de vous revoir bientôt !\0
+
+[@ITEM 25 (L1) ]
+\0
+
+[@ITEM 25 (EN) ]
+Pit Boss: Thank you very much.
+I'll just take your entrance fee, then.
+Best of luck to you!\0
+
+[@ITEM 25 (L2) ]
+\0
+
+[@ITEM 25 (FR) ]
+Employé de l'arène : Bonne chance !\0
+
+[@ITEM 26 (L1) ]
+\0
+
+[@ITEM 26 (EN) ]
+Pit Boss: What kind of battle would you like to enter?
+\t\t{SEL1}Prize match.{/SEL1}
+\t\t{SEL2}Interdimensional battle.{SEL5} {/SEL5}(Wireless battle){/SEL2}
+\t\t{SEL3}Cancel.{/SEL3}\0
+
+[@ITEM 26 (L2) ]
+\0
+
+[@ITEM 26 (FR) ]
+Employé de l'arène : Choisissez un type de bataille.
+       {SEL1}Tournoi de l'arène{/SEL1}
+       {SEL2}Communication sans fil{/SEL2}
+       {SEL3}Annuler{/SEL3}\0
+
+[@ITEM 27 (L1) ]
+\0
+
+[@ITEM 27 (EN) ]
+Buy......?\0
+
+[@ITEM 27 (L2) ]
+\0
+
+[@ITEM 27 (FR) ]
+Vous voulez acheter quelque chose ?\0
+
+[@ITEM 28 (L1) ]
+\0
+
+[@ITEM 28 (EN) ]
+Come again.\0
+
+[@ITEM 28 (L2) ]
+\0
+
+[@ITEM 28 (FR) ]
+À bientôt.\0
+
+[@ITEM 29 (L1) ]
+\0
+
+[@ITEM 29 (EN) ]
+Stable Master: Hey!
+You remember to save your progress?\0
+
+[@ITEM 29 (L2) ]
+\0
+
+[@ITEM 29 (FR) ]
+Instructeur : Un instant. Avez-vous sauvegardé votre
+aventure ?\0
+
+[@ITEM 30 (L1) ]
+\0
+
+[@ITEM 30 (EN) ]
+Stable Master: Oh... But if you came from
+somewhere other than the Farthest Reaches
+of Time, we can't have you keeping records
+of this place, now can we?{PRESS_CLEAR}
+Tell you what. If you came here from somewhere else,
+I'll add a note of what happened here to the last
+record you made, whenever and wherever that was.{PRESS_CLEAR}
+That would be more convenient for you anyway,
+wouldn't it?\0
+
+[@ITEM 30 (L2) ]
+\0
+
+[@ITEM 30 (FR) ]
+Instructeur : Cependant, si vous venez d'ailleurs, je ne
+peux pas vous dire l'emplacement de l'arène...{PRESS_CLEAR}
+Vous oublierez tout ce qui s'est passé ici à l'instant
+même où vous sortirez.{PRESS_CLEAR}
+Vous ne voulez pas que ça se produise ? Eh bien,
+sauvegardez votre aventure avant de partir.
+Je vais enregistrer vos souvenirs dans votre
+sauvegarde la plus récente.{PRESS_CLEAR}
+C'est très avantageux pour vous, n'est-ce pas ?\0
+
+[@ITEM 31 (L1) ]
+\0
+
+[@ITEM 31 (EN) ]
+Return to the Farthest Reaches of Time?
+		{SEL1}Yes.{/SEL1}
+		{SEL2}No.{/SEL2}\0
+
+[@ITEM 31 (L2) ]
+\0
+
+[@ITEM 31 (FR) ]
+Voulez-vous retourner à la Fin des temps ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 32 (L1) ]
+\0
+
+[@ITEM 32 (EN) ]
+Return to the title screen?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 32 (L2) ]
+\0
+
+[@ITEM 32 (FR) ]
+Voulez-vous retourner à l'écran-titre ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 33 (L1) ]
+\0
+
+[@ITEM 33 (EN) ]
+\t\t{SEL1}Tier 1:{7E} 100 G{/SEL1}
+\t\t{SEL2}Tier 2:{7A} 500 G{/SEL2}
+\t\t{SEL3}Tier 3:{70} 1000 G{/SEL3}
+\t\t{SEL4}Cancel.{/SEL4}\0
+
+[@ITEM 33 (L2) ]
+\0
+
+[@ITEM 33 (FR) ]
+       {SEL1}Niveau 1 : 100 G{/SEL1}
+       {SEL2}Niveau 2 : 500 G{/SEL2}
+       {SEL3}Niveau 3 : 1000 G{/SEL3}
+       {SEL4}Annuler{/SEL4}\0
+
+[@ITEM 34 (L1) ]
+\0
+
+[@ITEM 34 (EN) ]
+\t\t{SEL1}Tier 2:{7A} 500 G{/SEL1}
+\t\t{SEL2}Tier 3:{70} 1000 G{/SEL2}
+\t\t{SEL3}Tier 4: 3000 G{/SEL3}
+\t\t{SEL4}Cancel.{/SEL4}\0
+
+[@ITEM 34 (L2) ]
+\0
+
+[@ITEM 34 (FR) ]
+       {SEL1}Niveau 2 : 500 G{/SEL1}
+       {SEL2}Niveau 3 : 1000 G{/SEL2}
+       {SEL3}Niveau 4 : 3000 G{/SEL3}
+       {SEL4}Annuler{/SEL4}\0
+
+[@ITEM 35 (L1) ]
+\0
+
+[@ITEM 35 (EN) ]
+\t\t{SEL1}Tier 3:{7F} 1000 G{/SEL1}
+\t\t{SEL2}Tier 4:{76} 3000 G{/SEL2}
+\t\t{SEL3}Tier 5:{76} 5000 G{/SEL3}
+\t\t{SEL4}Cancel.{/SEL4}\0
+
+[@ITEM 35 (L2) ]
+\0
+
+[@ITEM 35 (FR) ]
+       {SEL1}Niveau 3 : 1000 G{/SEL1}
+       {SEL2}Niveau 4 : 3000 G{/SEL2}
+       {SEL3}Niveau 5 : 5000 G{/SEL3}
+       {SEL4}Annuler{/SEL4}\0
+
+[@ITEM 36 (L1) ]
+\0
+
+[@ITEM 36 (EN) ]
+\t\t{SEL1}Tier 4:{76} 3000 G{/SEL1}
+\t\t{SEL2}Tier 5:{76} 5000 G{/SEL2}
+\t\t{SEL3}Tier 6: 10,000 G{/SEL3}
+\t\t{SEL4}Cancel.{/SEL4}\0
+
+[@ITEM 36 (L2) ]
+\0
+
+[@ITEM 36 (FR) ]
+       {SEL1}Niveau 4 : 3000 G{/SEL1}
+       {SEL2}Niveau 5 : 5000 G{/SEL2}
+       {SEL3}Niveau 6 : 10 000 G{/SEL3}
+       {SEL4}Annuler{/SEL4}\0
+
+[@ITEM 37 (L1) ]
+\0
+
+[@ITEM 37 (EN) ]
+Stable Master: One more thing...
+Here's a little gift for you.\0
+
+[@ITEM 37 (L2) ]
+\0
+
+[@ITEM 37 (FR) ]
+Instructeur : Et voici un petit cadeau pour partir du bon
+pied !\0
+
+[@ITEM 38 (L1) ]
+\0
+
+[@ITEM 38 (EN) ]
+{MSGWND}
+Monster trainer's starter kit!{PRESS_CLEAR}{MSGWND}
+Obtained Slops, Flameclaw, Seafang,
+Duskeye, Luxwing, Hawk Talon,
+Protect Cloak, and Feral Wrath!\0
+
+[@ITEM 38 (L2) ]
+\0
+
+[@ITEM 38 (FR) ]
+{MSGWND}
+Vous obtenez un assortiment d'objets de l'arène !{PRESS_CLEAR}{MSGWND}
+Il contient un sachet de pâture, une griffe ardente,
+un croc aqueux, un œil ténébreux, une aile lumineuse,
+des serres d'aigle, une cape protectrice
+et une fiole de force sauvage.\0
+
+[@ITEM 39 (L1) ]
+\0
+
+[@ITEM 39 (EN) ]
+Stable Master: The items in that starter kit are things
+you'll need while you're raising that monster.{PRESS_CLEAR}
+For instance, you'll need to give your monster an item
+to carry with it when you send it off for training.
+The one you give it will determine the outcome of its
+efforts.{PRESS_CLEAR}
+You can also pass items to your monster during duels
+in the Pit. You know{56}help the critter out.{PRESS_CLEAR}
+If you run out, you can buy more from the merchant
+over there. Best to stock up in advance, though!{PRESS_CLEAR}
+Oh, and I suppose I should explain a bit about training,
+too.{PRESS_CLEAR}
+If you decide to send your monster out for training,
+you'll have to choose an era. Sending it to different
+eras will cause it to grow in different ways.{PRESS_CLEAR}
+Of course, you can only send it to time periods that
+you've already visited. So if you want your monster
+to progress in its training, you'd best progress
+with your quest!\0
+
+[@ITEM 39 (L2) ]
+\0
+
+[@ITEM 39 (FR) ]
+Instructeur : Ces objets sont essentiels pour l'élevage
+de monstres.{PRESS_CLEAR}
+Par exemple, donnez-en un à votre monstre quand il
+part s'entraîner. Les résultats de son entraînement
+varieront selon celui que vous avez choisi.{PRESS_CLEAR}
+En outre, vous pouvez aussi en donner à votre monstre
+pendant une bataille pour l'aider.{PRESS_CLEAR}
+Si vous voulez vous procurer plus d'objets, achetez-en
+à la boutique du gnu.{PRESS_CLEAR}
+Ah, laissez-moi maintenant vous parler un peu plus de
+l'entraînement de votre monstre.{PRESS_CLEAR}
+Vous devrez également choisir l'époque où il ira
+s'entraîner. Ce choix influe aussi sur l'évolution
+de ses caractéristiques.{PRESS_CLEAR}
+Cependant, vous ne pouvez choisir que parmi les
+époques que vous avez vous-même visitées, ce qui
+veut dire que de nouvelles options d'entraînement
+vous seront offertes au cours de votre aventure.\0
+
+[@ITEM 40 (L1) ]
+\0
+
+[@ITEM 40 (EN) ]
+Stable Master: That orange one's got fire affinity.
+Blue, water affinity. Yellow, light.
+And purple, shadow.{PRESS_CLEAR}
+They're just smidges, now{56}itsy-bitsy monsters.
+But go on, take your pick!\0
+
+[@ITEM 40 (L2) ]
+\0
+
+[@ITEM 40 (FR) ]
+Instructeur : Elles ont chacune une affinité élémentaire
+différente suivant leur couleur. Rouge pour le feu,
+bleu pour l'eau, jaune pour la lumière et violet pour
+les ténèbres.{PRESS_CLEAR}
+Ce ne sont encore que des larves, mais elles ont du
+potentiel. Allez, faites votre choix.\0
+
+[@ITEM 41 (L1) ]
+\0
+
+[@ITEM 41 (EN) ]
+Time flows a little differently here.
+Might call it a different dimension altogether.{PRESS_CLEAR}
+If you came from the Farthest Reaches of Time,
+that old man can probably keep things straight
+for you. But if you came from anywhere else,
+everything that happened here will be washed away
+the second you leave.{PRESS_CLEAR}
+If you don't want that to happen, you'd best save
+your progress over there before you go.\0
+
+[@ITEM 41 (L2) ]
+\0
+
+[@ITEM 41 (FR) ]
+L'arène est dans une dimension différente de la vôtre
+et le flot du temps n'est pas exactement le même.{PRESS_CLEAR}
+Si vous avez atteint cet endroit en passant par la Fin
+des temps, vous pourrez y retourner sans problème
+grâce aux talents du vieil homme qui y réside.{PRESS_CLEAR}
+Vous pouvez aussi sauvegarder votre partie ici.\0
+
+[@ITEM 42 (L1) ]
+\0
+
+[@ITEM 42 (EN) ]
+Pit Boss: What tier would you like to compete in?
+The entrance fees are steeper for the higher tiers.\0
+
+[@ITEM 42 (L2) ]
+\0
+
+[@ITEM 42 (FR) ]
+Employé de l'arène : Choisissez avec soin le niveau de la
+bataille à laquelle vous voulez prendre part. Des frais
+de participation s'appliquent.\0
+
+[@ITEM 43 (L1) ]
+\0
+
+[@ITEM 43 (EN) ]
+Pit Boss: You want to enter a Tier 1 battle?
+\t\t{SEL1}Enter.{/SEL1}
+\t\t{SEL2}Cancel.{/SEL2}\0
+
+[@ITEM 43 (L2) ]
+\0
+
+[@ITEM 43 (FR) ]
+Employé de l'arène : Une bataille de niveau 1 ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 44 (L1) ]
+\0
+
+[@ITEM 44 (EN) ]
+Pit Boss: You want to enter a Tier 2 battle?
+\t\t{SEL1}Enter.{/SEL1}
+\t\t{SEL2}Cancel.{/SEL2}\0
+
+[@ITEM 44 (L2) ]
+\0
+
+[@ITEM 44 (FR) ]
+Employé de l'arène : Une bataille de niveau 2 ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 45 (L1) ]
+\0
+
+[@ITEM 45 (EN) ]
+Pit Boss: You want to enter a Tier 3 battle?
+\t\t{SEL1}Enter.{/SEL1}
+\t\t{SEL2}Cancel.{/SEL2}\0
+
+[@ITEM 45 (L2) ]
+\0
+
+[@ITEM 45 (FR) ]
+Employé de l'arène : Une bataille de niveau 3 ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 46 (L1) ]
+\0
+
+[@ITEM 46 (EN) ]
+Pit Boss: You want to enter a Tier 4 battle?
+\t\t{SEL1}Enter.{/SEL1}
+\t\t{SEL2}Cancel.{/SEL2}\0
+
+[@ITEM 46 (L2) ]
+\0
+
+[@ITEM 46 (FR) ]
+Employé de l'arène : Une bataille de niveau 4 ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 47 (L1) ]
+\0
+
+[@ITEM 47 (EN) ]
+Pit Boss: You want to enter a Tier 5 battle?
+\t\t{SEL1}Enter.{/SEL1}
+\t\t{SEL2}Cancel.{/SEL2}\0
+
+[@ITEM 47 (L2) ]
+\0
+
+[@ITEM 47 (FR) ]
+Employé de l'arène : Une bataille de niveau 5 ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 48 (L1) ]
+\0
+
+[@ITEM 48 (EN) ]
+Pit Boss: You want to enter a Tier 6 battle?
+\t\t{SEL1}Enter.{/SEL1}
+\t\t{SEL2}Cancel.{/SEL2}\0
+
+[@ITEM 48 (L2) ]
+\0
+
+[@ITEM 48 (FR) ]
+Employé de l'arène : Une bataille de niveau 6 ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 49 (L1) ]
+\0
+
+[@ITEM 49 (EN) ]
+Pit Boss: Changed your mind?
+Well, please come back when you're ready!\0
+
+[@ITEM 49 (L2) ]
+\0
+
+[@ITEM 49 (FR) ]
+Employé de l'arène : Vous avez changé d'avis ?
+Au plaisir de vous revoir bientôt !\0
+
+[@ITEM 50 (L1) ]
+\0
+
+[@ITEM 50 (EN) ]
+Stable Master: Oh, hello there!
+We're doing some maintenance here, unfortunately.
+The facilities are closed at the moment.{PRESS_CLEAR}
+Things should be back to normal before too long,
+but why don't you take care of any other business
+you have in the meantime?\0
+
+[@ITEM 50 (L2) ]
+\0
+
+[@ITEM 50 (FR) ]
+Instructeur : Bienvenue à l'arène... Euh...{PRESS_CLEAR}
+Voilà qui est un peu embarrassant... À vrai dire, l'arène
+est actuellement fermée. Nous rouvrirons bientôt, mais
+pour l'instant, retournez à votre aventure.\0
+
+[@ITEM 51 (L1) ]
+\0
+
+[@ITEM 51 (EN) ]
+Man: Oh, is this your first visit?
+Welcome to the Arena of the Ages!{PRESS_CLEAR}
+This coliseum hosts battles between monsters
+from all across time. Unfortunately, we're doing
+some maintenance now. The facilities are closed.{PRESS_CLEAR}
+Things should be back to normal before too long,
+so why don't you take care of any other business
+you have in the meantime and check back later?\0
+
+[@ITEM 51 (L2) ]
+\0
+
+[@ITEM 51 (FR) ]
+??? : Tiens, de la visite ! Bienvenue à l'arène, l'endroit où
+se rassemblent des gens de différentes époques pour
+faire combattre des monstres.{PRESS_CLEAR}
+Malheureusement, l'arène est actuellement fermée.
+Nous rouvrirons bientôt, mais pour l'instant, retournez
+à votre aventure.\0
+
+[@ITEM 52 (L1) ]
+\0
+
+[@ITEM 52 (EN) ]
+Have you earned your monster's trust?{PRESS_CLEAR}
+If your monster doesn't trust you very much, it
+probably won't use the items you give it in battle.{PRESS_CLEAR}
+You'll gain more trust the more your monster fights.
+Let it do some training and fight a few battles and
+you'll start to develop a better bond.\0
+
+[@ITEM 52 (L2) ]
+\0
+
+[@ITEM 52 (FR) ]
+Votre monstre vous fait-il confiance ?{PRESS_CLEAR}
+Si ce n'est pas le cas, il ne voudra pas utiliser les
+objets que vous lui donnez pendant la bataille.{PRESS_CLEAR}
+Vous gagnerez sa confiance au fil des combats, alors
+faites-le s'entraîner et combattre le plus possible !\0
+
+[@ITEM 53 (L1) ]
+\0
+
+[@ITEM 53 (EN) ]
+What do you think of my monster?
+Looks pretty tough, eh?
+Trusts me, too!\0
+
+[@ITEM 53 (L2) ]
+\0
+
+[@ITEM 53 (FR) ]
+Alors, qu'en dites-vous ? Mon monstre a l'air fort, non ?
+Et il me fait confiance, bien entendu !\0
+
+[@ITEM 54 (L1) ]
+\0
+
+[@ITEM 54 (EN) ]
+Do you know your monster's elemental affinity?
+You have to pay attention to that when it's dueling,
+you know.{PRESS_CLEAR}
+Monsters do more damage when they use techs that
+match their own affinities. But if they use a tech
+that matches their opponent's affinity, it won't be
+very effective.\0
+
+[@ITEM 54 (L2) ]
+\0
+
+[@ITEM 54 (FR) ]
+Quel est l'élément de votre monstre ?{PRESS_CLEAR}
+Vous devez faire attention aux affinités élémentaires
+lors d'une bataille.{PRESS_CLEAR}
+Votre monstre infligera plus de dégâts s'il utilise une
+compétence de son propre élément.{PRESS_CLEAR}
+Par contre, s'il utilise une compétence du même élément
+que celui de son adversaire, il infligera moins de dégâts.\0
+
+[@ITEM 55 (L1) ]
+\0
+
+[@ITEM 55 (EN) ]
+I heard that a monster's elemental affinity can
+change when you send it off for training.\0
+
+[@ITEM 55 (L2) ]
+\0
+
+[@ITEM 55 (FR) ]
+J'ai entendu dire que parfois, après son entraînement,
+un monstre peut changer d'affinité élémentaire !\0
+
+[@ITEM 56 (L1) ]
+\0
+
+[@ITEM 56 (EN) ]
+Has your monster learned any techs yet?
+Mine finally learned a fire tech.{PRESS_CLEAR}
+My dad told me the item your monster takes with it
+when you send it out to train affects what it learns.
+I gave mine a flameclaw.\0
+
+[@ITEM 56 (L2) ]
+\0
+
+[@ITEM 56 (FR) ]
+Est-ce que votre monstre a appris une compétence ?
+Le mien a enfin appris une compétence de feu !{PRESS_CLEAR}
+Je lui avais donné une griffe ardente ! Papa m'avait dit
+que l'objet qu'on donne à un monstre quand il part
+s'entraîner a une influence sur ce genre de choses...\0
+
+[@ITEM 57 (L1) ]
+\0
+
+[@ITEM 57 (EN) ]
+You should try giving your monster different items
+when it goes off for training.\0
+
+[@ITEM 57 (L2) ]
+\0
+
+[@ITEM 57 (FR) ]
+Donnez toutes sortes d'objets à votre monstre quand il
+part s'entraîner !\0
+
+[@ITEM 58 (L1) ]
+\0
+
+[@ITEM 58 (EN) ]
+{HERO1}: Where is this......?\0
+
+[@ITEM 58 (L2) ]
+\0
+
+[@ITEM 58 (FR) ]
+{HERO1} : Où sommes-nous...?\0
+
+[@ITEM 59 (L1) ]
+\0
+
+[@ITEM 59 (EN) ]
+{HERO2}: Where is this......?\0
+
+[@ITEM 59 (L2) ]
+\0
+
+[@ITEM 59 (FR) ]
+{HERO2} : Où sommes-nous...?\0
+
+[@ITEM 60 (L1) ]
+\0
+
+[@ITEM 60 (EN) ]
+{Ayla}: What this place?\0
+
+[@ITEM 60 (L2) ]
+\0
+
+[@ITEM 60 (FR) ]
+{Ayla} : Où nous être...?\0
+
+[@ITEM 61 (L1) ]
+\0
+
+[@ITEM 61 (EN) ]
+{Robo}: TH, THIS PLACE is......\0
+
+[@ITEM 61 (L2) ]
+\0
+
+[@ITEM 61 (FR) ]
+{Robo} : Quel est cet endroit...?\0
+
+[@ITEM 62 (L1) ]
+\0
+
+[@ITEM 62 (EN) ]
+Man: Oh, is this your first visit?\0
+
+[@ITEM 62 (L2) ]
+\0
+
+[@ITEM 62 (FR) ]
+??? : Tiens, de la visite !\0
+
+[@ITEM 63 (L1) ]
+\0
+
+[@ITEM 63 (EN) ]
+Stable Master: Come over here, will you?\0
+
+[@ITEM 63 (L2) ]
+\0
+
+[@ITEM 63 (FR) ]
+Instructeur : Approchez !\0
+
+[@ITEM 64 (L1) ]
+\0
+
+[@ITEM 64 (EN) ]
+You want to stage a fight, you talk to that guy
+over there in the armor.\0
+
+[@ITEM 64 (L2) ]
+\0
+
+[@ITEM 64 (FR) ]
+Si vous voulez vous préparer pour une bataille,
+adressez-vous à celui qui porte une armure.\0
+
+[@ITEM 65 (L1) ]
+\0
+
+[@ITEM 65 (EN) ]
+Come and see me if you ever decide you'd like to try
+your hand at raising a monster of your own.\0
+
+[@ITEM 65 (L2) ]
+\0
+
+[@ITEM 65 (FR) ]
+Si vous voulez élever un monstre, faites-moi signe !\0
+
+[@ITEM 66 (L1) ]
+\0
+
+[@ITEM 66 (EN) ]
+Stable Master: That's a flame smidge.
+Is that the one you want?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 66 (L2) ]
+\0
+
+[@ITEM 66 (FR) ]
+Instructeur : C'est une larve ignée. Est-ce que ce
+monstre vous plaît ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 67 (L1) ]
+\0
+
+[@ITEM 67 (EN) ]
+Stable Master: That's a water smidge.
+Is that the one you want?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 67 (L2) ]
+\0
+
+[@ITEM 67 (FR) ]
+Instructeur : C'est une larve aqueuse. Est-ce que ce
+monstre vous plaît ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 68 (L1) ]
+\0
+
+[@ITEM 68 (EN) ]
+Stable Master: That's a light smidge.
+Is that the one you want?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 68 (L2) ]
+\0
+
+[@ITEM 68 (FR) ]
+Instructeur : C'est une larve céleste. Est-ce que ce
+monstre vous plaît ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 69 (L1) ]
+\0
+
+[@ITEM 69 (EN) ]
+Stable Master: That's a shadow smidge.
+Is that the one you want?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 69 (L2) ]
+\0
+
+[@ITEM 69 (FR) ]
+Instructeur : C'est une larve chtonienne. Est-ce que ce
+monstre vous plaît ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 70 (L1) ]
+\0
+
+[@ITEM 70 (EN) ]
+Stable Master: All right.
+Let's take a look at how strong it is.\0
+
+[@ITEM 70 (L2) ]
+\0
+
+[@ITEM 70 (FR) ]
+Instructeur : Examinez-le pour mieux le connaître !\0
+
+[@ITEM 71 (L1) ]
+\0
+
+[@ITEM 71 (EN) ]
+Stable Master: If you ever want to take a closer look
+at your monster's abilities or send it off for some
+training, just come and talk to me.\0
+
+[@ITEM 71 (L2) ]
+\0
+
+[@ITEM 71 (FR) ]
+Instructeur : Pour examiner de nouveau votre monstre
+ou l'envoyer s'entraîner, adressez-vous à moi !\0
+
+[@ITEM 72 (L1) ]
+\0
+
+[@ITEM 72 (EN) ]
+Pit Boss: Isn't your monster off training right now?
+You'll have to wait for it to get back before you can
+register it for a battle.\0
+
+[@ITEM 72 (L2) ]
+\0
+
+[@ITEM 72 (FR) ]
+Employé de l'arène : Votre monstre est parti s'entraîner.
+Il pourra participer à une bataille quand il sera rentré.\0
+
+[@ITEM 73 (L1) ]
+\0
+
+[@ITEM 73 (EN) ]
+Pit Boss: Let me explain how combat works here.
+All fights in the Pit are one-on-one matches between
+monsters.{PRESS_CLEAR}
+Once the battle begins, each monster will attack its
+opponent automatically. You can't issue commands,
+but you can support your monster to help give it a
+fighting chance.{PRESS_CLEAR}
+Pass your monster the right items at the right time,
+and it can use them to unleash abilities it knows or
+heal its wounds.{PRESS_CLEAR}
+Your monster won't necessarily use an item you give it
+right away, though. And once you've given an item to a
+monster, it's gone for good{56}even if the monster
+never uses it.{PRESS_CLEAR}
+You can always pass your monster a new item, even if
+it's already holding one. But if you do, the old item will
+be lost for good. So always think carefully about which
+items to give it, and when.{PRESS_CLEAR}
+Best of luck to you!\0
+
+[@ITEM 73 (L2) ]
+\0
+
+[@ITEM 73 (FR) ]
+Employé de l'arène : Lors d'une bataille, les monstres
+s'affrontent en duel et attaquent automatiquement leur
+adversaire.{PRESS_CLEAR}
+Cependant, sans votre aide, votre monstre pourrait
+avoir du mal à gagner. Donnez-lui un objet pour lui
+permettre d'utiliser les compétences qu'il a apprises
+ou de récupérer des PV !{PRESS_CLEAR}
+En lui prêtant main-forte, vous pourriez lui donner
+l'avantage !{PRESS_CLEAR}
+Toutefois, votre monstre n'utilisera pas nécessairement
+l'objet que vous lui avez donné immédiatement.{PRESS_CLEAR}
+De plus, vous ne pouvez pas récupérer un objet après
+l'avoir offert à votre monstre, alors attention ! Si vous
+lui en donnez un autre avant qu'il n'utilise le précédent,
+ce dernier sera perdu.\0
+
+[@ITEM 74 (L1) ]
+\0
+
+[@ITEM 74 (EN) ]
+I wish I could show you my monster, but he's off
+training right now. Such a shame!\0
+
+[@ITEM 74 (L2) ]
+\0
+
+[@ITEM 74 (FR) ]
+Mon monstre est parti s'entraîner. C'est vraiment
+dommage, j'aurais voulu vous le montrer.\0
+
+[@ITEM 75 (L1) ]
+\0
+
+[@ITEM 75 (EN) ]
+All right, I'll give you one.
+You just pick the one you want.\0
+
+[@ITEM 75 (L2) ]
+\0
+
+[@ITEM 75 (FR) ]
+Bien. Je vais vous confier une de ces quatre créatures.\0
+
+[@ITEM 76 (L1) ]
+\0
+
+[@ITEM 76 (EN) ]
+\0
+
+[@ITEM 76 (L2) ]
+\0
+
+[@ITEM 76 (FR) ]
+\0
+
+[@ITEM 77 (L1) ]
+\0
+
+[@ITEM 77 (EN) ]
+\0
+
+[@ITEM 77 (L2) ]
+\0
+
+[@ITEM 77 (FR) ]
+\0
+
+[@ITEM 78 (L1) ]
+\0
+
+[@ITEM 78 (EN) ]
+\0
+
+[@ITEM 78 (L2) ]
+\0
+
+[@ITEM 78 (FR) ]
+\0
+
+[@ITEM 79 (L1) ]
+\0
+
+[@ITEM 79 (EN) ]
+\0
+
+[@ITEM 79 (L2) ]
+\0
+
+[@ITEM 79 (FR) ]
+\0
+
+[@ITEM 80 (L1) ]
+\0
+
+[@ITEM 80 (EN) ]
+\0
+
+[@ITEM 80 (L2) ]
+\0
+
+[@ITEM 80 (FR) ]
+\0
+
+[@ITEM 81 (L1) ]
+\0
+
+[@ITEM 81 (EN) ]
+\0
+
+[@ITEM 81 (L2) ]
+\0
+
+[@ITEM 81 (FR) ]
+\0
+
+[@ITEM 82 (L1) ]
+\0
+
+[@ITEM 82 (EN) ]
+\0
+
+[@ITEM 82 (L2) ]
+\0
+
+[@ITEM 82 (FR) ]
+\0
+
+[@ITEM 83 (L1) ]
+\0
+
+[@ITEM 83 (EN) ]
+\0
+
+[@ITEM 83 (L2) ]
+\0
+
+[@ITEM 83 (FR) ]
+\0
+
+[@ITEM 84 (L1) ]
+\0
+
+[@ITEM 84 (EN) ]
+\0
+
+[@ITEM 84 (L2) ]
+\0
+
+[@ITEM 84 (FR) ]
+\0
+
+[@ITEM 85 (L1) ]
+\0
+
+[@ITEM 85 (EN) ]
+\0
+
+[@ITEM 85 (L2) ]
+\0
+
+[@ITEM 85 (FR) ]
+\0
+
+[@ITEM 86 (L1) ]
+\0
+
+[@ITEM 86 (EN) ]
+\0
+
+[@ITEM 86 (L2) ]
+\0
+
+[@ITEM 86 (FR) ]
+\0
+
+[@ITEM 87 (L1) ]
+\0
+
+[@ITEM 87 (EN) ]
+\0
+
+[@ITEM 87 (L2) ]
+\0
+
+[@ITEM 87 (FR) ]
+\0
+
+[@ITEM 88 (L1) ]
+\0
+
+[@ITEM 88 (EN) ]
+\0
+
+[@ITEM 88 (L2) ]
+\0
+
+[@ITEM 88 (FR) ]
+\0
+
+[@ITEM 89 (L1) ]
+\0
+
+[@ITEM 89 (EN) ]
+\0
+
+[@ITEM 89 (L2) ]
+\0
+
+[@ITEM 89 (FR) ]
+\0
+
+[@ITEM 90 (L1) ]
+\0
+
+[@ITEM 90 (EN) ]
+\0
+
+[@ITEM 90 (L2) ]
+\0
+
+[@ITEM 90 (FR) ]
+\0
+
+[@ITEM 91 (L1) ]
+\0
+
+[@ITEM 91 (EN) ]
+\0
+
+[@ITEM 91 (L2) ]
+\0
+
+[@ITEM 91 (FR) ]
+\0
+
+[@ITEM 92 (L1) ]
+\0
+
+[@ITEM 92 (EN) ]
+\0
+
+[@ITEM 92 (L2) ]
+\0
+
+[@ITEM 92 (FR) ]
+\0
+
+[@ITEM 93 (L1) ]
+\0
+
+[@ITEM 93 (EN) ]
+\0
+
+[@ITEM 93 (L2) ]
+\0
+
+[@ITEM 93 (FR) ]
+\0
+
+[@ITEM 94 (L1) ]
+\0
+
+[@ITEM 94 (EN) ]
+\0
+
+[@ITEM 94 (L2) ]
+\0
+
+[@ITEM 94 (FR) ]
+\0
+
+[@ITEM 95 (L1) ]
+\0
+
+[@ITEM 95 (EN) ]
+\0
+
+[@ITEM 95 (L2) ]
+\0
+
+[@ITEM 95 (FR) ]
+\0
+
+[@ITEM 96 (L1) ]
+\0
+
+[@ITEM 96 (EN) ]
+\0
+
+[@ITEM 96 (L2) ]
+\0
+
+[@ITEM 96 (FR) ]
+\0
+
+[@ITEM 97 (L1) ]
+\0
+
+[@ITEM 97 (EN) ]
+\0
+
+[@ITEM 97 (L2) ]
+\0
+
+[@ITEM 97 (FR) ]
+\0
+
+[@ITEM 98 (L1) ]
+\0
+
+[@ITEM 98 (EN) ]
+\0
+
+[@ITEM 98 (L2) ]
+\0
+
+[@ITEM 98 (FR) ]
+\0
+
+[@ITEM 99 (L1) ]
+\0
+
+[@ITEM 99 (EN) ]
+\0
+
+[@ITEM 99 (L2) ]
+\0
+
+[@ITEM 99 (FR) ]
+\0
+
+[@ITEM 100 (L1) ]
+\0
+
+[@ITEM 100 (EN) ]
+\0
+
+[@ITEM 100 (L2) ]
+\0
+
+[@ITEM 100 (FR) ]
+\0
+
+[@ITEM 101 (L1) ]
+\0
+
+[@ITEM 101 (EN) ]
+\0
+
+[@ITEM 101 (L2) ]
+\0
+
+[@ITEM 101 (FR) ]
+\0
+
+[@ITEM 102 (L1) ]
+\0
+
+[@ITEM 102 (EN) ]
+\0
+
+[@ITEM 102 (L2) ]
+\0
+
+[@ITEM 102 (FR) ]
+\0
+
+[@ITEM 103 (L1) ]
+\0
+
+[@ITEM 103 (EN) ]
+\0
+
+[@ITEM 103 (L2) ]
+\0
+
+[@ITEM 103 (FR) ]
+\0
+
+[@ITEM 104 (L1) ]
+\0
+
+[@ITEM 104 (EN) ]
+\0
+
+[@ITEM 104 (L2) ]
+\0
+
+[@ITEM 104 (FR) ]
+\0
+
+[@ITEM 105 (L1) ]
+\0
+
+[@ITEM 105 (EN) ]
+\0
+
+[@ITEM 105 (L2) ]
+\0
+
+[@ITEM 105 (FR) ]
+\0
+
+[@ITEM 106 (L1) ]
+\0
+
+[@ITEM 106 (EN) ]
+\0
+
+[@ITEM 106 (L2) ]
+\0
+
+[@ITEM 106 (FR) ]
+\0
+
+[@ITEM 107 (L1) ]
+\0
+
+[@ITEM 107 (EN) ]
+\0
+
+[@ITEM 107 (L2) ]
+\0
+
+[@ITEM 107 (FR) ]
+\0
+
+[@ITEM 108 (L1) ]
+\0
+
+[@ITEM 108 (EN) ]
+\0
+
+[@ITEM 108 (L2) ]
+\0
+
+[@ITEM 108 (FR) ]
+\0
+
+[@ITEM 109 (L1) ]
+\0
+
+[@ITEM 109 (EN) ]
+\0
+
+[@ITEM 109 (L2) ]
+\0
+
+[@ITEM 109 (FR) ]
+\0
+
+[@ITEM 110 (L1) ]
+\0
+
+[@ITEM 110 (EN) ]
+\0
+
+[@ITEM 110 (L2) ]
+\0
+
+[@ITEM 110 (FR) ]
+\0
+
+[@ITEM 111 (L1) ]
+\0
+
+[@ITEM 111 (EN) ]
+\0
+
+[@ITEM 111 (L2) ]
+\0
+
+[@ITEM 111 (FR) ]
+\0
+
+[@ITEM 112 (L1) ]
+\0
+
+[@ITEM 112 (EN) ]
+\0
+
+[@ITEM 112 (L2) ]
+\0
+
+[@ITEM 112 (FR) ]
+\0
+
+[@ITEM 113 (L1) ]
+\0
+
+[@ITEM 113 (EN) ]
+\0
+
+[@ITEM 113 (L2) ]
+\0
+
+[@ITEM 113 (FR) ]
+\0
+
+[@ITEM 114 (L1) ]
+\0
+
+[@ITEM 114 (EN) ]
+\0
+
+[@ITEM 114 (L2) ]
+\0
+
+[@ITEM 114 (FR) ]
+\0
+
+[@ITEM 115 (L1) ]
+\0
+
+[@ITEM 115 (EN) ]
+\0
+
+[@ITEM 115 (L2) ]
+\0
+
+[@ITEM 115 (FR) ]
+\0
+
+[@ITEM 116 (L1) ]
+\0
+
+[@ITEM 116 (EN) ]
+\0
+
+[@ITEM 116 (L2) ]
+\0
+
+[@ITEM 116 (FR) ]
+\0
+
+[@ITEM 117 (L1) ]
+\0
+
+[@ITEM 117 (EN) ]
+\0
+
+[@ITEM 117 (L2) ]
+\0
+
+[@ITEM 117 (FR) ]
+\0
+
+[@ITEM 118 (L1) ]
+\0
+
+[@ITEM 118 (EN) ]
+\0
+
+[@ITEM 118 (L2) ]
+\0
+
+[@ITEM 118 (FR) ]
+\0
+
+[@ITEM 119 (L1) ]
+\0
+
+[@ITEM 119 (EN) ]
+\0
+
+[@ITEM 119 (L2) ]
+\0
+
+[@ITEM 119 (FR) ]
+\0
+
+[@ITEM 120 (L1) ]
+\0
+
+[@ITEM 120 (EN) ]
+\0
+
+[@ITEM 120 (L2) ]
+\0
+
+[@ITEM 120 (FR) ]
+\0
+
+[@ITEM 121 (L1) ]
+\0
+
+[@ITEM 121 (EN) ]
+\0
+
+[@ITEM 121 (L2) ]
+\0
+
+[@ITEM 121 (FR) ]
+\0
+
+[@ITEM 122 (L1) ]
+\0
+
+[@ITEM 122 (EN) ]
+\0
+
+[@ITEM 122 (L2) ]
+\0
+
+[@ITEM 122 (FR) ]
+\0
+
+[@ITEM 123 (L1) ]
+\0
+
+[@ITEM 123 (EN) ]
+\0
+
+[@ITEM 123 (L2) ]
+\0
+
+[@ITEM 123 (FR) ]
+\0
+
+[@ITEM 124 (L1) ]
+\0
+
+[@ITEM 124 (EN) ]
+\0
+
+[@ITEM 124 (L2) ]
+\0
+
+[@ITEM 124 (FR) ]
+\0
+
+[@ITEM 125 (L1) ]
+\0
+
+[@ITEM 125 (EN) ]
+\0
+
+[@ITEM 125 (L2) ]
+\0
+
+[@ITEM 125 (FR) ]
+\0
+
+[@ITEM 126 (L1) ]
+\0
+
+[@ITEM 126 (EN) ]
+\0
+
+[@ITEM 126 (L2) ]
+\0
+
+[@ITEM 126 (FR) ]
+\0
+
+[@ITEM 127 (L1) ]
+\0
+
+[@ITEM 127 (EN) ]
+\0
+
+[@ITEM 127 (L2) ]
+\0
+
+[@ITEM 127 (FR) ]
+\0
+
+[@ITEM 128 (L1) ]
+\0
+
+[@ITEM 128 (EN) ]
+\0
+
+[@ITEM 128 (L2) ]
+\0
+
+[@ITEM 128 (FR) ]
+\0
+

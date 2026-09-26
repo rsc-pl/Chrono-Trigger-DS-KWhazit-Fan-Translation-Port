@@ -1,0 +1,4562 @@
+[@sfc_mon.msg]
+
+[@ITEM 0 (L1) ]
+\0
+
+[@ITEM 0 (EN) ]
+Nu\0
+
+[@ITEM 0 (L2) ]
+\0
+
+[@ITEM 0 (FR) ]
+Gnu\0
+
+[@ITEM 1 (L1) ]
+\0
+
+[@ITEM 1 (EN) ]
+Dinoman\0
+
+[@ITEM 1 (L2) ]
+\0
+
+[@ITEM 1 (FR) ]
+Saurien\0
+
+[@ITEM 2 (L1) ]
+\0
+
+[@ITEM 2 (EN) ]
+Giant Beast\0
+
+[@ITEM 2 (L2) ]
+\0
+
+[@ITEM 2 (FR) ]
+Ultrasaure\0
+
+[@ITEM 3 (L1) ]
+\0
+
+[@ITEM 3 (EN) ]
+Marmo\0
+
+[@ITEM 3 (L2) ]
+\0
+
+[@ITEM 3 (FR) ]
+Mamo\0
+
+[@ITEM 4 (L1) ]
+\0
+
+[@ITEM 4 (EN) ]
+Crawlie-sama\0
+
+[@ITEM 4 (L2) ]
+\0
+
+[@ITEM 4 (FR) ]
+Sieur Rampant\0
+
+[@ITEM 5 (L1) ]
+\0
+
+[@ITEM 5 (EN) ]
+Servant of Magus\0
+
+[@ITEM 5 (L2) ]
+\0
+
+[@ITEM 5 (FR) ]
+Sous-fifre violet\0
+
+[@ITEM 6 (L1) ]
+\0
+
+[@ITEM 6 (EN) ]
+Omicron\0
+
+[@ITEM 6 (L2) ]
+\0
+
+[@ITEM 6 (FR) ]
+Omicron\0
+
+[@ITEM 7 (L1) ]
+\0
+
+[@ITEM 7 (EN) ]
+Black Site\0
+
+[@ITEM 7 (L2) ]
+\0
+
+[@ITEM 7 (FR) ]
+Tourelle noire\0
+
+[@ITEM 8 (L1) ]
+\0
+
+[@ITEM 8 (EN) ]
+Bell\0
+
+[@ITEM 8 (L2) ]
+\0
+
+[@ITEM 8 (FR) ]
+Coucou à cloche\0
+
+[@ITEM 9 (L1) ]
+\0
+
+[@ITEM 9 (EN) ]
+Wall\0
+
+[@ITEM 9 (L2) ]
+\0
+
+[@ITEM 9 (FR) ]
+Paroi\0
+
+[@ITEM 10 (L1) ]
+\0
+
+[@ITEM 10 (EN) ]
+Demonic Vessel\0
+
+[@ITEM 10 (L2) ]
+\0
+
+[@ITEM 10 (FR) ]
+Réceptacle sacré\0
+
+[@ITEM 11 (L1) ]
+\0
+
+[@ITEM 11 (EN) ]
+(vacant)\0
+
+[@ITEM 11 (L2) ]
+\0
+
+[@ITEM 11 (FR) ]
+Vide\0
+
+[@ITEM 12 (L1) ]
+\0
+
+[@ITEM 12 (EN) ]
+Jarry\0
+
+[@ITEM 12 (L2) ]
+\0
+
+[@ITEM 12 (FR) ]
+Diablotin bleu\0
+
+[@ITEM 13 (L1) ]
+\0
+
+[@ITEM 13 (EN) ]
+Jarry\0
+
+[@ITEM 13 (L2) ]
+\0
+
+[@ITEM 13 (FR) ]
+Diablotin vert\0
+
+[@ITEM 14 (L1) ]
+\0
+
+[@ITEM 14 (EN) ]
+Jarrian\0
+
+[@ITEM 14 (L2) ]
+\0
+
+[@ITEM 14 (FR) ]
+Diablotin gris\0
+
+[@ITEM 15 (L1) ]
+\0
+
+[@ITEM 15 (EN) ]
+Mud-Eater Tamer\0
+
+[@ITEM 15 (L2) ]
+\0
+
+[@ITEM 15 (FR) ]
+Terra-diablotin\0
+
+[@ITEM 16 (L1) ]
+\0
+
+[@ITEM 16 (EN) ]
+Marumajiro\0
+
+[@ITEM 16 (L2) ]
+\0
+
+[@ITEM 16 (FR) ]
+Maboul\0
+
+[@ITEM 17 (L1) ]
+\0
+
+[@ITEM 17 (EN) ]
+Warumajiro\0
+
+[@ITEM 17 (L2) ]
+\0
+
+[@ITEM 17 (FR) ]
+Roule\0
+
+[@ITEM 18 (L1) ]
+\0
+
+[@ITEM 18 (EN) ]
+Marumajiro R\0
+
+[@ITEM 18 (L2) ]
+\0
+
+[@ITEM 18 (FR) ]
+Roulemaboul\0
+
+[@ITEM 19 (L1) ]
+\0
+
+[@ITEM 19 (EN) ]
+Marumaji Rider\0
+
+[@ITEM 19 (L2) ]
+\0
+
+[@ITEM 19 (FR) ]
+Cavalier maboul\0
+
+[@ITEM 20 (L1) ]
+\0
+
+[@ITEM 20 (EN) ]
+\0
+
+[@ITEM 20 (L2) ]
+\0
+
+[@ITEM 20 (FR) ]
+\0
+
+[@ITEM 21 (L1) ]
+\0
+
+[@ITEM 21 (EN) ]
+Cockadoodle\0
+
+[@ITEM 21 (L2) ]
+\0
+
+[@ITEM 21 (FR) ]
+Ouhbouh bleu\0
+
+[@ITEM 22 (L1) ]
+\0
+
+[@ITEM 22 (EN) ]
+Ho-ho\0
+
+[@ITEM 22 (L2) ]
+\0
+
+[@ITEM 22 (FR) ]
+Ouhbouh doré\0
+
+[@ITEM 23 (L1) ]
+\0
+
+[@ITEM 23 (EN) ]
+Bo-bo\0
+
+[@ITEM 23 (L2) ]
+\0
+
+[@ITEM 23 (FR) ]
+Ouhbouh rouge\0
+
+[@ITEM 24 (L1) ]
+\0
+
+[@ITEM 24 (EN) ]
+\0
+
+[@ITEM 24 (L2) ]
+\0
+
+[@ITEM 24 (FR) ]
+\0
+
+[@ITEM 25 (L1) ]
+\0
+
+[@ITEM 25 (EN) ]
+Mini Calamity\0
+
+[@ITEM 25 (L2) ]
+\0
+
+[@ITEM 25 (FR) ]
+Calamité\0
+
+[@ITEM 26 (L1) ]
+\0
+
+[@ITEM 26 (EN) ]
+Jarry Bird\0
+
+[@ITEM 26 (L2) ]
+\0
+
+[@ITEM 26 (FR) ]
+Diablotin volant\0
+
+[@ITEM 27 (L1) ]
+\0
+
+[@ITEM 27 (EN) ]
+Bird Commando\0
+
+[@ITEM 27 (L2) ]
+\0
+
+[@ITEM 27 (FR) ]
+Diablo-commando\0
+
+[@ITEM 28 (L1) ]
+\0
+
+[@ITEM 28 (EN) ]
+Biter\0
+
+[@ITEM 28 (L2) ]
+\0
+
+[@ITEM 28 (FR) ]
+Vipère\0
+
+[@ITEM 29 (L1) ]
+\0
+
+[@ITEM 29 (EN) ]
+Chomp\0
+
+[@ITEM 29 (L2) ]
+\0
+
+[@ITEM 29 (FR) ]
+Naja\0
+
+[@ITEM 30 (L1) ]
+\0
+
+[@ITEM 30 (EN) ]
+Mianu\0
+
+[@ITEM 30 (L2) ]
+\0
+
+[@ITEM 30 (FR) ]
+Myanne\0
+
+[@ITEM 31 (L1) ]
+\0
+
+[@ITEM 31 (EN) ]
+\0
+
+[@ITEM 31 (L2) ]
+\0
+
+[@ITEM 31 (FR) ]
+\0
+
+[@ITEM 32 (L1) ]
+\0
+
+[@ITEM 32 (EN) ]
+Twin Bite\0
+
+[@ITEM 32 (L2) ]
+\0
+
+[@ITEM 32 (FR) ]
+Hydre bicéphale\0
+
+[@ITEM 33 (L1) ]
+\0
+
+[@ITEM 33 (EN) ]
+\0
+
+[@ITEM 33 (L2) ]
+\0
+
+[@ITEM 33 (FR) ]
+\0
+
+[@ITEM 34 (L1) ]
+\0
+
+[@ITEM 34 (EN) ]
+Ruin Stalker\0
+
+[@ITEM 34 (L2) ]
+\0
+
+[@ITEM 34 (FR) ]
+Pieuvre des ruines\0
+
+[@ITEM 35 (L1) ]
+\0
+
+[@ITEM 35 (EN) ]
+Cave Chaos\0
+
+[@ITEM 35 (L2) ]
+\0
+
+[@ITEM 35 (FR) ]
+Spéléopieuvre\0
+
+[@ITEM 36 (L1) ]
+\0
+
+[@ITEM 36 (EN) ]
+Albino\0
+
+[@ITEM 36 (L2) ]
+\0
+
+[@ITEM 36 (FR) ]
+Albinos\0
+
+[@ITEM 37 (L1) ]
+\0
+
+[@ITEM 37 (EN) ]
+Zeal\0
+
+[@ITEM 37 (L2) ]
+\0
+
+[@ITEM 37 (FR) ]
+Zhyle\0
+
+[@ITEM 38 (L1) ]
+\0
+
+[@ITEM 38 (EN) ]
+Rafflesia\0
+
+[@ITEM 38 (L2) ]
+\0
+
+[@ITEM 38 (FR) ]
+Rafflésie\0
+
+[@ITEM 39 (L1) ]
+\0
+
+[@ITEM 39 (EN) ]
+Plantler\0
+
+[@ITEM 39 (L2) ]
+\0
+
+[@ITEM 39 (FR) ]
+Cytinelle\0
+
+[@ITEM 40 (L1) ]
+\0
+
+[@ITEM 40 (EN) ]
+Mountain Peak Flower\0
+
+[@ITEM 40 (L2) ]
+\0
+
+[@ITEM 40 (FR) ]
+Fleur des cimes\0
+
+[@ITEM 41 (L1) ]
+\0
+
+[@ITEM 41 (EN) ]
+Eater\0
+
+[@ITEM 41 (L2) ]
+\0
+
+[@ITEM 41 (FR) ]
+Œuf carnivore\0
+
+[@ITEM 42 (L1) ]
+\0
+
+[@ITEM 42 (EN) ]
+Egger\0
+
+[@ITEM 42 (L2) ]
+\0
+
+[@ITEM 42 (FR) ]
+Œuf craqué\0
+
+[@ITEM 43 (L1) ]
+\0
+
+[@ITEM 43 (EN) ]
+Bone Nam\0
+
+[@ITEM 43 (L2) ]
+\0
+
+[@ITEM 43 (FR) ]
+Défunt\0
+
+[@ITEM 44 (L1) ]
+\0
+
+[@ITEM 44 (EN) ]
+Bone Nam\0
+
+[@ITEM 44 (L2) ]
+\0
+
+[@ITEM 44 (FR) ]
+Défunt\0
+
+[@ITEM 45 (L1) ]
+\0
+
+[@ITEM 45 (EN) ]
+Skeleton\0
+
+[@ITEM 45 (L2) ]
+\0
+
+[@ITEM 45 (FR) ]
+Squelette\0
+
+[@ITEM 46 (L1) ]
+\0
+
+[@ITEM 46 (EN) ]
+Lancer\0
+
+[@ITEM 46 (L2) ]
+\0
+
+[@ITEM 46 (FR) ]
+Squelette lancier\0
+
+[@ITEM 47 (L1) ]
+\0
+
+[@ITEM 47 (EN) ]
+Macabre\0
+
+[@ITEM 47 (L2) ]
+\0
+
+[@ITEM 47 (FR) ]
+Macchabée\0
+
+[@ITEM 48 (L1) ]
+\0
+
+[@ITEM 48 (EN) ]
+Anatomy\0
+
+[@ITEM 48 (L2) ]
+\0
+
+[@ITEM 48 (FR) ]
+Trépassé\0
+
+[@ITEM 49 (L1) ]
+\0
+
+[@ITEM 49 (EN) ]
+Inner Guard\0
+
+[@ITEM 49 (L2) ]
+\0
+
+[@ITEM 49 (FR) ]
+Garde\0
+
+[@ITEM 50 (L1) ]
+\0
+
+[@ITEM 50 (EN) ]
+Knight Ghost\0
+
+[@ITEM 50 (L2) ]
+\0
+
+[@ITEM 50 (FR) ]
+Chevalier fantôme\0
+
+[@ITEM 51 (L1) ]
+\0
+
+[@ITEM 51 (EN) ]
+Freelancer\0
+
+[@ITEM 51 (L2) ]
+\0
+
+[@ITEM 51 (FR) ]
+Mercenaire\0
+
+[@ITEM 52 (L1) ]
+\0
+
+[@ITEM 52 (EN) ]
+Outlaw\0
+
+[@ITEM 52 (L2) ]
+\0
+
+[@ITEM 52 (FR) ]
+Hors-la-loi\0
+
+[@ITEM 53 (L1) ]
+\0
+
+[@ITEM 53 (EN) ]
+Giga Mutant\0
+
+[@ITEM 53 (L2) ]
+\0
+
+[@ITEM 53 (FR) ]
+Gigamutant\0
+
+[@ITEM 54 (L1) ]
+\0
+
+[@ITEM 54 (EN) ]
+\0
+
+[@ITEM 54 (L2) ]
+\0
+
+[@ITEM 54 (FR) ]
+\0
+
+[@ITEM 55 (L1) ]
+\0
+
+[@ITEM 55 (EN) ]
+Tera Mutant\0
+
+[@ITEM 55 (L2) ]
+\0
+
+[@ITEM 55 (FR) ]
+Téramutant\0
+
+[@ITEM 56 (L1) ]
+\0
+
+[@ITEM 56 (EN) ]
+\0
+
+[@ITEM 56 (L2) ]
+\0
+
+[@ITEM 56 (FR) ]
+\0
+
+[@ITEM 57 (L1) ]
+\0
+
+[@ITEM 57 (EN) ]
+Juggler\0
+
+[@ITEM 57 (L2) ]
+\0
+
+[@ITEM 57 (FR) ]
+Jongleur\0
+
+[@ITEM 58 (L1) ]
+\0
+
+[@ITEM 58 (EN) ]
+Melfikk\0
+
+[@ITEM 58 (L2) ]
+\0
+
+[@ITEM 58 (FR) ]
+Melfiq\0
+
+[@ITEM 59 (L1) ]
+\0
+
+[@ITEM 59 (EN) ]
+Zeal Mage\0
+
+[@ITEM 59 (L2) ]
+\0
+
+[@ITEM 59 (FR) ]
+Mage de Zhyle\0
+
+[@ITEM 60 (L1) ]
+\0
+
+[@ITEM 60 (EN) ]
+\0
+
+[@ITEM 60 (L2) ]
+\0
+
+[@ITEM 60 (FR) ]
+\0
+
+[@ITEM 61 (L1) ]
+\0
+
+[@ITEM 61 (EN) ]
+Dinoman\0
+
+[@ITEM 61 (L2) ]
+\0
+
+[@ITEM 61 (FR) ]
+Saurien violet\0
+
+[@ITEM 62 (L1) ]
+\0
+
+[@ITEM 62 (EN) ]
+Knight Ghost\0
+
+[@ITEM 62 (L2) ]
+\0
+
+[@ITEM 62 (FR) ]
+Pavois\0
+
+[@ITEM 63 (L1) ]
+\0
+
+[@ITEM 63 (EN) ]
+Knight Ghost\0
+
+[@ITEM 63 (L2) ]
+\0
+
+[@ITEM 63 (FR) ]
+Pavois\0
+
+[@ITEM 64 (L1) ]
+\0
+
+[@ITEM 64 (EN) ]
+Shieldsman\0
+
+[@ITEM 64 (L2) ]
+\0
+
+[@ITEM 64 (FR) ]
+Égide\0
+
+[@ITEM 65 (L1) ]
+\0
+
+[@ITEM 65 (EN) ]
+Shieldsman\0
+
+[@ITEM 65 (L2) ]
+\0
+
+[@ITEM 65 (FR) ]
+Égide\0
+
+[@ITEM 66 (L1) ]
+\0
+
+[@ITEM 66 (EN) ]
+Wandering One\0
+
+[@ITEM 66 (L2) ]
+\0
+
+[@ITEM 66 (FR) ]
+Vagabond\0
+
+[@ITEM 67 (L1) ]
+\0
+
+[@ITEM 67 (EN) ]
+Drifting One\0
+
+[@ITEM 67 (L2) ]
+\0
+
+[@ITEM 67 (FR) ]
+Nomade\0
+
+[@ITEM 68 (L1) ]
+\0
+
+[@ITEM 68 (EN) ]
+\0
+
+[@ITEM 68 (L2) ]
+\0
+
+[@ITEM 68 (FR) ]
+\0
+
+[@ITEM 69 (L1) ]
+\0
+
+[@ITEM 69 (EN) ]
+Kline\0
+
+[@ITEM 69 (L2) ]
+\0
+
+[@ITEM 69 (FR) ]
+Klein\0
+
+[@ITEM 70 (L1) ]
+\0
+
+[@ITEM 70 (EN) ]
+Aycit Beetle\0
+
+[@ITEM 70 (L2) ]
+\0
+
+[@ITEM 70 (FR) ]
+Coprophage\0
+
+[@ITEM 71 (L1) ]
+\0
+
+[@ITEM 71 (EN) ]
+Helmet Shrimp\0
+
+[@ITEM 71 (L2) ]
+\0
+
+[@ITEM 71 (FR) ]
+Charançon\0
+
+[@ITEM 72 (L1) ]
+\0
+
+[@ITEM 72 (EN) ]
+Diablos\0
+
+[@ITEM 72 (L2) ]
+\0
+
+[@ITEM 72 (FR) ]
+Diabolos\0
+
+[@ITEM 73 (L1) ]
+\0
+
+[@ITEM 73 (EN) ]
+Monk Gargoyle\0
+
+[@ITEM 73 (L2) ]
+\0
+
+[@ITEM 73 (FR) ]
+Gargouille\0
+
+[@ITEM 74 (L1) ]
+\0
+
+[@ITEM 74 (EN) ]
+Squasher\0
+
+[@ITEM 74 (L2) ]
+\0
+
+[@ITEM 74 (FR) ]
+Gargouille bleue\0
+
+[@ITEM 75 (L1) ]
+\0
+
+[@ITEM 75 (EN) ]
+Servant of Magus\0
+
+[@ITEM 75 (L2) ]
+\0
+
+[@ITEM 75 (FR) ]
+Sous-fifre\0
+
+[@ITEM 76 (L1) ]
+\0
+
+[@ITEM 76 (EN) ]
+Edible Frog\0
+
+[@ITEM 76 (L2) ]
+\0
+
+[@ITEM 76 (FR) ]
+Grenouille\0
+
+[@ITEM 77 (L1) ]
+\0
+
+[@ITEM 77 (EN) ]
+Primeval Frog\0
+
+[@ITEM 77 (L2) ]
+\0
+
+[@ITEM 77 (FR) ]
+Archéobatracien\0
+
+[@ITEM 78 (L1) ]
+\0
+
+[@ITEM 78 (EN) ]
+Primeval Frog\0
+
+[@ITEM 78 (L2) ]
+\0
+
+[@ITEM 78 (FR) ]
+Archéobatracien\0
+
+[@ITEM 79 (L1) ]
+\0
+
+[@ITEM 79 (EN) ]
+Orphan\0
+
+[@ITEM 79 (L2) ]
+\0
+
+[@ITEM 79 (FR) ]
+Orphelin\0
+
+[@ITEM 80 (L1) ]
+\0
+
+[@ITEM 80 (EN) ]
+Mad Bat\0
+
+[@ITEM 80 (L2) ]
+\0
+
+[@ITEM 80 (FR) ]
+Chauve-souris\0
+
+[@ITEM 81 (L1) ]
+\0
+
+[@ITEM 81 (EN) ]
+Vamput\0
+
+[@ITEM 81 (L2) ]
+\0
+
+[@ITEM 81 (FR) ]
+Vampire\0
+
+[@ITEM 82 (L1) ]
+\0
+
+[@ITEM 82 (EN) ]
+Scouter\0
+
+[@ITEM 82 (L2) ]
+\0
+
+[@ITEM 82 (FR) ]
+Éclaireur\0
+
+[@ITEM 83 (L1) ]
+\0
+
+[@ITEM 83 (EN) ]
+Mini Ahriman\0
+
+[@ITEM 83 (L2) ]
+\0
+
+[@ITEM 83 (FR) ]
+Ahrimini\0
+
+[@ITEM 84 (L1) ]
+\0
+
+[@ITEM 84 (EN) ]
+Mouse Hunter\0
+
+[@ITEM 84 (L2) ]
+\0
+
+[@ITEM 84 (FR) ]
+Chasse-souris\0
+
+[@ITEM 85 (L1) ]
+\0
+
+[@ITEM 85 (EN) ]
+Debugger\0
+
+[@ITEM 85 (L2) ]
+\0
+
+[@ITEM 85 (FR) ]
+Débogueur\0
+
+[@ITEM 86 (L1) ]
+\0
+
+[@ITEM 86 (EN) ]
+Debugger Plus\0
+
+[@ITEM 86 (L2) ]
+\0
+
+[@ITEM 86 (FR) ]
+Débogueur +\0
+
+[@ITEM 87 (L1) ]
+\0
+
+[@ITEM 87 (EN) ]
+Sorcerer\0
+
+[@ITEM 87 (L2) ]
+\0
+
+[@ITEM 87 (FR) ]
+Sorcier\0
+
+[@ITEM 88 (L1) ]
+\0
+
+[@ITEM 88 (EN) ]
+Million\0
+
+[@ITEM 88 (L2) ]
+\0
+
+[@ITEM 88 (FR) ]
+Djinn\0
+
+[@ITEM 89 (L1) ]
+\0
+
+[@ITEM 89 (EN) ]
+Billion\0
+
+[@ITEM 89 (L2) ]
+\0
+
+[@ITEM 89 (FR) ]
+Génie\0
+
+[@ITEM 90 (L1) ]
+\0
+
+[@ITEM 90 (EN) ]
+\0
+
+[@ITEM 90 (L2) ]
+\0
+
+[@ITEM 90 (FR) ]
+\0
+
+[@ITEM 91 (L1) ]
+\0
+
+[@ITEM 91 (EN) ]
+Crater\0
+
+[@ITEM 91 (L2) ]
+\0
+
+[@ITEM 91 (FR) ]
+Cratère\0
+
+[@ITEM 92 (L1) ]
+\0
+
+[@ITEM 92 (EN) ]
+Kaboom\0
+
+[@ITEM 92 (L2) ]
+\0
+
+[@ITEM 92 (FR) ]
+Volcan\0
+
+[@ITEM 93 (L1) ]
+\0
+
+[@ITEM 93 (EN) ]
+Monkey Gasser\0
+
+[@ITEM 93 (L2) ]
+\0
+
+[@ITEM 93 (FR) ]
+Aide-baobao\0
+
+[@ITEM 94 (L1) ]
+\0
+
+[@ITEM 94 (EN) ]
+Mosstie\0
+
+[@ITEM 94 (L2) ]
+\0
+
+[@ITEM 94 (FR) ]
+Amanite\0
+
+[@ITEM 95 (L1) ]
+\0
+
+[@ITEM 95 (EN) ]
+Rokk\0
+
+[@ITEM 95 (L2) ]
+\0
+
+[@ITEM 95 (FR) ]
+Rocher\0
+
+[@ITEM 96 (L1) ]
+\0
+
+[@ITEM 96 (EN) ]
+\0
+
+[@ITEM 96 (L2) ]
+\0
+
+[@ITEM 96 (FR) ]
+\0
+
+[@ITEM 97 (L1) ]
+\0
+
+[@ITEM 97 (EN) ]
+Genbu\0
+
+[@ITEM 97 (L2) ]
+\0
+
+[@ITEM 97 (FR) ]
+Schiste\0
+
+[@ITEM 98 (L1) ]
+\0
+
+[@ITEM 98 (EN) ]
+Genbu\0
+
+[@ITEM 98 (L2) ]
+\0
+
+[@ITEM 98 (FR) ]
+Schiste\0
+
+[@ITEM 99 (L1) ]
+\0
+
+[@ITEM 99 (EN) ]
+Dondrago\0
+
+[@ITEM 99 (L2) ]
+\0
+
+[@ITEM 99 (FR) ]
+Nérée\0
+
+[@ITEM 100 (L1) ]
+\0
+
+[@ITEM 100 (EN) ]
+\0
+
+[@ITEM 100 (L2) ]
+\0
+
+[@ITEM 100 (FR) ]
+\0
+
+[@ITEM 101 (L1) ]
+\0
+
+[@ITEM 101 (EN) ]
+Sandrago\0
+
+[@ITEM 101 (L2) ]
+\0
+
+[@ITEM 101 (FR) ]
+Nérée des sables\0
+
+[@ITEM 102 (L1) ]
+\0
+
+[@ITEM 102 (EN) ]
+Silhouette\0
+
+[@ITEM 102 (L2) ]
+\0
+
+[@ITEM 102 (FR) ]
+Silhouette\0
+
+[@ITEM 103 (L1) ]
+\0
+
+[@ITEM 103 (EN) ]
+(vacant)\0
+
+[@ITEM 103 (L2) ]
+\0
+
+[@ITEM 103 (FR) ]
+Vide\0
+
+[@ITEM 104 (L1) ]
+\0
+
+[@ITEM 104 (EN) ]
+Id\0
+
+[@ITEM 104 (L2) ]
+\0
+
+[@ITEM 104 (FR) ]
+Base\0
+
+[@ITEM 105 (L1) ]
+\0
+
+[@ITEM 105 (EN) ]
+Acid\0
+
+[@ITEM 105 (L2) ]
+\0
+
+[@ITEM 105 (FR) ]
+Acide\0
+
+[@ITEM 106 (L1) ]
+\0
+
+[@ITEM 106 (EN) ]
+Alkali\0
+
+[@ITEM 106 (L2) ]
+\0
+
+[@ITEM 106 (FR) ]
+Alcali\0
+
+[@ITEM 107 (L1) ]
+\0
+
+[@ITEM 107 (EN) ]
+Rainy\0
+
+[@ITEM 107 (L2) ]
+\0
+
+[@ITEM 107 (FR) ]
+Flaque\0
+
+[@ITEM 108 (L1) ]
+\0
+
+[@ITEM 108 (EN) ]
+Rainy\0
+
+[@ITEM 108 (L2) ]
+\0
+
+[@ITEM 108 (FR) ]
+Flaque\0
+
+[@ITEM 109 (L1) ]
+\0
+
+[@ITEM 109 (EN) ]
+Omen\0
+
+[@ITEM 109 (L2) ]
+\0
+
+[@ITEM 109 (FR) ]
+Augure\0
+
+[@ITEM 110 (L1) ]
+\0
+
+[@ITEM 110 (EN) ]
+\0
+
+[@ITEM 110 (L2) ]
+\0
+
+[@ITEM 110 (FR) ]
+\0
+
+[@ITEM 111 (L1) ]
+\0
+
+[@ITEM 111 (EN) ]
+Mini Lavos R\0
+
+[@ITEM 111 (L2) ]
+\0
+
+[@ITEM 111 (FR) ]
+Pupe de Lavos\0
+
+[@ITEM 112 (L1) ]
+\0
+
+[@ITEM 112 (EN) ]
+Karvina\0
+
+[@ITEM 112 (L2) ]
+\0
+
+[@ITEM 112 (FR) ]
+Kahrvina\0
+
+[@ITEM 113 (L1) ]
+\0
+
+[@ITEM 113 (EN) ]
+Ougan\0
+
+[@ITEM 113 (L2) ]
+\0
+
+[@ITEM 113 (FR) ]
+Ogan\0
+
+[@ITEM 114 (L1) ]
+\0
+
+[@ITEM 114 (EN) ]
+MONSTER\0
+
+[@ITEM 114 (L2) ]
+\0
+
+[@ITEM 114 (FR) ]
+Monstre\0
+
+[@ITEM 115 (L1) ]
+\0
+
+[@ITEM 115 (EN) ]
+Cave Bat\0
+
+[@ITEM 115 (L2) ]
+\0
+
+[@ITEM 115 (FR) ]
+Noctule\0
+
+[@ITEM 116 (L1) ]
+\0
+
+[@ITEM 116 (EN) ]
+Ougan\0
+
+[@ITEM 116 (L2) ]
+\0
+
+[@ITEM 116 (FR) ]
+Ogan marteleur\0
+
+[@ITEM 117 (L1) ]
+\0
+
+[@ITEM 117 (EN) ]
+Servant of Magus\0
+
+[@ITEM 117 (L2) ]
+\0
+
+[@ITEM 117 (FR) ]
+Ogre rouge\0
+
+[@ITEM 118 (L1) ]
+\0
+
+[@ITEM 118 (EN) ]
+Servant of Magus\0
+
+[@ITEM 118 (L2) ]
+\0
+
+[@ITEM 118 (FR) ]
+Ogre\0
+
+[@ITEM 119 (L1) ]
+\0
+
+[@ITEM 119 (EN) ]
+\0
+
+[@ITEM 119 (L2) ]
+\0
+
+[@ITEM 119 (FR) ]
+\0
+
+[@ITEM 120 (L1) ]
+\0
+
+[@ITEM 120 (EN) ]
+\0
+
+[@ITEM 120 (L2) ]
+\0
+
+[@ITEM 120 (FR) ]
+\0
+
+[@ITEM 121 (L1) ]
+\0
+
+[@ITEM 121 (EN) ]
+Baobao\0
+
+[@ITEM 121 (L2) ]
+\0
+
+[@ITEM 121 (FR) ]
+Baobao\0
+
+[@ITEM 122 (L1) ]
+\0
+
+[@ITEM 122 (EN) ]
+Santana\0
+
+[@ITEM 122 (L2) ]
+\0
+
+[@ITEM 122 (FR) ]
+Orang-outan\0
+
+[@ITEM 123 (L1) ]
+\0
+
+[@ITEM 123 (EN) ]
+Dodecadadda\0
+
+[@ITEM 123 (L2) ]
+\0
+
+[@ITEM 123 (FR) ]
+Mégasaure\0
+
+[@ITEM 124 (L1) ]
+\0
+
+[@ITEM 124 (EN) ]
+Gia/Gear\0
+
+[@ITEM 124 (L2) ]
+\0
+
+[@ITEM 124 (FR) ]
+Ghia\0
+
+[@ITEM 125 (L1) ]
+\0
+
+[@ITEM 125 (EN) ]
+Mud-Eater\0
+
+[@ITEM 125 (L2) ]
+\0
+
+[@ITEM 125 (FR) ]
+Terraphage\0
+
+[@ITEM 126 (L1) ]
+\0
+
+[@ITEM 126 (EN) ]
+Mud-Eater L\0
+
+[@ITEM 126 (L2) ]
+\0
+
+[@ITEM 126 (FR) ]
+Terraphage bleu\0
+
+[@ITEM 127 (L1) ]
+\0
+
+[@ITEM 127 (EN) ]
+Mud-Eater R\0
+
+[@ITEM 127 (L2) ]
+\0
+
+[@ITEM 127 (FR) ]
+Terraphage rouge\0
+
+[@ITEM 128 (L1) ]
+\0
+
+[@ITEM 128 (EN) ]
+Site\0
+
+[@ITEM 128 (L2) ]
+\0
+
+[@ITEM 128 (FR) ]
+Tourelle\0
+
+[@ITEM 129 (L1) ]
+\0
+
+[@ITEM 129 (EN) ]
+Tyran Kite\0
+
+[@ITEM 129 (L2) ]
+\0
+
+[@ITEM 129 (FR) ]
+Lézardactyle\0
+
+[@ITEM 130 (L1) ]
+\0
+
+[@ITEM 130 (EN) ]
+\0
+
+[@ITEM 130 (L2) ]
+\0
+
+[@ITEM 130 (FR) ]
+\0
+
+[@ITEM 131 (L1) ]
+\0
+
+[@ITEM 131 (EN) ]
+Tyran Glider\0
+
+[@ITEM 131 (L2) ]
+\0
+
+[@ITEM 131 (FR) ]
+Archéoptéryx\0
+
+[@ITEM 132 (L1) ]
+\0
+
+[@ITEM 132 (EN) ]
+Nohey\0
+
+[@ITEM 132 (L2) ]
+\0
+
+[@ITEM 132 (FR) ]
+Nohé\0
+
+[@ITEM 133 (L1) ]
+\0
+
+[@ITEM 133 (EN) ]
+Gazoo\0
+
+[@ITEM 133 (L2) ]
+\0
+
+[@ITEM 133 (FR) ]
+Gazou\0
+
+[@ITEM 134 (L1) ]
+\0
+
+[@ITEM 134 (EN) ]
+Ratler\0
+
+[@ITEM 134 (L2) ]
+\0
+
+[@ITEM 134 (FR) ]
+Rat\0
+
+[@ITEM 135 (L1) ]
+\0
+
+[@ITEM 135 (EN) ]
+Gremling\0
+
+[@ITEM 135 (L2) ]
+\0
+
+[@ITEM 135 (FR) ]
+Rat bleu\0
+
+[@ITEM 136 (L1) ]
+\0
+
+[@ITEM 136 (EN) ]
+Tarta\0
+
+[@ITEM 136 (L2) ]
+\0
+
+[@ITEM 136 (FR) ]
+Coureur à crête\0
+
+[@ITEM 137 (L1) ]
+\0
+
+[@ITEM 137 (EN) ]
+Version 2.0\0
+
+[@ITEM 137 (L2) ]
+\0
+
+[@ITEM 137 (FR) ]
+Modèle 2.0\0
+
+[@ITEM 138 (L1) ]
+\0
+
+[@ITEM 138 (EN) ]
+Version 3.0\0
+
+[@ITEM 138 (L2) ]
+\0
+
+[@ITEM 138 (FR) ]
+Modèle 3.0\0
+
+[@ITEM 139 (L1) ]
+\0
+
+[@ITEM 139 (EN) ]
+Version 4.0\0
+
+[@ITEM 139 (L2) ]
+\0
+
+[@ITEM 139 (FR) ]
+Modèle 4.0\0
+
+[@ITEM 140 (L1) ]
+\0
+
+[@ITEM 140 (EN) ]
+Bug\0
+
+[@ITEM 140 (L2) ]
+\0
+
+[@ITEM 140 (FR) ]
+Scarabogue\0
+
+[@ITEM 141 (L1) ]
+\0
+
+[@ITEM 141 (EN) ]
+Scarabée\0
+
+[@ITEM 141 (L2) ]
+\0
+
+[@ITEM 141 (FR) ]
+Scarabée\0
+
+[@ITEM 142 (L1) ]
+\0
+
+[@ITEM 142 (EN) ]
+Dave\0
+
+[@ITEM 142 (L2) ]
+\0
+
+[@ITEM 142 (FR) ]
+Dodu\0
+
+[@ITEM 143 (L1) ]
+\0
+
+[@ITEM 143 (EN) ]
+Cyrus\0
+
+[@ITEM 143 (L2) ]
+\0
+
+[@ITEM 143 (FR) ]
+Cyrus\0
+
+[@ITEM 144 (L1) ]
+\0
+
+[@ITEM 144 (EN) ]
+Yakra\0
+
+[@ITEM 144 (L2) ]
+\0
+
+[@ITEM 144 (FR) ]
+Yakra\0
+
+[@ITEM 145 (L1) ]
+\0
+
+[@ITEM 145 (EN) ]
+Primeval Frog\0
+
+[@ITEM 145 (L2) ]
+\0
+
+[@ITEM 145 (FR) ]
+Archéobatracien\0
+
+[@ITEM 146 (L1) ]
+\0
+
+[@ITEM 146 (EN) ]
+Gonzales\0
+
+[@ITEM 146 (L2) ]
+\0
+
+[@ITEM 146 (FR) ]
+Gonzales\0
+
+[@ITEM 147 (L1) ]
+\0
+
+[@ITEM 147 (EN) ]
+Dragon Tank\0
+
+[@ITEM 147 (L2) ]
+\0
+
+[@ITEM 147 (FR) ]
+Dragon d'assaut\0
+
+[@ITEM 148 (L1) ]
+\0
+
+[@ITEM 148 (EN) ]
+Wheel\0
+
+[@ITEM 148 (L2) ]
+\0
+
+[@ITEM 148 (FR) ]
+Roues\0
+
+[@ITEM 149 (L1) ]
+\0
+
+[@ITEM 149 (EN) ]
+Dalton Golem\0
+
+[@ITEM 149 (L2) ]
+\0
+
+[@ITEM 149 (FR) ]
+Golem de Dalton\0
+
+[@ITEM 150 (L1) ]
+\0
+
+[@ITEM 150 (EN) ]
+Ruin Golem\0
+
+[@ITEM 150 (L2) ]
+\0
+
+[@ITEM 150 (FR) ]
+Golem des ruines\0
+
+[@ITEM 151 (L1) ]
+\0
+
+[@ITEM 151 (EN) ]
+Gran\0
+
+[@ITEM 151 (L2) ]
+\0
+
+[@ITEM 151 (FR) ]
+Gran\0
+
+[@ITEM 152 (L1) ]
+\0
+
+[@ITEM 152 (EN) ]
+Leon\0
+
+[@ITEM 152 (L2) ]
+\0
+
+[@ITEM 152 (FR) ]
+Léon\0
+
+[@ITEM 153 (L1) ]
+\0
+
+[@ITEM 153 (EN) ]
+Gran and Leon\0
+
+[@ITEM 153 (L2) ]
+\0
+
+[@ITEM 153 (FR) ]
+Gran et Léon\0
+
+[@ITEM 154 (L1) ]
+\0
+
+[@ITEM 154 (EN) ]
+Azarla\0
+
+[@ITEM 154 (L2) ]
+\0
+
+[@ITEM 154 (FR) ]
+Azara\0
+
+[@ITEM 155 (L1) ]
+\0
+
+[@ITEM 155 (EN) ]
+Nizbel\0
+
+[@ITEM 155 (L2) ]
+\0
+
+[@ITEM 155 (FR) ]
+Nizbel\0
+
+[@ITEM 156 (L1) ]
+\0
+
+[@ITEM 156 (EN) ]
+Nizbel R\0
+
+[@ITEM 156 (L2) ]
+\0
+
+[@ITEM 156 (FR) ]
+Nizbel II\0
+
+[@ITEM 157 (L1) ]
+\0
+
+[@ITEM 157 (EN) ]
+Soysaw\0
+
+[@ITEM 157 (L2) ]
+\0
+
+[@ITEM 157 (FR) ]
+Soja\0
+
+[@ITEM 158 (L1) ]
+\0
+
+[@ITEM 158 (EN) ]
+Soysaw\0
+
+[@ITEM 158 (L2) ]
+\0
+
+[@ITEM 158 (FR) ]
+Soja\0
+
+[@ITEM 159 (L1) ]
+\0
+
+[@ITEM 159 (EN) ]
+Mayonnay\0
+
+[@ITEM 159 (L2) ]
+\0
+
+[@ITEM 159 (FR) ]
+Mayo\0
+
+[@ITEM 160 (L1) ]
+\0
+
+[@ITEM 160 (EN) ]
+Super Mayonnay\0
+
+[@ITEM 160 (L2) ]
+\0
+
+[@ITEM 160 (FR) ]
+Super Mayo\0
+
+[@ITEM 161 (L1) ]
+\0
+
+[@ITEM 161 (EN) ]
+Dalton\0
+
+[@ITEM 161 (L2) ]
+\0
+
+[@ITEM 161 (FR) ]
+Dalton\0
+
+[@ITEM 162 (L1) ]
+\0
+
+[@ITEM 162 (EN) ]
+Dalton R\0
+
+[@ITEM 162 (L2) ]
+\0
+
+[@ITEM 162 (FR) ]
+Roi Dalton\0
+
+[@ITEM 163 (L1) ]
+\0
+
+[@ITEM 163 (EN) ]
+Mutant\0
+
+[@ITEM 163 (L2) ]
+\0
+
+[@ITEM 163 (FR) ]
+Mutant\0
+
+[@ITEM 164 (L1) ]
+\0
+
+[@ITEM 164 (EN) ]
+Metal Myu\0
+
+[@ITEM 164 (L2) ]
+\0
+
+[@ITEM 164 (FR) ]
+Mutant métallique\0
+
+[@ITEM 165 (L1) ]
+\0
+
+[@ITEM 165 (EN) ]
+Super Soysaw\0
+
+[@ITEM 165 (L2) ]
+\0
+
+[@ITEM 165 (FR) ]
+Super Soja\0
+
+[@ITEM 166 (L1) ]
+\0
+
+[@ITEM 166 (EN) ]
+Vinnegar\0
+
+[@ITEM 166 (L2) ]
+\0
+
+[@ITEM 166 (FR) ]
+Vinnie\0
+
+[@ITEM 167 (L1) ]
+\0
+
+[@ITEM 167 (EN) ]
+Vinnegar\0
+
+[@ITEM 167 (L2) ]
+\0
+
+[@ITEM 167 (FR) ]
+Vinnie\0
+
+[@ITEM 168 (L1) ]
+\0
+
+[@ITEM 168 (EN) ]
+Great Vinnegar\0
+
+[@ITEM 168 (L2) ]
+\0
+
+[@ITEM 168 (FR) ]
+Vinnie le Grand\0
+
+[@ITEM 169 (L1) ]
+\0
+
+[@ITEM 169 (EN) ]
+Hekeran\0
+
+[@ITEM 169 (L2) ]
+\0
+
+[@ITEM 169 (FR) ]
+Héclan\0
+
+[@ITEM 170 (L1) ]
+\0
+
+[@ITEM 170 (EN) ]
+Aycit Saurus\0
+
+[@ITEM 170 (L2) ]
+\0
+
+[@ITEM 170 (FR) ]
+Acytosaure\0
+
+[@ITEM 171 (L1) ]
+\0
+
+[@ITEM 171 (EN) ]
+Aycit Nix\0
+
+[@ITEM 171 (L2) ]
+\0
+
+[@ITEM 171 (FR) ]
+Acytonyx\0
+
+[@ITEM 172 (L1) ]
+\0
+
+[@ITEM 172 (EN) ]
+Fossil Ape\0
+
+[@ITEM 172 (L2) ]
+\0
+
+[@ITEM 172 (FR) ]
+Gorille ailé\0
+
+[@ITEM 173 (L1) ]
+\0
+
+[@ITEM 173 (EN) ]
+Head\0
+
+[@ITEM 173 (L2) ]
+\0
+
+[@ITEM 173 (FR) ]
+Tête\0
+
+[@ITEM 174 (L1) ]
+\0
+
+[@ITEM 174 (EN) ]
+Great Frog King\0
+
+[@ITEM 174 (L2) ]
+\0
+
+[@ITEM 174 (FR) ]
+Roi des crapauds\0
+
+[@ITEM 175 (L1) ]
+\0
+
+[@ITEM 175 (EN) ]
+Jarry Priest\0
+
+[@ITEM 175 (L2) ]
+\0
+
+[@ITEM 175 (FR) ]
+Prêtre diablotin\0
+
+[@ITEM 176 (L1) ]
+\0
+
+[@ITEM 176 (EN) ]
+Zeal\0
+
+[@ITEM 176 (L2) ]
+\0
+
+[@ITEM 176 (FR) ]
+Zhyle\0
+
+[@ITEM 177 (L1) ]
+\0
+
+[@ITEM 177 (EN) ]
+\0
+
+[@ITEM 177 (L2) ]
+\0
+
+[@ITEM 177 (FR) ]
+\0
+
+[@ITEM 178 (L1) ]
+\0
+
+[@ITEM 178 (EN) ]
+\0
+
+[@ITEM 178 (L2) ]
+\0
+
+[@ITEM 178 (FR) ]
+\0
+
+[@ITEM 179 (L1) ]
+\0
+
+[@ITEM 179 (EN) ]
+Junkdragar\0
+
+[@ITEM 179 (L2) ]
+\0
+
+[@ITEM 179 (FR) ]
+Abomination\0
+
+[@ITEM 180 (L1) ]
+\0
+
+[@ITEM 180 (EN) ]
+\0
+
+[@ITEM 180 (L2) ]
+\0
+
+[@ITEM 180 (FR) ]
+\0
+
+[@ITEM 181 (L1) ]
+\0
+
+[@ITEM 181 (EN) ]
+\0
+
+[@ITEM 181 (L2) ]
+\0
+
+[@ITEM 181 (FR) ]
+\0
+
+[@ITEM 182 (L1) ]
+\0
+
+[@ITEM 182 (EN) ]
+\0
+
+[@ITEM 182 (L2) ]
+\0
+
+[@ITEM 182 (FR) ]
+\0
+
+[@ITEM 183 (L1) ]
+\0
+
+[@ITEM 183 (EN) ]
+Display\0
+
+[@ITEM 183 (L2) ]
+\0
+
+[@ITEM 183 (FR) ]
+Moniteur\0
+
+[@ITEM 184 (L1) ]
+\0
+
+[@ITEM 184 (EN) ]
+Mega Mutant\0
+
+[@ITEM 184 (L2) ]
+\0
+
+[@ITEM 184 (FR) ]
+Mégamutant\0
+
+[@ITEM 185 (L1) ]
+\0
+
+[@ITEM 185 (EN) ]
+\0
+
+[@ITEM 185 (L2) ]
+\0
+
+[@ITEM 185 (FR) ]
+\0
+
+[@ITEM 186 (L1) ]
+\0
+
+[@ITEM 186 (EN) ]
+Super Soysaw\0
+
+[@ITEM 186 (L2) ]
+\0
+
+[@ITEM 186 (FR) ]
+Super Soja\0
+
+[@ITEM 187 (L1) ]
+\0
+
+[@ITEM 187 (EN) ]
+Super Mayonnay\0
+
+[@ITEM 187 (L2) ]
+\0
+
+[@ITEM 187 (FR) ]
+Super Mayo\0
+
+[@ITEM 188 (L1) ]
+\0
+
+[@ITEM 188 (EN) ]
+Black Tyrano\0
+
+[@ITEM 188 (L2) ]
+\0
+
+[@ITEM 188 (FR) ]
+Tyrannosaure\0
+
+[@ITEM 189 (L1) ]
+\0
+
+[@ITEM 189 (EN) ]
+Rust Tyrano\0
+
+[@ITEM 189 (L2) ]
+\0
+
+[@ITEM 189 (FR) ]
+Tyrannosaure noir\0
+
+[@ITEM 190 (L1) ]
+\0
+
+[@ITEM 190 (EN) ]
+Mother Brain\0
+
+[@ITEM 190 (L2) ]
+\0
+
+[@ITEM 190 (FR) ]
+Cerveau mère\0
+
+[@ITEM 191 (L1) ]
+\0
+
+[@ITEM 191 (EN) ]
+\0
+
+[@ITEM 191 (L2) ]
+\0
+
+[@ITEM 191 (FR) ]
+\0
+
+[@ITEM 192 (L1) ]
+\0
+
+[@ITEM 192 (EN) ]
+Atropos 145\0
+
+[@ITEM 192 (L2) ]
+\0
+
+[@ITEM 192 (FR) ]
+Atropos 145\0
+
+[@ITEM 193 (L1) ]
+\0
+
+[@ITEM 193 (EN) ]
+Great Goro\0
+
+[@ITEM 193 (L2) ]
+\0
+
+[@ITEM 193 (FR) ]
+Goro\0
+
+[@ITEM 194 (L1) ]
+\0
+
+[@ITEM 194 (EN) ]
+Lavos\0
+
+[@ITEM 194 (L2) ]
+\0
+
+[@ITEM 194 (FR) ]
+Lavos\0
+
+[@ITEM 195 (L1) ]
+\0
+
+[@ITEM 195 (EN) ]
+Lavos\0
+
+[@ITEM 195 (L2) ]
+\0
+
+[@ITEM 195 (FR) ]
+Lavos\0
+
+[@ITEM 196 (L1) ]
+\0
+
+[@ITEM 196 (EN) ]
+Lavos\0
+
+[@ITEM 196 (L2) ]
+\0
+
+[@ITEM 196 (FR) ]
+Lavos\0
+
+[@ITEM 197 (L1) ]
+\0
+
+[@ITEM 197 (EN) ]
+Lavos\0
+
+[@ITEM 197 (L2) ]
+\0
+
+[@ITEM 197 (FR) ]
+Lavos\0
+
+[@ITEM 198 (L1) ]
+\0
+
+[@ITEM 198 (EN) ]
+Lavos\0
+
+[@ITEM 198 (L2) ]
+\0
+
+[@ITEM 198 (FR) ]
+Lavos\0
+
+[@ITEM 199 (L1) ]
+\0
+
+[@ITEM 199 (EN) ]
+Yakra the 13th\0
+
+[@ITEM 199 (L2) ]
+\0
+
+[@ITEM 199 (FR) ]
+Yakra XIII\0
+
+[@ITEM 200 (L1) ]
+\0
+
+[@ITEM 200 (EN) ]
+Fat Beast\0
+
+[@ITEM 200 (L2) ]
+\0
+
+[@ITEM 200 (FR) ]
+Bête ventrue\0
+
+[@ITEM 201 (L1) ]
+\0
+
+[@ITEM 201 (EN) ]
+Lavos\0
+
+[@ITEM 201 (L2) ]
+\0
+
+[@ITEM 201 (FR) ]
+Lavos\0
+
+[@ITEM 202 (L1) ]
+\0
+
+[@ITEM 202 (EN) ]
+Lavos\0
+
+[@ITEM 202 (L2) ]
+\0
+
+[@ITEM 202 (FR) ]
+Lavos\0
+
+[@ITEM 203 (L1) ]
+\0
+
+[@ITEM 203 (EN) ]
+\0
+
+[@ITEM 203 (L2) ]
+\0
+
+[@ITEM 203 (FR) ]
+\0
+
+[@ITEM 204 (L1) ]
+\0
+
+[@ITEM 204 (EN) ]
+\0
+
+[@ITEM 204 (L2) ]
+\0
+
+[@ITEM 204 (FR) ]
+\0
+
+[@ITEM 205 (L1) ]
+\0
+
+[@ITEM 205 (EN) ]
+Lavos\0
+
+[@ITEM 205 (L2) ]
+\0
+
+[@ITEM 205 (FR) ]
+Lavos\0
+
+[@ITEM 206 (L1) ]
+\0
+
+[@ITEM 206 (EN) ]
+Lavos Core\0
+
+[@ITEM 206 (L2) ]
+\0
+
+[@ITEM 206 (FR) ]
+Cœur de Lavos\0
+
+[@ITEM 207 (L1) ]
+\0
+
+[@ITEM 207 (EN) ]
+Bit\0
+
+[@ITEM 207 (L2) ]
+\0
+
+[@ITEM 207 (FR) ]
+Module\0
+
+[@ITEM 208 (L1) ]
+\0
+
+[@ITEM 208 (EN) ]
+Byte\0
+
+[@ITEM 208 (L2) ]
+\0
+
+[@ITEM 208 (FR) ]
+Drone\0
+
+[@ITEM 209 (L1) ]
+\0
+
+[@ITEM 209 (EN) ]
+Giga Gaia\0
+
+[@ITEM 209 (L2) ]
+\0
+
+[@ITEM 209 (FR) ]
+Giga-Gaïa\0
+
+[@ITEM 210 (L1) ]
+\0
+
+[@ITEM 210 (EN) ]
+\0
+
+[@ITEM 210 (L2) ]
+\0
+
+[@ITEM 210 (FR) ]
+\0
+
+[@ITEM 211 (L1) ]
+\0
+
+[@ITEM 211 (EN) ]
+\0
+
+[@ITEM 211 (L2) ]
+\0
+
+[@ITEM 211 (FR) ]
+\0
+
+[@ITEM 212 (L1) ]
+\0
+
+[@ITEM 212 (EN) ]
+Guard Machine\0
+
+[@ITEM 212 (L2) ]
+\0
+
+[@ITEM 212 (FR) ]
+Gardien\0
+
+[@ITEM 213 (L1) ]
+\0
+
+[@ITEM 213 (EN) ]
+Scouter Red\0
+
+[@ITEM 213 (L2) ]
+\0
+
+[@ITEM 213 (FR) ]
+Éclaireur rouge\0
+
+[@ITEM 214 (L1) ]
+\0
+
+[@ITEM 214 (EN) ]
+Scouter Blue\0
+
+[@ITEM 214 (L2) ]
+\0
+
+[@ITEM 214 (FR) ]
+Éclaireur bleu\0
+
+[@ITEM 215 (L1) ]
+\0
+
+[@ITEM 215 (EN) ]
+Mini Lavos\0
+
+[@ITEM 215 (L2) ]
+\0
+
+[@ITEM 215 (FR) ]
+Larve de Lavos\0
+
+[@ITEM 216 (L1) ]
+\0
+
+[@ITEM 216 (EN) ]
+\0
+
+[@ITEM 216 (L2) ]
+\0
+
+[@ITEM 216 (FR) ]
+\0
+
+[@ITEM 217 (L1) ]
+\0
+
+[@ITEM 217 (EN) ]
+Laser Site\0
+
+[@ITEM 217 (L2) ]
+\0
+
+[@ITEM 217 (FR) ]
+Tourelle laser\0
+
+[@ITEM 218 (L1) ]
+\0
+
+[@ITEM 218 (EN) ]
+\0
+
+[@ITEM 218 (L2) ]
+\0
+
+[@ITEM 218 (FR) ]
+\0
+
+[@ITEM 219 (L1) ]
+\0
+
+[@ITEM 219 (EN) ]
+\0
+
+[@ITEM 219 (L2) ]
+\0
+
+[@ITEM 219 (FR) ]
+\0
+
+[@ITEM 220 (L1) ]
+\0
+
+[@ITEM 220 (EN) ]
+\0
+
+[@ITEM 220 (L2) ]
+\0
+
+[@ITEM 220 (FR) ]
+\0
+
+[@ITEM 221 (L1) ]
+\0
+
+[@ITEM 221 (EN) ]
+\0
+
+[@ITEM 221 (L2) ]
+\0
+
+[@ITEM 221 (FR) ]
+\0
+
+[@ITEM 222 (L1) ]
+\0
+
+[@ITEM 222 (EN) ]
+\0
+
+[@ITEM 222 (L2) ]
+\0
+
+[@ITEM 222 (FR) ]
+\0
+
+[@ITEM 223 (L1) ]
+\0
+
+[@ITEM 223 (EN) ]
+\0
+
+[@ITEM 223 (L2) ]
+\0
+
+[@ITEM 223 (FR) ]
+\0
+
+[@ITEM 224 (L1) ]
+\0
+
+[@ITEM 224 (EN) ]
+Spekkio\0
+
+[@ITEM 224 (L2) ]
+\0
+
+[@ITEM 224 (FR) ]
+Specchio\0
+
+[@ITEM 225 (L1) ]
+\0
+
+[@ITEM 225 (EN) ]
+Spekkio\0
+
+[@ITEM 225 (L2) ]
+\0
+
+[@ITEM 225 (FR) ]
+Specchio\0
+
+[@ITEM 226 (L1) ]
+\0
+
+[@ITEM 226 (EN) ]
+Spekkio\0
+
+[@ITEM 226 (L2) ]
+\0
+
+[@ITEM 226 (FR) ]
+Specchio\0
+
+[@ITEM 227 (L1) ]
+\0
+
+[@ITEM 227 (EN) ]
+Spekkio\0
+
+[@ITEM 227 (L2) ]
+\0
+
+[@ITEM 227 (FR) ]
+Specchio\0
+
+[@ITEM 228 (L1) ]
+\0
+
+[@ITEM 228 (EN) ]
+Spekkio\0
+
+[@ITEM 228 (L2) ]
+\0
+
+[@ITEM 228 (FR) ]
+Specchio\0
+
+[@ITEM 229 (L1) ]
+\0
+
+[@ITEM 229 (EN) ]
+Spekkio\0
+
+[@ITEM 229 (L2) ]
+\0
+
+[@ITEM 229 (FR) ]
+Specchio\0
+
+[@ITEM 230 (L1) ]
+\0
+
+[@ITEM 230 (EN) ]
+Lavos\0
+
+[@ITEM 230 (L2) ]
+\0
+
+[@ITEM 230 (FR) ]
+Lavos\0
+
+[@ITEM 231 (L1) ]
+\0
+
+[@ITEM 231 (EN) ]
+Lavos\0
+
+[@ITEM 231 (L2) ]
+\0
+
+[@ITEM 231 (FR) ]
+Lavos\0
+
+[@ITEM 232 (L1) ]
+\0
+
+[@ITEM 232 (EN) ]
+Lavos\0
+
+[@ITEM 232 (L2) ]
+\0
+
+[@ITEM 232 (FR) ]
+Lavos\0
+
+[@ITEM 233 (L1) ]
+\0
+
+[@ITEM 233 (EN) ]
+Lavos\0
+
+[@ITEM 233 (L2) ]
+\0
+
+[@ITEM 233 (FR) ]
+Lavos\0
+
+[@ITEM 234 (L1) ]
+\0
+
+[@ITEM 234 (EN) ]
+Lavos\0
+
+[@ITEM 234 (L2) ]
+\0
+
+[@ITEM 234 (FR) ]
+Lavos\0
+
+[@ITEM 235 (L1) ]
+\0
+
+[@ITEM 235 (EN) ]
+Lavos\0
+
+[@ITEM 235 (L2) ]
+\0
+
+[@ITEM 235 (FR) ]
+Lavos\0
+
+[@ITEM 236 (L1) ]
+\0
+
+[@ITEM 236 (EN) ]
+Lavos\0
+
+[@ITEM 236 (L2) ]
+\0
+
+[@ITEM 236 (FR) ]
+Lavos\0
+
+[@ITEM 237 (L1) ]
+\0
+
+[@ITEM 237 (EN) ]
+\0
+
+[@ITEM 237 (L2) ]
+\0
+
+[@ITEM 237 (FR) ]
+\0
+
+[@ITEM 238 (L1) ]
+\0
+
+[@ITEM 238 (EN) ]
+Laracargo\0
+
+[@ITEM 238 (L2) ]
+\0
+
+[@ITEM 238 (FR) ]
+Ralcargot\0
+
+[@ITEM 239 (L1) ]
+\0
+
+[@ITEM 239 (EN) ]
+\0
+
+[@ITEM 239 (L2) ]
+\0
+
+[@ITEM 239 (FR) ]
+\0
+
+[@ITEM 240 (L1) ]
+\0
+
+[@ITEM 240 (EN) ]
+Mayonnay?\0
+
+[@ITEM 240 (L2) ]
+\0
+
+[@ITEM 240 (FR) ]
+Mayo ?\0
+
+[@ITEM 241 (L1) ]
+\0
+
+[@ITEM 241 (EN) ]
+\0
+
+[@ITEM 241 (L2) ]
+\0
+
+[@ITEM 241 (FR) ]
+\0
+
+[@ITEM 242 (L1) ]
+\0
+
+[@ITEM 242 (EN) ]
+Marumaji Bomber\0
+
+[@ITEM 242 (L2) ]
+\0
+
+[@ITEM 242 (FR) ]
+Bombe maboule\0
+
+[@ITEM 243 (L1) ]
+\0
+
+[@ITEM 243 (EN) ]
+Master Golem\0
+
+[@ITEM 243 (L2) ]
+\0
+
+[@ITEM 243 (FR) ]
+Maître golem\0
+
+[@ITEM 244 (L1) ]
+\0
+
+[@ITEM 244 (EN) ]
+MONSTER\0
+
+[@ITEM 244 (L2) ]
+\0
+
+[@ITEM 244 (FR) ]
+Monstre\0
+
+[@ITEM 245 (L1) ]
+\0
+
+[@ITEM 245 (EN) ]
+Dalton Corps\0
+
+[@ITEM 245 (L2) ]
+\0
+
+[@ITEM 245 (FR) ]
+Soldat de Dalton\0
+
+[@ITEM 246 (L1) ]
+\0
+
+[@ITEM 246 (EN) ]
+Son of Sun\0
+
+[@ITEM 246 (L2) ]
+\0
+
+[@ITEM 246 (FR) ]
+Fils du soleil\0
+
+[@ITEM 247 (L1) ]
+\0
+
+[@ITEM 247 (EN) ]
+\0
+
+[@ITEM 247 (L2) ]
+\0
+
+[@ITEM 247 (FR) ]
+\0
+
+[@ITEM 248 (L1) ]
+\0
+
+[@ITEM 248 (EN) ]
+R Series\0
+
+[@ITEM 248 (L2) ]
+\0
+
+[@ITEM 248 (FR) ]
+Androïde série R\0
+
+[@ITEM 249 (L1) ]
+\0
+
+[@ITEM 249 (EN) ]
+Magus\0
+
+[@ITEM 249 (L2) ]
+\0
+
+[@ITEM 249 (FR) ]
+Magus\0
+
+[@ITEM 250 (L1) ]
+\0
+
+[@ITEM 250 (EN) ]
+Magus\0
+
+[@ITEM 250 (L2) ]
+\0
+
+[@ITEM 250 (FR) ]
+Magus\0
+
+[@ITEM 251 (L1) ]
+\0
+
+[@ITEM 251 (EN) ]
+\0
+
+[@ITEM 251 (L2) ]
+\0
+
+[@ITEM 251 (FR) ]
+\0
+
+[@ITEM 252 (L1) ]
+\0
+
+[@ITEM 252 (EN) ]
+Steel Shade\0
+
+[@ITEM 252 (L2) ]
+\0
+
+[@ITEM 252 (FR) ]
+Ombre noire\0
+
+[@ITEM 253 (L1) ]
+\0
+
+[@ITEM 253 (EN) ]
+Alabaster Shade\0
+
+[@ITEM 253 (L2) ]
+\0
+
+[@ITEM 253 (FR) ]
+Ombre blanche\0
+
+[@ITEM 254 (L1) ]
+\0
+
+[@ITEM 254 (EN) ]
+Crimson Shade\0
+
+[@ITEM 254 (L2) ]
+\0
+
+[@ITEM 254 (FR) ]
+Ombre rouge\0
+
+[@ITEM 255 (L1) ]
+\0
+
+[@ITEM 255 (EN) ]
+Dummy\0
+
+[@ITEM 255 (L2) ]
+\0
+
+[@ITEM 255 (FR) ]
+Factice\0
+
+[@ITEM 256 (L1) ]
+\0
+
+[@ITEM 256 (EN) ]
+Dummy\0
+
+[@ITEM 256 (L2) ]
+\0
+
+[@ITEM 256 (FR) ]
+Factice\0
+
+[@ITEM 257 (L1) ]
+\0
+
+[@ITEM 257 (EN) ]
+Dummy\0
+
+[@ITEM 257 (L2) ]
+\0
+
+[@ITEM 257 (FR) ]
+Factice\0
+
+[@ITEM 258 (L1) ]
+\0
+
+[@ITEM 258 (EN) ]
+Dummy\0
+
+[@ITEM 258 (L2) ]
+\0
+
+[@ITEM 258 (FR) ]
+Factice\0
+
+[@ITEM 259 (L1) ]
+\0
+
+[@ITEM 259 (EN) ]
+\0
+
+[@ITEM 259 (L2) ]
+\0
+
+[@ITEM 259 (FR) ]
+\0
+
+[@ITEM 260 (L1) ]
+\0
+
+[@ITEM 260 (EN) ]
+Exile\0
+
+[@ITEM 260 (L2) ]
+\0
+
+[@ITEM 260 (FR) ]
+Exilé\0
+
+[@ITEM 261 (L1) ]
+\0
+
+[@ITEM 261 (EN) ]
+Slate Imp\0
+
+[@ITEM 261 (L2) ]
+\0
+
+[@ITEM 261 (FR) ]
+Diablotin azur\0
+
+[@ITEM 262 (L1) ]
+\0
+
+[@ITEM 262 (EN) ]
+Pink Imp\0
+
+[@ITEM 262 (L2) ]
+\0
+
+[@ITEM 262 (FR) ]
+Diablotin rose\0
+
+[@ITEM 263 (L1) ]
+\0
+
+[@ITEM 263 (EN) ]
+Wonder Rock\0
+
+[@ITEM 263 (L2) ]
+\0
+
+[@ITEM 263 (FR) ]
+Rocher miraculeux\0
+
+[@ITEM 264 (L1) ]
+\0
+
+[@ITEM 264 (EN) ]
+Deathcreeper\0
+
+[@ITEM 264 (L2) ]
+\0
+
+[@ITEM 264 (FR) ]
+Âme du trépas\0
+
+[@ITEM 265 (L1) ]
+\0
+
+[@ITEM 265 (EN) ]
+Jackpot\0
+
+[@ITEM 265 (L2) ]
+\0
+
+[@ITEM 265 (FR) ]
+Jackpot\0
+
+[@ITEM 266 (L1) ]
+\0
+
+[@ITEM 266 (EN) ]
+Ogan Chieftain\0
+
+[@ITEM 266 (L2) ]
+\0
+
+[@ITEM 266 (FR) ]
+Chef ogan\0
+
+[@ITEM 267 (L1) ]
+\0
+
+[@ITEM 267 (EN) ]
+Ogan Youth\0
+
+[@ITEM 267 (L2) ]
+\0
+
+[@ITEM 267 (FR) ]
+Oganox\0
+
+[@ITEM 268 (L1) ]
+\0
+
+[@ITEM 268 (EN) ]
+Ogan Youth\0
+
+[@ITEM 268 (L2) ]
+\0
+
+[@ITEM 268 (FR) ]
+Oganox marteleur\0
+
+[@ITEM 269 (L1) ]
+\0
+
+[@ITEM 269 (EN) ]
+Kingfrog\0
+
+[@ITEM 269 (L2) ]
+\0
+
+[@ITEM 269 (FR) ]
+Sieur Batracien\0
+
+[@ITEM 270 (L1) ]
+\0
+
+[@ITEM 270 (EN) ]
+Dire Rat\0
+
+[@ITEM 270 (L2) ]
+\0
+
+[@ITEM 270 (FR) ]
+Rat géant\0
+
+[@ITEM 271 (L1) ]
+\0
+
+[@ITEM 271 (EN) ]
+Black Bat\0
+
+[@ITEM 271 (L2) ]
+\0
+
+[@ITEM 271 (FR) ]
+Vampire gris\0
+
+[@ITEM 272 (L1) ]
+\0
+
+[@ITEM 272 (EN) ]
+Chrysosaur\0
+
+[@ITEM 272 (L2) ]
+\0
+
+[@ITEM 272 (FR) ]
+Chrysosaure\0
+
+[@ITEM 273 (L1) ]
+\0
+
+[@ITEM 273 (EN) ]
+Pterranyx\0
+
+[@ITEM 273 (L2) ]
+\0
+
+[@ITEM 273 (FR) ]
+Ptéranyx\0
+
+[@ITEM 274 (L1) ]
+\0
+
+[@ITEM 274 (EN) ]
+Twin Snake\0
+
+[@ITEM 274 (L2) ]
+\0
+
+[@ITEM 274 (FR) ]
+Hydre verte\0
+
+[@ITEM 275 (L1) ]
+\0
+
+[@ITEM 275 (EN) ]
+Hercules Beetle\0
+
+[@ITEM 275 (L2) ]
+\0
+
+[@ITEM 275 (FR) ]
+Coléoptère d'airain\0
+
+[@ITEM 276 (L1) ]
+\0
+
+[@ITEM 276 (EN) ]
+Jadewing\0
+
+[@ITEM 276 (L2) ]
+\0
+
+[@ITEM 276 (FR) ]
+Ouhbouh vert\0
+
+[@ITEM 277 (L1) ]
+\0
+
+[@ITEM 277 (EN) ]
+Deathguard\0
+
+[@ITEM 277 (L2) ]
+\0
+
+[@ITEM 277 (FR) ]
+Sentinelle\0
+
+[@ITEM 278 (L1) ]
+\0
+
+[@ITEM 278 (EN) ]
+Bone Knight\0
+
+[@ITEM 278 (L2) ]
+\0
+
+[@ITEM 278 (FR) ]
+Chevalier osseux\0
+
+[@ITEM 279 (L1) ]
+\0
+
+[@ITEM 279 (EN) ]
+Soul Stalker\0
+
+[@ITEM 279 (L2) ]
+\0
+
+[@ITEM 279 (FR) ]
+Âme perdue\0
+
+[@ITEM 280 (L1) ]
+\0
+
+[@ITEM 280 (EN) ]
+Chaos Mage\0
+
+[@ITEM 280 (L2) ]
+\0
+
+[@ITEM 280 (FR) ]
+Mage du chaos\0
+
+[@ITEM 281 (L1) ]
+\0
+
+[@ITEM 281 (EN) ]
+Snowbeast\0
+
+[@ITEM 281 (L2) ]
+\0
+
+[@ITEM 281 (FR) ]
+Bête du blizzard\0
+
+[@ITEM 282 (L1) ]
+\0
+
+[@ITEM 282 (EN) ]
+Red Ghaj\0
+
+[@ITEM 282 (L2) ]
+\0
+
+[@ITEM 282 (FR) ]
+Créature abyssale\0
+
+[@ITEM 283 (L1) ]
+\0
+
+[@ITEM 283 (EN) ]
+Fireball\0
+
+[@ITEM 283 (L2) ]
+\0
+
+[@ITEM 283 (FR) ]
+Boule de feu\0
+
+[@ITEM 284 (L1) ]
+\0
+
+[@ITEM 284 (EN) ]
+Prototype\0
+
+[@ITEM 284 (L2) ]
+\0
+
+[@ITEM 284 (FR) ]
+Prototype\0
+
+[@ITEM 285 (L1) ]
+\0
+
+[@ITEM 285 (EN) ]
+Searcher\0
+
+[@ITEM 285 (L2) ]
+\0
+
+[@ITEM 285 (FR) ]
+Œil chercheur\0
+
+[@ITEM 286 (L1) ]
+\0
+
+[@ITEM 286 (EN) ]
+Iron Maiden\0
+
+[@ITEM 286 (L2) ]
+\0
+
+[@ITEM 286 (FR) ]
+Golem d'acier\0
+
+[@ITEM 287 (L1) ]
+\0
+
+[@ITEM 287 (EN) ]
+Goldhammer\0
+
+[@ITEM 287 (L2) ]
+\0
+
+[@ITEM 287 (FR) ]
+Ogon marteleur\0
+
+[@ITEM 288 (L1) ]
+\0
+
+[@ITEM 288 (EN) ]
+Nu Guardian\0
+
+[@ITEM 288 (L2) ]
+\0
+
+[@ITEM 288 (FR) ]
+Gnu gardien\0
+
+[@ITEM 289 (L1) ]
+\0
+
+[@ITEM 289 (EN) ]
+Nu Master\0
+
+[@ITEM 289 (L2) ]
+\0
+
+[@ITEM 289 (FR) ]
+Gnu expert\0
+
+[@ITEM 290 (L1) ]
+\0
+
+[@ITEM 290 (EN) ]
+Archaeofang\0
+
+[@ITEM 290 (L2) ]
+\0
+
+[@ITEM 290 (FR) ]
+Dinocroc\0
+
+[@ITEM 291 (L1) ]
+\0
+
+[@ITEM 291 (EN) ]
+Archaeofang\0
+
+[@ITEM 291 (L2) ]
+\0
+
+[@ITEM 291 (FR) ]
+Dinocroc\0
+
+[@ITEM 292 (L1) ]
+\0
+
+[@ITEM 292 (EN) ]
+Master-at-Arms\0
+
+[@ITEM 292 (L2) ]
+\0
+
+[@ITEM 292 (FR) ]
+Mikado sabreur\0
+
+[@ITEM 293 (L1) ]
+\0
+
+[@ITEM 293 (EN) ]
+Bladesman\0
+
+[@ITEM 293 (L2) ]
+\0
+
+[@ITEM 293 (FR) ]
+Épéiste\0
+
+[@ITEM 294 (L1) ]
+\0
+
+[@ITEM 294 (EN) ]
+Once-King Dalton \0
+
+[@ITEM 294 (L2) ]
+\0
+
+[@ITEM 294 (FR) ]
+Dalton le Grand\0
+
+[@ITEM 295 (L1) ]
+\0
+
+[@ITEM 295 (EN) ]
+Eggsterminator\0
+
+[@ITEM 295 (L2) ]
+\0
+
+[@ITEM 295 (FR) ]
+Sphérule auxiliaire\0
+
+[@ITEM 296 (L1) ]
+\0
+
+[@ITEM 296 (EN) ]
+Dream Devourer\0
+
+[@ITEM 296 (L2) ]
+\0
+
+[@ITEM 296 (FR) ]
+Onirophage\0
+
+[@ITEM 297 (L1) ]
+\0
+
+[@ITEM 297 (EN) ]
+Magus Effect\0
+
+[@ITEM 297 (L2) ]
+\0
+
+[@ITEM 297 (FR) ]
+Effet de Magus\0
+
+[@ITEM 298 (L1) ]
+\0
+
+[@ITEM 298 (EN) ]
+Crono Statue\0
+
+[@ITEM 298 (L2) ]
+\0
+
+[@ITEM 298 (FR) ]
+Statue de Chrono\0
+
+[@ITEM 299 (L1) ]
+\0
+
+[@ITEM 299 (EN) ]
+Marle Statue\0
+
+[@ITEM 299 (L2) ]
+\0
+
+[@ITEM 299 (FR) ]
+Statue de Marle\0
+
+[@ITEM 300 (L1) ]
+\0
+
+[@ITEM 300 (EN) ]
+Lucca Statue\0
+
+[@ITEM 300 (L2) ]
+\0
+
+[@ITEM 300 (FR) ]
+Statue de Lucca\0
+
+[@ITEM 301 (L1) ]
+\0
+
+[@ITEM 301 (EN) ]
+Robo Statue\0
+
+[@ITEM 301 (L2) ]
+\0
+
+[@ITEM 301 (FR) ]
+Statue de RoBo\0
+
+[@ITEM 302 (L1) ]
+\0
+
+[@ITEM 302 (EN) ]
+Frog Statue\0
+
+[@ITEM 302 (L2) ]
+\0
+
+[@ITEM 302 (FR) ]
+Statue de Gren\0
+
+[@ITEM 303 (L1) ]
+\0
+
+[@ITEM 303 (EN) ]
+Ayla Statue\0
+
+[@ITEM 303 (L2) ]
+\0
+
+[@ITEM 303 (FR) ]
+Statue de Ayla\0
+
+[@ITEM 304 (L1) ]
+\0
+
+[@ITEM 304 (EN) ]
+Magus Statue\0
+
+[@ITEM 304 (L2) ]
+\0
+
+[@ITEM 304 (FR) ]
+Statue de Magus\0
+
+[@ITEM 305 (L1) ]
+\0
+
+[@ITEM 305 (EN) ]
+Dummy\0
+
+[@ITEM 305 (L2) ]
+\0
+
+[@ITEM 305 (FR) ]
+Héraclès\0
+
+[@ITEM 306 (L1) ]
+\0
+
+[@ITEM 306 (EN) ]
+Dummy\0
+
+[@ITEM 306 (L2) ]
+\0
+
+[@ITEM 306 (FR) ]
+Chevalier sacré\0
+
+[@ITEM 307 (L1) ]
+\0
+
+[@ITEM 307 (EN) ]
+Dummy\0
+
+[@ITEM 307 (L2) ]
+\0
+
+[@ITEM 307 (FR) ]
+Gorgone\0
+
+[@ITEM 308 (L1) ]
+\0
+
+[@ITEM 308 (EN) ]
+Dummy\0
+
+[@ITEM 308 (L2) ]
+\0
+
+[@ITEM 308 (FR) ]
+Méduse\0
+
+[@ITEM 309 (L1) ]
+\0
+
+[@ITEM 309 (EN) ]
+Dummy\0
+
+[@ITEM 309 (L2) ]
+\0
+
+[@ITEM 309 (FR) ]
+Ombre d'ogan\0
+
+[@ITEM 310 (L1) ]
+\0
+
+[@ITEM 310 (EN) ]
+Dummy\0
+
+[@ITEM 310 (L2) ]
+\0
+
+[@ITEM 310 (FR) ]
+Hanzô\0
+
+[@ITEM 311 (L1) ]
+\0
+
+[@ITEM 311 (EN) ]
+Dummy\0
+
+[@ITEM 311 (L2) ]
+\0
+
+[@ITEM 311 (FR) ]
+Longinus\0
+
+[@ITEM 312 (L1) ]
+\0
+
+[@ITEM 312 (EN) ]
+Dummy\0
+
+[@ITEM 312 (L2) ]
+\0
+
+[@ITEM 312 (FR) ]
+Faucheur\0
+
+[@ITEM 313 (L1) ]
+\0
+
+[@ITEM 313 (EN) ]
+Dummy\0
+
+[@ITEM 313 (L2) ]
+\0
+
+[@ITEM 313 (FR) ]
+Goku\0
+
+[@ITEM 314 (L1) ]
+\0
+
+[@ITEM 314 (EN) ]
+Dummy\0
+
+[@ITEM 314 (L2) ]
+\0
+
+[@ITEM 314 (FR) ]
+Sprinteur\0
+
+[@ITEM 315 (L1) ]
+\0
+
+[@ITEM 315 (EN) ]
+Dummy\0
+
+[@ITEM 315 (L2) ]
+\0
+
+[@ITEM 315 (FR) ]
+Skanda\0
+
+[@ITEM 316 (L1) ]
+\0
+
+[@ITEM 316 (EN) ]
+Dummy\0
+
+[@ITEM 316 (L2) ]
+\0
+
+[@ITEM 316 (FR) ]
+Gigasaure\0
+
+[@ITEM 317 (L1) ]
+\0
+
+[@ITEM 317 (EN) ]
+Dummy\0
+
+[@ITEM 317 (L2) ]
+\0
+
+[@ITEM 317 (FR) ]
+Archimage\0
+
+[@ITEM 318 (L1) ]
+\0
+
+[@ITEM 318 (EN) ]
+Dummy\0
+
+[@ITEM 318 (L2) ]
+\0
+
+[@ITEM 318 (FR) ]
+Pétragargouille\0
+
+[@ITEM 319 (L1) ]
+\0
+
+[@ITEM 319 (EN) ]
+Dummy\0
+
+[@ITEM 319 (L2) ]
+\0
+
+[@ITEM 319 (FR) ]
+Gargouille occulte\0
+
+[@ITEM 320 (L1) ]
+\0
+
+[@ITEM 320 (EN) ]
+Dummy\0
+
+[@ITEM 320 (L2) ]
+\0
+
+[@ITEM 320 (FR) ]
+Ouroboros\0
+
+[@ITEM 321 (L1) ]
+\0
+
+[@ITEM 321 (EN) ]
+Dummy\0
+
+[@ITEM 321 (L2) ]
+\0
+
+[@ITEM 321 (FR) ]
+R70-Y\0
+
+[@ITEM 322 (L1) ]
+\0
+
+[@ITEM 322 (EN) ]
+Dummy\0
+
+[@ITEM 322 (L2) ]
+\0
+
+[@ITEM 322 (FR) ]
+Dokra\0
+
+[@ITEM 323 (L1) ]
+\0
+
+[@ITEM 323 (EN) ]
+Dummy\0
+
+[@ITEM 323 (L2) ]
+\0
+
+[@ITEM 323 (FR) ]
+Mastodonte\0
+
+[@ITEM 324 (L1) ]
+\0
+
+[@ITEM 324 (EN) ]
+Dummy\0
+
+[@ITEM 324 (L2) ]
+\0
+
+[@ITEM 324 (FR) ]
+Démon algide\0
+
+[@ITEM 325 (L1) ]
+\0
+
+[@ITEM 325 (EN) ]
+Dummy\0
+
+[@ITEM 325 (L2) ]
+\0
+
+[@ITEM 325 (FR) ]
+Larve ignée\0
+
+[@ITEM 326 (L1) ]
+\0
+
+[@ITEM 326 (EN) ]
+Dummy\0
+
+[@ITEM 326 (L2) ]
+\0
+
+[@ITEM 326 (FR) ]
+Larve aqueuse\0
+
+[@ITEM 327 (L1) ]
+\0
+
+[@ITEM 327 (EN) ]
+Dummy\0
+
+[@ITEM 327 (L2) ]
+\0
+
+[@ITEM 327 (FR) ]
+Larve céleste\0
+
+[@ITEM 328 (L1) ]
+\0
+
+[@ITEM 328 (EN) ]
+Dummy\0
+
+[@ITEM 328 (L2) ]
+\0
+
+[@ITEM 328 (FR) ]
+Larve chtonienne\0
+
+[@ITEM 329 (L1) ]
+\0
+
+[@ITEM 329 (EN) ]
+Dummy\0
+
+[@ITEM 329 (L2) ]
+\0
+
+[@ITEM 329 (FR) ]
+Macchabée\0
+
+[@ITEM 330 (L1) ]
+\0
+
+[@ITEM 330 (EN) ]
+Anatomy\0
+
+[@ITEM 330 (L2) ]
+\0
+
+[@ITEM 330 (FR) ]
+Trépassé\0
+
+[@ITEM 331 (L1) ]
+\0
+
+[@ITEM 331 (EN) ]
+Dummy\0
+
+[@ITEM 331 (L2) ]
+\0
+
+[@ITEM 331 (FR) ]
+Pierre irisée\0
+
+[@ITEM 332 (L1) ]
+\0
+
+[@ITEM 332 (EN) ]
+Dummy\0
+
+[@ITEM 332 (L2) ]
+\0
+
+[@ITEM 332 (FR) ]
+Factice\0
+
+[@ITEM 333 (L1) ]
+\0
+
+[@ITEM 333 (EN) ]
+Dummy\0
+
+[@ITEM 333 (L2) ]
+\0
+
+[@ITEM 333 (FR) ]
+Factice\0
+
+[@ITEM 334 (L1) ]
+\0
+
+[@ITEM 334 (EN) ]
+Dummy\0
+
+[@ITEM 334 (L2) ]
+\0
+
+[@ITEM 334 (FR) ]
+Factice\0
+
+[@ITEM 335 (L1) ]
+\0
+
+[@ITEM 335 (EN) ]
+Dummy\0
+
+[@ITEM 335 (L2) ]
+\0
+
+[@ITEM 335 (FR) ]
+Factice\0
+
+[@ITEM 336 (L1) ]
+\0
+
+[@ITEM 336 (EN) ]
+Dummy\0
+
+[@ITEM 336 (L2) ]
+\0
+
+[@ITEM 336 (FR) ]
+Factice\0
+
+[@ITEM 337 (L1) ]
+\0
+
+[@ITEM 337 (EN) ]
+Dummy\0
+
+[@ITEM 337 (L2) ]
+\0
+
+[@ITEM 337 (FR) ]
+Factice\0
+
+[@ITEM 338 (L1) ]
+\0
+
+[@ITEM 338 (EN) ]
+Dummy\0
+
+[@ITEM 338 (L2) ]
+\0
+
+[@ITEM 338 (FR) ]
+Factice\0
+
+[@ITEM 339 (L1) ]
+\0
+
+[@ITEM 339 (EN) ]
+Dummy\0
+
+[@ITEM 339 (L2) ]
+\0
+
+[@ITEM 339 (FR) ]
+Factice\0
+
+[@ITEM 340 (L1) ]
+\0
+
+[@ITEM 340 (EN) ]
+Dummy\0
+
+[@ITEM 340 (L2) ]
+\0
+
+[@ITEM 340 (FR) ]
+Factice\0
+
+[@ITEM 341 (L1) ]
+\0
+
+[@ITEM 341 (EN) ]
+Dummy\0
+
+[@ITEM 341 (L2) ]
+\0
+
+[@ITEM 341 (FR) ]
+Factice\0
+
+[@ITEM 342 (L1) ]
+\0
+
+[@ITEM 342 (EN) ]
+Dummy\0
+
+[@ITEM 342 (L2) ]
+\0
+
+[@ITEM 342 (FR) ]
+Factice\0
+
+[@ITEM 343 (L1) ]
+\0
+
+[@ITEM 343 (EN) ]
+Dummy\0
+
+[@ITEM 343 (L2) ]
+\0
+
+[@ITEM 343 (FR) ]
+Factice\0
+
+[@ITEM 344 (L1) ]
+\0
+
+[@ITEM 344 (EN) ]
+Dummy\0
+
+[@ITEM 344 (L2) ]
+\0
+
+[@ITEM 344 (FR) ]
+Factice\0
+
+[@ITEM 345 (L1) ]
+\0
+
+[@ITEM 345 (EN) ]
+Dummy\0
+
+[@ITEM 345 (L2) ]
+\0
+
+[@ITEM 345 (FR) ]
+Factice\0
+
+[@ITEM 346 (L1) ]
+\0
+
+[@ITEM 346 (EN) ]
+Dummy\0
+
+[@ITEM 346 (L2) ]
+\0
+
+[@ITEM 346 (FR) ]
+Factice\0
+
+[@ITEM 347 (L1) ]
+\0
+
+[@ITEM 347 (EN) ]
+Dummy\0
+
+[@ITEM 347 (L2) ]
+\0
+
+[@ITEM 347 (FR) ]
+Factice\0
+
+[@ITEM 348 (L1) ]
+\0
+
+[@ITEM 348 (EN) ]
+Dummy\0
+
+[@ITEM 348 (L2) ]
+\0
+
+[@ITEM 348 (FR) ]
+Factice\0
+
+[@ITEM 349 (L1) ]
+\0
+
+[@ITEM 349 (EN) ]
+Dummy\0
+
+[@ITEM 349 (L2) ]
+\0
+
+[@ITEM 349 (FR) ]
+Factice\0
+
+[@ITEM 350 (L1) ]
+\0
+
+[@ITEM 350 (EN) ]
+Dummy\0
+
+[@ITEM 350 (L2) ]
+\0
+
+[@ITEM 350 (FR) ]
+Factice\0
+
+[@ITEM 351 (L1) ]
+\0
+
+[@ITEM 351 (EN) ]
+Dummy\0
+
+[@ITEM 351 (L2) ]
+\0
+
+[@ITEM 351 (FR) ]
+Factice\0
+
+[@ITEM 352 (L1) ]
+\0
+
+[@ITEM 352 (EN) ]
+Dummy\0
+
+[@ITEM 352 (L2) ]
+\0
+
+[@ITEM 352 (FR) ]
+Factice\0
+
+[@ITEM 353 (L1) ]
+\0
+
+[@ITEM 353 (EN) ]
+Dummy\0
+
+[@ITEM 353 (L2) ]
+\0
+
+[@ITEM 353 (FR) ]
+Factice\0
+
+[@ITEM 354 (L1) ]
+\0
+
+[@ITEM 354 (EN) ]
+Dummy\0
+
+[@ITEM 354 (L2) ]
+\0
+
+[@ITEM 354 (FR) ]
+Factice\0
+
+[@ITEM 355 (L1) ]
+\0
+
+[@ITEM 355 (EN) ]
+Dummy\0
+
+[@ITEM 355 (L2) ]
+\0
+
+[@ITEM 355 (FR) ]
+Factice\0
+
+[@ITEM 356 (L1) ]
+\0
+
+[@ITEM 356 (EN) ]
+Dummy\0
+
+[@ITEM 356 (L2) ]
+\0
+
+[@ITEM 356 (FR) ]
+Factice\0
+
+[@ITEM 357 (L1) ]
+\0
+
+[@ITEM 357 (EN) ]
+Dummy\0
+
+[@ITEM 357 (L2) ]
+\0
+
+[@ITEM 357 (FR) ]
+Factice\0
+
+[@ITEM 358 (L1) ]
+\0
+
+[@ITEM 358 (EN) ]
+Dummy\0
+
+[@ITEM 358 (L2) ]
+\0
+
+[@ITEM 358 (FR) ]
+Factice\0
+
+[@ITEM 359 (L1) ]
+\0
+
+[@ITEM 359 (EN) ]
+Dummy\0
+
+[@ITEM 359 (L2) ]
+\0
+
+[@ITEM 359 (FR) ]
+Factice\0
+
+[@ITEM 360 (L1) ]
+\0
+
+[@ITEM 360 (EN) ]
+Dummy\0
+
+[@ITEM 360 (L2) ]
+\0
+
+[@ITEM 360 (FR) ]
+Factice\0
+
+[@ITEM 361 (L1) ]
+\0
+
+[@ITEM 361 (EN) ]
+Dummy\0
+
+[@ITEM 361 (L2) ]
+\0
+
+[@ITEM 361 (FR) ]
+Factice\0
+
+[@ITEM 362 (L1) ]
+\0
+
+[@ITEM 362 (EN) ]
+Dummy\0
+
+[@ITEM 362 (L2) ]
+\0
+
+[@ITEM 362 (FR) ]
+Factice\0
+
+[@ITEM 363 (L1) ]
+\0
+
+[@ITEM 363 (EN) ]
+Dummy\0
+
+[@ITEM 363 (L2) ]
+\0
+
+[@ITEM 363 (FR) ]
+Factice\0
+
+[@ITEM 364 (L1) ]
+\0
+
+[@ITEM 364 (EN) ]
+Dummy\0
+
+[@ITEM 364 (L2) ]
+\0
+
+[@ITEM 364 (FR) ]
+Factice\0
+
+[@ITEM 365 (L1) ]
+\0
+
+[@ITEM 365 (EN) ]
+Dummy\0
+
+[@ITEM 365 (L2) ]
+\0
+
+[@ITEM 365 (FR) ]
+Factice\0
+
+[@ITEM 366 (L1) ]
+\0
+
+[@ITEM 366 (EN) ]
+Dummy\0
+
+[@ITEM 366 (L2) ]
+\0
+
+[@ITEM 366 (FR) ]
+Factice\0
+
+[@ITEM 367 (L1) ]
+\0
+
+[@ITEM 367 (EN) ]
+Dummy\0
+
+[@ITEM 367 (L2) ]
+\0
+
+[@ITEM 367 (FR) ]
+Factice\0
+
+[@ITEM 368 (L1) ]
+\0
+
+[@ITEM 368 (EN) ]
+Dummy\0
+
+[@ITEM 368 (L2) ]
+\0
+
+[@ITEM 368 (FR) ]
+Factice\0
+
+[@ITEM 369 (L1) ]
+\0
+
+[@ITEM 369 (EN) ]
+Dummy\0
+
+[@ITEM 369 (L2) ]
+\0
+
+[@ITEM 369 (FR) ]
+Factice\0
+
+[@ITEM 370 (L1) ]
+\0
+
+[@ITEM 370 (EN) ]
+Dummy\0
+
+[@ITEM 370 (L2) ]
+\0
+
+[@ITEM 370 (FR) ]
+Factice\0
+
+[@ITEM 371 (L1) ]
+\0
+
+[@ITEM 371 (EN) ]
+Dummy\0
+
+[@ITEM 371 (L2) ]
+\0
+
+[@ITEM 371 (FR) ]
+Factice\0
+
+[@ITEM 372 (L1) ]
+\0
+
+[@ITEM 372 (EN) ]
+Dummy\0
+
+[@ITEM 372 (L2) ]
+\0
+
+[@ITEM 372 (FR) ]
+Factice\0
+
+[@ITEM 373 (L1) ]
+\0
+
+[@ITEM 373 (EN) ]
+Dummy\0
+
+[@ITEM 373 (L2) ]
+\0
+
+[@ITEM 373 (FR) ]
+Factice\0
+
+[@ITEM 374 (L1) ]
+\0
+
+[@ITEM 374 (EN) ]
+Dummy\0
+
+[@ITEM 374 (L2) ]
+\0
+
+[@ITEM 374 (FR) ]
+Factice\0
+
+[@ITEM 375 (L1) ]
+\0
+
+[@ITEM 375 (EN) ]
+Dummy\0
+
+[@ITEM 375 (L2) ]
+\0
+
+[@ITEM 375 (FR) ]
+Factice\0
+
+[@ITEM 376 (L1) ]
+\0
+
+[@ITEM 376 (EN) ]
+Dummy\0
+
+[@ITEM 376 (L2) ]
+\0
+
+[@ITEM 376 (FR) ]
+Factice\0
+
+[@ITEM 377 (L1) ]
+\0
+
+[@ITEM 377 (EN) ]
+Dummy\0
+
+[@ITEM 377 (L2) ]
+\0
+
+[@ITEM 377 (FR) ]
+Factice\0
+
+[@ITEM 378 (L1) ]
+\0
+
+[@ITEM 378 (EN) ]
+Dummy\0
+
+[@ITEM 378 (L2) ]
+\0
+
+[@ITEM 378 (FR) ]
+Factice\0
+
+[@ITEM 379 (L1) ]
+\0
+
+[@ITEM 379 (EN) ]
+Dummy\0
+
+[@ITEM 379 (L2) ]
+\0
+
+[@ITEM 379 (FR) ]
+Factice\0
+

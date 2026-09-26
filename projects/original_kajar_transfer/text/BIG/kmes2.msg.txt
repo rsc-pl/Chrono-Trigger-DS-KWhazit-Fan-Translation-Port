@@ -1,0 +1,3593 @@
+[@kmes2.msg]
+
+[@ITEM 0 (L1) ]
+\0
+
+[@ITEM 0 (EN) ]
+{MSGWND}
+Obtained {ITEM}!\0
+
+[@ITEM 0 (L2) ]
+\0
+
+[@ITEM 0 (FR) ]
+{MSGWND}
+Obtenu : {ITEM} !\0
+
+[@ITEM 1 (L1) ]
+\0
+
+[@ITEM 1 (EN) ]
+{MSGWND}
+Onimaru version up!
+Got {ITEM}!\0
+
+[@ITEM 1 (L2) ]
+\0
+
+[@ITEM 1 (FR) ]
+{MSGWND}
+Onimaru est devenu plus puissant !
+Vous obtenez Suzaku !\0
+
+[@ITEM 2 (L1) ]
+\0
+
+[@ITEM 2 (EN) ]
+{MSGWND}
+Siren version up!
+Got {ITEM}!\0
+
+[@ITEM 2 (L2) ]
+\0
+
+[@ITEM 2 (FR) ]
+{MSGWND}
+Sirène est devenue plus puissante !
+Vous obtenez Walkyrie !\0
+
+[@ITEM 3 (L1) ]
+\0
+
+[@ITEM 3 (EN) ]
+{MSGWND}
+Nova Armor version up!
+Got {ITEM}!\0
+
+[@ITEM 3 (L2) ]
+\0
+
+[@ITEM 3 (FR) ]
+{MSGWND}
+L'armure nova est devenue plus puissante !
+Vous obtenez une armure lunaire !\0
+
+[@ITEM 4 (L1) ]
+\0
+
+[@ITEM 4 (EN) ]
+Something inside reacted to the pendant and
+began glowing. Remove the contents?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 4 (L2) ]
+\0
+
+[@ITEM 4 (FR) ]
+Il y a quelque chose à l'intérieur qui luit à l'approche du
+pendentif. Voulez-vous le prendre ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 5 (L1) ]
+\0
+
+[@ITEM 5 (EN) ]
+......len......{WAIT}08{/WAIT}{CLOSE}
+G......le......{WAIT}08{/WAIT}{CLOSE}
+G......le......nn......{WAIT}08{/WAIT}{CLOSE}
+{MSGWND}
+G      le      nn      !\0
+
+[@ITEM 5 (L2) ]
+
+
+\0
+
+[@ITEM 5 (FR) ]
+... lenn...{WAIT}08{/WAIT}{CLOSE}
+
+Gle...{WAIT}08{/WAIT}{CLOSE}
+
+Glenn...{WAIT}08{/WAIT}{CLOSE}
+{MSGWND}
+Glenn !\0
+
+[@ITEM 6 (L1) ]
+\0
+
+[@ITEM 6 (EN) ]
+Nuguooooaah!\0
+
+[@ITEM 6 (L2) ]
+\0
+
+[@ITEM 6 (FR) ]
+Grrrrrr !\0
+
+[@ITEM 7 (L1) ]
+\0
+
+[@ITEM 7 (EN) ]
+{MSGWND}
+Cyris, a foolish man who challenged
+{Magus} in battle, sleeps here.\0
+
+[@ITEM 7 (L2) ]
+\0
+
+[@ITEM 7 (FR) ]
+{MSGWND}
+Ci-gît Cyrus, l'homme insensé qui
+osa défier {Magus} au combat.\0
+
+[@ITEM 8 (L1) ]
+\0
+
+[@ITEM 8 (EN) ]
+{MSGWND}
+The Hero Cyrus, who entrusted his hopes
+to his best friend Glenn, sleeps here.\0
+
+[@ITEM 8 (L2) ]
+\0
+
+[@ITEM 8 (FR) ]
+{MSGWND}
+Ci-gît Cyrus, le héros qui confia ses
+aspirations à son meilleur ami Glenn.\0
+
+[@ITEM 9 (L1) ]
+\0
+
+[@ITEM 9 (EN) ]
+{Robo}: We canNOT inflict damage!\0
+
+[@ITEM 9 (L2) ]
+\0
+
+[@ITEM 9 (FR) ]
+{Robo} : Mes attaques n'ont pas le moindre effet...\0
+
+[@ITEM 10 (L1) ]
+\0
+
+[@ITEM 10 (EN) ]
+{Ayla}: He too hard!\0
+
+[@ITEM 10 (L2) ]
+\0
+
+[@ITEM 10 (FR) ]
+{Ayla} : Armure trop dure !\0
+
+[@ITEM 11 (L1) ]
+\0
+
+[@ITEM 11 (EN) ]
+{Lucca}: What extraordinary defense power!\0
+
+[@ITEM 11 (L2) ]
+\0
+
+[@ITEM 11 (FR) ]
+{Lucca} : Quelle défense extraordinaire !\0
+
+[@ITEM 12 (L1) ]
+\0
+
+[@ITEM 12 (EN) ]
+{Frog}: Damn! How can my sword not work!\0
+
+[@ITEM 12 (L2) ]
+\0
+
+[@ITEM 12 (FR) ]
+{Frog} : Hum ! Mes attaques n'ont aucun effet !\0
+
+[@ITEM 13 (L1) ]
+\0
+
+[@ITEM 13 (EN) ]
+{Marle}: However we attack, it's just repelled!\0
+
+[@ITEM 13 (L2) ]
+\0
+
+[@ITEM 13 (FR) ]
+{Marle} : Nos attaques ne mènent à rien !\0
+
+[@ITEM 14 (L1) ]
+\0
+
+[@ITEM 14 (EN) ]
+{Frog}: Cyrus!?\0
+
+[@ITEM 14 (L2) ]
+\0
+
+[@ITEM 14 (FR) ]
+{Frog} : Cyrus...\0
+
+[@ITEM 15 (L1) ]
+\0
+
+[@ITEM 15 (EN) ]
+{Magus}: ......\0
+
+[@ITEM 15 (L2) ]
+\0
+
+[@ITEM 15 (FR) ]
+{Magus} : ...\0
+
+[@ITEM 16 (L1) ]
+\0
+
+[@ITEM 16 (EN) ]
+{Frog}: Cyrus!?
+It's me! It's Glenn!!\0
+
+[@ITEM 16 (L2) ]
+\0
+
+[@ITEM 16 (FR) ]
+{Frog} : Cyrus ?!
+C'est moi ! Glenn !!\0
+
+[@ITEM 17 (L1) ]
+\0
+
+[@ITEM 17 (EN) ]
+...... u......{PRESS_CLEAR}
+G...le.........nn......?\0
+
+[@ITEM 17 (L2) ]
+\0
+
+[@ITEM 17 (FR) ]
+...
+Oh...{PRESS_CLEAR}
+...
+Gl... enn...?\0
+
+[@ITEM 18 (L1) ]
+\0
+
+[@ITEM 18 (EN) ]
+{Frog}: Cyrus......{PRESS_CLEAR}
+Cyrus, I've returned.{PRESS_CLEAR}
+To fulfill the oath of that youthful day,
+And my final promise to you!!\0
+
+[@ITEM 18 (L2) ]
+\0
+
+[@ITEM 18 (FR) ]
+{Frog} : Cyrus...{PRESS_CLEAR}
+Je suis revenu, Cyrus, pour respecter mon serment
+de jeunesse et pour tenir la dernière promesse que
+je t'avais faite !\0
+
+[@ITEM 19 (L1) ]
+\0
+
+[@ITEM 19 (EN) ]
+Cyrus: Glenn......{PRESS_CLEAR}
+Well......
+Well done to have come so far for me......\0
+
+[@ITEM 19 (L2) ]
+\0
+
+[@ITEM 19 (FR) ]
+Cyrus : Glenn...{PRESS_CLEAR}
+Je...{PRESS_CLEAR}
+Je te félicite d'être parvenu jusqu'ici...\0
+
+[@ITEM 20 (L1) ]
+\0
+
+[@ITEM 20 (EN) ]
+{Frog}: Cyrus......{PRESS_CLEAR}
+You're...... feeling bitter towards me, aren't you......?\0
+
+[@ITEM 20 (L2) ]
+\0
+
+[@ITEM 20 (FR) ]
+{Frog} : Oh, Cyrus...{PRESS_CLEAR}
+Tu... me gardes rancune, n'est-ce pas ?\0
+
+[@ITEM 21 (L1) ]
+\0
+
+[@ITEM 21 (EN) ]
+Cyrus: Hu, hu......
+I wasn't such a fine knight as you are now......{PRESS_CLEAR}
+When my body was done in by {Magus}'s
+flames, my heart thought about the people left
+behind in this world and was disturbed into pieces.{PRESS_CLEAR}
+Of King Guardia......
+Queen Leene......
+{Magus}......{PRESS_CLEAR}
+And......
+Of you, my best friend......\0
+
+[@ITEM 21 (L2) ]
+\0
+
+[@ITEM 21 (FR) ]
+Cyrus : Ha, ha...{PRESS_CLEAR}
+Je n'étais pas un chevalier aussi remarquable que tu
+l'es maintenant...{PRESS_CLEAR}
+Alors que les flammes de {Magus} dévoraient mon
+corps, mon cœur sombrait dans le désarroi. Je pensais
+à ceux que je laisserais derrière moi...{PRESS_CLEAR}
+Le roi Gardia...
+La reine Lynne...
+{Magus}...{PRESS_CLEAR}
+Et toi, mon meilleur ami...\0
+
+[@ITEM 22 (L1) ]
+\0
+
+[@ITEM 22 (EN) ]
+Cyrus: However, the strength you have won over
+this long time ought to be the real thing......{PRESS_CLEAR}
+With this, I can reach sleep with no regrets......{PRESS_CLEAR}
+Farewell, Glenn......\0
+
+[@ITEM 22 (L2) ]
+\0
+
+[@ITEM 22 (FR) ]
+Cyrus : Cependant, la force que tu as acquise au fil de
+longues années me semble véritable...{PRESS_CLEAR}
+Sachant cela, je peux enfin dormir pour l'éternité, l'âme
+en paix...{PRESS_CLEAR}
+Adieu, Glenn...\0
+
+[@ITEM 23 (L1) ]
+\0
+
+[@ITEM 23 (EN) ]
+{Frog}: W, wait, Cyrus!
+I......{PRESS_CLEAR}
+I.........!\0
+
+[@ITEM 23 (L2) ]
+\0
+
+[@ITEM 23 (FR) ]
+{Frog} : Attends, Cyrus !
+Je...{PRESS_CLEAR}
+Je...!\0
+
+[@ITEM 24 (L1) ]
+\0
+
+[@ITEM 24 (EN) ]
+Cyrus: The Queen......
+Take care of Leene-sama......{PRESS_CLEAR}
+Farewell......
+My friend G......le.........nn............\0
+
+[@ITEM 24 (L2) ]
+\0
+
+[@ITEM 24 (FR) ]
+Cyrus : La reine...
+Prends soin de la reine...{PRESS_CLEAR}
+Adieu...{PRESS_CLEAR}
+Glenn... mon ami...\0
+
+[@ITEM 25 (L1) ]
+\0
+
+[@ITEM 25 (EN) ]
+{Frog}: Cyruuuuuus!\0
+
+[@ITEM 25 (L2) ]
+\0
+
+[@ITEM 25 (FR) ]
+{Frog} : Cyruuuuuuus !\0
+
+[@ITEM 26 (L1) ]
+\0
+
+[@ITEM 26 (EN) ]
+{Frog}: I'm sorry......
+Cyrus......\0
+
+[@ITEM 26 (L2) ]
+\0
+
+[@ITEM 26 (FR) ]
+{Frog} : Je suis désolé, Cyrus...\0
+
+[@ITEM 27 (L1) ]
+\0
+
+[@ITEM 27 (EN) ]
+{Frog}: !?\0
+
+[@ITEM 27 (L2) ]
+\0
+
+[@ITEM 27 (FR) ]
+{Frog} : ?!\0
+
+[@ITEM 28 (L1) ]
+\0
+
+[@ITEM 28 (EN) ]
+{Frog}: Th, the Grandleon?\0
+
+[@ITEM 28 (L2) ]
+\0
+
+[@ITEM 28 (FR) ]
+{Frog} : Grandléon vibre...\0
+
+[@ITEM 29 (L1) ]
+\0
+
+[@ITEM 29 (EN) ]
+{Frog}: This...... overflowing power......\0
+
+[@ITEM 29 (L2) ]
+\0
+
+[@ITEM 29 (FR) ]
+{Frog} : Elle semble déborder d'énergie !\0
+
+[@ITEM 30 (L1) ]
+\0
+
+[@ITEM 30 (EN) ]
+'Hu, hu......{PRESS_CLEAR}
+'Right!\0
+
+[@ITEM 30 (L2) ]
+\0
+
+[@ITEM 30 (FR) ]
+Hé, hé...{PRESS_CLEAR}
+C'est exact !\0
+
+[@ITEM 31 (L1) ]
+\0
+
+[@ITEM 31 (EN) ]
+Leon: You were troubled, weren't you.{PRESS_CLEAR}
+Gran: A Hero's strength is strength of will!{PRESS_CLEAR}
+Leon: It's not to atone for sins or anything like that.{PRESS_CLEAR}
+Gran: Your will, just now, had true strength!\0
+
+[@ITEM 31 (L2) ]
+\0
+
+[@ITEM 31 (FR) ]
+Léon : Tu étais tourmenté, n'est-ce pas ?{PRESS_CLEAR}
+Gran : La force d'un héros se mesure à l'aune de sa
+volonté !{PRESS_CLEAR}
+Léon : Tu sais désormais que nul ne peut avancer vers
+l'avenir lorsqu'il se tourne vers les erreurs du passé.{PRESS_CLEAR}
+Gran : Ta volonté possède désormais sa force
+véritable !\0
+
+[@ITEM 32 (L1) ]
+\0
+
+[@ITEM 32 (EN) ]
+{Frog}: My...... will......!\0
+
+[@ITEM 32 (L2) ]
+\0
+
+[@ITEM 32 (FR) ]
+{Frog} : Ma... volonté...!\0
+
+[@ITEM 33 (L1) ]
+\0
+
+[@ITEM 33 (EN) ]
+Leon: With this, we can let out our power with no
+regrets too, nii-chan!\0
+
+[@ITEM 33 (L2) ]
+\0
+
+[@ITEM 33 (FR) ]
+Léon : Maintenant, nous pourrons nous aussi montrer
+notre force sans réserve, qu'en dis-tu Gran ?\0
+
+[@ITEM 34 (L1) ]
+\0
+
+[@ITEM 34 (EN) ]
+Gran: You got it, Leon!\0
+
+[@ITEM 34 (L2) ]
+\0
+
+[@ITEM 34 (FR) ]
+Gran : Tu as raison, Léon !\0
+
+[@ITEM 35 (L1) ]
+\0
+
+[@ITEM 35 (EN) ]
+{Frog}: This......
+So THIS is the Grandleon's true form!!\0
+
+[@ITEM 35 (L2) ]
+\0
+
+[@ITEM 35 (FR) ]
+{Frog} : Je sens une force incroyable monter en
+moi...{PRESS_CLEAR}
+C'est donc ça, le vrai pouvoir de Grandléon ?\0
+
+[@ITEM 36 (L1) ]
+\0
+
+[@ITEM 36 (EN) ]
+{Frog}: Cyrus, I'm going.{PRESS_CLEAR}
+To fulfill your aspirations......
+That is......!\0
+
+[@ITEM 36 (L2) ]
+\0
+
+[@ITEM 36 (FR) ]
+{Frog} : Cyrus, je saurai réaliser tes aspirations...\0
+
+[@ITEM 37 (L1) ]
+\0
+
+[@ITEM 37 (EN) ]
+{Frog}: My final parting gift to you!\0
+
+[@ITEM 37 (L2) ]
+\0
+
+[@ITEM 37 (FR) ]
+{Frog} : Ce sera...{PRESS_CLEAR}
+... mon cadeau d'adieu !\0
+
+[@ITEM 38 (L1) ]
+\0
+
+[@ITEM 38 (EN) ]
+{Frog}: Come on, we're going......\0
+
+[@ITEM 38 (L2) ]
+\0
+
+[@ITEM 38 (FR) ]
+{Frog} : Partons...\0
+
+[@ITEM 39 (L1) ]
+\0
+
+[@ITEM 39 (EN) ]
+North of this town is what's left of an ancient fortress.
+They say it's been hundreds of years already since
+it went to ruin.\0
+
+[@ITEM 39 (L2) ]
+\0
+
+[@ITEM 39 (FR) ]
+Au nord du village se trouvent les vestiges d'un ancien
+château. On dit qu'il est en ruine depuis des siècles.\0
+
+[@ITEM 40 (L1) ]
+\0
+
+[@ITEM 40 (EN) ]
+North of this town is the Hero's Tomb.
+It's the place where the Hero Cyrus-sama, who
+challenged {Magus} to combat unaided in an
+attempt to save Guardia Kingdom, sleeps.\0
+
+[@ITEM 40 (L2) ]
+\0
+
+[@ITEM 40 (FR) ]
+Au nord du village se trouve la tombe du grand Cyrus.{PRESS_CLEAR}
+C'est un véritable héros qui défia le terrible {Magus}
+en combat singulier pour protéger le royaume de Gardia,
+il y a 400 ans.\0
+
+[@ITEM 41 (L1) ]
+\0
+
+[@ITEM 41 (EN) ]
+Huh? You intend to go to the Northern Ruins?
+The basement there has severe damage all over,
+so it's dangerous.\0
+
+[@ITEM 41 (L2) ]
+\0
+
+[@ITEM 41 (FR) ]
+Quoi ? Vous comptez aller au château en ruine ?
+Mais c'est dangereux, il y a des trous partout au
+sous-sol.\0
+
+[@ITEM 42 (L1) ]
+\0
+
+[@ITEM 42 (EN) ]
+The story of the Hero Cyrus who fought {Magus},
+and his best friend Glenn......
+It's a legend from long ago.\0
+
+[@ITEM 42 (L2) ]
+\0
+
+[@ITEM 42 (FR) ]
+L'histoire de Cyrus, le héros qui combattit {Magus},
+et de son ami Glenn est une légende vieille de 400 ans.\0
+
+[@ITEM 43 (L1) ]
+\0
+
+[@ITEM 43 (EN) ]
+Ghosts show up in the ruins north of town, they say!\0
+
+[@ITEM 43 (L2) ]
+\0
+
+[@ITEM 43 (FR) ]
+On dit qu'un fantôme hante les ruines situées au nord
+du village.\0
+
+[@ITEM 44 (L1) ]
+\0
+
+[@ITEM 44 (EN) ]
+Nothing's going on......
+Maybe I'll try going to Guardia Kingdom's
+Millennial Festival too?\0
+
+[@ITEM 44 (L2) ]
+\0
+
+[@ITEM 44 (FR) ]
+Je m'ennuie... Je devrais peut-être aller à la foire
+millénaire du royaume de Gardia, moi aussi.\0
+
+[@ITEM 45 (L1) ]
+\0
+
+[@ITEM 45 (EN) ]
+Hey, hey, have you heard, ma'am?
+There's rumors that ghosts show up in the
+Northern Ruins, you know?\0
+
+[@ITEM 45 (L2) ]
+\0
+
+[@ITEM 45 (FR) ]
+Dites, vous avez entendu ? Selon la rumeur, un fantôme
+hante le château en ruine !\0
+
+[@ITEM 46 (L1) ]
+\0
+
+[@ITEM 46 (EN) ]
+Oh my, that's scary!\0
+
+[@ITEM 46 (L2) ]
+\0
+
+[@ITEM 46 (FR) ]
+Ça me donne la chair de poule !\0
+
+[@ITEM 47 (L1) ]
+\0
+
+[@ITEM 47 (EN) ]
+Places like that, ghosts with regrets in this world
+gather......\0
+
+[@ITEM 47 (L2) ]
+\0
+
+[@ITEM 47 (FR) ]
+Les fantômes qui sont toujours attachés à ce monde se
+rassemblent souvent dans ce genre d'endroit...\0
+
+[@ITEM 48 (L1) ]
+\0
+
+[@ITEM 48 (EN) ]
+If the world's too peaceful, that means it's boring,
+ho, ho, ho.\0
+
+[@ITEM 48 (L2) ]
+\0
+
+[@ITEM 48 (FR) ]
+La vie serait d'un ennui si le monde était toujours en
+paix. Ho, ho, ho, ho !\0
+
+[@ITEM 49 (L1) ]
+\0
+
+[@ITEM 49 (EN) ]
+Suffusing the Northern Ruins......
+A deep grudge accumulated over 400 years......\0
+
+[@ITEM 49 (L2) ]
+\0
+
+[@ITEM 49 (FR) ]
+La haine des esprits tourmentés s'accumule depuis
+400 ans, imprégnant chaque pierre des ruines du
+château situé au nord du village...\0
+
+[@ITEM 50 (L1) ]
+\0
+
+[@ITEM 50 (EN) ]
+The Hero's Tomb is north of this town.
+Cyrus-sama, entombed there, is this town's
+guardian deity.\0
+
+[@ITEM 50 (L2) ]
+\0
+
+[@ITEM 50 (FR) ]
+La tombe du grand Cyrus, le saint patron de notre
+village, se trouve au nord d'ici.\0
+
+[@ITEM 51 (L1) ]
+\0
+
+[@ITEM 51 (EN) ]
+It looks like Toma went on a trip again, saying he'd
+look for the Rainbow-Colored Shell or something.\0
+
+[@ITEM 51 (L2) ]
+\0
+
+[@ITEM 51 (FR) ]
+Toma est reparti en voyage. Il a dit qu'il cherchait le
+coquillage arc-en-ciel, ou quelque chose du genre.\0
+
+[@ITEM 52 (L1) ]
+\0
+
+[@ITEM 52 (EN) ]
+The great explorer Toma's grave is on the Western
+Cape.
+But it seems that even Toma just wasn't able to
+obtain the rainbow shell.\0
+
+[@ITEM 52 (L2) ]
+\0
+
+[@ITEM 52 (FR) ]
+La tombe du grand explorateur Toma est située sur le
+cap ouest. On dit que le seul trésor qu'il n'a pas réussi
+à trouver est le coquillage arc-en-ciel.\0
+
+[@ITEM 53 (L1) ]
+\0
+
+[@ITEM 53 (EN) ]
+10 G for the night.
+Will you be staying?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 53 (L2) ]
+\0
+
+[@ITEM 53 (FR) ]
+Voulez-vous une chambre ?
+Cela vous coûtera 10 G.
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 54 (L1) ]
+\0
+
+[@ITEM 54 (EN) ]
+You don't have enough money.\0
+
+[@ITEM 54 (L2) ]
+\0
+
+[@ITEM 54 (FR) ]
+Vous n'avez pas assez d'argent.\0
+
+[@ITEM 55 (L1) ]
+\0
+
+[@ITEM 55 (EN) ]
+Welcome?\0
+
+[@ITEM 55 (L2) ]
+\0
+
+[@ITEM 55 (FR) ]
+Bienvenue !\0
+
+[@ITEM 56 (L1) ]
+\0
+
+[@ITEM 56 (EN) ]
+Can't sell a thing.
+And I went to the trouble of coming from Parepoley.{PRESS_CLEAR}
+You there, buy something.\0
+
+[@ITEM 56 (L2) ]
+\0
+
+[@ITEM 56 (FR) ]
+Les affaires vont mal ! Moi qui étais venu exprès de
+Palpori...{PRESS_CLEAR}
+Achetez-moi quelque chose, je vous en supplie !\0
+
+[@ITEM 57 (L1) ]
+\0
+
+[@ITEM 57 (EN) ]
+All the town's young ones went to Guardia
+Kingdom's Millennial Festival to have fun.
+That's why the young lately are so......\0
+
+[@ITEM 57 (L2) ]
+\0
+
+[@ITEM 57 (FR) ]
+Les jeunes gens du village sont partis s'amuser à
+la foire du millénaire de Gardia. Ah, la jeunesse
+d'aujourd'hui...\0
+
+[@ITEM 58 (L1) ]
+\0
+
+[@ITEM 58 (EN) ]
+I hear a monster carried something into the ruins
+north of this town about ten years ago.
+Rumor says it might be treasure......\0
+
+[@ITEM 58 (L2) ]
+\0
+
+[@ITEM 58 (FR) ]
+On raconte qu'un monstre a emporté quelque chose
+dans les ruines situées au nord du village il y a environ
+10 ans. La rumeur dit que ce pourrait être un trésor...\0
+
+[@ITEM 59 (L1) ]
+\0
+
+[@ITEM 59 (EN) ]
+The Northern Ruins......
+I can feel some uncommonly eerie something
+there......\0
+
+[@ITEM 59 (L2) ]
+\0
+
+[@ITEM 59 (FR) ]
+Le château en ruine... Il y a quelque chose de sinistre
+là-bas qui ne me dit rien qui vaille.\0
+
+[@ITEM 60 (L1) ]
+\0
+
+[@ITEM 60 (EN) ]
+The Hero's Tomb is north of this town.
+Cyrus-sama, Knight of Guardia Kingdom, is
+entombed there.\0
+
+[@ITEM 60 (L2) ]
+\0
+
+[@ITEM 60 (FR) ]
+La tombe du héros est située au nord du village.
+C'est là qu'est enterré Cyrus, un chevalier du
+royaume de Gardia.\0
+
+[@ITEM 61 (L1) ]
+\0
+
+[@ITEM 61 (EN) ]
+THE Cyrus-sama's grave is north of this town.
+Try going some time.\0
+
+[@ITEM 61 (L2) ]
+\0
+
+[@ITEM 61 (FR) ]
+La tombe de Cyrus est au nord du village. Vous devriez
+la visiter un de ces jours !\0
+
+[@ITEM 62 (L1) ]
+\0
+
+[@ITEM 62 (EN) ]
+Hey, did you guys know?
+About that ghost......
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 62 (L2) ]
+\0
+
+[@ITEM 62 (FR) ]
+Dites donc, vous avez entendu parler de ce
+fantôme ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 63 (L1) ]
+\0
+
+[@ITEM 63 (EN) ]
+Oh, you knew.
+Boring.\0
+
+[@ITEM 63 (L2) ]
+\0
+
+[@ITEM 63 (FR) ]
+Mince, moi qui pensais vous apprendre quelque chose...\0
+
+[@ITEM 64 (L1) ]
+\0
+
+[@ITEM 64 (EN) ]
+They say a ghost in the form of a fine knight from
+the past comes out in the Northern Ruins!{PRESS_CLEAR}
+It's like a horror story, so exciting.\0
+
+[@ITEM 64 (L2) ]
+\0
+
+[@ITEM 64 (FR) ]
+On dit qu'un fantôme à l'apparence d'un preux chevalier
+d'antan hante le château en ruine !{PRESS_CLEAR}
+Ça fait froid dans le dos, hein ?\0
+
+[@ITEM 65 (L1) ]
+\0
+
+[@ITEM 65 (EN) ]
+Hey, did you guys know?
+About that Cyrus-sama and his best friend......
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 65 (L2) ]
+\0
+
+[@ITEM 65 (FR) ]
+Vous connaissez l'histoire du meilleur ami de
+Cyrus ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 66 (L1) ]
+\0
+
+[@ITEM 66 (EN) ]
+Cyrus-sama had a best friend named Glenn!{PRESS_CLEAR}
+They say that Glenn took up the legendary sword
+and fought {Magus}'s army after Cyrus-sama was
+killed by {Magus}.{PRESS_CLEAR}
+That's male camaraderie, how moving.{56}\0
+
+[@ITEM 66 (L2) ]
+\0
+
+[@ITEM 66 (FR) ]
+On raconte que Cyrus avait un ami appelé Glenn !{PRESS_CLEAR}
+Après que Cyrus a péri aux mains de {Magus},
+Glenn aurait combattu l'armée du Magistère,
+brandissant l'épée légendaire.{PRESS_CLEAR}
+Ah, quelle belle amitié ! J'en ai les larmes aux yeux !\0
+
+[@ITEM 67 (L1) ]
+\0
+
+[@ITEM 67 (EN) ]
+I wish he would stay in this town forever......\0
+
+[@ITEM 67 (L2) ]
+\0
+
+[@ITEM 67 (FR) ]
+Toma... Si seulement il pouvait rester ici pour toujours...\0
+
+[@ITEM 68 (L1) ]
+\0
+
+[@ITEM 68 (EN) ]
+I wonder where Toma's traveling now......?\0
+
+[@ITEM 68 (L2) ]
+\0
+
+[@ITEM 68 (FR) ]
+Ah...
+Je me demande où est Toma en ce moment...\0
+
+[@ITEM 69 (L1) ]
+\0
+
+[@ITEM 69 (EN) ]
+Bring more sake!\0
+
+[@ITEM 69 (L2) ]
+\0
+
+[@ITEM 69 (FR) ]
+Hips ! Un autre verre, s'il vous plaît !\0
+
+[@ITEM 70 (L1) ]
+\0
+
+[@ITEM 70 (EN) ]
+Sir, you've had a bit too much to drink.\0
+
+[@ITEM 70 (L2) ]
+\0
+
+[@ITEM 70 (FR) ]
+Je crois que vous avez assez bu.\0
+
+[@ITEM 71 (L1) ]
+\0
+
+[@ITEM 71 (EN) ]
+Shaddup, a guys's drinkin and feelin good!
+What's wrong witha carpenter drinkin' sake!?\0
+
+[@ITEM 71 (L2) ]
+\0
+
+[@ITEM 71 (FR) ]
+La ferme ! Un charpentier peut même plus boire
+quelques petits verres en paix, maintenant ?\0
+
+[@ITEM 72 (L1) ]
+\0
+
+[@ITEM 72 (EN) ]
+This rich body and flavor that enchant the
+tongue......
+Khuuu! Can' help m'self!\0
+
+[@ITEM 72 (L2) ]
+\0
+
+[@ITEM 72 (FR) ]
+Ah, cette saveur corsée et moelleuse qui flatte le
+palais... Hum ! Je ne m'en lasserai jamais !\0
+
+[@ITEM 73 (L1) ]
+\0
+
+[@ITEM 73 (EN) ]
+Huh? Lend my carpentry tools?{PRESS_CLEAR}
+I dun really care, but whatcha gonna do with em'?
+......ah, never min'.
+I'm gonna drink summore before I go, so get
+an' the tools from my wife.\0
+
+[@ITEM 73 (L2) ]
+\0
+
+[@ITEM 73 (FR) ]
+Hein ? Vous voulez emprunter mes outils ?
+Je veux bien, mais qu'allez-vous en faire ?{PRESS_CLEAR}
+... Bah, peu importe. Je vais prendre encore un petit
+verre, alors allez les chercher chez moi. Vous n'avez
+qu'à demander à ma femme.\0
+
+[@ITEM 74 (L1) ]
+\0
+
+[@ITEM 74 (EN) ]
+Huh? When do I do my carpentry job if I'm
+always in the bar?
+Don't worry 'bout the hard stuff!\0
+
+[@ITEM 74 (L2) ]
+\0
+
+[@ITEM 74 (FR) ]
+Hein ? Si je suis toujours à la taverne, quand
+est-ce que j'ai le temps d'être charpentier ?
+Ça ne vous regarde pas !\0
+
+[@ITEM 75 (L1) ]
+\0
+
+[@ITEM 75 (EN) ]
+I'm gonna become a carpenter like papa when
+I grow up!\0
+
+[@ITEM 75 (L2) ]
+\0
+
+[@ITEM 75 (FR) ]
+Quand je serai grand, je veux devenir charpentier,
+comme papa !\0
+
+[@ITEM 76 (L1) ]
+\0
+
+[@ITEM 76 (EN) ]
+That husband of mine is always getting drunk
+off his ass at the bar!
+I've gotta beat some sense into him this time.\0
+
+[@ITEM 76 (L2) ]
+\0
+
+[@ITEM 76 (FR) ]
+Mon mari n'est qu'un ivrogne ! Il passe sa vie à la
+taverne ! Je vais lui dire ma façon de penser quand
+il va rentrer !\0
+
+[@ITEM 77 (L1) ]
+\0
+
+[@ITEM 77 (EN) ]
+Huh, carpentry tools?
+Wait a sec.\0
+
+[@ITEM 77 (L2) ]
+\0
+
+[@ITEM 77 (FR) ]
+Hein ? Ses outils ? Si vous voulez, pour ce qu'il en fait,
+de toute façon. Une minute...\0
+
+[@ITEM 78 (L1) ]
+\0
+
+[@ITEM 78 (EN) ]
+Use them with care.\0
+
+[@ITEM 78 (L2) ]
+\0
+
+[@ITEM 78 (FR) ]
+Prenez-en soin.\0
+
+[@ITEM 79 (L1) ]
+\0
+
+[@ITEM 79 (EN) ]
+My carpentry tools got stolen......
+Can't do my job, not like this.\0
+
+[@ITEM 79 (L2) ]
+\0
+
+[@ITEM 79 (FR) ]
+On a volé mes outils... Je ne peux pas travailler sans
+eux.\0
+
+[@ITEM 80 (L1) ]
+\0
+
+[@ITEM 80 (EN) ]
+Oh, it's you.
+You got carpenter tools, doncha?{PRESS_CLEAR}
+You gonna give 'em to me?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 80 (L2) ]
+\0
+
+[@ITEM 80 (FR) ]
+Oh, vous avez des outils !{PRESS_CLEAR}
+Vous ne pourriez pas me les donner, dites ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 81 (L1) ]
+\0
+
+[@ITEM 81 (EN) ]
+Oh, thanks.
+Now I can do my job!\0
+
+[@ITEM 81 (L2) ]
+\0
+
+[@ITEM 81 (FR) ]
+Ah, merci bien ! Avec eux, je vais pouvoir me mettre au
+travail !\0
+
+[@ITEM 82 (L1) ]
+\0
+
+[@ITEM 82 (EN) ]
+Dammit......\0
+
+[@ITEM 82 (L2) ]
+\0
+
+[@ITEM 82 (FR) ]
+Dommage...\0
+
+[@ITEM 83 (L1) ]
+\0
+
+[@ITEM 83 (EN) ]
+Thanks for before.
+Now I can do my job too!{PRESS_CLEAR}
+All right! To start with, I guess I'll fix up the
+Northern Ruins or something!\0
+
+[@ITEM 83 (L2) ]
+\0
+
+[@ITEM 83 (FR) ]
+Merci encore de m'avoir donné ces outils. Je vais
+pouvoir me mettre au travail !{PRESS_CLEAR}
+Bon ! Je crois que je vais commencer par rénover le
+château en ruine !\0
+
+[@ITEM 84 (L1) ]
+\0
+
+[@ITEM 84 (EN) ]
+We're going, ya maggots!{PRESS_CLEAR}
+Gotcha! Boss!\0
+
+[@ITEM 84 (L2) ]
+\0
+
+[@ITEM 84 (FR) ]
+Allez, les garçons ! Dépêchez-vous !{PRESS_CLEAR}
+Oui, patron !\0
+
+[@ITEM 85 (L1) ]
+\0
+
+[@ITEM 85 (EN) ]
+You want the northern ruins repaired?
+2000 G ought to cover the cost.
+\t\t{SEL1}Pay.{/SEL1}
+\t\t{SEL2}Don't pay.{/SEL2}\0
+
+[@ITEM 85 (L2) ]
+\0
+
+[@ITEM 85 (FR) ]
+Vous voulez faire rénover le château en ruine ?
+Cela vous coûtera 2000 G.
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 86 (L1) ]
+\0
+
+[@ITEM 86 (EN) ]
+If you ain't got the money, it ain't happening.\0
+
+[@ITEM 86 (L2) ]
+\0
+
+[@ITEM 86 (FR) ]
+Si vous n'avez pas l'argent, nous ne pouvons pas
+travailler.\0
+
+[@ITEM 87 (L1) ]
+\0
+
+[@ITEM 87 (EN) ]
+We can't fix the places where the monsters
+are hanging out.
+When a floor's monsters are all wiped out,
+come ask us again.
+We'll fix it for ya.\0
+
+[@ITEM 87 (L2) ]
+\0
+
+[@ITEM 87 (FR) ]
+Nous ne pouvons pas réparer les endroits où il y a des
+monstres.{PRESS_CLEAR}
+Revenez me voir quand vous les aurez tous éliminés,
+nous continuerons les rénovations.\0
+
+[@ITEM 88 (L1) ]
+\0
+
+[@ITEM 88 (EN) ]
+There aren't any places left any more that we
+can repair.\0
+
+[@ITEM 88 (L2) ]
+\0
+
+[@ITEM 88 (FR) ]
+Nous avons terminé les rénovations.\0
+
+[@ITEM 89 (L1) ]
+\0
+
+[@ITEM 89 (EN) ]
+We fixed it.\0
+
+[@ITEM 89 (L2) ]
+\0
+
+[@ITEM 89 (FR) ]
+Nous avons rénové tout ce que nous avons pu.\0
+
+[@ITEM 90 (L1) ]
+\0
+
+[@ITEM 90 (EN) ]
+We're apprentice carpenters.\0
+
+[@ITEM 90 (L2) ]
+\0
+
+[@ITEM 90 (FR) ]
+Nous sommes des apprentis charpentiers.\0
+
+[@ITEM 91 (L1) ]
+\0
+
+[@ITEM 91 (EN) ]
+ass at the bar.\0
+
+[@ITEM 91 (L2) ]
+\0
+
+[@ITEM 91 (FR) ]
+Notre patron est collé au comptoir de la taverne.\0
+
+[@ITEM 92 (L1) ]
+\0
+
+[@ITEM 92 (EN) ]
+Toma: Yo, {HERO1}.
+I finally found a lead on the Rainbow-Colored
+Shell.{PRESS_CLEAR}
+But, just this once, I'm getting a dangerous sort of
+feeling.
+Oh yeah, I'll leave this with you.\0
+
+[@ITEM 92 (L2) ]
+\0
+
+[@ITEM 92 (FR) ]
+Toma : Bonjour, {HERO1}. Je viens enfin de recevoir
+un tuyau au sujet de l'emplacement du coquillage
+arc-en-ciel.{PRESS_CLEAR}
+Néanmoins, cette fois, j'ai un mauvais pressentiment.
+Tenez, je vous confie ceci.\0
+
+[@ITEM 93 (L1) ]
+\0
+
+[@ITEM 93 (EN) ]
+Toma: If I die, pour this sake on my grave.{PRESS_CLEAR}
+......keh, it's like I'm jinxing myself.\0
+
+[@ITEM 93 (L2) ]
+\0
+
+[@ITEM 93 (FR) ]
+Toma : Si je ne rentre pas vivant, versez-le sur ma
+tombe.{PRESS_CLEAR}
+...
+Hum, je pourrais me porter malheur, si je continue !\0
+
+[@ITEM 94 (L1) ]
+\0
+
+[@ITEM 94 (EN) ]
+{MSGWND}3/6, Kingdom Year 634.
+The great explorer Toma Levine sleeps
+here......\0
+
+[@ITEM 94 (L2) ]
+\0
+
+[@ITEM 94 (FR) ]
+{MSGWND}Ci-gît Toma Levine,
+le grand explorateur.
+6 / 3 / 634\0
+
+[@ITEM 95 (L1) ]
+\0
+
+[@ITEM 95 (EN) ]
+Toma: Yo, {HERO1}, long time no see.{PRESS_CLEAR}
+I finally found the Rainbow-Colored Shell.\0
+
+[@ITEM 95 (L2) ]
+\0
+
+[@ITEM 95 (FR) ]
+Toma : Ça fait un bail, {HERO1} !{PRESS_CLEAR}
+J'ai finalement trouvé le coquillage arc-en-ciel.\0
+
+[@ITEM 96 (L1) ]
+\0
+
+[@ITEM 96 (EN) ]
+Toma: There's an island called Giant's Claw on the
+ocean northwest from this cape.
+The Rainbow-Colored Shell is there.\0
+
+[@ITEM 96 (L2) ]
+\0
+
+[@ITEM 96 (FR) ]
+Toma : Au nord-ouest de ce cap se trouve une île
+surnommée la griffe du géant. C'est sur cette île
+que se trouve le coquillage arc-en-ciel.\0
+
+[@ITEM 97 (L1) ]
+\0
+
+[@ITEM 97 (EN) ]
+Toma: But be careful.
+There's hordes of monsters over there.\0
+
+[@ITEM 97 (L2) ]
+\0
+
+[@ITEM 97 (FR) ]
+Toma : Toutefois, soyez prudents ! L'île fourmille de
+monstres.\0
+
+[@ITEM 98 (L1) ]
+\0
+
+[@ITEM 98 (EN) ]
+Toma: Well, it's time I left.\0
+
+[@ITEM 98 (L2) ]
+\0
+
+[@ITEM 98 (FR) ]
+Toma : Il est temps pour moi de partir.\0
+
+[@ITEM 99 (L1) ]
+\0
+
+[@ITEM 99 (EN) ]
+Toma: The sake I drink with you really is the best.{PRESS_CLEAR}
+See ya......\0
+
+[@ITEM 99 (L2) ]
+\0
+
+[@ITEM 99 (FR) ]
+Toma : C'était vraiment super de prendre un dernier
+verre avec vous !{PRESS_CLEAR}
+Adieu...\0
+
+[@ITEM 100 (L1) ]
+\0
+
+[@ITEM 100 (EN) ]
+Toma: Yo, {HERO1}, I hear you found the rainbow
+shell?{PRESS_CLEAR}
+Guess I got beaten to it.
+Don't worry about it.
+I didn't stand a chance against the dinosaurs
+over there anyway.{PRESS_CLEAR}
+Okay, I'll aim for the legendary Sun Stone next!\0
+
+[@ITEM 100 (L2) ]
+\0
+
+[@ITEM 100 (FR) ]
+Toma : Bonjour, {HERO1} ! J'ai entendu dire que vous
+aviez trouvé le coquillage arc-en-ciel ! Zut ! Vous m'avez
+devancé !{PRESS_CLEAR}
+Ce n'est pas grave. De toute façon, je n'aurais pas été
+de taille contre un dinosaure !{PRESS_CLEAR}
+Prochain défi : trouver la légendaire pierre du soleil !\0
+
+[@ITEM 101 (L1) ]
+\0
+
+[@ITEM 101 (EN) ]
+Toma the 13th: Know about the legendary Sun Stone?{PRESS_CLEAR}
+Seems you can make an amazing weapon if you
+cross it with the rainbow shell treasure that Toma
+the 1st got beaten to.
+Found that info in an ancient book.\0
+
+[@ITEM 101 (L2) ]
+\0
+
+[@ITEM 101 (FR) ]
+Toma XIII : Avez-vous entendu parler de la légendaire
+pierre du soleil ?{PRESS_CLEAR}
+On raconte qu'on pourrait fabriquer des armes
+surpuissantes en la combinant au coquillage
+arc-en-ciel.{PRESS_CLEAR}
+Je l'ai découvert en lisant des manuscrits anciens.\0
+
+[@ITEM 102 (L1) ]
+\0
+
+[@ITEM 102 (EN) ]
+Fiona: My husband Marco is still out fighting
+as a soldier and hasn't come back......{PRESS_CLEAR}
+The two of us grew up in this forest.
+I want to at least protect this forest.
+Until the day when Marco comes back......\0
+
+[@ITEM 102 (L2) ]
+\0
+
+[@ITEM 102 (FR) ]
+Fiona : Mon mari, Marco, n'est toujours pas rentré de la
+guerre...{PRESS_CLEAR}
+C'est dans cette forêt que nous avons grandi, alors je
+veux au moins la protéger jusqu'à ce qu'il revienne.\0
+
+[@ITEM 103 (L1) ]
+\0
+
+[@ITEM 103 (EN) ]
+Fiona: Most of the trees growing in this forest were
+lost in the battle with {Magus}'s army.
+I'm planting trees to protect the green of the forest,
+but they soon wither......\0
+
+[@ITEM 103 (L2) ]
+\0
+
+[@ITEM 103 (FR) ]
+Fiona : Une grande partie de la forêt a été rasée au
+cours de la guerre contre le Magistère.{PRESS_CLEAR}
+Je replante des arbres pour entretenir la forêt, mais ils
+meurent tous immédiatement...\0
+
+[@ITEM 104 (L1) ]
+\0
+
+[@ITEM 104 (EN) ]
+Fiona: Whatever I plant, it soon withers......
+It's the doing of monsters that have settled down
+somewhere in the desert.\0
+
+[@ITEM 104 (L2) ]
+\0
+
+[@ITEM 104 (FR) ]
+Fiona : Quoi que je plante, tout meurt aussitôt...
+C'est l'œuvre des monstres qui se sont installés
+quelque part dans le désert.\0
+
+[@ITEM 105 (L1) ]
+\0
+
+[@ITEM 105 (EN) ]
+Fiona: If I were to plant this seedling with mysterious
+powers that was passed down for generations, it
+could even restore this desert to green earth, but......{PRESS_CLEAR}
+I can't plant it with monsters nesting in the desert
+cave......\0
+
+[@ITEM 105 (L2) ]
+\0
+
+[@ITEM 105 (FR) ]
+Fiona : Si je plantais ce jeune arbre aux pouvoirs
+mystérieux qui s'est transmis de génération en
+génération, je pourrais transformer ce désert en
+forêt verdoyante, mais...{PRESS_CLEAR}
+Je ne voudrais pas qu'il meure lui aussi à cause
+des monstres qui ont fait leur nid dans le désert
+souterrain...\0
+
+[@ITEM 106 (L1) ]
+\0
+
+[@ITEM 106 (EN) ]
+Fiona: My husband Marco, who, as a soldier,
+went to fight Magus's army, has returned to
+me......{PRESS_CLEAR}
+I, I......\0
+
+[@ITEM 106 (L2) ]
+\0
+
+[@ITEM 106 (FR) ]
+Fiona : Mon mari, Marco, est rentré de la guerre contre
+l'armée du Magistère !{PRESS_CLEAR}
+Je...\0
+
+[@ITEM 107 (L1) ]
+\0
+
+[@ITEM 107 (EN) ]
+Marco: From now on, we'll be together for good.\0
+
+[@ITEM 107 (L2) ]
+\0
+
+[@ITEM 107 (FR) ]
+Marco : Ne t'inquiète pas. À partir de maintenant, je
+serai toujours avec toi.\0
+
+[@ITEM 108 (L1) ]
+\0
+
+[@ITEM 108 (EN) ]
+Marco: It seems that the monsters nesting
+in the desert cave are weak against water.
+But beating those monsters with my power......{56}\0
+
+[@ITEM 108 (L2) ]
+\0
+
+[@ITEM 108 (FR) ]
+Marco : Il semble que les monstres du désert craignent
+l'eau. Néanmoins, je n'ai pas les moyens de les vaincre...\0
+
+[@ITEM 109 (L1) ]
+\0
+
+[@ITEM 109 (EN) ]
+Marco: I can't believe you exterminated those
+monsters for us!
+How can we thank you......?\0
+
+[@ITEM 109 (L2) ]
+\0
+
+[@ITEM 109 (FR) ]
+Marco : Vous avez vaincu les monstres ? Je ne sais
+comment vous remercier !\0
+
+[@ITEM 110 (L1) ]
+\0
+
+[@ITEM 110 (EN) ]
+Marco: The battle with the monsters has ended.
+However, a long battle awaits us to return this
+forest to its original form now that it has become
+a desert.\0
+
+[@ITEM 110 (L2) ]
+\0
+
+[@ITEM 110 (FR) ]
+Marco : Les monstres ont été éliminés, mais nous
+devrons désormais nous battre pour que ce désert
+redevienne la forêt qu'il était auparavant.\0
+
+[@ITEM 111 (L1) ]
+\0
+
+[@ITEM 111 (EN) ]
+Fiona: Thank you for exterminating the
+monsters for us.
+I too will try doing all I can once more.{PRESS_CLEAR}
+But, to make the desert into forest once more,
+we need an unimaginably long time......{PRESS_CLEAR}
+Aaah......
+If only there was someone who could keep
+working even for hundreds of years, we could
+turn this desert back to forest......\0
+
+[@ITEM 111 (L2) ]
+\0
+
+[@ITEM 111 (FR) ]
+Fiona : Je vous remercie d'avoir vaincu les monstres
+pour nous. Je vais recommencer à planter la forêt.{PRESS_CLEAR}
+Toutefois, il faudra un temps incalculable pour
+transformer le désert en forêt...{PRESS_CLEAR}
+Si seulement il y avait quelqu'un capable de travailler
+sans répit pendant des siècles, nous pourrions réussir...\0
+
+[@ITEM 112 (L1) ]
+\0
+
+[@ITEM 112 (EN) ]
+{Robo}: ......
+How about it, EVERYONE?{PRESS_CLEAR}
+That is, I shall remain HERE and act as
+Fiona-san's HELPER.
+You can just COLLECT ME after THIS
+desert has been revived as forest.{PRESS_CLEAR}
+May I remain HERE
+and act as HELPER?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 112 (L2) ]
+\0
+
+[@ITEM 112 (FR) ]
+{Robo} : ...{PRESS_CLEAR}
+Je pourrais rester ici pour aider Fiona. Vous n'aurez
+qu'à venir me récupérer lorsque le désert sera
+redevenu une forêt.{PRESS_CLEAR}
+Qu'en dites-vous ? Puis-je demeurer ici pour lui prêter
+main-forte ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 113 (L1) ]
+\0
+
+[@ITEM 113 (EN) ]
+Fiona: Thanks to {Robo}-san, it looks like my dream
+of returning this desert to forest will be realized.
+How can I thank you......?\0
+
+[@ITEM 113 (L2) ]
+\0
+
+[@ITEM 113 (FR) ]
+Fiona : Grâce à {Robo}, on dirait que je vais pouvoir
+réaliser mon rêve de replanter la forêt. Je ne sais
+comment vous remercier.\0
+
+[@ITEM 114 (L1) ]
+\0
+
+[@ITEM 114 (EN) ]
+This is Fiona's Temple.
+It is a temple dedicated to Fiona-sama and
+{Robo}-sama, who made revive the forest that
+was turned to desert in the war with {Magus}
+400 years ago.\0
+
+[@ITEM 114 (L2) ]
+\0
+
+[@ITEM 114 (FR) ]
+Bienvenue au sanctuaire de Fiona.{PRESS_CLEAR}
+Il est dédié à Fiona et à {Robo}, grâce à qui la
+forêt qui était devenue un désert pendant la guerre
+contre {Magus}, il y a 400 ans, a été replantée.\0
+
+[@ITEM 115 (L1) ]
+\0
+
+[@ITEM 115 (EN) ]
+Within this temple, the holy relic of
+{Robo}-sama is enshrined.\0
+
+[@ITEM 115 (L2) ]
+\0
+
+[@ITEM 115 (FR) ]
+Le corps immortel de {Robo} est exposé au fond du
+sanctuaire.\0
+
+[@ITEM 116 (L1) ]
+\0
+
+[@ITEM 116 (EN) ]
+{Robo}: TH, THIS PLACE is......\0
+
+[@ITEM 116 (L2) ]
+\0
+
+[@ITEM 116 (FR) ]
+{Robo} : Où suis-je...?\0
+
+[@ITEM 117 (L1) ]
+\0
+
+[@ITEM 117 (EN) ]
+{Robo}: OH......{PRESS_CLEAR}
+OHH......
+{HERO1}......
+I...... I MISSED YOU......{PRESS_CLEAR}
+NO...... to YOU, it WAS a matter of an INSTANT.
+HOWEVER, for ME, 400 years WAS a long time......{PRESS_CLEAR}
+HOWEVER, there ARE results from the
+HARDSHIPS, and the forest HAS BEEN revived.
+......
+NOW, tonight, SHALL WE NOT celebrate our
+400-year REUNION?\0
+
+[@ITEM 117 (L2) ]
+\0
+
+[@ITEM 117 (FR) ]
+{Robo} : Oh...{PRESS_CLEAR}
+Oh...{PRESS_CLEAR}
+{HERO1}...
+C'est bon de te revoir après si longtemps...{PRESS_CLEAR}
+Ah... Pour vous, il ne s'est écoulé que quelques minutes,
+n'est-ce pas ?{PRESS_CLEAR}
+Pour moi ce fut 400 longues années...
+Néanmoins, l'effort en valait la peine et
+la forêt est aussi verdoyante qu'avant.{PRESS_CLEAR}
+Que diriez-vous de célébrer nos retrouvailles après
+quatre siècles ce soir ?\0
+
+[@ITEM 118 (L1) ]
+\0
+
+[@ITEM 118 (EN) ]
+{Marle}: I wonder what that sound is?\0
+
+[@ITEM 118 (L2) ]
+\0
+
+[@ITEM 118 (FR) ]
+{Marle} : Qu'est-ce que c'était ?\0
+
+[@ITEM 119 (L1) ]
+\0
+
+[@ITEM 119 (EN) ]
+{Lucca}: A tremor?\0
+
+[@ITEM 119 (L2) ]
+\0
+
+[@ITEM 119 (FR) ]
+{Lucca} : Un grondement ?\0
+
+[@ITEM 120 (L1) ]
+\0
+
+[@ITEM 120 (EN) ]
+{Robo}: IS IT a SPONTANEOUS earthquake?\0
+
+[@ITEM 120 (L2) ]
+\0
+
+[@ITEM 120 (FR) ]
+{Robo} : Est-ce un tremblement de terre ?\0
+
+[@ITEM 121 (L1) ]
+\0
+
+[@ITEM 121 (EN) ]
+{Frog}: Wh, what the?\0
+
+[@ITEM 121 (L2) ]
+\0
+
+[@ITEM 121 (FR) ]
+{Frog} : Qu'est-ce que c'est ?\0
+
+[@ITEM 122 (L1) ]
+\0
+
+[@ITEM 122 (EN) ]
+{Ayla}: Sh, shaking!\0
+
+[@ITEM 122 (L2) ]
+\0
+
+[@ITEM 122 (FR) ]
+{Ayla} : Sol trembler !\0
+
+[@ITEM 123 (L1) ]
+\0
+
+[@ITEM 123 (EN) ]
+{Magus}: ......?\0
+
+[@ITEM 123 (L2) ]
+\0
+
+[@ITEM 123 (FR) ]
+{Magus} : ...?\0
+
+[@ITEM 124 (L1) ]
+\0
+
+[@ITEM 124 (EN) ]
+{Marle}: It's that monster's fault the forest is
+dying out so fast!\0
+
+[@ITEM 124 (L2) ]
+\0
+
+[@ITEM 124 (FR) ]
+{Marle} : C'est donc à cause de ce monstre que les
+arbres meurent si rapidement !\0
+
+[@ITEM 125 (L1) ]
+\0
+
+[@ITEM 125 (EN) ]
+{Lucca}: It looks like that monster is the source
+of the desertization.\0
+
+[@ITEM 125 (L2) ]
+\0
+
+[@ITEM 125 (FR) ]
+{Lucca} : On dirait que ce monstre est à l'origine de
+la désertification.\0
+
+[@ITEM 126 (L1) ]
+\0
+
+[@ITEM 126 (EN) ]
+{Robo}: The progressing desertization IS that
+monster's fault.\0
+
+[@ITEM 126 (L2) ]
+\0
+
+[@ITEM 126 (FR) ]
+{Robo} : Ce monstre est donc la cause de l'avancée
+de la désertification...\0
+
+[@ITEM 127 (L1) ]
+\0
+
+[@ITEM 127 (EN) ]
+{Frog}: Th, that thing turned the forest into
+desert!\0
+
+[@ITEM 127 (L2) ]
+\0
+
+[@ITEM 127 (FR) ]
+{Frog} : Ce monstre a transformé la forêt en
+désert !\0
+
+[@ITEM 128 (L1) ]
+\0
+
+[@ITEM 128 (EN) ]
+{Ayla}: That made forest desert!\0
+
+[@ITEM 128 (L2) ]
+\0
+
+[@ITEM 128 (FR) ]
+{Ayla} : Monstre changer forêt en désert !\0
+
+[@ITEM 129 (L1) ]
+\0
+
+[@ITEM 129 (EN) ]
+{Magus}: Melfikk......
+So that's the cause of the desertization......\0
+
+[@ITEM 129 (L2) ]
+\0
+
+[@ITEM 129 (FR) ]
+{Magus} : Melfiq...
+Il est donc la cause de la désertification...\0
+
+[@ITEM 130 (L1) ]
+\0
+
+[@ITEM 130 (EN) ]
+{Marle}: But something like a monster that
+moves around underground......
+You can't even guess at where you'll run into it!\0
+
+[@ITEM 130 (L2) ]
+\0
+
+[@ITEM 130 (FR) ]
+{Marle} : Mais il se déplace sous le sol...
+On ne peut pas deviner où on le rencontrera !\0
+
+[@ITEM 131 (L1) ]
+\0
+
+[@ITEM 131 (EN) ]
+{Lucca}: But a monster that moves underground
+is a nuisance.\0
+
+[@ITEM 131 (L2) ]
+\0
+
+[@ITEM 131 (FR) ]
+{Lucca} : Il sera difficile de le combattre s'il se
+déplace sous le sol.\0
+
+[@ITEM 132 (L1) ]
+\0
+
+[@ITEM 132 (EN) ]
+{Robo}: HOWEVER, for the monster to be able to come
+and go underground......\0
+
+[@ITEM 132 (L2) ]
+\0
+
+[@ITEM 132 (FR) ]
+{Robo} : Il peut aller et venir sous le sol, ce qui ne
+nous facilitera pas la tâche.\0
+
+[@ITEM 133 (L1) ]
+\0
+
+[@ITEM 133 (EN) ]
+{Frog}: But for a bastard that moves around
+underground to be the opponent......
+This guy's a pain.\0
+
+[@ITEM 133 (L2) ]
+\0
+
+[@ITEM 133 (FR) ]
+{Frog} : Il sera difficile de se battre contre une
+créature qui se déplace sous le sol.\0
+
+[@ITEM 134 (L1) ]
+\0
+
+[@ITEM 134 (EN) ]
+{Ayla}: Bones moving around underground!
+Big trouble to find!\0
+
+[@ITEM 134 (L2) ]
+\0
+
+[@ITEM 134 (FR) ]
+{Ayla} : Os se déplacer sous terre !
+Difficiles à trouver !\0
+
+[@ITEM 135 (L1) ]
+\0
+
+[@ITEM 135 (EN) ]
+{Magus}: ......nuisance.\0
+
+[@ITEM 135 (L2) ]
+\0
+
+[@ITEM 135 (FR) ]
+{Magus} : ...
+Ce tas d'os est une vraie plaie...\0
+
+[@ITEM 136 (L1) ]
+\0
+
+[@ITEM 136 (EN) ]
+{Marle}: The trees won't die off any more either
+now. Fiona-san will be glad.\0
+
+[@ITEM 136 (L2) ]
+\0
+
+[@ITEM 136 (FR) ]
+{Marle} : Désormais, les arbres ne mourront plus.
+Fiona va être contente !\0
+
+[@ITEM 137 (L1) ]
+\0
+
+[@ITEM 137 (EN) ]
+{Lucca}: The cause of the desertization has
+now been removed.
+We ought to tell Fiona-san.\0
+
+[@ITEM 137 (L2) ]
+\0
+
+[@ITEM 137 (FR) ]
+{Lucca} : Nous avons éliminé la cause de la
+désertification. Nous devrions aller avertir Fiona.\0
+
+[@ITEM 138 (L1) ]
+\0
+
+[@ITEM 138 (EN) ]
+{Robo}: NOW, the progress of the
+desertization should SUBSIDE.
+LET US notify Fiona-san.\0
+
+[@ITEM 138 (L2) ]
+\0
+
+[@ITEM 138 (FR) ]
+{Robo} : Nous devrions avoir arrêté la
+désertification. Allons le dire à Fiona.\0
+
+[@ITEM 139 (L1) ]
+\0
+
+[@ITEM 139 (EN) ]
+{Frog}: Now there's nothing to worry about anymore.
+Let's let Fiona know.\0
+
+[@ITEM 139 (L2) ]
+\0
+
+[@ITEM 139 (FR) ]
+{Frog} : Tout devrait rentrer dans l'ordre.
+Allons informer Fiona.\0
+
+[@ITEM 140 (L1) ]
+\0
+
+[@ITEM 140 (EN) ]
+{Ayla}: Bones that break trees dead.\0
+
+[@ITEM 140 (L2) ]
+\0
+
+[@ITEM 140 (FR) ]
+{Ayla} : Os être morts. Os plus détruire forêt.
+Fiona être contente !\0
+
+[@ITEM 141 (L1) ]
+\0
+
+[@ITEM 141 (EN) ]
+{Magus}: Hmph......\0
+
+[@ITEM 141 (L2) ]
+\0
+
+[@ITEM 141 (FR) ]
+{Magus} : Tsst !\0
+
+[@ITEM 142 (L1) ]
+\0
+
+[@ITEM 142 (EN) ]
+These are hats knit from branches with the
+forest's mysterious power.\0
+
+[@ITEM 142 (L2) ]
+\0
+
+[@ITEM 142 (FR) ]
+Voici des chapeaux tressés à partir de brindilles
+d'arbres aux pouvoirs mystérieux.\0
+
+[@ITEM 143 (L1) ]
+\0
+
+[@ITEM 143 (EN) ]
+I have obtained eternal life!
+I will keep to living forever along with Lavos-god!
+Lavos-god is underground, leisurely consuming the
+planet.\0
+
+[@ITEM 143 (L2) ]
+\0
+
+[@ITEM 143 (FR) ]
+Je suis désormais immortelle ! Je vivrai pour l'éternité
+aux côtés de Lavos, le dieu qui ronge lentement la
+planète en son sein !\0
+
+[@ITEM 144 (L1) ]
+\0
+
+[@ITEM 144 (EN) ]
+And it will store up power, destroy the planet in
+14,000 years, and become king of the world!\0
+
+[@ITEM 144 (L2) ]
+\0
+
+[@ITEM 144 (FR) ]
+Après avoir accumulé son énergie pendant encore
+140 siècles, il détruira la planète et régnera sur le
+monde entier !\0
+
+[@ITEM 145 (L1) ]
+\0
+
+[@ITEM 145 (EN) ]
+And it will store up power, destroy the planet in
+1400 years, and become king of the world!\0
+
+[@ITEM 145 (L2) ]
+\0
+
+[@ITEM 145 (FR) ]
+Après avoir accumulé son énergie pendant encore
+1400 ans, il détruira la planète et régnera sur le
+monde entier !\0
+
+[@ITEM 146 (L1) ]
+\0
+
+[@ITEM 146 (EN) ]
+And it will store up power, destroy the planet in
+999 years, and become king of the world!\0
+
+[@ITEM 146 (L2) ]
+\0
+
+[@ITEM 146 (FR) ]
+Après avoir accumulé son énergie pendant encore
+999 ans, il détruira la planète et régnera sur le
+monde entier !\0
+
+[@ITEM 147 (L1) ]
+\0
+
+[@ITEM 147 (EN) ]
+This planet where Lavos-god is king of the world!\0
+
+[@ITEM 147 (L2) ]
+\0
+
+[@ITEM 147 (FR) ]
+Admirez cette planète où règne le grand Lavos !\0
+
+[@ITEM 148 (L1) ]
+\0
+
+[@ITEM 148 (EN) ]
+This Black Dream is a road connecting to Lavos-god.
+A temple that provides me with infinite power.{PRESS_CLEAR}
+You should not even wish for such a thing as the
+future you seek as long as Lavos-god within here
+exists!\0
+
+[@ITEM 148 (L2) ]
+\0
+
+[@ITEM 148 (FR) ]
+Le Songe obscur est une voie qui me relie au grand
+Lavos. C'est un sanctuaire qui m'octroie un pouvoir
+illimité.{PRESS_CLEAR}
+Tant que le grand Lavos règne, vos rêves d'avenir
+n'aboutiront à rien !\0
+
+[@ITEM 149 (L1) ]
+\0
+
+[@ITEM 149 (EN) ]
+May you become a sacrifice to the god Lavos!
+Foh, foh, foh!!\0
+
+[@ITEM 149 (L2) ]
+\0
+
+[@ITEM 149 (FR) ]
+Je vais vous offrir en sacrifice au grand Lavos !
+Ho, ho, ho, ho, ho !\0
+
+[@ITEM 150 (L1) ]
+\0
+
+[@ITEM 150 (EN) ]
+Do you intend to oppose me once again?!\0
+
+[@ITEM 150 (L2) ]
+\0
+
+[@ITEM 150 (FR) ]
+Imbéciles ! Vous osez encore vous opposer à moi ?\0
+
+[@ITEM 151 (L1) ]
+\0
+
+[@ITEM 151 (EN) ]
+Return to the {Epoch}?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 151 (L2) ]
+\0
+
+[@ITEM 151 (FR) ]
+Voulez-vous retourner sur le {Epoch} ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 152 (L1) ]
+\0
+
+[@ITEM 152 (EN) ]
+Queen: Worms......{PRESS_CLEAR}
+I am the queen who will rule this world eternally
+together with Lavos-god.
+You would oppose me?\0
+
+[@ITEM 152 (L2) ]
+\0
+
+[@ITEM 152 (FR) ]
+Espèces de vers insignifiants...{PRESS_CLEAR}
+Je suis la reine qui régnera éternellement sur ce monde
+aux côtés du grand Lavos. Vous oseriez vous opposer
+à moi ?\0
+
+[@ITEM 153 (L1) ]
+\0
+
+[@ITEM 153 (EN) ]
+{Magus}: Zeal.
+A sad woman enthralled by Lavos.
+Pitiful at best......\0
+
+[@ITEM 153 (L2) ]
+\0
+
+[@ITEM 153 (FR) ]
+{Magus} : Zhyle...
+Une triste femme, captivée par Lavos.{PRESS_CLEAR}
+Pitoyable...\0
+
+[@ITEM 154 (L1) ]
+\0
+
+[@ITEM 154 (EN) ]
+{Magus}: I will bring it all to an end by my hand!\0
+
+[@ITEM 154 (L2) ]
+\0
+
+[@ITEM 154 (FR) ]
+{Magus} : Je vais moi-même mettre fin à tout ça !\0
+
+[@ITEM 155 (L1) ]
+\0
+
+[@ITEM 155 (EN) ]
+May you die and regret your conceit!\0
+
+[@ITEM 155 (L2) ]
+\0
+
+[@ITEM 155 (FR) ]
+Repens-toi de ton orgueil dans l'au-delà !\0
+
+[@ITEM 156 (L1) ]
+\0
+
+[@ITEM 156 (EN) ]
+Queen: Hu, hu, hu......{PRESS_CLEAR}
+Ha, ha, ha......
+At last the Lavos-god shall awaken!{PRESS_CLEAR}
+Before Lavos-god, the likes of you worms
+are as good as babies.
+I shall take hold of eternal existence along with
+the Lavos-god{56}\0
+
+[@ITEM 156 (L2) ]
+\0
+
+[@ITEM 156 (FR) ]
+Ho, ho, ho, ho...{PRESS_CLEAR}
+Ha, ha, ha, ha...{PRESS_CLEAR}
+Le grand Lavos va enfin s'éveiller ! Devant lui, vous
+n'êtes que des nouveau-nés !{PRESS_CLEAR}
+Moi, je vivrai éternellement à ses côtés !\0
+
+[@ITEM 157 (L1) ]
+\0
+
+[@ITEM 157 (EN) ]
+Queen: Cursed prophet.
+I will not forget the sins you committed at the
+Ocean Floor Temple.\0
+
+[@ITEM 157 (L2) ]
+\0
+
+[@ITEM 157 (FR) ]
+Maudit sois-tu, prophète ! Je n'ai pas oublié les péchés
+que tu as commis dans le sanctuaire sous-marin.\0
+
+[@ITEM 158 (L1) ]
+\0
+
+[@ITEM 158 (EN) ]
+Now, may you atone for them with your death!\0
+
+[@ITEM 158 (L2) ]
+\0
+
+[@ITEM 158 (FR) ]
+Tu vas maintenant les expier, en rendant ton dernier
+souffle !\0
+
+[@ITEM 159 (L1) ]
+\0
+
+[@ITEM 159 (EN) ]
+Queen: H, how could mere worms would back me
+into a corner......?\0
+
+[@ITEM 159 (L2) ]
+\0
+
+[@ITEM 159 (FR) ]
+Co... Comment osez-vous...?\0
+
+[@ITEM 160 (L1) ]
+\0
+
+[@ITEM 160 (EN) ]
+O Lavos-god, thy power unto me!!\0
+
+[@ITEM 160 (L2) ]
+\0
+
+[@ITEM 160 (FR) ]
+Ô grand Lavos ! Octroie-moi ta force !!\0
+
+[@ITEM 161 (L1) ]
+\0
+
+[@ITEM 161 (EN) ]
+{Magus}: Foolish......
+All existence is unable to escape from the fate
+of perishing......\0
+
+[@ITEM 161 (L2) ]
+\0
+
+[@ITEM 161 (FR) ]
+{Magus} : Ridicule... Tout ce qui existe périra un jour.
+C'est inévitable...\0
+
+[@ITEM 162 (L1) ]
+\0
+
+[@ITEM 162 (EN) ]
+However you worms may try to struggle, it's
+already too late.
+This planet has already been completely
+devoured by the god Lavos!\0
+
+[@ITEM 162 (L2) ]
+\0
+
+[@ITEM 162 (FR) ]
+Vous avez beau vous démener, il est déjà trop tard.
+Le grand Lavos a déjà consumé la planète !\0
+
+[@ITEM 163 (L1) ]
+\0
+
+[@ITEM 163 (EN) ]
+{MSGWND}
+It's shut tight......\0
+
+[@ITEM 163 (L2) ]
+\0
+
+[@ITEM 163 (FR) ]
+{MSGWND}
+Elle est solidement verrouillée...\0
+
+[@ITEM 164 (L1) ]
+\0
+
+[@ITEM 164 (EN) ]
+Good weather today too.\0
+
+[@ITEM 164 (L2) ]
+\0
+
+[@ITEM 164 (FR) ]
+Il fait encore beau aujourd'hui.\0
+
+[@ITEM 165 (L1) ]
+\0
+
+[@ITEM 165 (EN) ]
+I can see the Black Dream distinctly.{PRESS_CLEAR}
+Tomorrow should be clear too.\0
+
+[@ITEM 165 (L2) ]
+\0
+
+[@ITEM 165 (FR) ]
+On peut voir clairement le Songe obscur. Il devrait faire
+beau demain aussi.\0
+
+[@ITEM 166 (L1) ]
+\0
+
+[@ITEM 166 (EN) ]
+\0
+
+[@ITEM 166 (L2) ]
+\0
+
+[@ITEM 166 (FR) ]
+\0
+
+[@ITEM 167 (L1) ]
+\0
+
+[@ITEM 167 (EN) ]
+\0
+
+[@ITEM 167 (L2) ]
+\0
+
+[@ITEM 167 (FR) ]
+\0
+
+[@ITEM 168 (L1) ]
+\0
+
+[@ITEM 168 (EN) ]
+\0
+
+[@ITEM 168 (L2) ]
+\0
+
+[@ITEM 168 (FR) ]
+\0
+
+[@ITEM 169 (L1) ]
+\0
+
+[@ITEM 169 (EN) ]
+\0
+
+[@ITEM 169 (L2) ]
+\0
+
+[@ITEM 169 (FR) ]
+\0
+
+[@ITEM 170 (L1) ]
+\0
+
+[@ITEM 170 (EN) ]
+\0
+
+[@ITEM 170 (L2) ]
+\0
+
+[@ITEM 170 (FR) ]
+\0
+
+[@ITEM 171 (L1) ]
+\0
+
+[@ITEM 171 (EN) ]
+\0
+
+[@ITEM 171 (L2) ]
+\0
+
+[@ITEM 171 (FR) ]
+\0
+
+[@ITEM 172 (L1) ]
+\0
+
+[@ITEM 172 (EN) ]
+\0
+
+[@ITEM 172 (L2) ]
+\0
+
+[@ITEM 172 (FR) ]
+\0
+
+[@ITEM 173 (L1) ]
+\0
+
+[@ITEM 173 (EN) ]
+\0
+
+[@ITEM 173 (L2) ]
+\0
+
+[@ITEM 173 (FR) ]
+\0
+
+[@ITEM 174 (L1) ]
+\0
+
+[@ITEM 174 (EN) ]
+\0
+
+[@ITEM 174 (L2) ]
+\0
+
+[@ITEM 174 (FR) ]
+\0
+
+[@ITEM 175 (L1) ]
+\0
+
+[@ITEM 175 (EN) ]
+\0
+
+[@ITEM 175 (L2) ]
+\0
+
+[@ITEM 175 (FR) ]
+\0
+
+[@ITEM 176 (L1) ]
+\0
+
+[@ITEM 176 (EN) ]
+\0
+
+[@ITEM 176 (L2) ]
+\0
+
+[@ITEM 176 (FR) ]
+\0
+
+[@ITEM 177 (L1) ]
+\0
+
+[@ITEM 177 (EN) ]
+\0
+
+[@ITEM 177 (L2) ]
+\0
+
+[@ITEM 177 (FR) ]
+\0
+
+[@ITEM 178 (L1) ]
+\0
+
+[@ITEM 178 (EN) ]
+\0
+
+[@ITEM 178 (L2) ]
+\0
+
+[@ITEM 178 (FR) ]
+\0
+
+[@ITEM 179 (L1) ]
+\0
+
+[@ITEM 179 (EN) ]
+\0
+
+[@ITEM 179 (L2) ]
+\0
+
+[@ITEM 179 (FR) ]
+\0
+
+[@ITEM 180 (L1) ]
+\0
+
+[@ITEM 180 (EN) ]
+\0
+
+[@ITEM 180 (L2) ]
+\0
+
+[@ITEM 180 (FR) ]
+\0
+
+[@ITEM 181 (L1) ]
+\0
+
+[@ITEM 181 (EN) ]
+\0
+
+[@ITEM 181 (L2) ]
+\0
+
+[@ITEM 181 (FR) ]
+\0
+
+[@ITEM 182 (L1) ]
+\0
+
+[@ITEM 182 (EN) ]
+\0
+
+[@ITEM 182 (L2) ]
+\0
+
+[@ITEM 182 (FR) ]
+\0
+
+[@ITEM 183 (L1) ]
+\0
+
+[@ITEM 183 (EN) ]
+\0
+
+[@ITEM 183 (L2) ]
+\0
+
+[@ITEM 183 (FR) ]
+\0
+
+[@ITEM 184 (L1) ]
+\0
+
+[@ITEM 184 (EN) ]
+\0
+
+[@ITEM 184 (L2) ]
+\0
+
+[@ITEM 184 (FR) ]
+\0
+
+[@ITEM 185 (L1) ]
+\0
+
+[@ITEM 185 (EN) ]
+\0
+
+[@ITEM 185 (L2) ]
+\0
+
+[@ITEM 185 (FR) ]
+\0
+
+[@ITEM 186 (L1) ]
+\0
+
+[@ITEM 186 (EN) ]
+\0
+
+[@ITEM 186 (L2) ]
+\0
+
+[@ITEM 186 (FR) ]
+\0
+
+[@ITEM 187 (L1) ]
+\0
+
+[@ITEM 187 (EN) ]
+\0
+
+[@ITEM 187 (L2) ]
+\0
+
+[@ITEM 187 (FR) ]
+\0
+
+[@ITEM 188 (L1) ]
+\0
+
+[@ITEM 188 (EN) ]
+\0
+
+[@ITEM 188 (L2) ]
+\0
+
+[@ITEM 188 (FR) ]
+\0
+
+[@ITEM 189 (L1) ]
+\0
+
+[@ITEM 189 (EN) ]
+\0
+
+[@ITEM 189 (L2) ]
+\0
+
+[@ITEM 189 (FR) ]
+\0
+
+[@ITEM 190 (L1) ]
+\0
+
+[@ITEM 190 (EN) ]
+\0
+
+[@ITEM 190 (L2) ]
+\0
+
+[@ITEM 190 (FR) ]
+\0
+
+[@ITEM 191 (L1) ]
+\0
+
+[@ITEM 191 (EN) ]
+\0
+
+[@ITEM 191 (L2) ]
+\0
+
+[@ITEM 191 (FR) ]
+\0
+
+[@ITEM 192 (L1) ]
+\0
+
+[@ITEM 192 (EN) ]
+\0
+
+[@ITEM 192 (L2) ]
+\0
+
+[@ITEM 192 (FR) ]
+\0
+
+[@ITEM 193 (L1) ]
+\0
+
+[@ITEM 193 (EN) ]
+\0
+
+[@ITEM 193 (L2) ]
+\0
+
+[@ITEM 193 (FR) ]
+\0
+
+[@ITEM 194 (L1) ]
+\0
+
+[@ITEM 194 (EN) ]
+\0
+
+[@ITEM 194 (L2) ]
+\0
+
+[@ITEM 194 (FR) ]
+\0
+
+[@ITEM 195 (L1) ]
+\0
+
+[@ITEM 195 (EN) ]
+\0
+
+[@ITEM 195 (L2) ]
+\0
+
+[@ITEM 195 (FR) ]
+\0
+
+[@ITEM 196 (L1) ]
+\0
+
+[@ITEM 196 (EN) ]
+\0
+
+[@ITEM 196 (L2) ]
+\0
+
+[@ITEM 196 (FR) ]
+\0
+
+[@ITEM 197 (L1) ]
+\0
+
+[@ITEM 197 (EN) ]
+\0
+
+[@ITEM 197 (L2) ]
+\0
+
+[@ITEM 197 (FR) ]
+\0
+
+[@ITEM 198 (L1) ]
+\0
+
+[@ITEM 198 (EN) ]
+\0
+
+[@ITEM 198 (L2) ]
+\0
+
+[@ITEM 198 (FR) ]
+\0
+
+[@ITEM 199 (L1) ]
+\0
+
+[@ITEM 199 (EN) ]
+\0
+
+[@ITEM 199 (L2) ]
+\0
+
+[@ITEM 199 (FR) ]
+\0
+
+[@ITEM 200 (L1) ]
+\0
+
+[@ITEM 200 (EN) ]
+\0
+
+[@ITEM 200 (L2) ]
+\0
+
+[@ITEM 200 (FR) ]
+\0
+
+[@ITEM 201 (L1) ]
+\0
+
+[@ITEM 201 (EN) ]
+\0
+
+[@ITEM 201 (L2) ]
+\0
+
+[@ITEM 201 (FR) ]
+\0
+
+[@ITEM 202 (L1) ]
+\0
+
+[@ITEM 202 (EN) ]
+\0
+
+[@ITEM 202 (L2) ]
+\0
+
+[@ITEM 202 (FR) ]
+\0
+
+[@ITEM 203 (L1) ]
+\0
+
+[@ITEM 203 (EN) ]
+\0
+
+[@ITEM 203 (L2) ]
+\0
+
+[@ITEM 203 (FR) ]
+\0
+
+[@ITEM 204 (L1) ]
+\0
+
+[@ITEM 204 (EN) ]
+\0
+
+[@ITEM 204 (L2) ]
+\0
+
+[@ITEM 204 (FR) ]
+\0
+
+[@ITEM 205 (L1) ]
+\0
+
+[@ITEM 205 (EN) ]
+\0
+
+[@ITEM 205 (L2) ]
+\0
+
+[@ITEM 205 (FR) ]
+\0
+
+[@ITEM 206 (L1) ]
+\0
+
+[@ITEM 206 (EN) ]
+\0
+
+[@ITEM 206 (L2) ]
+\0
+
+[@ITEM 206 (FR) ]
+\0
+
+[@ITEM 207 (L1) ]
+\0
+
+[@ITEM 207 (EN) ]
+\0
+
+[@ITEM 207 (L2) ]
+\0
+
+[@ITEM 207 (FR) ]
+\0
+
+[@ITEM 208 (L1) ]
+\0
+
+[@ITEM 208 (EN) ]
+\0
+
+[@ITEM 208 (L2) ]
+\0
+
+[@ITEM 208 (FR) ]
+\0
+
+[@ITEM 209 (L1) ]
+\0
+
+[@ITEM 209 (EN) ]
+\0
+
+[@ITEM 209 (L2) ]
+\0
+
+[@ITEM 209 (FR) ]
+\0
+
+[@ITEM 210 (L1) ]
+\0
+
+[@ITEM 210 (EN) ]
+\0
+
+[@ITEM 210 (L2) ]
+\0
+
+[@ITEM 210 (FR) ]
+\0
+
+[@ITEM 211 (L1) ]
+\0
+
+[@ITEM 211 (EN) ]
+\0
+
+[@ITEM 211 (L2) ]
+\0
+
+[@ITEM 211 (FR) ]
+\0
+
+[@ITEM 212 (L1) ]
+\0
+
+[@ITEM 212 (EN) ]
+\0
+
+[@ITEM 212 (L2) ]
+\0
+
+[@ITEM 212 (FR) ]
+\0
+
+[@ITEM 213 (L1) ]
+\0
+
+[@ITEM 213 (EN) ]
+\0
+
+[@ITEM 213 (L2) ]
+\0
+
+[@ITEM 213 (FR) ]
+\0
+
+[@ITEM 214 (L1) ]
+\0
+
+[@ITEM 214 (EN) ]
+\0
+
+[@ITEM 214 (L2) ]
+\0
+
+[@ITEM 214 (FR) ]
+\0
+
+[@ITEM 215 (L1) ]
+\0
+
+[@ITEM 215 (EN) ]
+\0
+
+[@ITEM 215 (L2) ]
+\0
+
+[@ITEM 215 (FR) ]
+\0
+
+[@ITEM 216 (L1) ]
+\0
+
+[@ITEM 216 (EN) ]
+\0
+
+[@ITEM 216 (L2) ]
+\0
+
+[@ITEM 216 (FR) ]
+\0
+
+[@ITEM 217 (L1) ]
+\0
+
+[@ITEM 217 (EN) ]
+\0
+
+[@ITEM 217 (L2) ]
+\0
+
+[@ITEM 217 (FR) ]
+\0
+
+[@ITEM 218 (L1) ]
+\0
+
+[@ITEM 218 (EN) ]
+\0
+
+[@ITEM 218 (L2) ]
+\0
+
+[@ITEM 218 (FR) ]
+\0
+
+[@ITEM 219 (L1) ]
+\0
+
+[@ITEM 219 (EN) ]
+\0
+
+[@ITEM 219 (L2) ]
+\0
+
+[@ITEM 219 (FR) ]
+\0
+
+[@ITEM 220 (L1) ]
+\0
+
+[@ITEM 220 (EN) ]
+\0
+
+[@ITEM 220 (L2) ]
+\0
+
+[@ITEM 220 (FR) ]
+\0
+
+[@ITEM 221 (L1) ]
+\0
+
+[@ITEM 221 (EN) ]
+\0
+
+[@ITEM 221 (L2) ]
+\0
+
+[@ITEM 221 (FR) ]
+\0
+
+[@ITEM 222 (L1) ]
+\0
+
+[@ITEM 222 (EN) ]
+\0
+
+[@ITEM 222 (L2) ]
+\0
+
+[@ITEM 222 (FR) ]
+\0
+
+[@ITEM 223 (L1) ]
+\0
+
+[@ITEM 223 (EN) ]
+\0
+
+[@ITEM 223 (L2) ]
+\0
+
+[@ITEM 223 (FR) ]
+\0
+
+[@ITEM 224 (L1) ]
+\0
+
+[@ITEM 224 (EN) ]
+\0
+
+[@ITEM 224 (L2) ]
+\0
+
+[@ITEM 224 (FR) ]
+\0
+
+[@ITEM 225 (L1) ]
+\0
+
+[@ITEM 225 (EN) ]
+\0
+
+[@ITEM 225 (L2) ]
+\0
+
+[@ITEM 225 (FR) ]
+\0
+
+[@ITEM 226 (L1) ]
+\0
+
+[@ITEM 226 (EN) ]
+\0
+
+[@ITEM 226 (L2) ]
+\0
+
+[@ITEM 226 (FR) ]
+\0
+
+[@ITEM 227 (L1) ]
+\0
+
+[@ITEM 227 (EN) ]
+\0
+
+[@ITEM 227 (L2) ]
+\0
+
+[@ITEM 227 (FR) ]
+\0
+
+[@ITEM 228 (L1) ]
+\0
+
+[@ITEM 228 (EN) ]
+\0
+
+[@ITEM 228 (L2) ]
+\0
+
+[@ITEM 228 (FR) ]
+\0
+
+[@ITEM 229 (L1) ]
+\0
+
+[@ITEM 229 (EN) ]
+\0
+
+[@ITEM 229 (L2) ]
+\0
+
+[@ITEM 229 (FR) ]
+\0
+
+[@ITEM 230 (L1) ]
+\0
+
+[@ITEM 230 (EN) ]
+\0
+
+[@ITEM 230 (L2) ]
+\0
+
+[@ITEM 230 (FR) ]
+\0
+
+[@ITEM 231 (L1) ]
+\0
+
+[@ITEM 231 (EN) ]
+\0
+
+[@ITEM 231 (L2) ]
+\0
+
+[@ITEM 231 (FR) ]
+\0
+
+[@ITEM 232 (L1) ]
+\0
+
+[@ITEM 232 (EN) ]
+\0
+
+[@ITEM 232 (L2) ]
+\0
+
+[@ITEM 232 (FR) ]
+\0
+
+[@ITEM 233 (L1) ]
+\0
+
+[@ITEM 233 (EN) ]
+\0
+
+[@ITEM 233 (L2) ]
+\0
+
+[@ITEM 233 (FR) ]
+\0
+
+[@ITEM 234 (L1) ]
+\0
+
+[@ITEM 234 (EN) ]
+\0
+
+[@ITEM 234 (L2) ]
+\0
+
+[@ITEM 234 (FR) ]
+\0
+
+[@ITEM 235 (L1) ]
+\0
+
+[@ITEM 235 (EN) ]
+\0
+
+[@ITEM 235 (L2) ]
+\0
+
+[@ITEM 235 (FR) ]
+\0
+
+[@ITEM 236 (L1) ]
+\0
+
+[@ITEM 236 (EN) ]
+\0
+
+[@ITEM 236 (L2) ]
+\0
+
+[@ITEM 236 (FR) ]
+\0
+
+[@ITEM 237 (L1) ]
+\0
+
+[@ITEM 237 (EN) ]
+\0
+
+[@ITEM 237 (L2) ]
+\0
+
+[@ITEM 237 (FR) ]
+\0
+
+[@ITEM 238 (L1) ]
+\0
+
+[@ITEM 238 (EN) ]
+\0
+
+[@ITEM 238 (L2) ]
+\0
+
+[@ITEM 238 (FR) ]
+\0
+
+[@ITEM 239 (L1) ]
+\0
+
+[@ITEM 239 (EN) ]
+\0
+
+[@ITEM 239 (L2) ]
+\0
+
+[@ITEM 239 (FR) ]
+\0
+
+[@ITEM 240 (L1) ]
+\0
+
+[@ITEM 240 (EN) ]
+\0
+
+[@ITEM 240 (L2) ]
+\0
+
+[@ITEM 240 (FR) ]
+\0
+
+[@ITEM 241 (L1) ]
+\0
+
+[@ITEM 241 (EN) ]
+\0
+
+[@ITEM 241 (L2) ]
+\0
+
+[@ITEM 241 (FR) ]
+\0
+
+[@ITEM 242 (L1) ]
+\0
+
+[@ITEM 242 (EN) ]
+\0
+
+[@ITEM 242 (L2) ]
+\0
+
+[@ITEM 242 (FR) ]
+\0
+
+[@ITEM 243 (L1) ]
+\0
+
+[@ITEM 243 (EN) ]
+\0
+
+[@ITEM 243 (L2) ]
+\0
+
+[@ITEM 243 (FR) ]
+\0
+
+[@ITEM 244 (L1) ]
+\0
+
+[@ITEM 244 (EN) ]
+\0
+
+[@ITEM 244 (L2) ]
+\0
+
+[@ITEM 244 (FR) ]
+\0
+
+[@ITEM 245 (L1) ]
+\0
+
+[@ITEM 245 (EN) ]
+\0
+
+[@ITEM 245 (L2) ]
+\0
+
+[@ITEM 245 (FR) ]
+\0
+
+[@ITEM 246 (L1) ]
+\0
+
+[@ITEM 246 (EN) ]
+\0
+
+[@ITEM 246 (L2) ]
+\0
+
+[@ITEM 246 (FR) ]
+\0
+
+[@ITEM 247 (L1) ]
+\0
+
+[@ITEM 247 (EN) ]
+\0
+
+[@ITEM 247 (L2) ]
+\0
+
+[@ITEM 247 (FR) ]
+\0
+
+[@ITEM 248 (L1) ]
+\0
+
+[@ITEM 248 (EN) ]
+\0
+
+[@ITEM 248 (L2) ]
+\0
+
+[@ITEM 248 (FR) ]
+\0
+
+[@ITEM 249 (L1) ]
+\0
+
+[@ITEM 249 (EN) ]
+\0
+
+[@ITEM 249 (L2) ]
+\0
+
+[@ITEM 249 (FR) ]
+\0
+
+[@ITEM 250 (L1) ]
+\0
+
+[@ITEM 250 (EN) ]
+\0
+
+[@ITEM 250 (L2) ]
+\0
+
+[@ITEM 250 (FR) ]
+\0
+
+[@ITEM 251 (L1) ]
+\0
+
+[@ITEM 251 (EN) ]
+\0
+
+[@ITEM 251 (L2) ]
+\0
+
+[@ITEM 251 (FR) ]
+\0
+
+[@ITEM 252 (L1) ]
+\0
+
+[@ITEM 252 (EN) ]
+\0
+
+[@ITEM 252 (L2) ]
+\0
+
+[@ITEM 252 (FR) ]
+\0
+
+[@ITEM 253 (L1) ]
+\0
+
+[@ITEM 253 (EN) ]
+\0
+
+[@ITEM 253 (L2) ]
+\0
+
+[@ITEM 253 (FR) ]
+\0
+
+[@ITEM 254 (L1) ]
+\0
+
+[@ITEM 254 (EN) ]
+\0
+
+[@ITEM 254 (L2) ]
+\0
+
+[@ITEM 254 (FR) ]
+\0
+
+[@ITEM 255 (L1) ]
+\0
+
+[@ITEM 255 (EN) ]
+\0
+
+[@ITEM 255 (L2) ]
+\0
+
+[@ITEM 255 (FR) ]
+\0
+

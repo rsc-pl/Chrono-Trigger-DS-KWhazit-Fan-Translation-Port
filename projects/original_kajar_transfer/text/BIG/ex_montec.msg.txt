@@ -1,0 +1,4487 @@
+[@ex_montec.msg]
+
+[@ITEM 0 (L1) ]
+\0
+
+[@ITEM 0 (EN) ]
+ - Punching Glove
+ - Gonzales's Song of Love
+Counters:
+ - Multi-punch\0
+
+[@ITEM 0 (L2) ]
+\0
+
+[@ITEM 0 (FR) ]
+- Gant de boxe
+- Mélodie d'amour
+Riposte :
+- Volée de coups\0
+
+[@ITEM 1 (L1) ]
+\0
+
+[@ITEM 1 (EN) ]
+ - Charge\0
+
+[@ITEM 1 (L2) ]
+\0
+
+[@ITEM 1 (FR) ]
+- Charge\0
+
+[@ITEM 2 (L1) ]
+\0
+
+[@ITEM 2 (EN) ]
+ - Charge
+ - Wing Flap\0
+
+[@ITEM 2 (L2) ]
+\0
+
+[@ITEM 2 (FR) ]
+- Charge
+- Coup d'aile\0
+
+[@ITEM 3 (L1) ]
+\0
+
+[@ITEM 3 (EN) ]
+Ding Dong
+Confusion\0
+
+[@ITEM 3 (L2) ]
+\0
+
+[@ITEM 3 (FR) ]
+- Ding ! Dong ! / Confusion\0
+
+[@ITEM 4 (L1) ]
+\0
+
+[@ITEM 4 (EN) ]
+ - Strike
+ - Smash\0
+
+[@ITEM 4 (L2) ]
+\0
+
+[@ITEM 4 (FR) ]
+- Taillade
+- Fracas\0
+
+[@ITEM 5 (L1) ]
+\0
+
+[@ITEM 5 (EN) ]
+ - Smoke Bomb
+Counters:
+ - Smoke Bomb\0
+
+[@ITEM 5 (L2) ]
+\0
+
+[@ITEM 5 (FR) ]
+- Bombe fumigène
+Riposte :
+- Bombe fumigène\0
+
+[@ITEM 6 (L1) ]
+\0
+
+[@ITEM 6 (EN) ]
+ - Hammer
+ - Crushing Blow\0
+
+[@ITEM 6 (L2) ]
+\0
+
+[@ITEM 6 (FR) ]
+- Maillet
+- Coup mortel\0
+
+[@ITEM 7 (L1) ]
+\0
+
+[@ITEM 7 (EN) ]
+ - Stab
+ - Flying Stab
+ - Jump\0
+
+[@ITEM 7 (L2) ]
+\0
+
+[@ITEM 7 (FR) ]
+- Entaille
+- Entaille en piqué
+- Saut\0
+
+[@ITEM 8 (L1) ]
+\0
+
+[@ITEM 8 (EN) ]
+ - Flame {FIRE}
+ - Clamp
+ - Ink / Blind\0
+
+[@ITEM 8 (L2) ]
+\0
+
+[@ITEM 8 (FR) ]
+- Flammes {FIRE}
+- Tentacules
+- Encre / Cécité\0
+
+[@ITEM 9 (L1) ]
+\0
+
+[@ITEM 9 (EN) ]
+ - Osmose / Absorbs MP
+ - Drain / Absorbs HP\0
+
+[@ITEM 9 (L2) ]
+\0
+
+[@ITEM 9 (FR) ]
+- Succion
+  / Absorption de PM
+- Saignée / Absorption de PV\0
+
+[@ITEM 10 (L1) ]
+\0
+
+[@ITEM 10 (EN) ]
+ - Gore\0
+
+[@ITEM 10 (L2) ]
+\0
+
+[@ITEM 10 (FR) ]
+- Coup de corne\0
+
+[@ITEM 11 (L1) ]
+\0
+
+[@ITEM 11 (EN) ]
+ - Spin Jump\0
+
+[@ITEM 11 (L2) ]
+\0
+
+[@ITEM 11 (FR) ]
+- Saut tourbillon\0
+
+[@ITEM 12 (L1) ]
+\0
+
+[@ITEM 12 (EN) ]
+ - Sonic Wave / Sleep
+ - Bloodfeast / Absorbs HP\0
+
+[@ITEM 12 (L2) ]
+\0
+
+[@ITEM 12 (FR) ]
+- Ondes nocives / Sommeil
+- Ponction / Absorption
+  de PV\0
+
+[@ITEM 13 (L1) ]
+\0
+
+[@ITEM 13 (EN) ]
+Malice\0
+
+[@ITEM 13 (L2) ]
+\0
+
+[@ITEM 13 (FR) ]
+- Rancune\0
+
+[@ITEM 14 (L1) ]
+\0
+
+[@ITEM 14 (EN) ]
+ - Kick
+ - Jump Kick
+Counters:
+ - Pebble Punt\0
+
+[@ITEM 14 (L2) ]
+\0
+
+[@ITEM 14 (FR) ]
+- Coup de pied
+- Coup de pied sauté
+Riposte :
+- Jet de caillou\0
+
+[@ITEM 15 (L1) ]
+\0
+
+[@ITEM 15 (EN) ]
+ - Jump Kick
+ - Pebble Punt
+Counters:
+ - Jump Kick\0
+
+[@ITEM 15 (L2) ]
+\0
+
+[@ITEM 15 (FR) ]
+- Coup de pied sauté
+- Jet de caillou
+Riposte :
+- Coup de pied sauté\0
+
+[@ITEM 16 (L1) ]
+\0
+
+[@ITEM 16 (EN) ]
+ - Spin Attack\0
+
+[@ITEM 16 (L2) ]
+\0
+
+[@ITEM 16 (FR) ]
+- Attaque tournoyante\0
+
+[@ITEM 17 (L1) ]
+\0
+
+[@ITEM 17 (EN) ]
+ - Spin Attack
+Counters:
+ - Fiendillo Dance\0
+
+[@ITEM 17 (L2) ]
+\0
+
+[@ITEM 17 (FR) ]
+- Attaque tournoyante
+Riposte :
+- Danse maboule\0
+
+[@ITEM 18 (L1) ]
+\0
+
+[@ITEM 18 (EN) ]
+ - Screech / Slow\0
+
+[@ITEM 18 (L2) ]
+\0
+
+[@ITEM 18 (FR) ]
+- Hululement / Lenteur\0
+
+[@ITEM 19 (L1) ]
+\0
+
+[@ITEM 19 (EN) ]
+ - Charge
+ - Roundillo Shot\0
+
+[@ITEM 19 (L2) ]
+\0
+
+[@ITEM 19 (FR) ]
+- Charge
+- Lancer maboul\0
+
+[@ITEM 20 (L1) ]
+\0
+
+[@ITEM 20 (EN) ]
+ - Peck
+ - Wing Flap
+ - Dive
+ - Screech / Slow\0
+
+[@ITEM 20 (L2) ]
+\0
+
+[@ITEM 20 (FR) ]
+- Coup de bec
+- Coup d'aile
+- Plongeon
+- Hululement / Lenteur\0
+
+[@ITEM 21 (L1) ]
+\0
+
+[@ITEM 21 (EN) ]
+ - Scratch
+ - Nagamour / Slow\0
+
+[@ITEM 21 (L2) ]
+\0
+
+[@ITEM 21 (FR) ]
+- Griffes
+- ♥Amour de myanne 
+  / Lenteur\0
+
+[@ITEM 22 (L1) ]
+\0
+
+[@ITEM 22 (EN) ]
+ - Bite
+ - Bite / Poison\0
+
+[@ITEM 22 (L2) ]
+\0
+
+[@ITEM 22 (FR) ]
+- Morsure
+- Morsure / Poison\0
+
+[@ITEM 23 (L1) ]
+\0
+
+[@ITEM 23 (EN) ]
+ - Sobat
+ - Whirling Kick\0
+
+[@ITEM 23 (L2) ]
+\0
+
+[@ITEM 23 (FR) ]
+- Savate
+- Coup de pied rafale\0
+
+[@ITEM 24 (L1) ]
+\0
+
+[@ITEM 24 (EN) ]
+ - Punch
+ - Hammer Punch /
+\t{70}Knockback
+ - Rolling Attack\0
+
+[@ITEM 24 (L2) ]
+\0
+
+[@ITEM 24 (FR) ]
+- Coup de poing
+- Coup puissant / Repousser
+- Roulade\0
+
+[@ITEM 25 (L1) ]
+\0
+
+[@ITEM 25 (EN) ]
+ - Blood Drain / Absorbs HP\0
+
+[@ITEM 25 (L2) ]
+\0
+
+[@ITEM 25 (FR) ]
+- Saignée vampirique 
+  / Absorption de PV\0
+
+[@ITEM 26 (L1) ]
+\0
+
+[@ITEM 26 (EN) ]
+ - Flying Lunge\0
+
+[@ITEM 26 (L2) ]
+\0
+
+[@ITEM 26 (FR) ]
+- Jet de lance\0
+
+[@ITEM 27 (L1) ]
+\0
+
+[@ITEM 27 (EN) ]
+ - Punch\0
+
+[@ITEM 27 (L2) ]
+\0
+
+[@ITEM 27 (FR) ]
+- Coup de poing\0
+
+[@ITEM 28 (L1) ]
+\0
+
+[@ITEM 28 (EN) ]
+ - Hammer
+ - Great Hammer
+ - Quake Hammer\0
+
+[@ITEM 28 (L2) ]
+\0
+
+[@ITEM 28 (FR) ]
+- Maillet
+- Grand maillet
+- Maillet sismique\0
+
+[@ITEM 29 (L1) ]
+\0
+
+[@ITEM 29 (EN) ]
+Counters:
+ - Ding-a-ling / Confuse\0
+
+[@ITEM 29 (L2) ]
+\0
+
+[@ITEM 29 (FR) ]
+Riposte :
+- Ding ! Dong ! / Confusion\0
+
+[@ITEM 30 (L1) ]
+\0
+
+[@ITEM 30 (EN) ]
+ - Whirling Blade
+ - Shuriken
+Counters:
+ - Focused Strike\0
+
+[@ITEM 30 (L2) ]
+\0
+
+[@ITEM 30 (FR) ]
+- Épée tournoyante
+- Shuriken
+Riposte :
+- Taillade énergique\0
+
+[@ITEM 31 (L1) ]
+\0
+
+[@ITEM 31 (EN) ]
+ - Crush
+Counters:
+ - Rain {WATER}\0
+
+[@ITEM 31 (L2) ]
+\0
+
+[@ITEM 31 (FR) ]
+- Écrasement
+Riposte :
+- Pluie {WATER}\0
+
+[@ITEM 32 (L1) ]
+\0
+
+[@ITEM 32 (EN) ]
+ - Bite
+Counters:
+ - Devour Frog\0
+
+[@ITEM 32 (L2) ]
+\0
+
+[@ITEM 32 (FR) ]
+- Morsure
+Riposte :
+- Manger grenouille\0
+
+[@ITEM 33 (L1) ]
+\0
+
+[@ITEM 33 (EN) ]
+ - Bite
+Counters:
+ - Bite\0
+
+[@ITEM 33 (L2) ]
+\0
+
+[@ITEM 33 (FR) ]
+- Morsure
+Riposte :
+- Morsure\0
+
+[@ITEM 34 (L1) ]
+\0
+
+[@ITEM 34 (EN) ]
+ - Bloodfeast / Absorbs HP
+ - Osmose / Absorbs MP
+Counters:
+ - Osmose / Absorbs MP\0
+
+[@ITEM 34 (L2) ]
+\0
+
+[@ITEM 34 (FR) ]
+- Ponction / Absorption
+  de PV
+- Succion vampirique
+  / Absorption de PM
+Riposte :
+- Succion vampirique
+  / Absorption de PM\0
+
+[@ITEM 35 (L1) ]
+\0
+
+[@ITEM 35 (EN) ]
+ - Rolling Attack
+ - Crimson Rain
+ - Hammer Punch /
+\t{70}Knockback\0
+
+[@ITEM 35 (L2) ]
+\0
+
+[@ITEM 35 (FR) ]
+- Roulade
+- Pluie sanglante
+- Coup puissant / Repousser\0
+
+[@ITEM 36 (L1) ]
+\0
+
+[@ITEM 36 (EN) ]
+ - Strike
+ - Wind Slash {LIGHT}
+ - Cyclone\0
+
+[@ITEM 36 (L2) ]
+\0
+
+[@ITEM 36 (FR) ]
+- Taillade
+- Rafale cinglante {LIGHT}
+- Cyclone coupant\0
+
+[@ITEM 37 (L1) ]
+\0
+
+[@ITEM 37 (EN) ]
+ - Poison Arrows / Poison\0
+
+[@ITEM 37 (L2) ]
+\0
+
+[@ITEM 37 (FR) ]
+- Traits empoisonnés
+  / Poison\0
+
+[@ITEM 38 (L1) ]
+\0
+
+[@ITEM 38 (EN) ]
+ - Sobat
+ - Flying Spin Kick\0
+
+[@ITEM 38 (L2) ]
+\0
+
+[@ITEM 38 (FR) ]
+- Savate
+- Coup de pied rafale aérien\0
+
+[@ITEM 39 (L1) ]
+\0
+
+[@ITEM 39 (EN) ]
+ None\0
+
+[@ITEM 39 (L2) ]
+\0
+
+[@ITEM 39 (FR) ]
+Aucune\0
+
+[@ITEM 40 (L1) ]
+\0
+
+[@ITEM 40 (EN) ]
+ - Heal
+ - Annihilation Zone {BOMB/SHADOW}\0
+
+[@ITEM 40 (L2) ]
+\0
+
+[@ITEM 40 (FR) ]
+- Récupération
+- Zone de destruction {BOMB/SHADOW}\0
+
+[@ITEM 41 (L1) ]
+\0
+
+[@ITEM 41 (EN) ]
+ - Shuriken
+Combo Counters:
+ - Flame Wheel {FIRE}\0
+
+[@ITEM 41 (L2) ]
+\0
+
+[@ITEM 41 (FR) ]
+- Shuriken
+Riposte combo :
+- Cyclone enflammé {FIRE}\0
+
+[@ITEM 42 (L1) ]
+\0
+
+[@ITEM 42 (EN) ]
+Counters:
+ - Self-destruct / Ally
+ - Self-destruct / Enemy\0
+
+[@ITEM 42 (L2) ]
+\0
+
+[@ITEM 42 (FR) ]
+Ripostes :
+- Auto-destruction (allié)
+- Auto-destruction (ennemi)\0
+
+[@ITEM 43 (L1) ]
+\0
+
+[@ITEM 43 (EN) ]
+ - Flame {FIRE}
+Combo Counters:
+ - Flame Wheel {FIRE}\0
+
+[@ITEM 43 (L2) ]
+\0
+
+[@ITEM 43 (FR) ]
+- Flammes {FIRE}
+Riposte combo :
+- Cyclone enflammé {FIRE}\0
+
+[@ITEM 44 (L1) ]
+\0
+
+[@ITEM 44 (EN) ]
+ - Strike
+ - Drain / Absorbs HP
+Counters:
+ - Malice
+ - MP Buster / Sets MP to 0\0
+
+[@ITEM 44 (L2) ]
+\0
+
+[@ITEM 44 (FR) ]
+- Taillade
+- Saignée / Absorption de PV
+Ripostes :
+- Rancune
+- Vol de PM / PM = 0\0
+
+[@ITEM 45 (L1) ]
+\0
+
+[@ITEM 45 (EN) ]
+ - Slice
+ - Triple Slice
+ - Drain / Absorbs HP\0
+
+[@ITEM 45 (L2) ]
+\0
+
+[@ITEM 45 (FR) ]
+- Fauchage
+- Triple fauchage / PV = 1
+- Saignée / Absorption de PV\0
+
+[@ITEM 46 (L1) ]
+\0
+
+[@ITEM 46 (EN) ]
+ - Stab
+ - Rush\0
+
+[@ITEM 46 (L2) ]
+\0
+
+[@ITEM 46 (FR) ]
+- Entaille
+- Charge brutale / PV = 1\0
+
+[@ITEM 47 (L1) ]
+\0
+
+[@ITEM 47 (EN) ]
+ - Wind Slash {LIGHT}
+ - Malice
+ - Possess\0
+
+[@ITEM 47 (L2) ]
+\0
+
+[@ITEM 47 (FR) ]
+- Rafale cinglante {LIGHT}
+- Rancune
+- Possession\0
+
+[@ITEM 48 (L1) ]
+\0
+
+[@ITEM 48 (EN) ]
+ - Jump
+Counters:
+ - Jump\0
+
+[@ITEM 48 (L2) ]
+\0
+
+[@ITEM 48 (FR) ]
+- Saut
+Riposte :
+- Saut\0
+
+[@ITEM 49 (L1) ]
+\0
+
+[@ITEM 49 (EN) ]
+ - Hit
+ - Sand Cyclone
+ - Sand Breath / Blind
+Counters:
+ - Lock\0
+
+[@ITEM 49 (L2) ]
+\0
+
+[@ITEM 49 (FR) ]
+- Frapper
+- Tourbillon de sable
+- Souffle de sable / Cécité
+Riposte :
+- Oubli\0
+
+[@ITEM 50 (L1) ]
+\0
+
+[@ITEM 50 (EN) ]
+ - Slap
+ - Needle
+ - Mash\0
+
+[@ITEM 50 (L2) ]
+\0
+
+[@ITEM 50 (FR) ]
+- Baffe
+- Aiguillon
+- Déchiquetage\0
+
+[@ITEM 51 (L1) ]
+\0
+
+[@ITEM 51 (EN) ]
+ - Blaze {FIRE}
+Counters:
+ - Electric Maelstrom {LIGHT}\0
+
+[@ITEM 51 (L2) ]
+\0
+
+[@ITEM 51 (FR) ]
+- Percuter
+- Brasier {FIRE}
+Riposte :
+- Super-décharge {LIGHT}\0
+
+[@ITEM 52 (L1) ]
+\0
+
+[@ITEM 52 (EN) ]
+ - Stomp
+ - Electric Burst {LIGHT}
+Counters:
+ - Electric Maelstrom {LIGHT}\0
+
+[@ITEM 52 (L2) ]
+\0
+
+[@ITEM 52 (FR) ]
+- Écrasement
+- Petite décharge {LIGHT}
+Riposte :
+- Super-décharge {LIGHT}\0
+
+[@ITEM 53 (L1) ]
+\0
+
+[@ITEM 53 (EN) ]
+ - Grab and Drop
+ - Dive
+Counters:
+ - Wing Blow / Confuse\0
+
+[@ITEM 53 (L2) ]
+\0
+
+[@ITEM 53 (FR) ]
+- Largage
+- Plongeon
+Riposte :
+- Battement d'ailes
+  / Confusion\0
+
+[@ITEM 54 (L1) ]
+\0
+
+[@ITEM 54 (EN) ]
+ - Hit
+ - Throw
+Counters:
+ - Throw\0
+
+[@ITEM 54 (L2) ]
+\0
+
+[@ITEM 54 (FR) ]
+- Frapper
+- Lancer
+Riposte :
+- Lancer\0
+
+[@ITEM 55 (L1) ]
+\0
+
+[@ITEM 55 (EN) ]
+ - Clamp
+ - Leech / Absorbs HP\0
+
+[@ITEM 55 (L2) ]
+\0
+
+[@ITEM 55 (FR) ]
+- Tentacules
+- Tentacule vampirique
+  / Absorption de PV\0
+
+[@ITEM 56 (L1) ]
+\0
+
+[@ITEM 56 (EN) ]
+ - Heal
+ - Pollen / Poison
+ - Charge\0
+
+[@ITEM 56 (L2) ]
+\0
+
+[@ITEM 56 (FR) ]
+- Récupération
+- Pollen / Poison
+- Charge\0
+
+[@ITEM 57 (L1) ]
+\0
+
+[@ITEM 57 (EN) ]
+ - Pyroclast {FIRE}\0
+
+[@ITEM 57 (L2) ]
+\0
+
+[@ITEM 57 (FR) ]
+- Projection volcanique {FIRE}\0
+
+[@ITEM 58 (L1) ]
+\0
+
+[@ITEM 58 (EN) ]
+ - Stretch
+Counters:
+ - Terrifying Voice / Slow\0
+
+[@ITEM 58 (L2) ]
+\0
+
+[@ITEM 58 (FR) ]
+- Étirement
+Riposte :
+- Voix terrifiante / Lenteur\0
+
+[@ITEM 59 (L1) ]
+\0
+
+[@ITEM 59 (EN) ]
+ - Head-butt
+ - Tentacle / Absorbs HP\0
+
+[@ITEM 59 (L2) ]
+\0
+
+[@ITEM 59 (FR) ]
+- Coup de tête
+- Tentacule vampirique
+  / Absorption de PV\0
+
+[@ITEM 60 (L1) ]
+\0
+
+[@ITEM 60 (EN) ]
+ - Gnaw\0
+
+[@ITEM 60 (L2) ]
+\0
+
+[@ITEM 60 (FR) ]
+- Morsure\0
+
+[@ITEM 61 (L1) ]
+\0
+
+[@ITEM 61 (EN) ]
+ - Electric Shock
+ - Attack Moving Object {BOMB/SHADOW}\0
+
+[@ITEM 61 (L2) ]
+\0
+
+[@ITEM 61 (FR) ]
+- Décharge électrique
+- Attaque de cible en
+  mouvement {BOMB/SHADOW}\0
+
+[@ITEM 62 (L1) ]
+\0
+
+[@ITEM 62 (EN) ]
+ - Wing Flap
+ - Sonic Wave / Sleep
+ - Missiles\0
+
+[@ITEM 62 (L2) ]
+\0
+
+[@ITEM 62 (FR) ]
+- Coup d'aile
+- Ondes nocives / Sommeil
+- Missile\0
+
+[@ITEM 63 (L1) ]
+\0
+
+[@ITEM 63 (EN) ]
+ - Tackle
+ - Machine Gun\0
+
+[@ITEM 63 (L2) ]
+\0
+
+[@ITEM 63 (FR) ]
+- Tacle
+- Mitrailleuse\0
+
+[@ITEM 64 (L1) ]
+\0
+
+[@ITEM 64 (EN) ]
+ - Water {WATER}
+ - Lightning {LIGHT}\0
+
+[@ITEM 64 (L2) ]
+\0
+
+[@ITEM 64 (FR) ]
+- Eau {WATER}
+- Foudre {LIGHT}\0
+
+[@ITEM 65 (L1) ]
+\0
+
+[@ITEM 65 (EN) ]
+ - Slap\0
+
+[@ITEM 65 (L2) ]
+\0
+
+[@ITEM 65 (FR) ]
+- Baffe\0
+
+[@ITEM 66 (L1) ]
+\0
+
+[@ITEM 66 (EN) ]
+ - Electric Shock
+ - Laser {BOMB/SHADOW}\0
+
+[@ITEM 66 (L2) ]
+\0
+
+[@ITEM 66 (FR) ]
+- Décharge électrique
+- Laser {BOMB/SHADOW}\0
+
+[@ITEM 67 (L1) ]
+\0
+
+[@ITEM 67 (EN) ]
+ - Tackle
+ - Machine Gun
+ - Flamethrower {FIRE}\0
+
+[@ITEM 67 (L2) ]
+\0
+
+[@ITEM 67 (FR) ]
+- Tacle
+- Mitrailleuse
+- Lance-flammes {FIRE}\0
+
+[@ITEM 68 (L1) ]
+\0
+
+[@ITEM 68 (EN) ]
+ - Flamethrower {FIRE}
+Combo Counters:
+ - Chemical Reaction\0
+
+[@ITEM 68 (L2) ]
+\0
+
+[@ITEM 68 (FR) ]
+- Lance-flammes {FIRE}
+Riposte combo :
+- Fusion chimique\0
+
+[@ITEM 69 (L1) ]
+\0
+
+[@ITEM 69 (EN) ]
+ - Bubbles
+Combo Counters:
+ - Chemical Reaction\0
+
+[@ITEM 69 (L2) ]
+\0
+
+[@ITEM 69 (FR) ]
+- Bulles
+Riposte combo :
+- Fusion chimique\0
+
+[@ITEM 70 (L1) ]
+\0
+
+[@ITEM 70 (EN) ]
+ - Chomp / Absorbs HP\0
+
+[@ITEM 70 (L2) ]
+\0
+
+[@ITEM 70 (FR) ]
+- Mastication
+  / Absorption de PV\0
+
+[@ITEM 71 (L1) ]
+\0
+
+[@ITEM 71 (EN) ]
+ - Slice
+ - Scythe / Sets HP to 1
+ - Crimson Rain\0
+
+[@ITEM 71 (L2) ]
+\0
+
+[@ITEM 71 (FR) ]
+- Fauchage
+- Faux / PV = 1
+- Pluie sanglante\0
+
+[@ITEM 72 (L1) ]
+\0
+
+[@ITEM 72 (EN) ]
+ - Stomp
+ - Electric Shock
+ - Laser {BOMB/SHADOW}
+ - Spinning Laser {BOMB/SHADOW}\0
+
+[@ITEM 72 (L2) ]
+\0
+
+[@ITEM 72 (FR) ]
+- Écrasement
+- Décharge électrique
+- Laser {BOMB/SHADOW}
+- Lasers giratoires {BOMB/SHADOW}\0
+
+[@ITEM 73 (L1) ]
+\0
+
+[@ITEM 73 (EN) ]
+ - Cure Beam
+ - Tackle
+ - Dark Beam {BOMB/SHADOW}\0
+
+[@ITEM 73 (L2) ]
+\0
+
+[@ITEM 73 (FR) ]
+- Rayon guérissant
+- Tacle
+- Rayon mystérieux {BOMB/SHADOW}\0
+
+[@ITEM 74 (L1) ]
+\0
+
+[@ITEM 74 (EN) ]
+ - Laser {BOMB/SHADOW}
+Counters:
+ - Self-destruct\0
+
+[@ITEM 74 (L2) ]
+\0
+
+[@ITEM 74 (FR) ]
+- Laser {BOMB/SHADOW}
+Riposte :
+- Auto-destruction\0
+
+[@ITEM 75 (L1) ]
+\0
+
+[@ITEM 75 (EN) ]
+ - Sleep Bubble / Sleep
+ - Kick Combo\0
+
+[@ITEM 75 (L2) ]
+\0
+
+[@ITEM 75 (FR) ]
+- Bulle soporifique / Sommeil
+- Coups de pied\0
+
+[@ITEM 76 (L1) ]
+\0
+
+[@ITEM 76 (EN) ]
+ - Charge\0
+
+[@ITEM 76 (L2) ]
+\0
+
+[@ITEM 76 (FR) ]
+- Charge\0
+
+[@ITEM 77 (L1) ]
+\0
+
+[@ITEM 77 (EN) ]
+ - Head-butt\0
+
+[@ITEM 77 (L2) ]
+\0
+
+[@ITEM 77 (FR) ]
+- Coup de tête\0
+
+[@ITEM 78 (L1) ]
+\0
+
+[@ITEM 78 (EN) ]
+ - Tongue\0
+
+[@ITEM 78 (L2) ]
+\0
+
+[@ITEM 78 (FR) ]
+- Langue\0
+
+[@ITEM 79 (L1) ]
+\0
+
+[@ITEM 79 (EN) ]
+ - Stretch\0
+
+[@ITEM 79 (L2) ]
+\0
+
+[@ITEM 79 (FR) ]
+- Étirement\0
+
+[@ITEM 80 (L1) ]
+\0
+
+[@ITEM 80 (EN) ]
+ - Claw
+ - Dive
+Counters:
+ - Become Bo-bo\0
+
+[@ITEM 80 (L2) ]
+\0
+
+[@ITEM 80 (FR) ]
+- Serres
+- Plongeon
+Riposte :
+- Transformation :
+  ouhbouh rouge\0
+
+[@ITEM 81 (L1) ]
+\0
+
+[@ITEM 81 (EN) ]
+ - Dive
+Counters:
+ - Firebreath {FIRE}
+ - Become Ho-ho\0
+
+[@ITEM 81 (L2) ]
+\0
+
+[@ITEM 81 (FR) ]
+- Plongeon
+Ripostes :
+- Lance-flammes {FIRE}
+- Transformation :
+  ouhbouh doré\0
+
+[@ITEM 82 (L1) ]
+\0
+
+[@ITEM 82 (EN) ]
+ - Fling\0
+
+[@ITEM 82 (L2) ]
+\0
+
+[@ITEM 82 (FR) ]
+- Lancer\0
+
+[@ITEM 83 (L1) ]
+\0
+
+[@ITEM 83 (EN) ]
+ - Gore
+Counters:
+ - Tongue Slurp\0
+
+[@ITEM 83 (L2) ]
+\0
+
+[@ITEM 83 (FR) ]
+- Coup de corne
+Riposte :
+- Aspiration de nectar\0
+
+[@ITEM 84 (L1) ]
+\0
+
+[@ITEM 84 (EN) ]
+ - Gore
+ - Firebreath {FIRE}\0
+
+[@ITEM 84 (L2) ]
+\0
+
+[@ITEM 84 (FR) ]
+- Coup de corne
+- Lance-flammes {FIRE}\0
+
+[@ITEM 85 (L1) ]
+\0
+
+[@ITEM 85 (EN) ]
+ - Osmose / Absorbs MP
+ - Escape\0
+
+[@ITEM 85 (L2) ]
+\0
+
+[@ITEM 85 (FR) ]
+- Succion
+  / Absorption de PM
+- Fuite\0
+
+[@ITEM 86 (L1) ]
+\0
+
+[@ITEM 86 (EN) ]
+Counters:
+ - Pollen / Poison\0
+
+[@ITEM 86 (L2) ]
+\0
+
+[@ITEM 86 (FR) ]
+Riposte :
+- Pollen / Poison\0
+
+[@ITEM 87 (L1) ]
+\0
+
+[@ITEM 87 (EN) ]
+ - Scratch
+Counters:
+ - Fling
+ - Grab and Drop\0
+
+[@ITEM 87 (L2) ]
+\0
+
+[@ITEM 87 (FR) ]
+- Griffes
+Ripostes :
+- Lancer
+- Largage\0
+
+[@ITEM 88 (L1) ]
+\0
+
+[@ITEM 88 (EN) ]
+ - Grab and Drop\0
+
+[@ITEM 88 (L2) ]
+\0
+
+[@ITEM 88 (FR) ]
+- Largage\0
+
+[@ITEM 89 (L1) ]
+\0
+
+[@ITEM 89 (EN) ]
+ - Pyroclast {FIRE}\0
+
+[@ITEM 89 (L2) ]
+\0
+
+[@ITEM 89 (FR) ]
+- Projection volcanique {FIRE}\0
+
+[@ITEM 90 (L1) ]
+\0
+
+[@ITEM 90 (EN) ]
+ - Firebreath {FIRE}
+ - Charge / Sets HP to 1
+Counters:
+ - Firebreath {FIRE}\0
+
+[@ITEM 90 (L2) ]
+\0
+
+[@ITEM 90 (FR) ]
+- Lance-flammes {FIRE}
+- Charge / PV = 1
+Riposte :
+- Lance-flammes {FIRE}\0
+
+[@ITEM 91 (L1) ]
+\0
+
+[@ITEM 91 (EN) ]
+ - Pyroclast {FIRE}
+Counters:
+ - Pyroclast {FIRE}\0
+
+[@ITEM 91 (L2) ]
+\0
+
+[@ITEM 91 (FR) ]
+- Projection volcanique {FIRE}
+Riposte :
+- Projection volcanique {FIRE}\0
+
+[@ITEM 92 (L1) ]
+\0
+
+[@ITEM 92 (EN) ]
+ - Punch Volcanite
+ - Sumo Slap\0
+
+[@ITEM 92 (L2) ]
+\0
+
+[@ITEM 92 (FR) ]
+- Attaquer un volcan
+- Poussée\0
+
+[@ITEM 93 (L1) ]
+\0
+
+[@ITEM 93 (EN) ]
+ - Gore
+ - Charge\0
+
+[@ITEM 93 (L2) ]
+\0
+
+[@ITEM 93 (FR) ]
+- Coup de corne
+- Charge\0
+
+[@ITEM 94 (L1) ]
+\0
+
+[@ITEM 94 (EN) ]
+ - All Lock
+ - Escape\0
+
+[@ITEM 94 (L2) ]
+\0
+
+[@ITEM 94 (FR) ]
+- Oubli total
+- Fuite\0
+
+[@ITEM 95 (L1) ]
+\0
+
+[@ITEM 95 (EN) ]
+ - Kick
+ - Crimson Rain\0
+
+[@ITEM 95 (L2) ]
+\0
+
+[@ITEM 95 (FR) ]
+- Coup de pied
+- Pluie sanglante\0
+
+[@ITEM 96 (L1) ]
+\0
+
+[@ITEM 96 (EN) ]
+ - Jump Kick
+ - Pebble Punt\0
+
+[@ITEM 96 (L2) ]
+\0
+
+[@ITEM 96 (FR) ]
+- Coup de pied sauté
+- Jet de caillou\0
+
+[@ITEM 97 (L1) ]
+\0
+
+[@ITEM 97 (EN) ]
+ - Sobat
+ - Chakram
+ - Combo Attack / Sets
+\t{70}HP to 1\0
+
+[@ITEM 97 (L2) ]
+\0
+
+[@ITEM 97 (FR) ]
+- Savate
+- Chakra
+- Volée de coups / PV = 1\0
+
+[@ITEM 98 (L1) ]
+\0
+
+[@ITEM 98 (EN) ]
+ - Heal
+ - Miasma / Confuse\0
+
+[@ITEM 98 (L2) ]
+\0
+
+[@ITEM 98 (FR) ]
+- Récupération
+- Miasme / Confusion\0
+
+[@ITEM 99 (L1) ]
+\0
+
+[@ITEM 99 (EN) ]
+ - Fraternal Fusion
+Combos:
+ - Hell Throw
+Combo Counters:
+ - Muscular Fusion\0
+
+[@ITEM 99 (L2) ]
+\0
+
+[@ITEM 99 (FR) ]
+- Fusion fraternelle
+Combo :
+- Lancer infernal
+Riposte combo :
+- Fusion musculaire\0
+
+[@ITEM 100 (L1) ]
+\0
+
+[@ITEM 100 (EN) ]
+ - Annihilation Zone {BOMB/SHADOW}
+Combos:
+ - Hell Throw
+Combo Counters:
+ - Muscular Fusion\0
+
+[@ITEM 100 (L2) ]
+\0
+
+[@ITEM 100 (FR) ]
+- Zone de destruction {BOMB/SHADOW}
+Combo :
+- Lancer infernal
+Riposte combo :
+- Fusion musculaire\0
+
+[@ITEM 101 (L1) ]
+\0
+
+[@ITEM 101 (EN) ]
+ - Hit
+ - Energy Spheres
+ - Lock\0
+
+[@ITEM 101 (L2) ]
+\0
+
+[@ITEM 101 (FR) ]
+- Frapper
+- Sphère d'énergie
+- Oubli\0
+
+[@ITEM 102 (L1) ]
+\0
+
+[@ITEM 102 (EN) ]
+ - Lightning {LIGHT}
+ - 10,000 Hz / Sleep
+Counters:
+ - Electric Maelstrom {LIGHT}
+Combo Counters:
+ - Mix Delta {BOMB/SHADOW}\0
+
+[@ITEM 102 (L2) ]
+\0
+
+[@ITEM 102 (FR) ]
+- Foudre {LIGHT}
+- 10 000 Hz / Sommeil
+Riposte :
+- Super-décharge {LIGHT}
+Riposte combo :
+- Zone delta {BOMB/SHADOW}\0
+
+[@ITEM 103 (L1) ]
+\0
+
+[@ITEM 103 (EN) ]
+ - Crimson Rain
+Counters:
+ - Firebomb {FIRE}
+Combo Counters:
+ - Mix Delta {BOMB/SHADOW}\0
+
+[@ITEM 103 (L2) ]
+\0
+
+[@ITEM 103 (FR) ]
+- Pluie sanglante
+Riposte :
+- Bombardement {FIRE}
+Riposte combo :
+- Zone delta {BOMB/SHADOW}\0
+
+[@ITEM 104 (L1) ]
+\0
+
+[@ITEM 104 (EN) ]
+ - Rain {WATER}
+Counters:
+ - Water II {WATER}
+Combo Counters:
+ - Mix Delta {BOMB/SHADOW}\0
+
+[@ITEM 104 (L2) ]
+\0
+
+[@ITEM 104 (FR) ]
+- Pluie {WATER}
+Riposte :
+- Eau² {WATER}
+Riposte combo :
+- Zone delta {BOMB/SHADOW}\0
+
+[@ITEM 105 (L1) ]
+\0
+
+[@ITEM 105 (EN) ]
+ - Staff
+Combo Counters:
+ - Big Tornado\0
+
+[@ITEM 105 (L2) ]
+\0
+
+[@ITEM 105 (FR) ]
+- Coup de bâton
+Riposte combo :
+- Tornade\0
+
+[@ITEM 106 (L1) ]
+\0
+
+[@ITEM 106 (EN) ]
+ - Strike
+Combo Counters:
+ - X-Strike\0
+
+[@ITEM 106 (L2) ]
+\0
+
+[@ITEM 106 (FR) ]
+- Taillade
+Riposte combo :
+- Taillade croisée\0
+
+[@ITEM 107 (L1) ]
+\0
+
+[@ITEM 107 (EN) ]
+ - Staff\0
+
+[@ITEM 107 (L2) ]
+\0
+
+[@ITEM 107 (FR) ]
+- Coup de bâton\0
+
+[@ITEM 108 (L1) ]
+\0
+
+[@ITEM 108 (EN) ]
+ - Missiles\0
+
+[@ITEM 108 (L2) ]
+\0
+
+[@ITEM 108 (FR) ]
+- Missile\0
+
+[@ITEM 109 (L1) ]
+\0
+
+[@ITEM 109 (EN) ]
+ - All Lock
+ - Laser {BOMB/SHADOW}
+ - Self-destruct\0
+
+[@ITEM 109 (L2) ]
+\0
+
+[@ITEM 109 (FR) ]
+- Oubli total
+- Laser {BOMB/SHADOW}
+- Auto-destruction\0
+
+[@ITEM 110 (L1) ]
+\0
+
+[@ITEM 110 (EN) ]
+ - Sleep Bubble / Sleep
+Counters:
+ - Lock\0
+
+[@ITEM 110 (L2) ]
+\0
+
+[@ITEM 110 (FR) ]
+- Projectile somnifère
+  / Sommeil
+Riposte :
+- Oubli\0
+
+[@ITEM 111 (L1) ]
+\0
+
+[@ITEM 111 (EN) ]
+ - Laser {BOMB/SHADOW}\0
+
+[@ITEM 111 (L2) ]
+\0
+
+[@ITEM 111 (FR) ]
+- Laser {BOMB/SHADOW}\0
+
+[@ITEM 112 (L1) ]
+\0
+
+[@ITEM 112 (EN) ]
+ - Devil's Drop / Halves HP
+ - Lunate Barrage
+ - Hurricane
+ - Wing Blow / Confuse\0
+
+[@ITEM 112 (L2) ]
+\0
+
+[@ITEM 112 (FR) ]
+- Largage
+  / PV réduits de moitié
+- Lune vague
+- Ouragan
+- Battement d'ailes
+  / Confusion\0
+
+[@ITEM 113 (L1) ]
+\0
+
+[@ITEM 113 (EN) ]
+ - Missiles
+ - Dark Beam {BOMB/SHADOW}
+ - Time Stop / Stop
+ - MP Buster / Sets MP to 0\0
+
+[@ITEM 113 (L2) ]
+\0
+
+[@ITEM 113 (FR) ]
+- Missile
+- Rayon mystérieux {BOMB/SHADOW}
+- Stase temporelle / Stop
+- Vol de PM / PM = 0\0
+
+[@ITEM 114 (L1) ]
+\0
+
+[@ITEM 114 (EN) ]
+ - Missiles
+ - Laser {BOMB/SHADOW}
+Combos:
+ - Dark Plasma {BOMB/SHADOW}\0
+
+[@ITEM 114 (L2) ]
+\0
+
+[@ITEM 114 (FR) ]
+- Missile
+- Laser {BOMB/SHADOW}
+Combo :
+- Plasma obscur {BOMB/SHADOW}\0
+
+[@ITEM 115 (L1) ]
+\0
+
+[@ITEM 115 (EN) ]
+ - All Lock
+ - Firebomb {FIRE}\0
+
+[@ITEM 115 (L2) ]
+\0
+
+[@ITEM 115 (FR) ]
+- Oubli total
+- Bombardement {FIRE}\0
+
+[@ITEM 116 (L1) ]
+\0
+
+[@ITEM 116 (EN) ]
+ - Escape\0
+
+[@ITEM 116 (L2) ]
+\0
+
+[@ITEM 116 (FR) ]
+- Fuite\0
+
+[@ITEM 117 (L1) ]
+\0
+
+[@ITEM 117 (EN) ]
+ - Tentacle / Absorbs HP
+ - Crimson Rain
+ - Shining Sphere {LIGHT}\0
+
+[@ITEM 117 (L2) ]
+\0
+
+[@ITEM 117 (FR) ]
+- Tentacule vampirique
+  / Absorption de PV
+- Pluie sanglante
+- Sphère lumineuse {LIGHT}\0
+
+[@ITEM 118 (L1) ]
+\0
+
+[@ITEM 118 (EN) ]
+ - Osmose / Absorbs MP\0
+
+[@ITEM 118 (L2) ]
+\0
+
+[@ITEM 118 (FR) ]
+- Succion
+  / Absorption de PM\0
+
+[@ITEM 119 (L1) ]
+\0
+
+[@ITEM 119 (EN) ]
+ - ♪La La La♪ / Confuse
+ - Iron Sphere / Halves HP\0
+
+[@ITEM 119 (L2) ]
+\0
+
+[@ITEM 119 (FR) ]
+- ♪ La, la, laaa ♪
+  / Confusion
+- Boulet
+  / PV réduits de moitié\0
+
+[@ITEM 120 (L1) ]
+\0
+
+[@ITEM 120 (EN) ]
+ - Bite / Instant KO\0
+
+[@ITEM 120 (L2) ]
+\0
+
+[@ITEM 120 (FR) ]
+- Morsure / Mort subite\0
+
+[@ITEM 121 (L1) ]
+\0
+
+[@ITEM 121 (EN) ]
+Counters:
+ - Slap\0
+
+[@ITEM 121 (L2) ]
+\0
+
+[@ITEM 121 (FR) ]
+Riposte :
+- Baffe\0
+
+[@ITEM 122 (L1) ]
+\0
+
+[@ITEM 122 (EN) ]
+Counters:
+ - MP Buster / Sets MP to 0\0
+
+[@ITEM 122 (L2) ]
+\0
+
+[@ITEM 122 (FR) ]
+Riposte :
+- Vol de PM / PM = 0\0
+
+[@ITEM 123 (L1) ]
+\0
+
+[@ITEM 123 (EN) ]
+Counters:
+ - Death / Instant KO\0
+
+[@ITEM 123 (L2) ]
+\0
+
+[@ITEM 123 (FR) ]
+Riposte :
+- Mort\0
+
+[@ITEM 124 (L1) ]
+\0
+
+[@ITEM 124 (EN) ]
+ - Head-butt / Sets HP to 1
+ - Head-butt / 1 HP damage\0
+
+[@ITEM 124 (L2) ]
+\0
+
+[@ITEM 124 (FR) ]
+- Coup de tête / PV = 1
+- Coup de tête
+  / 1 point de dégâts\0
+
+[@ITEM 125 (L1) ]
+\0
+
+[@ITEM 125 (EN) ]
+ - Lightning {LIGHT}
+ - Fire {FIRE}
+ - Ice {WATER}\0
+
+[@ITEM 125 (L2) ]
+\0
+
+[@ITEM 125 (FR) ]
+- Foudre {LIGHT}
+- Feu {FIRE}
+- Glace {WATER}\0
+
+[@ITEM 126 (L1) ]
+\0
+
+[@ITEM 126 (EN) ]
+ - Lightning {LIGHT}
+ - Fire {FIRE}
+ - Ice {WATER}
+ - Water {WATER}\0
+
+[@ITEM 126 (L2) ]
+\0
+
+[@ITEM 126 (FR) ]
+- Foudre {LIGHT}
+- Feu {FIRE}
+- Glace {WATER}
+- Eau {WATER}\0
+
+[@ITEM 127 (L1) ]
+\0
+
+[@ITEM 127 (EN) ]
+ - Lightning {LIGHT}
+ - Fire {FIRE}
+ - Ice {WATER}
+ - Water {WATER}\0
+
+[@ITEM 127 (L2) ]
+\0
+
+[@ITEM 127 (FR) ]
+- Foudre {LIGHT}
+- Feu {FIRE}
+- Glace {WATER}
+- Eau {WATER}\0
+
+[@ITEM 128 (L1) ]
+\0
+
+[@ITEM 128 (EN) ]
+ - Lightning {LIGHT}
+ - Fire {FIRE}
+ - Ice {WATER}
+ - Lightning II {LIGHT}
+ - Fire II {FIRE}
+ - Ice II {WATER}\0
+
+[@ITEM 128 (L2) ]
+\0
+
+[@ITEM 128 (FR) ]
+- Foudre {LIGHT}
+- Feu {FIRE}
+- Glace {WATER}
+- Foudre² {LIGHT}
+- Feu² {FIRE}
+- Glace² {WATER}\0
+
+[@ITEM 129 (L1) ]
+\0
+
+[@ITEM 129 (EN) ]
+ - Lightning II {LIGHT}
+ - Fire II {FIRE}
+ - Ice II {WATER}
+ - Dark Bomb {BOMB/SHADOW}
+ - Chaotic Zone / Confusion
+ - Instant KO\0
+
+[@ITEM 129 (L2) ]
+\0
+
+[@ITEM 129 (FR) ]
+- Foudre² {LIGHT}
+- Feu² {FIRE}
+- Glace² {WATER}
+- Bombe obscure {BOMB/SHADOW}
+- Zone chaotique
+  / Confusion
+- Mort subite\0
+
+[@ITEM 130 (L1) ]
+\0
+
+[@ITEM 130 (EN) ]
+ - Luminaire {LIGHT}
+ - Flare {FIRE}
+ - Dark Matter {BOMB/SHADOW}
+ - Halation / Sets HP to 1
+ - Salt / Restores HP\0
+
+[@ITEM 130 (L2) ]
+\0
+
+[@ITEM 130 (FR) ]
+- Rayonnement {LIGHT}
+- Fission {FIRE}
+- Matière obscure {BOMB/SHADOW}
+- Halo / PV = 1
+- Sel / Régénération\0
+
+[@ITEM 131 (L1) ]
+\0
+
+[@ITEM 131 (EN) ]
+ - Beat
+ - Crimson Rain\0
+
+[@ITEM 131 (L2) ]
+\0
+
+[@ITEM 131 (FR) ]
+- Cogner
+- Pluie sanglante\0
+
+[@ITEM 132 (L1) ]
+\0
+
+[@ITEM 132 (EN) ]
+ - Kick
+ - Jump Kick
+ - Lambaste\0
+
+[@ITEM 132 (L2) ]
+\0
+
+[@ITEM 132 (FR) ]
+- Coup de pied
+- Coup de pied sauté
+- Rosser\0
+
+[@ITEM 133 (L1) ]
+\0
+
+[@ITEM 133 (EN) ]
+ - Kick
+ - Temblor
+ - Heart Shot / Slow
+Counters:
+ - Jump Kick\0
+
+[@ITEM 133 (L2) ]
+\0
+
+[@ITEM 133 (FR) ]
+- Coup de pied
+- Séisme
+- Lancer de cœurs
+  / Lenteur
+Riposte :
+- Coup de pied sauté\0
+
+[@ITEM 134 (L1) ]
+\0
+
+[@ITEM 134 (EN) ]
+ - Lock
+ - Drain / Absorbs HP
+ - Pyroclast {FIRE}
+ - Escape
+Counters:
+ - Pyroclast {FIRE}\0
+
+[@ITEM 134 (L2) ]
+\0
+
+[@ITEM 134 (FR) ]
+- Oubli
+- Saignée / Absorption de PV
+- Projection volcanique {FIRE}
+- Fuir
+Riposte :
+- Projection volcanique {FIRE}\0
+
+[@ITEM 135 (L1) ]
+\0
+
+[@ITEM 135 (EN) ]
+ - Head-butt
+ - Dark Flare {BOMB/SHADOW}
+ - Ink / Blind
+ - Malice
+Counters:
+ - Entice\0
+
+[@ITEM 135 (L2) ]
+\0
+
+[@ITEM 135 (FR) ]
+- Coup de tête
+- Fission obscure {BOMB/SHADOW}
+- Encre / Cécité
+- Rancune
+Riposte :
+- Tentation\0
+
+[@ITEM 136 (L1) ]
+\0
+
+[@ITEM 136 (EN) ]
+ - Ingest / Absorbs HP
+ - Crimson Rain\0
+
+[@ITEM 136 (L2) ]
+\0
+
+[@ITEM 136 (FR) ]
+- Mastication
+  / Absorption de PV
+- Pluie sanglante\0
+
+[@ITEM 137 (L1) ]
+\0
+
+[@ITEM 137 (EN) ]
+ - Hammer
+ - Quake Hammer
+Counters:
+ - Spinning Hammer\0
+
+[@ITEM 137 (L2) ]
+\0
+
+[@ITEM 137 (FR) ]
+- Maillet
+- Maillet sismique
+Riposte :
+- Maillet tournoyant\0
+
+[@ITEM 138 (L1) ]
+\0
+
+[@ITEM 138 (EN) ]
+ - Punch
+ - Flying Punch
+Counters:
+ - Flying Punch\0
+
+[@ITEM 138 (L2) ]
+\0
+
+[@ITEM 138 (FR) ]
+- Coup de poing
+- Coup plongeant
+Riposte :
+- Coup plongeant\0
+
+[@ITEM 139 (L1) ]
+\0
+
+[@ITEM 139 (EN) ]
+ - Hammer
+ - Hurricane Spin\0
+
+[@ITEM 139 (L2) ]
+\0
+
+[@ITEM 139 (FR) ]
+- Maillet
+- Trombe\0
+
+[@ITEM 140 (L1) ]
+\0
+
+[@ITEM 140 (EN) ]
+ - Punch
+ - Thunder II {LIGHT}
+ - Somniwave / Sleep
+ - Water II {WATER}\0
+
+[@ITEM 140 (L2) ]
+\0
+
+[@ITEM 140 (FR) ]
+- Coup de poing
+- Foudre² {LIGHT}
+- Ondes somnifères
+  / Sommeil
+- Eau² {WATER}\0
+
+[@ITEM 141 (L1) ]
+\0
+
+[@ITEM 141 (EN) ]
+ - Bite
+ - Stench / Poison
+ - Osmose / Absorbs MP\0
+
+[@ITEM 141 (L2) ]
+\0
+
+[@ITEM 141 (FR) ]
+- Morsure
+- Odeur fétide / Poison
+- Succion
+  / Absorption de PM\0
+
+[@ITEM 142 (L1) ]
+\0
+
+[@ITEM 142 (EN) ]
+ - Bite
+ - Ultrasonic Wave / Sleep
+Counters:
+ - Ultrasonic Wave / Sleep\0
+
+[@ITEM 142 (L2) ]
+\0
+
+[@ITEM 142 (FR) ]
+- Morsure
+- Ultrasons / Sommeil
+Riposte :
+- Ultrasons / Sommeil\0
+
+[@ITEM 143 (L1) ]
+\0
+
+[@ITEM 143 (EN) ]
+ - Munch / Halves HP
+ - Firebreath {FIRE}
+ - Electric Maelstrom {LIGHT}
+Counters:
+ - Lock\0
+
+[@ITEM 143 (L2) ]
+\0
+
+[@ITEM 143 (FR) ]
+- Croquer
+  / PV réduits de moitié
+- Souffle de feu {FIRE}
+- Super-décharge {LIGHT}
+Riposte :
+- Oubli\0
+
+[@ITEM 144 (L1) ]
+\0
+
+[@ITEM 144 (EN) ]
+ - Scratch
+Counters:
+ - Rainbow Dust / Poison\0
+
+[@ITEM 144 (L2) ]
+\0
+
+[@ITEM 144 (FR) ]
+- Griffes
+Riposte :
+- Poussière toxique irisée
+  / Poison\0
+
+[@ITEM 145 (L1) ]
+\0
+
+[@ITEM 145 (EN) ]
+ - Bite
+ - Firebreath {FIRE}
+ - Wild Blaze {FIRE}\0
+
+[@ITEM 145 (L2) ]
+\0
+
+[@ITEM 145 (FR) ]
+- Morsure
+- Souffle de feu {FIRE}
+- Flammes frénétiques {FIRE}\0
+
+[@ITEM 146 (L1) ]
+\0
+
+[@ITEM 146 (EN) ]
+ - Charge
+ - Dark Bomb {BOMB/SHADOW}
+ - Sonic Wave / Sleep\0
+
+[@ITEM 146 (L2) ]
+\0
+
+[@ITEM 146 (FR) ]
+- Charge
+- Bombe obscure {BOMB/SHADOW}
+- Ondes nocives / Sommeil\0
+
+[@ITEM 147 (L1) ]
+\0
+
+[@ITEM 147 (EN) ]
+ - Bell Strike
+ - Ding-a-ling / Confuse\0
+
+[@ITEM 147 (L2) ]
+\0
+
+[@ITEM 147 (FR) ]
+- Coup de cloche
+- Ding ! Dong ! / Confusion\0
+
+[@ITEM 148 (L1) ]
+\0
+
+[@ITEM 148 (EN) ]
+ - Hammer
+ - Crushing Blow
+ - Blast Wave\0
+
+[@ITEM 148 (L2) ]
+\0
+
+[@ITEM 148 (FR) ]
+- Maillet
+- Coup mortel
+- Onde de choc\0
+
+[@ITEM 149 (L1) ]
+\0
+
+[@ITEM 149 (EN) ]
+ - Impale
+ - Torrential Blast {WATER}
+ - Flying Lunge
+ - Malice\0
+
+[@ITEM 149 (L2) ]
+\0
+
+[@ITEM 149 (FR) ]
+- Coup de lance
+- Piqué torrentiel {WATER}
+- Jet de lance
+- Rancune\0
+
+[@ITEM 150 (L1) ]
+\0
+
+[@ITEM 150 (EN) ]
+ - Flame {FIRE}
+ - Malice
+ - Siphon / Absorbs HP
+Counters:
+ - Siphon / Absorbs HP\0
+
+[@ITEM 150 (L2) ]
+\0
+
+[@ITEM 150 (FR) ]
+- Flammes {FIRE}
+- Rancune
+- Saignée / Absorption de PV
+Riposte :
+- Saignée / Absorption de PV\0
+
+[@ITEM 151 (L1) ]
+\0
+
+[@ITEM 151 (EN) ]
+ - Energy Spheres
+ - Psychokinesis
+ - Dark Flare {BOMB/SHADOW}
+ - Lock\0
+
+[@ITEM 151 (L2) ]
+\0
+
+[@ITEM 151 (FR) ]
+- Sphère d'énergie
+- Psychokinésie
+- Fission obscure {BOMB/SHADOW}
+- Oubli\0
+
+[@ITEM 152 (L1) ]
+\0
+
+[@ITEM 152 (EN) ]
+ - Savage Swipe
+ - Ice II {WATER}
+ - Water II {WATER}\0
+
+[@ITEM 152 (L2) ]
+\0
+
+[@ITEM 152 (FR) ]
+- Griffes frénétiques
+- Glace² {WATER}
+- Eau² {WATER}\0
+
+[@ITEM 153 (L1) ]
+\0
+
+[@ITEM 153 (EN) ]
+ - Flame {FIRE}
+Counters:
+ - Flare {FIRE}\0
+
+[@ITEM 153 (L2) ]
+\0
+
+[@ITEM 153 (FR) ]
+- Flammes {FIRE}
+Riposte :
+- Fission {FIRE}\0
+
+[@ITEM 154 (L1) ]
+\0
+
+[@ITEM 154 (EN) ]
+ - Flame {FIRE}
+ - Fire II {FIRE}
+Counters:
+ - Self-destruct\0
+
+[@ITEM 154 (L2) ]
+\0
+
+[@ITEM 154 (FR) ]
+- Flammes {FIRE}
+- Feu² {FIRE}
+Riposte :
+- Auto-destruction\0
+
+[@ITEM 155 (L1) ]
+\0
+
+[@ITEM 155 (EN) ]
+ - Dark Beam {BOMB/SHADOW}
+ - Sonic Wave / Sleep
+ - Electric Maelstrom {LIGHT}\0
+
+[@ITEM 155 (L2) ]
+\0
+
+[@ITEM 155 (FR) ]
+- Rayon mystérieux {BOMB/SHADOW}
+- Ondes nocives / Sommeil
+- Super-décharge {LIGHT}\0
+
+[@ITEM 156 (L1) ]
+\0
+
+[@ITEM 156 (EN) ]
+ - Hidden Needles
+ - Absorb Energy /
+\t{70}Absorbs HP
+ - Supersonic Wave / Sleep\0
+
+[@ITEM 156 (L2) ]
+\0
+
+[@ITEM 156 (FR) ]
+- Aiguillon caché
+- Absorption d'énergie
+  / Absorption de PV
+- Ondes délétères / Sommeil\0
+
+[@ITEM 157 (L1) ]
+\0
+
+[@ITEM 157 (EN) ]
+ - Missiles
+ - Dark Beam {BOMB/SHADOW}
+ - Time Stop / Stop
+ - Attrition / Halves HP
+ - Self-destruct
+Counters:
+ - Osmose / Absorbs MP\0
+
+[@ITEM 157 (L2) ]
+\0
+
+[@ITEM 157 (FR) ]
+- Missile
+- Rayon mystérieux {BOMB/SHADOW}
+- Stase temporelle / Stop
+- Coup dévastateur
+  / PV réduits de moitié
+- Auto-destruction
+Riposte :
+- Succion
+  / Absorption de PM\0
+
+[@ITEM 158 (L1) ]
+\0
+
+[@ITEM 158 (EN) ]
+\0
+
+[@ITEM 158 (L2) ]
+\0
+
+[@ITEM 158 (FR) ]
+\0
+
+[@ITEM 159 (L1) ]
+\0
+
+[@ITEM 159 (EN) ]
+\0
+
+[@ITEM 159 (L2) ]
+\0
+
+[@ITEM 159 (FR) ]
+\0
+
+[@ITEM 160 (L1) ]
+\0
+
+[@ITEM 160 (EN) ]
+ - Scratch
+ - Iron Sphere Blast
+ - Needle Spin
+ - Yakra Rumble
+Counters:
+ - Yakra Rage\0
+
+[@ITEM 160 (L2) ]
+\0
+
+[@ITEM 160 (FR) ]
+- Griffes
+- Boulet
+- Volée d'épines
+- Séisme
+Riposte :
+- Folie furieuse\0
+
+[@ITEM 161 (L1) ]
+\0
+
+[@ITEM 161 (EN) ]
+ - Dragonfire {FIRE}
+ - Repair Body\0
+
+[@ITEM 161 (L2) ]
+\0
+
+[@ITEM 161 (FR) ]
+- Souffle de dragon {FIRE}
+- Réparation des dégâts\0
+
+[@ITEM 162 (L1) ]
+\0
+
+[@ITEM 162 (EN) ]
+ - Dragon Charge\0
+
+[@ITEM 162 (L2) ]
+\0
+
+[@ITEM 162 (FR) ]
+- Charge\0
+
+[@ITEM 163 (L1) ]
+\0
+
+[@ITEM 163 (EN) ]
+ - Missiles
+Counters:
+ - Laser {BOMB/SHADOW}\0
+
+[@ITEM 163 (L2) ]
+\0
+
+[@ITEM 163 (FR) ]
+- Missile
+Riposte :
+- Laser {BOMB/SHADOW}\0
+
+[@ITEM 164 (L1) ]
+\0
+
+[@ITEM 164 (EN) ]
+ - Revive Pods
+Combos:
+ - Amplifier {BOMB/SHADOW}
+Combo Counters:
+ - Amplifier {BOMB/SHADOW}
+ - Delta Attack {BOMB/SHADOW}\0
+
+[@ITEM 164 (L2) ]
+\0
+
+[@ITEM 164 (FR) ]
+- Régénération du module
+Combo :
+- Amplificateur {BOMB/SHADOW}
+Ripostes combos :
+- Amplificateur {BOMB/SHADOW}
+- Delta {BOMB/SHADOW}\0
+
+[@ITEM 165 (L1) ]
+\0
+
+[@ITEM 165 (EN) ]
+ - Missiles
+ - Laser {BOMB/SHADOW}
+Combos:
+ - Amplifier {BOMB/SHADOW}
+Combo Counters:
+ - Amplifier {BOMB/SHADOW}
+ - Delta Attack {BOMB/SHADOW}\0
+
+[@ITEM 165 (L2) ]
+\0
+
+[@ITEM 165 (FR) ]
+- Missile
+- Laser {BOMB/SHADOW}
+Combo :
+- Amplificateur {BOMB/SHADOW}
+Ripostes combos :
+- Amplificateur {BOMB/SHADOW}
+- Delta {BOMB/SHADOW}\0
+
+[@ITEM 166 (L1) ]
+\0
+
+[@ITEM 166 (EN) ]
+ - Doublehand Slap
+ - Mash / Sets HP to 1\0
+
+[@ITEM 166 (L2) ]
+\0
+
+[@ITEM 166 (FR) ]
+- Battement de mains
+- Déchiquetage / PV = 1\0
+
+[@ITEM 167 (L1) ]
+\0
+
+[@ITEM 167 (EN) ]
+ - Robo Punch
+ - Robo Cable Punch
+Counters:
+ - Robo Laser {BOMB/SHADOW}
+ - Robo Pitch
+ - Robo Explosion\0
+
+[@ITEM 167 (L2) ]
+\0
+
+[@ITEM 167 (FR) ]
+- Coup de poing
+- Poing-obus
+Ripostes :
+- Laser {BOMB/SHADOW}
+- Catapultage
+- Explosion\0
+
+[@ITEM 168 (L1) ]
+\0
+
+[@ITEM 168 (EN) ]
+ - Water {WATER}
+ - Yah!
+ - Nereid Cyclone {WATER}
+Counters:
+ - Water II! {WATER}\0
+
+[@ITEM 168 (L2) ]
+\0
+
+[@ITEM 168 (FR) ]
+- Eau {WATER}
+- Yaaah !
+- Tourbillon marin {WATER}
+Riposte :
+- Eau² ! {WATER}\0
+
+[@ITEM 169 (L1) ]
+\0
+
+[@ITEM 169 (EN) ]
+ - Lightning {LIGHT}\0
+
+[@ITEM 169 (L2) ]
+\0
+
+[@ITEM 169 (FR) ]
+- Foudre {LIGHT}\0
+
+[@ITEM 170 (L1) ]
+\0
+
+[@ITEM 170 (EN) ]
+ - Flame Strike {FIRE}
+ - Annihilation Ray
+ - Drain / Absorbs HP
+ - Fangs
+Counters:
+ - Annihilation Ray
+ - MP Buster / Sets MP to 0\0
+
+[@ITEM 170 (L2) ]
+\0
+
+[@ITEM 170 (FR) ]
+- Attaque brasier {FIRE}
+- Rayon hérétique
+- Saignée / Absorption de PV
+- Côtes
+Ripostes :
+- Rayon hérétique
+- Vol de PM / PM = 0\0
+
+[@ITEM 171 (L1) ]
+\0
+
+[@ITEM 171 (EN) ]
+ - Skull Drop
+ - Earthquake\0
+
+[@ITEM 171 (L2) ]
+\0
+
+[@ITEM 171 (FR) ]
+- Chute de crâne
+- Tremblement de terre\0
+
+[@ITEM 172 (L1) ]
+\0
+
+[@ITEM 172 (EN) ]
+ - Punch
+Combos:
+ - Typhoon / Confuse
+Combo Counters:
+ - X-Strike\0
+
+[@ITEM 172 (L2) ]
+\0
+
+[@ITEM 172 (FR) ]
+- Coup de poing
+Combo :
+- Typhon fraternel
+  / Confusion
+Riposte combo :
+- Attaque en croix
+  fraternelle\0
+
+[@ITEM 173 (L1) ]
+\0
+
+[@ITEM 173 (EN) ]
+ - Multi-punch
+Combos:
+ - Typhoon / Confuse
+Combo Counters:
+ - X-Strike\0
+
+[@ITEM 173 (L2) ]
+\0
+
+[@ITEM 173 (FR) ]
+- Volée de coups
+Combo :
+- Typhon fraternel
+  / Confusion
+Riposte combo :
+- Attaque en croix
+  fraternelle\0
+
+[@ITEM 174 (L1) ]
+\0
+
+[@ITEM 174 (EN) ]
+ - Doublehand Chop
+ - Hurricane
+ - Vacuum Wave
+Counters:
+ - Wind Slash {LIGHT}\0
+
+[@ITEM 174 (L2) ]
+\0
+
+[@ITEM 174 (FR) ]
+- Deux mains
+- Ouragan
+- Onde de vide {LIGHT}
+Riposte :
+- Rafale cinglante {LIGHT}\0
+
+[@ITEM 175 (L1) ]
+\0
+
+[@ITEM 175 (EN) ]
+ - Charge
+ - Earthquake
+ - Electric Discharge {LIGHT}\0
+
+[@ITEM 175 (L2) ]
+\0
+
+[@ITEM 175 (FR) ]
+- Charge
+- Tremblement de terre
+- Émission d'énergie
+  électrique {LIGHT}\0
+
+[@ITEM 176 (L1) ]
+\0
+
+[@ITEM 176 (EN) ]
+ - Flame Strike {FIRE}
+Counters:
+ - MP Buster / Sets MP to 0\0
+
+[@ITEM 176 (L2) ]
+\0
+
+[@ITEM 176 (FR) ]
+- Attaque brasier {FIRE}
+Riposte :
+- Vol de PM / PM = 0\0
+
+[@ITEM 177 (L1) ]
+\0
+
+[@ITEM 177 (EN) ]
+ - Blow Kiss ♥ / Sleep
+ - Wind Waltz ♥ / Confuse
+ - Rainbow Storm / Poison
+ - Rainbow Beam ♥ / Blind
+Counters:
+ - The Look ♥\0
+
+[@ITEM 177 (L2) ]
+\0
+
+[@ITEM 177 (FR) ]
+- Baiser soufflé ♥
+  / Sommeil
+- Valse du vent ♥
+  / Confusion
+- Tempête irisée / Poison
+- Rayon spectral ♥
+  / Cécité
+Riposte :
+- Regard affriolant ♥\0
+
+[@ITEM 178 (L1) ]
+\0
+
+[@ITEM 178 (EN) ]
+ - Rapid-fire Punch
+ - Skyward Flame
+Counters:
+ - Firebomb {FIRE}\0
+
+[@ITEM 178 (L2) ]
+\0
+
+[@ITEM 178 (FR) ]
+- Volée de coups de poing
+- Flammes dansantes
+Riposte :
+- Bombardement {FIRE}\0
+
+[@ITEM 179 (L1) ]
+\0
+
+[@ITEM 179 (EN) ]
+ - Strike
+ - Wind Slash {LIGHT}
+ - Cleave
+ - Frenzy
+Counters:
+ - Frenzy\0
+
+[@ITEM 179 (L2) ]
+\0
+
+[@ITEM 179 (FR) ]
+- Taillade
+- Rafale cinglante {LIGHT}
+- Coup foudroyant
+- Tempête de lames
+Riposte :
+- Tempête de lames\0
+
+[@ITEM 180 (L1) ]
+\0
+
+[@ITEM 180 (EN) ]
+Counters:
+ - Barrier Bomb\0
+
+[@ITEM 180 (L2) ]
+\0
+
+[@ITEM 180 (FR) ]
+Riposte :
+- Barrière vengeresse\0
+
+[@ITEM 181 (L1) ]
+\0
+
+[@ITEM 181 (EN) ]
+ - Scythe
+ - Hell Geyser
+ - Dark Matter {BOMB/SHADOW}
+Counters:
+ - Lightning II {LIGHT}
+ - Ice II {WATER}
+ - Fire II {FIRE}
+ - Dark Bomb {BOMB/SHADOW}\0
+
+[@ITEM 181 (L2) ]
+\0
+
+[@ITEM 181 (FR) ]
+- Coup de faux
+- Geyser infernal
+- Matière obscure {BOMB/SHADOW}
+Ripostes :
+- Foudre² {LIGHT}
+- Glace² {WATER}
+- Feu² {FIRE}
+- Bombe obscure {BOMB/SHADOW}\0
+
+[@ITEM 182 (L1) ]
+\0
+
+[@ITEM 182 (EN) ]
+ - Charge
+ - Nizbel Charge
+ - Electric Discharge {LIGHT}
+ - Earthquake
+Counters:
+ - Hit
+ - Nasal Gas / Poison\0
+
+[@ITEM 182 (L2) ]
+\0
+
+[@ITEM 182 (FR) ]
+- Charge
+- Furie
+- Super-émission d'énergie
+  électrique {LIGHT}
+- Tremblement de terre
+Ripostes :
+- Frapper
+- Souffle nasal / Poison\0
+
+[@ITEM 183 (L1) ]
+\0
+
+[@ITEM 183 (EN) ]
+ - Psychokinesis
+ - Teleport / Brings boulder
+ - Telepathy / Sleep
+Counters:
+ - Azarla's Wrath\0
+
+[@ITEM 183 (L2) ]
+\0
+
+[@ITEM 183 (FR) ]
+- Psychokinésie
+- Téléportation d'un rocher
+- Télépathie / Sommeil
+Riposte :
+- Ire d'Azara\0
+
+[@ITEM 184 (L1) ]
+\0
+
+[@ITEM 184 (EN) ]
+ - Firebreath {FIRE}
+ - Chomp / Absorbs HP
+ - Roar
+ - Tyrano Flame {FIRE}\0
+
+[@ITEM 184 (L2) ]
+\0
+
+[@ITEM 184 (FR) ]
+- Souffle de feu {FIRE}
+- Mastication
+  / Absorption de PV
+- Rugissement
+- Souffle de
+  tyrannosaure {FIRE}\0
+
+[@ITEM 185 (L1) ]
+\0
+
+[@ITEM 185 (EN) ]
+ - Iron Sphere / Halves HP
+ - Electrify {LIGHT}
+ - Dark Ray {BOMB/SHADOW}
+ - Ice {WATER}
+ - Water II {WATER}
+ - Flame {FIRE}
+ - Fire II {FIRE}
+ - Energy Spheres
+Counters:
+ - Bluuurp!\0
+
+[@ITEM 185 (L2) ]
+\0
+
+[@ITEM 185 (FR) ]
+- Boulet / PV {C2}{86} 2
+- Décharge {LIGHT}
+- Rayon obscur {BOMB/SHADOW}
+- Glace {WATER}
+- Eau² {WATER}
+- Flammes {FIRE}
+- Feu² {FIRE}
+- Sphère d'énergie
+Riposte :
+- Prouuut !\0
+
+[@ITEM 186 (L1) ]
+\0
+
+[@ITEM 186 (EN) ]
+ - Pebble Punt
+ - Sleep Bubble / Sleep
+ - Heal
+Combos:
+ - Left Charge
+ - Right Charge
+Combo Counters:
+ - Cross Charge
+ - Earthquake\0
+
+[@ITEM 186 (L2) ]
+\0
+
+[@ITEM 186 (FR) ]
+- Jet de caillou
+- Bulle soporifique / Sommeil
+- Récupération
+Combos :
+- Charge bleue
+- Charge rouge
+Ripostes combos :
+- Charges croisées
+- Tremblement de terre\0
+
+[@ITEM 187 (L1) ]
+\0
+
+[@ITEM 187 (EN) ]
+ - Charge
+Combos:
+ - Left Charge
+Combo Counters:
+ - Cross Charge
+ - Earthquake\0
+
+[@ITEM 187 (L2) ]
+\0
+
+[@ITEM 187 (FR) ]
+- Charge
+Combo :
+- Charge bleue
+Ripostes combos :
+- Charges croisées
+- Tremblement de terre\0
+
+[@ITEM 188 (L1) ]
+\0
+
+[@ITEM 188 (EN) ]
+ - Charge
+Combos:
+ - Right Charge
+Combo Counters:
+ - Cross Charge
+ - Earthquake\0
+
+[@ITEM 188 (L2) ]
+\0
+
+[@ITEM 188 (FR) ]
+- Charge
+Combo :
+- Charge rouge
+Ripostes combos :
+- Charges croisées
+- Tremblement de terre\0
+
+[@ITEM 189 (L1) ]
+\0
+
+[@ITEM 189 (EN) ]
+Arm revival circuits starting up\0
+
+[@ITEM 189 (L2) ]
+\0
+
+[@ITEM 189 (FR) ]
+- Activation du circuit de
+  réparation des bras\0
+
+[@ITEM 190 (L1) ]
+\0
+
+[@ITEM 190 (EN) ]
+ - Water Surge {WATER}
+ - Restore Head
+Combos:
+ - Doublehand Blaster {FIRE}
+ - Dark Plasma {BOMB/SHADOW}\0
+
+[@ITEM 190 (L2) ]
+\0
+
+[@ITEM 190 (FR) ]
+- Inondation {WATER}
+- Réparation de la tête
+Combos :
+- Duo explosif {FIRE}
+- Plasma obscur {BOMB/SHADOW}\0
+
+[@ITEM 191 (L1) ]
+\0
+
+[@ITEM 191 (EN) ]
+ - Arm Attack / Halves HP
+ - Gaia Magnade {FIRE}
+Combos:
+ - Doublehand Blaster {FIRE}
+ - Dark Plasma {BOMB/SHADOW}\0
+
+[@ITEM 191 (L2) ]
+\0
+
+[@ITEM 191 (FR) ]
+- Bras offensif / PV réduits
+  de moitié
+- Grenade magma {FIRE}
+Combos :
+- Duo explosif {FIRE}
+- Plasma obscur {BOMB/SHADOW}\0
+
+[@ITEM 192 (L1) ]
+\0
+
+[@ITEM 192 (EN) ]
+ - Iron Sphere / Halves HP
+Counters:
+ - Burrrp!\0
+
+[@ITEM 192 (L2) ]
+\0
+
+[@ITEM 192 (FR) ]
+- Boulet
+  / PV réduits de moitié
+Riposte :
+- Prouuut !\0
+
+[@ITEM 193 (L1) ]
+\0
+
+[@ITEM 193 (EN) ]
+ - Rain Destruction
+ - Lavos Needle
+ - Chaotic Zone / Confusion
+ - Earthquake\0
+
+[@ITEM 193 (L2) ]
+\0
+
+[@ITEM 193 (FR) ]
+- Désolation
+- Épines
+- Zone chaotique
+  / Confusion
+- Tremblement de terre\0
+
+[@ITEM 194 (L1) ]
+\0
+
+[@ITEM 194 (EN) ]
+ - Grand Destruction
+ - Escape\0
+
+[@ITEM 194 (L2) ]
+\0
+
+[@ITEM 194 (FR) ]
+- Sort ultra-destructeur
+  / Terreur
+- Fuite\0
+
+[@ITEM 195 (L1) ]
+\0
+
+[@ITEM 195 (EN) ]
+ - Gale Slash
+ - Energy Spheres
+ - Burst Sphere
+Counters:
+ - Iron Sphere / Halves HP
+ - Lightning II {LIGHT}
+ - Ice II {WATER}
+ - Fire II {FIRE}\0
+
+[@ITEM 195 (L2) ]
+\0
+
+[@ITEM 195 (FR) ]
+- Taillade bourrasque
+- Sphère d'énergie
+- Sphère éclatante
+Ripostes :
+- Boulet
+  / PV réduits de moitié
+- Foudre² {LIGHT}
+- Glace² {WATER}
+- Feu² {FIRE}\0
+
+[@ITEM 196 (L1) ]
+\0
+
+[@ITEM 196 (EN) ]
+ - Scythe
+ - Fire II {FIRE}
+ - Ice II {WATER}
+ - Lightning II {LIGHT}
+Counters:
+ - Fire II {FIRE}
+ - Ice II {WATER}
+ - Lightning II {LIGHT}\0
+
+[@ITEM 196 (L2) ]
+\0
+
+[@ITEM 196 (FR) ]
+- Coup de faux
+- Feu² {FIRE}
+- Glace² {WATER}
+- Foudre² {LIGHT}
+Ripostes :
+- Feu² {FIRE}
+- Glace² {WATER}
+- Foudre² {LIGHT}\0
+
+[@ITEM 197 (L1) ]
+\0
+
+[@ITEM 197 (EN) ]
+ - Miasma / Confuse
+ - Lavos Breath / Sleep
+ - Blanket Bomb {FIRE}
+ - Mini Lavos Needle\0
+
+[@ITEM 197 (L2) ]
+\0
+
+[@ITEM 197 (FR) ]
+- Miasme / Confusion
+- Soupir de Lavos / Sommeil
+- Tapis de bombes {FIRE}
+- Épines\0
+
+[@ITEM 198 (L1) ]
+\0
+
+[@ITEM 198 (EN) ]
+Shell counterattacks:
+ - Mini Lavos Needle\0
+
+[@ITEM 198 (L2) ]
+\0
+
+[@ITEM 198 (FR) ]
+Riposte :
+- Épines\0
+
+[@ITEM 199 (L1) ]
+\0
+
+[@ITEM 199 (EN) ]
+ - Absorb Core Energy
+ - Sand Breath / Blind
+ - Blanket Bomb {FIRE}
+ - Tentacle / Absorbs HP
+ - Spinning Laser {BOMB/SHADOW}
+ - Dark Flare {BOMB/SHADOW}\0
+
+[@ITEM 199 (L2) ]
+\0
+
+[@ITEM 199 (FR) ]
+- Absorption de l'énergie
+  du cœur
+- Souffle de sable / Cécité
+- Tapis de bombes {FIRE}
+- Tentacule vampirique
+  / Absorption de PV
+- Lasers giratoires {BOMB/SHADOW}
+- Fission obscure {BOMB/SHADOW}\0
+
+[@ITEM 200 (L1) ]
+\0
+
+[@ITEM 200 (EN) ]
+ - Absorb Core Energy
+ - Sand Cyclone
+ - Temblor
+ - Chomp / Absorbs HP\0
+
+[@ITEM 200 (L2) ]
+\0
+
+[@ITEM 200 (FR) ]
+- Absorption de l'énergie
+  du cœur
+- Tourbillon de sable
+- Séisme
+- Mastication
+  / Absorption de PV\0
+
+[@ITEM 201 (L1) ]
+\0
+
+[@ITEM 201 (EN) ]
+ - Escape\0
+
+[@ITEM 201 (L2) ]
+\0
+
+[@ITEM 201 (FR) ]
+- Fuite\0
+
+[@ITEM 202 (L1) ]
+\0
+
+[@ITEM 202 (EN) ]
+Heartfire Sword\0
+
+[@ITEM 202 (L2) ]
+\0
+
+[@ITEM 202 (FR) ]
+- Cœur de feu ♥\0
+
+[@ITEM 203 (L1) ]
+\0
+
+[@ITEM 203 (EN) ]
+ - Wind Slash {LIGHT}\0
+
+[@ITEM 203 (L2) ]
+\0
+
+[@ITEM 203 (FR) ]
+- Rafale cinglante {LIGHT}\0
+
+[@ITEM 204 (L1) ]
+\0
+
+[@ITEM 204 (EN) ]
+ - Heartfire
+ - Rainbow Beam ♥ / Blind
+ - Rainbow Storm / Poison
+Combos:
+ - Mix Delta {BOMB/SHADOW}
+Combo Counters:
+ - Bad Impulse {FIRE}
+ - Mix Delta {BOMB/SHADOW}
+ - Heartfire Sword {FIRE}\0
+
+[@ITEM 204 (L2) ]
+\0
+
+[@ITEM 204 (FR) ]
+- Cœur de feu ♥
+- Rayon spectral ♥ / Cécité
+- Tempête irisée / Poison
+Combo :
+- Zone delta {BOMB/SHADOW}
+Ripostes combos :
+- Impulsion démoniaque {FIRE}
+- Zone delta {BOMB/SHADOW}
+- Sabre de feu ♥ {FIRE}\0
+
+[@ITEM 205 (L1) ]
+\0
+
+[@ITEM 205 (EN) ]
+ - Wind Slash {LIGHT}
+ - Frenzy
+Combos:
+ - Mix Delta {BOMB/SHADOW}
+Combo Counters:
+ - Bad Impulse {FIRE}
+ - Mix Delta {BOMB/SHADOW}
+ - Heartfire Sword {FIRE}\0
+
+[@ITEM 205 (L2) ]
+\0
+
+[@ITEM 205 (FR) ]
+- Rafale cinglante {LIGHT}
+- Tempête de lames
+Combo :
+- Zone delta {BOMB/SHADOW}
+Ripostes combos :
+- Impulsion démoniaque {FIRE}
+- Zone delta {BOMB/SHADOW}
+- Sabre de feu ♥ {FIRE}\0
+
+[@ITEM 206 (L1) ]
+\0
+
+[@ITEM 206 (EN) ]
+Combos:
+ - Mix Delta {BOMB/SHADOW}
+Combo Counters:
+ - Bad Impulse {FIRE}
+ - Mix Delta {BOMB/SHADOW}\0
+
+[@ITEM 206 (L2) ]
+\0
+
+[@ITEM 206 (FR) ]
+Combo :
+- Zone delta {BOMB/SHADOW}
+Ripostes combos :
+- Zone delta {BOMB/SHADOW}
+- Impulsion démoniaque {FIRE}\0
+
+[@ITEM 207 (L1) ]
+\0
+
+[@ITEM 207 (EN) ]
+ - Rocket Punch
+ - Cure Beam
+ - Robo Tackle / Halves HP
+ - Spinning Laser {BOMB/SHADOW}
+ - Rapid-fire Fist
+ - Proximity Bomb {FIRE}
+Counters:
+ - Self-destruct
+ - Cricket Chirp / Sleep\0
+
+[@ITEM 207 (L2) ]
+\0
+
+[@ITEM 207 (FR) ]
+- Poing-obus
+- Rayon guérissant
+- Turbo-tacle / PV réduits
+  de moitié
+- Lasers giratoires {BOMB/SHADOW}
+- Poing mitrailleur
+- Pyrosphère {FIRE}
+Ripostes :
+- Auto-destruction
+- Cri-cri / Sommeil\0
+
+[@ITEM 208 (L1) ]
+\0
+
+[@ITEM 208 (EN) ]
+ - Dark Beam {BOMB/SHADOW}
+ - Reprogram / Confuse
+ - Spinning Laser {BOMB/SHADOW}
+ - Memory Reset / All Lock
+ - Upgrade\0
+
+[@ITEM 208 (L2) ]
+\0
+
+[@ITEM 208 (FR) ]
+- Rayon mystérieux {BOMB/SHADOW}
+- Reprogrammation
+  / Confusion
+- Lasers giratoires {BOMB/SHADOW}
+- Réinitialisation de la
+  mémoire / Oubli total
+- Mise à jour\0
+
+[@ITEM 209 (L1) ]
+\0
+
+[@ITEM 209 (EN) ]
+Cure Beam\0
+
+[@ITEM 209 (L2) ]
+\0
+
+[@ITEM 209 (FR) ]
+- Rayon guérissant\0
+
+[@ITEM 210 (L1) ]
+\0
+
+[@ITEM 210 (EN) ]
+ - Dark Beam {BOMB/SHADOW}
+ - Flare {FIRE}
+Counters:
+ - Flare {FIRE}
+ - Roulette Spin\0
+
+[@ITEM 210 (L2) ]
+\0
+
+[@ITEM 210 (FR) ]
+- Rayon mystérieux {BOMB/SHADOW}
+- Fission {FIRE}
+Ripostes :
+- Fission {FIRE}
+- Mélange\0
+
+[@ITEM 211 (L1) ]
+\0
+
+[@ITEM 211 (EN) ]
+ - Flame Counterattack {FIRE}\0
+
+[@ITEM 211 (L2) ]
+\0
+
+[@ITEM 211 (FR) ]
+- Flammes vengeresses {FIRE}\0
+
+[@ITEM 212 (L1) ]
+\0
+
+[@ITEM 212 (EN) ]
+ - Chomp / Absorbs HP
+ - Roar
+ - Tyrano Flame {FIRE}\0
+
+[@ITEM 212 (L2) ]
+\0
+
+[@ITEM 212 (FR) ]
+- Mastication
+  / Absorption de PV
+- Rugissement
+- Souffle de
+  tyrannosaure {FIRE}\0
+
+[@ITEM 213 (L1) ]
+\0
+
+[@ITEM 213 (EN) ]
+ - Miasma / Confuse
+ - Yakra Rumble
+ - Needle Spin Ver. XIII
+ - Needle Spin Ver. XIII
+\t{70}Barrage
+Counters:
+ - Needle Spin Ver. XIII
+\t{70}Barrage\0
+
+[@ITEM 213 (L2) ]
+\0
+
+[@ITEM 213 (FR) ]
+- Miasme / Confusion
+- Séisme
+- Volée d'épines version XIII
+- Volée irrégulière d'épines
+  version XIII
+Riposte :
+- Volée irrégulière d'épines
+  version XIII\0
+
+[@ITEM 214 (L1) ]
+\0
+
+[@ITEM 214 (EN) ]
+ - Tentacle / Absorbs HP
+ - Mutant Gas / Poison
+ - Mutant Gas / Sleep
+ - Paint Black / Blind\0
+
+[@ITEM 214 (L2) ]
+\0
+
+[@ITEM 214 (FR) ]
+- Tentacule vampirique
+  / Absorption de PV
+- Gaz mutant / Poison
+- Gaz mutant / Sommeil
+- Noircissement\0
+
+[@ITEM 215 (L1) ]
+\0
+
+[@ITEM 215 (EN) ]
+ - Tentacle Strike
+ - Chaotic Zone / Confusion
+ - Scalding Steam\0
+
+[@ITEM 215 (L2) ]
+\0
+
+[@ITEM 215 (FR) ]
+- Coup de tentacule
+- Zone chaotique
+  / Confusion
+- Vapeur stagnante\0
+
+[@ITEM 216 (L1) ]
+\0
+
+[@ITEM 216 (EN) ]
+ - Shining Sphere {LIGHT}
+ - Blanket Bomb {FIRE}
+ - Mutant Gas / Poison
+ - Mutant Gas / Sleep
+Counters:
+ - Tentacle / Absorbs MP\0
+
+[@ITEM 216 (L2) ]
+\0
+
+[@ITEM 216 (FR) ]
+- Sphère lumineuse {LIGHT}
+- Tapis de bombes {FIRE}
+- Gaz mutant / Poison
+- Gaz mutant / Sommeil
+Riposte :
+- Tentacule suceur
+  / Absorption de PM\0
+
+[@ITEM 217 (L1) ]
+\0
+
+[@ITEM 217 (EN) ]
+ - Shuriken
+ - Lifeshaver / Sets HP to 1
+ - Scalding Steam\0
+
+[@ITEM 217 (L2) ]
+\0
+
+[@ITEM 217 (FR) ]
+- Shuriken
+- Siphon vital / PV = 1
+- Vapeur stagnante\0
+
+[@ITEM 218 (L1) ]
+\0
+
+[@ITEM 218 (EN) ]
+ - Energy Spheres
+ - Burst Sphere
+ - Drain / Absorbs HP
+ - Chaotic Zone / Confusion
+ - Great Pyroclast {FIRE}
+ - Halation / Sets HP to 1\0
+
+[@ITEM 218 (L2) ]
+\0
+
+[@ITEM 218 (FR) ]
+- Sphère d'énergie
+- Sphère éclatante
+- Saignée / Absorption de PV
+- Zone chaotique
+  / Confusion
+- Super-projection
+  volcanique {FIRE}
+- Halo / PV = 1\0
+
+[@ITEM 219 (L1) ]
+\0
+
+[@ITEM 219 (EN) ]
+Counters:
+ - Lifeshaver / Sets HP to 1\0
+
+[@ITEM 219 (L2) ]
+\0
+
+[@ITEM 219 (FR) ]
+Riposte :
+- Siphon vital / PV = 1\0
+
+[@ITEM 220 (L1) ]
+\0
+
+[@ITEM 220 (EN) ]
+ - Water Surge {WATER}
+ - Dark Bomb {BOMB/SHADOW}
+ - Annihilation Zone {BOMB/SHADOW}
+ - Mini Lavos Needle
+\t{70}Chaotic Strike\0
+
+[@ITEM 220 (L2) ]
+\0
+
+[@ITEM 220 (FR) ]
+- Inondation {WATER}
+- Bombe obscure {BOMB/SHADOW}
+- Zone de destruction {BOMB/SHADOW}
+- Volée d'épines\0
+
+[@ITEM 221 (L1) ]
+\0
+
+[@ITEM 221 (EN) ]
+Shell counterattacks:
+ - Mini Lavos Needle\0
+
+[@ITEM 221 (L2) ]
+\0
+
+[@ITEM 221 (FR) ]
+Riposte :
+- Épines\0
+
+[@ITEM 222 (L1) ]
+\0
+
+[@ITEM 222 (EN) ]
+ - Death Kiss / Absorbs MP
+ - Energy Spheres
+ - Halation / Sets HP to 1\0
+
+[@ITEM 222 (L2) ]
+\0
+
+[@ITEM 222 (FR) ]
+- Baiser de la mort
+  / Absorption de PM
+- Sphère d'énergie
+- Halo / PV = 1\0
+
+[@ITEM 223 (L1) ]
+\0
+
+[@ITEM 223 (EN) ]
+ - Stand Still
+ - Turn Attack into Defense
+ - Turn Magic into Attack
+ - Point Flare {FIRE}
+ - Energy Discharge\0
+
+[@ITEM 223 (L2) ]
+\0
+
+[@ITEM 223 (FR) ]
+- Immobilité
+- Transforme attaque en
+  défense / Défense ↑
+- Transforme magie en
+  attaque / Attaque ↑
+- Fission concentrée {FIRE}
+- Émission de l'énergie
+  accumulée\0
+
+[@ITEM 224 (L1) ]
+\0
+
+[@ITEM 224 (EN) ]
+ - Halation / Sets HP to 1
+ - Heavenly Gate {LIGHT}
+ - Gears of Darkness {BOMB/SHADOW}
+ - Starburst {WATER}
+ - MP Buster / Sets MP to 0\0
+
+[@ITEM 224 (L2) ]
+\0
+
+[@ITEM 224 (FR) ]
+- Halo / PV = 1
+- Portail de l'empyrée {LIGHT}
+- Engrenage obscur {BOMB/SHADOW}
+- Brume hexagonale {WATER}
+- Vol de PM / PM = 0\0
+
+[@ITEM 225 (L1) ]
+\0
+
+[@ITEM 225 (EN) ]
+ - Laser {BOMB/SHADOW}
+Counters:
+ - Lifeshaver / Sets HP to 1\0
+
+[@ITEM 225 (L2) ]
+\0
+
+[@ITEM 225 (FR) ]
+- Laser {BOMB/SHADOW}
+Riposte :
+- Siphon vital / PV = 1\0
+
+[@ITEM 226 (L1) ]
+\0
+
+[@ITEM 226 (EN) ]
+ - Dark Beam {BOMB/SHADOW}
+Counters:
+ - MP Buster / Sets MP to 0\0
+
+[@ITEM 226 (L2) ]
+\0
+
+[@ITEM 226 (FR) ]
+- Rayon mystérieux {BOMB/SHADOW}
+Riposte :
+- Vol de PM / PM = 0\0
+
+[@ITEM 227 (L1) ]
+\0
+
+[@ITEM 227 (EN) ]
+???\0
+
+[@ITEM 227 (L2) ]
+\0
+
+[@ITEM 227 (FR) ]
+???\0
+
+[@ITEM 228 (L1) ]
+\0
+
+[@ITEM 228 (EN) ]
+ - Rain Destruction
+ - Lavos Needle
+ - Chaotic Zone / Confusion
+ - Earthquake\0
+
+[@ITEM 228 (L2) ]
+\0
+
+[@ITEM 228 (FR) ]
+- Désolation
+- Épines
+- Zone chaotique
+  / Confusion
+- Tremblement de terre\0
+
+[@ITEM 229 (L1) ]
+\0
+
+[@ITEM 229 (EN) ]
+ - Fire Dance
+ - Dark Will / Chaos
+ - Umbral Embrace / Poison
+ - Flames of War {FIRE}
+ - Evil Emanation / Raises
+\t{70}Attack
+ - Dark Flame's Embrace
+Combos:
+ - Laser Beams\0
+
+[@ITEM 229 (L2) ]
+\0
+
+[@ITEM 229 (FR) ]
+- Pyronéant {FIRE}
+- Esprit malin / Confusion
+- Ombre meurtrière / Poison
+- Flammes agressives {FIRE}
+- Radiation chtonienne
+  / Attaque ↑
+- Ombre maligne enflammée
+Combo :
+- Éclat dévastateur\0
+
+[@ITEM 230 (L1) ]
+\0
+
+[@ITEM 230 (EN) ]
+ - Lunate Barrage
+ - Distant Death / Arm heals
+	{70}main body
+ - Curse / Voids immunities
+ - Immobilize / Stop
+Combos:
+ - Laser Beams\0
+
+[@ITEM 230 (L2) ]
+\0
+
+[@ITEM 230 (FR) ]
+- Lune vague
+- Élan de vie
+  / Régénération du corps
+- Anti-protection / Rend 
+  vulnérable aux altér. d'état
+- Immobilité / Stop
+Combo :
+- Éclat dévastateur\0
+
+[@ITEM 231 (L1) ]
+\0
+
+[@ITEM 231 (EN) ]
+ - Lunate Barrage
+ - Distant Death / Arm heals
+	{70}main body
+ - Curse / Voids immunities
+ - Immobilize / Stop
+Combos:
+ - Laser Beams\0
+
+[@ITEM 231 (L2) ]
+\0
+
+[@ITEM 231 (FR) ]
+- Lune vague
+- Élan de vie
+  / Régénération du corps
+- Anti-protection / Rend 
+  vulnérable aux altér. d'état
+- Immobilité / Stop
+Combo :
+- Éclat dévastateur\0
+
+[@ITEM 232 (L1) ]
+\0
+
+[@ITEM 232 (EN) ]
+ - Obliterate
+ - Negate
+ - Curse / Voids immunities
+ - Heal
+ - Evil Touch / Absorbs MP
+Combos:
+ - Unholy Light / Slow
+Combo Counters:
+ - Attack\0
+
+[@ITEM 232 (L2) ]
+\0
+
+[@ITEM 232 (FR) ]
+- Lente éradication
+- Zizanie
+- Anti-protection / Rend
+  vulnérable aux altér. d'état
+- Toucher démonial
+  / Absorption de PM
+Combo :
+- Éclat pernicieux / Lenteur
+Riposte combo :
+- Attaque combinée\0
+
+[@ITEM 233 (L1) ]
+\0
+
+[@ITEM 233 (EN) ]
+ - Suppress
+ - Heavenly Tears {LIGHT}
+ - Diabolic Whisper / Inflicts
+\t{70}random status
+ - Demon Star / Halves HP
+ - Grandstone / Ult. attack
+ - Dreamreaver / Ult. magic
+Combos:
+ - Unholy Light / Slow\0
+
+[@ITEM 233 (L2) ]
+\0
+
+[@ITEM 233 (FR) ]
+- Écrasement
+- Larmes du ciel {LIGHT}
+- Incantation
+  / Altér. d'état aléatoire
+- Étoile maléfique
+  / PV réduits de moitié
+- Aérolithe / Ult. att. phys.
+- Néant onirique / Ult. sort
+Combo :
+- Éclat pernicieux / Lenteur\0
+
+[@ITEM 234 (L1) ]
+\0
+
+[@ITEM 234 (EN) ]
+ - Temporal Shift
+ - Obliterate
+ - Negate
+ - Resurrect / Revives Pods
+Combos:
+ - Unholy Light / Slow
+Combo Counters:
+ - Attack\0
+
+[@ITEM 234 (L2) ]
+\0
+
+[@ITEM 234 (FR) ]
+- Distorsion temporelle
+- Lente éradication
+- Zizanie
+- Force vitale
+  / Régénération des
+  modules
+Combo :
+- Éclat pernicieux / Lenteur
+Riposte combo :
+- Attaque combinée\0
+
+[@ITEM 235 (L1) ]
+\0
+
+[@ITEM 235 (EN) ]
+ - Golden Hammer
+ - Boulder
+ - Thrash
+Counters:
+ - Rush / Sets HP to 1\0
+
+[@ITEM 235 (L2) ]
+\0
+
+[@ITEM 235 (FR) ]
+- Maillet doré
+- Rocher
+- Raclée
+Riposte :
+- Charge brutale / PV = 1\0
+
+[@ITEM 236 (L1) ]
+\0
+
+[@ITEM 236 (EN) ]
+ - Charge
+ - Head-butt / Sets HP to 1
+Counters:
+ - Luminaire {LIGHT}
+ - Dark Matter {BOMB/SHADOW}
+ - Flare {FIRE}
+ - Ice II {WATER}
+ - Hypnotize / Sleep
+ - Time Freeze / Stop\0
+
+[@ITEM 236 (L2) ]
+\0
+
+[@ITEM 236 (FR) ]
+- Charge
+- Coup de tête / PV = 1
+Ripostes :
+- Rayonnement {LIGHT}
+- Matière obscure {BOMB/SHADOW}
+- Fission {FIRE}
+- Glace² {WATER}
+- Hypnotisme / Sommeil
+- Arrêt / Stop\0
+
+[@ITEM 237 (L1) ]
+\0
+
+[@ITEM 237 (EN) ]
+ - Devil's Drop / Halves HP
+ - Thunderbolt {LIGHT}
+ - Head-butt / Sets HP to 1
+ - Death's Rainbow /
+\t{70}Instant KO
+ - Telekinesis
+ - Overdrive
+Counters:
+ - Drain Health / Absorbs HP\0
+
+[@ITEM 237 (L2) ]
+\0
+
+[@ITEM 237 (FR) ]
+- Largage / PV {C2}{86} 2
+- Éclair {LIGHT}
+- Coup de tête / PV = 1
+- Arc-en-ciel létal
+  / Mort subite
+- Télékinésie
+- Pleine puissance
+Riposte :
+- Absorption d'énergie
+  / Absorption de PV\0
+
+[@ITEM 238 (L1) ]
+\0
+
+[@ITEM 238 (EN) ]
+ - Twin Attack {BOMB/SHADOW}
+ - Earthshaker
+ - Flare {FIRE}
+ - Kaboom
+ - Dark Matter {BOMB/SHADOW}
+ - Soul Link / Revives
+Counters:
+ - Osmose / Absorbs MP\0
+
+[@ITEM 238 (L2) ]
+\0
+
+[@ITEM 238 (FR) ]
+- Attaque double {BOMB/SHADOW}
+- Tremblement de terre
+- Fission {FIRE}
+- Volcan
+- Matière obscure {BOMB/SHADOW}
+- Deux faces de la médaille
+  / Résurrection
+Riposte :
+- Succion
+  / Absorption de PM\0
+
+[@ITEM 239 (L1) ]
+\0
+
+[@ITEM 239 (EN) ]
+ - Twin Attack {BOMB/SHADOW}
+ - Earthshaker
+ - Water Surge {WATER}
+ - Water II {WATER}
+ - Snowstorm {WATER}
+ - Dark Matter {BOMB/SHADOW}
+ - Soul Link / Revives
+Counters:
+ - Osmose / Absorbs MP\0
+
+[@ITEM 239 (L2) ]
+\0
+
+[@ITEM 239 (FR) ]
+- Attaque double {BOMB/SHADOW}
+- Tremblement de terre
+- Inondation {WATER}
+- Eau² {WATER}
+- Blizzard {WATER}
+- Matière obscure {BOMB/SHADOW}
+- Deux faces de la médaille
+  / Résurrection
+Riposte :
+- Succion / Absorpt. de PM\0
+
+[@ITEM 240 (L1) ]
+\0
+
+[@ITEM 240 (EN) ]
+ - Holy Light {LIGHT}
+ - Thunder {LIGHT}
+ - Whirlwind
+Counters:
+ - Tsubame Gaeshi
+ - Flash of Steel\0
+
+[@ITEM 240 (L2) ]
+\0
+
+[@ITEM 240 (FR) ]
+- Rayon céleste {LIGHT}
+- Tonnerre fulgurant {LIGHT}
+- Taillade ouragan
+Ripostes :
+- Tsubame gaeshi
+- Foudroiement\0
+
+[@ITEM 241 (L1) ]
+\0
+
+[@ITEM 241 (EN) ]
+ - Sword Strike
+ - Blade Dance
+ - Desperate Strike
+ - First Aid / Restores HP\0
+
+[@ITEM 241 (L2) ]
+\0
+
+[@ITEM 241 (FR) ]
+- Botte
+- Lame dansante
+- Entaille désespérée
+- Premiers soins
+  / Régénération\0
+
+[@ITEM 242 (L1) ]
+\0
+
+[@ITEM 242 (EN) ]
+ - Iron Sphere / Halves HP
+ - Gale Slash
+ - Energy Spheres
+ - Scorch {FIRE}
+ - Deep Freeze {WATER}
+ - Plasma {LIGHT}
+ - Nether Blast {BOMB/SHADOW}
+Counters:
+ - MP Buster / Sets MP to 0
+ - Violent Belch\0
+
+[@ITEM 242 (L2) ]
+\0
+
+[@ITEM 242 (FR) ]
+- Boulet / PV {C2}{86} 2
+- Taillade bourrasque
+- Sphère d'énergie
+- Feu ardent {FIRE}
+- Glace frigorifiante {WATER}
+- Foudre plasma {LIGHT}
+- Impulsion obscure {BOMB/SHADOW}
+Ripostes :
+- Vol de PM / PM = 0
+- Prouuut ultime !\0
+
+[@ITEM 243 (L1) ]
+\0
+
+[@ITEM 243 (EN) ]
+ - Gash
+ - Energy Blast {LIGHT}
+ - Rend
+ - Thunderfall {LIGHT}
+ - Scintillation {LIGHT}
+Counters:
+ - Gash
+ - Energy Blast {LIGHT}
+ - Rend\0
+
+[@ITEM 243 (L2) ]
+\0
+
+[@ITEM 243 (FR) ]
+- Entailler
+- Vague d'énergie {LIGHT}
+- Pourfendre
+- Fulguration {LIGHT}
+- Brume déchaînée {LIGHT}
+Ripostes :
+- Entailler
+- Vague d'énergie {LIGHT}
+- Pourfendre\0
+
+[@ITEM 244 (L1) ]
+\0
+
+[@ITEM 244 (EN) ]
+ - Barrage
+ - Icefall {WATER}
+ - Recuperate / Restores HP
+Counters:
+ - Barrage
+ - Icefall {WATER}\0
+
+[@ITEM 244 (L2) ]
+\0
+
+[@ITEM 244 (FR) ]
+- Tir
+- Glace maudite {WATER}
+- Récupération accrue
+  / Régénération
+Ripostes :
+- Tir
+- Glace maudite {WATER}\0
+
+[@ITEM 245 (L1) ]
+\0
+
+[@ITEM 245 (EN) ]
+ - Barrage
+ - Shadow Fire {FIRE}
+ - Explosion {FIRE}\0
+
+[@ITEM 245 (L2) ]
+\0
+
+[@ITEM 245 (FR) ]
+- Tir
+- Flammes maléfiques {FIRE}
+- Explosion {FIRE}\0
+
+[@ITEM 246 (L1) ]
+\0
+
+[@ITEM 246 (EN) ]
+ - Poison Mist / Poison
+ - Flashbomb / Blind
+ - Blaring Din / Lock
+ - Permeate / Cancels
+\t{70}status immunity
+ - Recover / Restores HP
+Counters:
+ - Osmose / Absorbs MP\0
+
+[@ITEM 246 (L2) ]
+\0
+
+[@ITEM 246 (FR) ]
+- Brume toxique / Poison
+- Bombe aveuglante / Cécité
+- Bruit assourdissant
+  / Oubli
+- Éroder / Rend vulnérable
+  aux altérations d'état
+- Vitalité / Régénération
+Riposte :
+- Succion
+  / Absorption de PM\0
+
+[@ITEM 247 (L1) ]
+\0
+
+[@ITEM 247 (EN) ]
+???\0
+
+[@ITEM 247 (L2) ]
+\0
+
+[@ITEM 247 (FR) ]
+???\0
+
+[@ITEM 248 (L1) ]
+\0
+
+[@ITEM 248 (EN) ]
+\0
+
+[@ITEM 248 (L2) ]
+\0
+
+[@ITEM 248 (FR) ]
+\0
+
+[@ITEM 249 (L1) ]
+\0
+
+[@ITEM 249 (EN) ]
+\0
+
+[@ITEM 249 (L2) ]
+\0
+
+[@ITEM 249 (FR) ]
+\0
+
+[@ITEM 250 (L1) ]
+\0
+
+[@ITEM 250 (EN) ]
+\0
+
+[@ITEM 250 (L2) ]
+\0
+
+[@ITEM 250 (FR) ]
+\0
+
+[@ITEM 251 (L1) ]
+\0
+
+[@ITEM 251 (EN) ]
+\0
+
+[@ITEM 251 (L2) ]
+\0
+
+[@ITEM 251 (FR) ]
+\0
+
+[@ITEM 252 (L1) ]
+\0
+
+[@ITEM 252 (EN) ]
+\0
+
+[@ITEM 252 (L2) ]
+\0
+
+[@ITEM 252 (FR) ]
+\0
+
+[@ITEM 253 (L1) ]
+\0
+
+[@ITEM 253 (EN) ]
+\0
+
+[@ITEM 253 (L2) ]
+\0
+
+[@ITEM 253 (FR) ]
+\0
+
+[@ITEM 254 (L1) ]
+\0
+
+[@ITEM 254 (EN) ]
+\0
+
+[@ITEM 254 (L2) ]
+\0
+
+[@ITEM 254 (FR) ]
+\0
+
+[@ITEM 255 (L1) ]
+\0
+
+[@ITEM 255 (EN) ]
+\0
+
+[@ITEM 255 (L2) ]
+\0
+
+[@ITEM 255 (FR) ]
+\0
+
+[@ITEM 256 (L1) ]
+\0
+
+[@ITEM 256 (EN) ]
+\0
+
+[@ITEM 256 (L2) ]
+\0
+
+[@ITEM 256 (FR) ]
+\0
+
+[@ITEM 257 (L1) ]
+\0
+
+[@ITEM 257 (EN) ]
+\0
+
+[@ITEM 257 (L2) ]
+\0
+
+[@ITEM 257 (FR) ]
+\0
+
+[@ITEM 258 (L1) ]
+\0
+
+[@ITEM 258 (EN) ]
+\0
+
+[@ITEM 258 (L2) ]
+\0
+
+[@ITEM 258 (FR) ]
+\0
+
+[@ITEM 259 (L1) ]
+\0
+
+[@ITEM 259 (EN) ]
+\0
+
+[@ITEM 259 (L2) ]
+\0
+
+[@ITEM 259 (FR) ]
+\0
+

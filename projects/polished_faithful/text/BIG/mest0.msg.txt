@@ -1,0 +1,3824 @@
+[@mest0.msg]
+
+[@ITEM 0 (L1) ]
+\0
+
+[@ITEM 0 (EN) ]
+{MSGWND}
+Obtained {ITEM}!\0
+
+[@ITEM 0 (L2) ]
+\0
+
+[@ITEM 0 (FR) ]
+{MSGWND}
+Obtenu : {ITEM} !\0
+
+[@ITEM 1 (L1) ]
+\0
+
+[@ITEM 1 (EN) ]
+{MSGWND}
+Obtained {ITEM}!\0
+
+[@ITEM 1 (L2) ]
+\0
+
+[@ITEM 1 (FR) ]
+{MSGWND}
+Trouvé : {ITEM} !\0
+
+[@ITEM 2 (L1) ]
+\0
+
+[@ITEM 2 (EN) ]
+{MSGWND}
+The pendant starts shining...!\0
+
+[@ITEM 2 (L2) ]
+\0
+
+[@ITEM 2 (FR) ]
+{MSGWND}
+Le pendentif se met à briller !\0
+
+[@ITEM 3 (L1) ]
+\0
+
+[@ITEM 3 (EN) ]
+{Marle}: Kyah!\0
+
+[@ITEM 3 (L2) ]
+\0
+
+[@ITEM 3 (FR) ]
+{Marle} : Aaah !\0
+
+[@ITEM 4 (L1) ]
+\0
+
+[@ITEM 4 (EN) ]
+{Lucca}: Owww...\0
+
+[@ITEM 4 (L2) ]
+\0
+
+[@ITEM 4 (FR) ]
+{Lucca} : Aïe...\0
+
+[@ITEM 5 (L1) ]
+\0
+
+[@ITEM 5 (EN) ]
+{Marle}: No way even the chancellor can come
+chasing us this far.\0
+
+[@ITEM 5 (L2) ]
+\0
+
+[@ITEM 5 (FR) ]
+{Marle} : Le chancelier ne pourra jamais nous suivre
+jusqu'ici.\0
+
+[@ITEM 6 (L1) ]
+\0
+
+[@ITEM 6 (EN) ]
+{Marle}: But this place... where are we?\0
+
+[@ITEM 6 (L2) ]
+\0
+
+[@ITEM 6 (FR) ]
+{Marle} : Mais où sommes-nous... exactement ?\0
+
+[@ITEM 7 (L1) ]
+\0
+
+[@ITEM 7 (EN) ]
+{Lucca}: The civilization looks extremely
+advanced, but...\0
+
+[@ITEM 7 (L2) ]
+\0
+
+[@ITEM 7 (FR) ]
+{Lucca} : Cette civilisation a l'air très avancée,
+mais...\0
+
+[@ITEM 8 (L1) ]
+\0
+
+[@ITEM 8 (EN) ]
+{Marle}: It looks just like we've come to another
+planet.\0
+
+[@ITEM 8 (L2) ]
+\0
+
+[@ITEM 8 (FR) ]
+{Marle} : C'est comme si on était arrivés sur une
+autre planète.\0
+
+[@ITEM 9 (L1) ]
+\0
+
+[@ITEM 9 (EN) ]
+{MSGWND}
+It's sealed with a mysterious power.\0
+
+[@ITEM 9 (L2) ]
+\0
+
+[@ITEM 9 (FR) ]
+{MSGWND}La porte est gravée d'un emblème et scellée
+par une force mystérieuse.\0
+
+[@ITEM 10 (L1) ]
+\0
+
+[@ITEM 10 (EN) ]
+If it's food you want, there is none...\0
+
+[@ITEM 10 (L2) ]
+\0
+
+[@ITEM 10 (FR) ]
+Si c'est de la nourriture que vous cherchez, il n'y en a
+pas...\0
+
+[@ITEM 11 (L1) ]
+\0
+
+[@ITEM 11 (EN) ]
+When I look at this, I get this mysterious feeling
+like we're gonna keep on living...\0
+
+[@ITEM 11 (L2) ]
+\0
+
+[@ITEM 11 (FR) ]
+Quand je regarde cette chose, j'ai une étrange envie de
+survivre.\0
+
+[@ITEM 12 (L1) ]
+\0
+
+[@ITEM 12 (EN) ]
+Truce?
+I've never even heard of such a dome.
+This is Tran Dome.\0
+
+[@ITEM 12 (L2) ]
+\0
+
+[@ITEM 12 (FR) ]
+Truce ? Je n'ai jamais entendu parler de dôme de ce
+nom. Ici, c'est le dôme de Trann.\0
+
+[@ITEM 13 (L1) ]
+\0
+
+[@ITEM 13 (EN) ]
+What's this?{PRESS_CLEAR}
+A plant? What's that?\0
+
+[@ITEM 13 (L2) ]
+\0
+
+[@ITEM 13 (FR) ]
+Qu'est-ce que c'est ?{PRESS_CLEAR}
+Une plante ? C'est quoi une plante ?\0
+
+[@ITEM 14 (L1) ]
+\0
+
+[@ITEM 14 (EN) ]
+Kingdom Year? What's that...?\0
+
+[@ITEM 14 (L2) ]
+\0
+
+[@ITEM 14 (FR) ]
+Le calendrier du royaume ? Qu'est-ce que vous voulez
+dire par là...?\0
+
+[@ITEM 15 (L1) ]
+\0
+
+[@ITEM 15 (EN) ]
+First time I've seen anything like this thing...\0
+
+[@ITEM 15 (L2) ]
+\0
+
+[@ITEM 15 (FR) ]
+C'est la première fois que je vois quelque chose de ce
+genre.\0
+
+[@ITEM 16 (L1) ]
+\0
+
+[@ITEM 16 (EN) ]
+I hear you can get food if you can make it to
+Aris Dome to the northeast.
+If you can cross the #16 Ruins...{PRESS_CLEAR}
+Physical attacks like swords and guns don't
+work on the phantoms that appear there...\0
+
+[@ITEM 16 (L2) ]
+\0
+
+[@ITEM 16 (FR) ]
+Il paraît qu'on pourrait obtenir de la nourriture en
+allant au dôme d'Arris, au nord-est d'ici. Cependant,
+il faudrait d'abord traverser les ruines n° 16...{PRESS_CLEAR}
+Certaines des créatures qui y vivent ne peuvent pas
+être éliminées avec des attaques physiques...\0
+
+[@ITEM 17 (L1) ]
+\0
+
+[@ITEM 17 (EN) ]
+So there really were people in Aris Dome!\0
+
+[@ITEM 17 (L2) ]
+\0
+
+[@ITEM 17 (FR) ]
+Il y avait donc aussi des gens dans le dôme d'Arris !\0
+
+[@ITEM 18 (L1) ]
+\0
+
+[@ITEM 18 (EN) ]
+This is the EnerBox.
+You can get a good night's sleep in almost no
+time, but it won't fill your stomach...\0
+
+[@ITEM 18 (L2) ]
+\0
+
+[@ITEM 18 (FR) ]
+Cette machine est un énergiseur. Elle permet de
+prendre une nuit de repos en quelques instants,
+mais elle n'assouvit pas la faim.\0
+
+[@ITEM 19 (L1) ]
+\0
+
+[@ITEM 19 (EN) ]
+Can we eat this......?\0
+
+[@ITEM 19 (L2) ]
+\0
+
+[@ITEM 19 (FR) ]
+Ça se mange...?\0
+
+[@ITEM 20 (L1) ]
+\0
+
+[@ITEM 20 (EN) ]
+Haa, haa...{PRESS_CLEAR}
+I somehow made it through the ruins and brought
+back a sprout grown from those seeds.{PRESS_CLEAR}
+Things work out somehow when you're worried
+about dying...\0
+
+[@ITEM 20 (L2) ]
+\0
+
+[@ITEM 20 (FR) ]
+Ouf, ouf...{PRESS_CLEAR}
+Je suis parvenu à traverser les ruines en transportant
+le jeune arbre qui a poussé des graines. C'est fou ce
+qu'on peut accomplir quand on est prêt à mourir...\0
+
+[@ITEM 21 (L1) ]
+\0
+
+[@ITEM 21 (EN) ]
+Rest in the EnerBox?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 21 (L2) ]
+\0
+
+[@ITEM 21 (FR) ]
+Voulez-vous vous reposer dans l'énergiseur ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 22 (L1) ]
+\0
+
+[@ITEM 22 (EN) ]
+{MSGWND}
+HP and MP recovered!\0
+
+[@ITEM 22 (L2) ]
+\0
+
+[@ITEM 22 (FR) ]
+{MSGWND}
+Régénération des PV et des PM !\0
+
+[@ITEM 23 (L1) ]
+\0
+
+[@ITEM 23 (EN) ]
+{MSGWND}
+But your hunger wasn't satisfied.\0
+
+[@ITEM 23 (L2) ]
+\0
+
+[@ITEM 23 (FR) ]
+{MSGWND}
+Mais ça ne remplit pas l'estomac !\0
+
+[@ITEM 24 (L1) ]
+\0
+
+[@ITEM 24 (EN) ]
+Old Man: Y-you people, where'd you come
+from...?\0
+
+[@ITEM 24 (L2) ]
+\0
+
+[@ITEM 24 (FR) ]
+Vieil homme : D'où sortez-vous...?\0
+
+[@ITEM 25 (L1) ]
+\0
+
+[@ITEM 25 (EN) ]
+{Lucca}: We crossed the western ruins, why?\0
+
+[@ITEM 25 (L2) ]
+\0
+
+[@ITEM 25 (FR) ]
+{Lucca} : Nous avons traversé les ruines à l'ouest
+d'ici.\0
+
+[@ITEM 26 (L1) ]
+\0
+
+[@ITEM 26 (EN) ]
+Old Man: Wh, what?\0
+
+[@ITEM 26 (L2) ]
+\0
+
+[@ITEM 26 (FR) ]
+Vieil homme : Comment ?!\0
+
+[@ITEM 27 (L1) ]
+\0
+
+[@ITEM 27 (EN) ]
+Old Man: Hey, people made it across
+those ruins!\0
+
+[@ITEM 27 (L2) ]
+\0
+
+[@ITEM 27 (FR) ]
+Vieil homme : Hé, écoutez tous ! Ils ont traversé les
+ruines !\0
+
+[@ITEM 28 (L1) ]
+\0
+
+[@ITEM 28 (EN) ]
+'Huh?\0
+
+[@ITEM 28 (L2) ]
+\0
+
+[@ITEM 28 (FR) ]
+Hein ?\0
+
+[@ITEM 29 (L1) ]
+\0
+
+[@ITEM 29 (EN) ]
+'For real?\0
+
+[@ITEM 29 (L2) ]
+\0
+
+[@ITEM 29 (FR) ]
+Vraiment ?!\0
+
+[@ITEM 30 (L1) ]
+\0
+
+[@ITEM 30 (EN) ]
+Old Man: So there were people skilled enough to
+fight the mutants out there...\0
+
+[@ITEM 30 (L2) ]
+\0
+
+[@ITEM 30 (FR) ]
+Vieil homme : Il y a donc des gens capables de vaincre
+ces mutants...\0
+
+[@ITEM 31 (L1) ]
+\0
+
+[@ITEM 31 (EN) ]
+Old Man: I'm Don. Excuse me for not saying so
+sooner. I'm descended from the one-time
+director of the information center here{56}.{PRESS_CLEAR}
+In the basement here, we've even got things like
+a supercomputer and storage for foodstuffs.
+But the guard robot is still active, and we
+can't get anywhere near it.{PRESS_CLEAR}
+How ironic...\0
+
+[@ITEM 31 (L2) ]
+\0
+
+[@ITEM 31 (FR) ]
+Vieil homme : Je m'appelle Don. Désolé de ne pas m'être
+présenté plus tôt. Je suis un descendant du directeur
+de cet ancien centre d'information.{PRESS_CLEAR}
+Dans le sous-sol de ce dôme, vous trouverez entre
+autres un ordinateur à grande capacité et un entrepôt
+de provisions.{PRESS_CLEAR}
+Malheureusement, le robot gardien est toujours actif et
+nous ne pouvons pas nous en approcher. Quelle ironie...\0
+
+[@ITEM 32 (L1) ]
+\0
+
+[@ITEM 32 (EN) ]
+Don: You guys plan on going to the basement?\0
+
+[@ITEM 32 (L2) ]
+\0
+
+[@ITEM 32 (FR) ]
+Don : Vous comptez aller au sous-sol ?\0
+
+[@ITEM 33 (L1) ]
+\0
+
+[@ITEM 33 (EN) ]
+{Marle}: Of course!\0
+
+[@ITEM 33 (L2) ]
+\0
+
+[@ITEM 33 (FR) ]
+{Marle} : Mais bien sûr !\0
+
+[@ITEM 34 (L1) ]
+\0
+
+[@ITEM 34 (EN) ]
+Don: No matter how many times we tried it, no
+one could get to the basement.\0
+
+[@ITEM 34 (L2) ]
+\0
+
+[@ITEM 34 (FR) ]
+Don : Nous avons essayé plusieurs fois d'atteindre
+l'entrepôt de provisions, mais nous n'y sommes
+jamais parvenus.\0
+
+[@ITEM 35 (L1) ]
+\0
+
+[@ITEM 35 (EN) ]
+{Lucca}: You never know until you try, right?\0
+
+[@ITEM 35 (L2) ]
+\0
+
+[@ITEM 35 (FR) ]
+{Lucca} : On ne saura pas sans essayer
+nous-mêmes, non ?\0
+
+[@ITEM 36 (L1) ]
+\0
+
+[@ITEM 36 (EN) ]
+Don: ...{PRESS_CLEAR}
+It's been a while since I've seen such lively
+young people as you.\0
+
+[@ITEM 36 (L2) ]
+\0
+
+[@ITEM 36 (FR) ]
+Don : ...{PRESS_CLEAR}
+Il y a longtemps que je n'ai pas vu de jeunes gens si
+pleins de vie.\0
+
+[@ITEM 37 (L1) ]
+\0
+
+[@ITEM 37 (EN) ]
+Don: Be careful.
+And come back alive.\0
+
+[@ITEM 37 (L2) ]
+\0
+
+[@ITEM 37 (FR) ]
+Don : Soyez prudents et revenez vivants.\0
+
+[@ITEM 38 (L1) ]
+\0
+
+[@ITEM 38 (EN) ]
+Don: Oh, it's you guys! Look!
+Those seeds have sprouted!\0
+
+[@ITEM 38 (L2) ]
+\0
+
+[@ITEM 38 (FR) ]
+Don : Oh, regardez ! Les graines ont germé !\0
+
+[@ITEM 39 (L1) ]
+\0
+
+[@ITEM 39 (EN) ]
+The door with that crest on it?
+It won't open whether you push or pull{56}and even
+trying to destroy it doesn't leave a scratch.\0
+
+[@ITEM 39 (L2) ]
+\0
+
+[@ITEM 39 (FR) ]
+Les portes avec un emblème ? Qu'on pousse ou qu'on
+tire, elles ne veulent pas s'ouvrir. On n'arrive même
+pas à les endommager.\0
+
+[@ITEM 40 (L1) ]
+\0
+
+[@ITEM 40 (EN) ]
+Promethe Dome and the factory ruins are to the east.
+Can't get anywhere near them, since they're overflowing
+with robots running wild, though.\0
+
+[@ITEM 40 (L2) ]
+\0
+
+[@ITEM 40 (FR) ]
+À l'est d'ici, il y a le dôme de Prométhée et une usine
+désaffectée. Ces endroits fourmillent de robots
+détraqués, alors on ne peut pas s'en approcher.\0
+
+[@ITEM 41 (L1) ]
+\0
+
+[@ITEM 41 (EN) ]
+Ever since you guys came, it seems like
+everyone's will to live is boiling up.
+Is this that "healthy" thing?\0
+
+[@ITEM 41 (L2) ]
+\0
+
+[@ITEM 41 (FR) ]
+Depuis votre venue, on dirait qu'une énergie nous
+donnant le goût de vivre nous envahit. Serait-ce
+ce qu'on appelle « être joyeux » ?\0
+
+[@ITEM 42 (L1) ]
+\0
+
+[@ITEM 42 (EN) ]
+You'd better not go to the continent past the
+underground waterway to the south. The source
+of the great disaster{56}"Death Mountain" is there.{PRESS_CLEAR}
+But then, even for you guys, the powerful
+mutants lurking in the underground waterway
+are...\0
+
+[@ITEM 42 (L2) ]
+\0
+
+[@ITEM 42 (FR) ]
+Je vous déconseille d'aller sur l'autre continent : c'est
+là que se trouve le mont des défunts, la source du
+cataclysme...{PRESS_CLEAR}
+De toute façon, il faudrait pour ça que vous traversiez
+l'égout, et vous n'êtes probablement pas de taille
+contre les puissants mutants qui y vivent...\0
+
+[@ITEM 43 (L1) ]
+\0
+
+[@ITEM 43 (EN) ]
+There's an old man who built a dome near Death
+Mountain{56}and keeps watch like some odd hobby.\0
+
+[@ITEM 43 (L2) ]
+\0
+
+[@ITEM 43 (FR) ]
+Un curieux vieillard a construit un dôme près du mont
+des défunts pour mieux le surveiller.\0
+
+[@ITEM 44 (L1) ]
+\0
+
+[@ITEM 44 (EN) ]
+There's something odd about you.
+Did you really come from the dome to the west?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 44 (L2) ]
+\0
+
+[@ITEM 44 (FR) ]
+Il y a quelque chose d'étrange chez vous... Êtes-vous
+vraiment venus du dôme de l'ouest...?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 45 (L1) ]
+\0
+
+[@ITEM 45 (EN) ]
+Oh, really...?
+Doesn't matter either way, though...\0
+
+[@ITEM 45 (L2) ]
+\0
+
+[@ITEM 45 (FR) ]
+Je vois... Peu m'importe, après tout...\0
+
+[@ITEM 46 (L1) ]
+\0
+
+[@ITEM 46 (EN) ]
+Huh? A space-time distortion? What's that...?
+Well, we might be able to look into it if the
+supercomputer in the basement works...\0
+
+[@ITEM 46 (L2) ]
+\0
+
+[@ITEM 46 (FR) ]
+Hein ? Une distorsion temporelle ? De quoi parlez-vous...?
+Bah, en faisant fonctionner l'ordinateur du sous-sol,
+vous pourriez peut-être trouver plus d'informations...\0
+
+[@ITEM 47 (L1) ]
+\0
+
+[@ITEM 47 (EN) ]
+Thanks...
+When I saw you guys, the will to live came
+boiling up...\0
+
+[@ITEM 47 (L2) ]
+\0
+
+[@ITEM 47 (FR) ]
+Je vous remercie... Quand je vous vois, je retrouve
+l'espoir de vivre.\0
+
+[@ITEM 48 (L1) ]
+\0
+
+[@ITEM 48 (EN) ]
+Wonder what kind of fruit it's gonna be?\0
+
+[@ITEM 48 (L2) ]
+\0
+
+[@ITEM 48 (FR) ]
+Je me demande quelle sorte de fruits il va donner...\0
+
+[@ITEM 49 (L1) ]
+\0
+
+[@ITEM 49 (EN) ]
+Dad's gonna come back with food soon.\0
+
+[@ITEM 49 (L2) ]
+\0
+
+[@ITEM 49 (FR) ]
+Papa va bientôt nous rapporter de la nourriture.\0
+
+[@ITEM 50 (L1) ]
+\0
+
+[@ITEM 50 (EN) ]
+I heard dad's far away.\0
+
+[@ITEM 50 (L2) ]
+\0
+
+[@ITEM 50 (FR) ]
+Maman dit que papa est parti très loin.\0
+
+[@ITEM 51 (L1) ]
+\0
+
+[@ITEM 51 (EN) ]
+My husband headed for the food stores...{PRESS_CLEAR}
+That's the last we heard of him...\0
+
+[@ITEM 51 (L2) ]
+\0
+
+[@ITEM 51 (FR) ]
+Mon mari est descendu au sous-sol pour essayer de
+trouver l'entrepôt de provisions...{PRESS_CLEAR}
+On ne l'a pas revu depuis...\0
+
+[@ITEM 52 (L1) ]
+\0
+
+[@ITEM 52 (EN) ]
+I'm raising both this child and that sprout.\0
+
+[@ITEM 52 (L2) ]
+\0
+
+[@ITEM 52 (FR) ]
+Je n'abandonnerai pas. Je vais élever mon enfant, ainsi
+que cette plante...\0
+
+[@ITEM 53 (L1) ]
+\0
+
+[@ITEM 53 (EN) ]
+Who're you guys......?\0
+
+[@ITEM 53 (L2) ]
+\0
+
+[@ITEM 53 (FR) ]
+Qui êtes-vous...?\0
+
+[@ITEM 54 (L1) ]
+\0
+
+[@ITEM 54 (EN) ]
+Ah! Bro, it's you guys!\0
+
+[@ITEM 54 (L2) ]
+\0
+
+[@ITEM 54 (FR) ]
+Oh ! Vous êtes de retour !\0
+
+[@ITEM 55 (L1) ]
+\0
+
+[@ITEM 55 (EN) ]
+Ah! Sis, it's you guys!\0
+
+[@ITEM 55 (L2) ]
+\0
+
+[@ITEM 55 (FR) ]
+Oh ! Vous êtes de retour !\0
+
+[@ITEM 56 (L1) ]
+\0
+
+[@ITEM 56 (EN) ]
+{Lucca}: This is the information center!\0
+
+[@ITEM 56 (L2) ]
+\0
+
+[@ITEM 56 (FR) ]
+{Lucca} : Voilà le centre d'information !\0
+
+[@ITEM 57 (L1) ]
+\0
+
+[@ITEM 57 (EN) ]
+{Lucca}: Thank goodness!
+This computer is still live!
+If I search for spatial distortions, maybe I'll
+find out where there's a Gate!\0
+
+[@ITEM 57 (L2) ]
+\0
+
+[@ITEM 57 (FR) ]
+{Lucca} : Génial ! L'ordinateur est encore en état de
+marche ! En faisant une recherche sur les distorsions,
+nous trouverons peut-être l'emplacement d'un portail !\0
+
+[@ITEM 58 (L1) ]
+\0
+
+[@ITEM 58 (EN) ]
+{Lucca}: Thanks for waiting, here it is!\0
+
+[@ITEM 58 (L2) ]
+\0
+
+[@ITEM 58 (FR) ]
+{Lucca} : Voilà !\0
+
+[@ITEM 59 (L1) ]
+\0
+
+[@ITEM 59 (EN) ]
+{Lucca}: East from Aris Dome, here......\0
+
+[@ITEM 59 (L2) ]
+\0
+
+[@ITEM 59 (FR) ]
+{Lucca} : À l'est du dôme d'Arris, où nous sommes
+maintenant...\0
+
+[@ITEM 60 (L1) ]
+\0
+
+[@ITEM 60 (EN) ]
+{Lucca}: Promethe Dome!\0
+
+[@ITEM 60 (L2) ]
+\0
+
+[@ITEM 60 (FR) ]
+{Lucca} : Le dôme de Prométhée !\0
+
+[@ITEM 61 (L1) ]
+\0
+
+[@ITEM 61 (EN) ]
+{Marle}: Way to go, {Lucca}!
+You even find out stuff like that with this machine.\0
+
+[@ITEM 61 (L2) ]
+\0
+
+[@ITEM 61 (FR) ]
+{Marle} : Bravo, {Lucca} ! C'est à croire que
+cette machine a réponse à tout !\0
+
+[@ITEM 62 (L1) ]
+\0
+
+[@ITEM 62 (EN) ]
+{Marle}: So, what'll we find out if we push this?\0
+
+[@ITEM 62 (L2) ]
+\0
+
+[@ITEM 62 (FR) ]
+{Marle} : Que pourrions-nous apprendre en
+appuyant sur ce bouton...?\0
+
+[@ITEM 63 (L1) ]
+\0
+
+[@ITEM 63 (EN) ]
+{Lucca}: A.D. 1999?
+"Day of Lavos" recording......?\0
+
+[@ITEM 63 (L2) ]
+\0
+
+[@ITEM 63 (FR) ]
+{Lucca} : L'an 1999 ?
+Archives du « Jour de Lavos »...?\0
+
+[@ITEM 64 (L1) ]
+\0
+
+[@ITEM 64 (EN) ]
+{Marle}: Wh...
+What is this...?\0
+
+[@ITEM 64 (L2) ]
+\0
+
+[@ITEM 64 (FR) ]
+{Marle} : Qu'est-ce...{PRESS_CLEAR}
+Qu'est-ce que c'est...?\0
+
+[@ITEM 65 (L1) ]
+\0
+
+[@ITEM 65 (EN) ]
+{Lucca}: L-Lavos...?
+This is the catastrophe that made the world like this!?\0
+
+[@ITEM 65 (L2) ]
+\0
+
+[@ITEM 65 (FR) ]
+{Lucca} : La... Lavos...? C'est le cataclysme qui a
+détruit notre monde ?\0
+
+[@ITEM 66 (L1) ]
+\0
+
+[@ITEM 66 (EN) ]
+{Marle}: Then, this really is our future?\0
+
+[@ITEM 66 (L2) ]
+\0
+
+[@ITEM 66 (FR) ]
+{Marle} : Donc ceci est vraiment notre avenir ?!\0
+
+[@ITEM 67 (L1) ]
+\0
+
+[@ITEM 67 (EN) ]
+{Marle}: Awful! It's awful!
+It can't be!\0
+
+[@ITEM 67 (L2) ]
+\0
+
+[@ITEM 67 (FR) ]
+{Marle} : C'est horrible ! Horrible !
+C'est impossible !\0
+
+[@ITEM 68 (L1) ]
+\0
+
+[@ITEM 68 (EN) ]
+{Marle}: How could this...\0
+
+[@ITEM 68 (L2) ]
+\0
+
+[@ITEM 68 (FR) ]
+{Marle} : Comment...\0
+
+[@ITEM 69 (L1) ]
+\0
+
+[@ITEM 69 (EN) ]
+{Marle}: be our future...?\0
+
+[@ITEM 69 (L2) ]
+\0
+
+[@ITEM 69 (FR) ]
+{Marle} : Comment cet endroit peut-il être notre
+avenir...?\0
+
+[@ITEM 70 (L1) ]
+\0
+
+[@ITEM 70 (EN) ]
+{Lucca}: ...\0
+
+[@ITEM 70 (L2) ]
+\0
+
+[@ITEM 70 (FR) ]
+{Lucca} : ...\0
+
+[@ITEM 71 (L1) ]
+\0
+
+[@ITEM 71 (EN) ]
+{Marle}: {Crono}...\0
+
+[@ITEM 71 (L2) ]
+\0
+
+[@ITEM 71 (FR) ]
+{Marle} : {Crono}...\0
+
+[@ITEM 72 (L1) ]
+\0
+
+[@ITEM 72 (EN) ]
+{Marle}: That's it!
+Let's go change it! Like when {Crono}
+saved me!\0
+
+[@ITEM 72 (L2) ]
+\0
+
+[@ITEM 72 (FR) ]
+{Marle} : J'ai une idée ! Changeons le Futur !
+Comme quand {Crono} m'a sauvée !\0
+
+[@ITEM 73 (L1) ]
+\0
+
+[@ITEM 73 (EN) ]
+{Marle}: Right, {Lucca}?\0
+
+[@ITEM 73 (L2) ]
+\0
+
+[@ITEM 73 (FR) ]
+{Marle} : Hein, {Lucca} ?\0
+
+[@ITEM 74 (L1) ]
+\0
+
+[@ITEM 74 (EN) ]
+{Marle}: Right, {Crono}!!\0
+
+[@ITEM 74 (L2) ]
+\0
+
+[@ITEM 74 (FR) ]
+{Marle} : {Crono} ?\0
+
+[@ITEM 75 (L1) ]
+\0
+
+[@ITEM 75 (EN) ]
+{Lucca}: Yes...\0
+
+[@ITEM 75 (L2) ]
+\0
+
+[@ITEM 75 (FR) ]
+{Lucca} : Hum...\0
+
+[@ITEM 76 (L1) ]
+\0
+
+[@ITEM 76 (EN) ]
+{Lucca}: There's no way we can just go back to our
+original era and live carefree lives now.\0
+
+[@ITEM 76 (L2) ]
+\0
+
+[@ITEM 76 (FR) ]
+{Lucca} : Nous ne pouvons pas retourner à notre
+époque et vivre dans l'insouciance, comme si rien
+ne s'était passé.\0
+
+[@ITEM 77 (L1) ]
+\0
+
+[@ITEM 77 (EN) ]
+{Lucca}: Fortunately, we can cross over eras using
+the Gates.\0
+
+[@ITEM 77 (L2) ]
+\0
+
+[@ITEM 77 (FR) ]
+{Lucca} : Heureusement, les portails nous
+permettent de passer d'une époque à l'autre.\0
+
+[@ITEM 78 (L1) ]
+\0
+
+[@ITEM 78 (EN) ]
+{Lucca}: What do you say, {Crono}?
+\t\t{SEL1}Okay, let's do it!{/SEL1}
+\t\t{SEL2}No way.{/SEL2}\0
+
+[@ITEM 78 (L2) ]
+\0
+
+[@ITEM 78 (FR) ]
+{Lucca} : Qu'en dis-tu, {Crono} ?
+       {SEL1}Oui, changeons le Futur !{/SEL1}
+       {SEL2}Mais...{/SEL2}\0
+
+[@ITEM 79 (L1) ]
+\0
+
+[@ITEM 79 (EN) ]
+{Lucca}: You're such an idiot.
+You're in front of {Marle}, right? At least act cool!\0
+
+[@ITEM 79 (L2) ]
+\0
+
+[@ITEM 79 (FR) ]
+{Lucca} : Tu n'es qu'un idiot. Sois au moins plus
+vaillant devant {Marle} !\0
+
+[@ITEM 80 (L1) ]
+\0
+
+[@ITEM 80 (EN) ]
+{Marle}: All right, let's do it, {Crono}!\0
+
+[@ITEM 80 (L2) ]
+\0
+
+[@ITEM 80 (FR) ]
+{Marle} : Allons-y, {Crono} ! {Lucca} !\0
+
+[@ITEM 81 (L1) ]
+\0
+
+[@ITEM 81 (EN) ]
+{Lucca}: Then we'll have to hurry back to our
+era and look into Lavos!\0
+
+[@ITEM 81 (L2) ]
+\0
+
+[@ITEM 81 (FR) ]
+{Lucca} : Dépêchons-nous de retourner à notre
+époque pour faire des recherches sur Lavos !\0
+
+[@ITEM 82 (L1) ]
+\0
+
+[@ITEM 82 (EN) ]
+{Lucca}: Here goes!\0
+
+[@ITEM 82 (L2) ]
+\0
+
+[@ITEM 82 (FR) ]
+{Lucca} : En route pour le dôme de Prométhée !\0
+
+[@ITEM 83 (L1) ]
+\0
+
+[@ITEM 83 (EN) ]
+Don: Y-you came back!\0
+
+[@ITEM 83 (L2) ]
+\0
+
+[@ITEM 83 (FR) ]
+Don : Vous... Vous êtes de retour !\0
+
+[@ITEM 84 (L1) ]
+\0
+
+[@ITEM 84 (EN) ]
+Don: How did it go?\0
+
+[@ITEM 84 (L2) ]
+\0
+
+[@ITEM 84 (FR) ]
+Don : Qu'avez-vous découvert ?\0
+
+[@ITEM 85 (L1) ]
+\0
+
+[@ITEM 85 (EN) ]
+{Marle}: This...... is our tomorrow!\0
+
+[@ITEM 85 (L2) ]
+\0
+
+[@ITEM 85 (FR) ]
+{Marle} : Cet endroit... est notre avenir !\0
+
+[@ITEM 86 (L1) ]
+\0
+
+[@ITEM 86 (EN) ]
+Don: ?\0
+
+[@ITEM 86 (L2) ]
+\0
+
+[@ITEM 86 (FR) ]
+Don : ?\0
+
+[@ITEM 87 (L1) ]
+\0
+
+[@ITEM 87 (EN) ]
+Man: Forget that, what about the food storage!?\0
+
+[@ITEM 87 (L2) ]
+\0
+
+[@ITEM 87 (FR) ]
+Homme : Peu importe ! Et l'entrepôt de provisions ?!\0
+
+[@ITEM 88 (L1) ]
+\0
+
+[@ITEM 88 (EN) ]
+{Marle}: There was nothing but these...\0
+
+[@ITEM 88 (L2) ]
+\0
+
+[@ITEM 88 (FR) ]
+{Marle} : Il ne restait plus que ça...\0
+
+[@ITEM 89 (L1) ]
+\0
+
+[@ITEM 89 (EN) ]
+Don: Seeds......?\0
+
+[@ITEM 89 (L2) ]
+\0
+
+[@ITEM 89 (FR) ]
+Don : Des graines...?\0
+
+[@ITEM 90 (L1) ]
+\0
+
+[@ITEM 90 (EN) ]
+{Lucca}: You don't know how long the EnerBox
+will hold out either.
+Please, try raising these seeds.\0
+
+[@ITEM 90 (L2) ]
+\0
+
+[@ITEM 90 (FR) ]
+{Lucca} : Qui sait pour combien de temps encore
+l'énergiseur fonctionnera ? Plantez ces graines,
+d'accord ?\0
+
+[@ITEM 91 (L1) ]
+\0
+
+[@ITEM 91 (EN) ]
+{Marle}: In any case, live!
+Do your best!
+'Cause we're trying too!\0
+
+[@ITEM 91 (L2) ]
+\0
+
+[@ITEM 91 (FR) ]
+{Marle} : En tout cas, vivez ! Faites de votre mieux !
+Nous allons essayer de faire la même chose, nous
+aussi !\0
+
+[@ITEM 92 (L1) ]
+\0
+
+[@ITEM 92 (EN) ]
+Don: Hmm...{PRESS_CLEAR}
+You're mysterious.
+Different from us somehow...\0
+
+[@ITEM 92 (L2) ]
+\0
+
+[@ITEM 92 (FR) ]
+Don : Hum...{PRESS_CLEAR}
+Vous êtes bien étranges. Différents de nous, pour une
+raison ou une autre...\0
+
+[@ITEM 93 (L1) ]
+\0
+
+[@ITEM 93 (EN) ]
+{Marle}: You mean healthy?\0
+
+[@ITEM 93 (L2) ]
+\0
+
+[@ITEM 93 (FR) ]
+{Marle} : Nous sommes peut-être un peu plus joyeux
+que vous.\0
+
+[@ITEM 94 (L1) ]
+\0
+
+[@ITEM 94 (EN) ]
+Don: Healthy? I've never heard the word, but
+something feels good about it...{PRESS_CLEAR}
+I don't know what kind of seeds these are, but
+we'll try raising them.\0
+
+[@ITEM 94 (L2) ]
+\0
+
+[@ITEM 94 (FR) ]
+Don : Joyeux ? Je n'ai jamais entendu ce mot, mais il est
+agréable à l'oreille...{PRESS_CLEAR}
+Je ne sais pas quelle sorte de graines elles sont, mais
+nous les planterons pour voir.\0
+
+[@ITEM 95 (L1) ]
+\0
+
+[@ITEM 95 (EN) ]
+Child: What're these?\0
+
+[@ITEM 95 (L2) ]
+\0
+
+[@ITEM 95 (FR) ]
+Enfant : C'est quoi ?\0
+
+[@ITEM 96 (L1) ]
+\0
+
+[@ITEM 96 (EN) ]
+Don: Something like these may be just what
+we need now.\0
+
+[@ITEM 96 (L2) ]
+\0
+
+[@ITEM 96 (FR) ]
+Don : Elles sont peut-être ce dont nous avions besoin.\0
+
+[@ITEM 97 (L1) ]
+\0
+
+[@ITEM 97 (EN) ]
+Don: You're going to Promethe Dome?
+If you're crossing the #32 Ruins, take this with
+you.\0
+
+[@ITEM 97 (L2) ]
+\0
+
+[@ITEM 97 (FR) ]
+Don : Vous allez au dôme de Prométhée ? Si vous
+comptez traverser les ruines n° 32, prenez ceci.\0
+
+[@ITEM 98 (L1) ]
+\0
+
+[@ITEM 98 (EN) ]
+Don: It's the key for the Jet Bike left in the #32
+Ruins.{PRESS_CLEAR}
+I rode it when I was young.
+I hope it still runs...\0
+
+[@ITEM 98 (L2) ]
+\0
+
+[@ITEM 98 (FR) ]
+Don : C'est la clef de la moto que j'utilisais quand j'étais
+jeune. Je l'ai laissée à l'entrée des ruines. J'espère
+qu'elle fonctionne toujours...\0
+
+[@ITEM 99 (L1) ]
+\0
+
+[@ITEM 99 (EN) ]
+Don: Over there, stronger robots are running wild
+than the ones here. Be "healthy"!\0
+
+[@ITEM 99 (L2) ]
+\0
+
+[@ITEM 99 (FR) ]
+Don : Les robots détraqués au-delà des ruines n° 32
+sont beaucoup plus puissants qu'ici. Bonne chance...\0
+
+[@ITEM 100 (L1) ]
+\0
+
+[@ITEM 100 (EN) ]
+I see, he's...{PRESS_CLEAR}
+But he left behind precious things for me.
+The seeds... and this child.\0
+
+[@ITEM 100 (L2) ]
+\0
+
+[@ITEM 100 (FR) ]
+Alors mon mari est...{PRESS_CLEAR}
+Il m'a laissé quelque chose de précieux : ces graines
+et... cet enfant.\0
+
+[@ITEM 101 (L1) ]
+\0
+
+[@ITEM 101 (EN) ]
+Dad's awfully late...\0
+
+[@ITEM 101 (L2) ]
+\0
+
+[@ITEM 101 (FR) ]
+Quand est-ce qu'il va revenir, mon papa ?\0
+
+[@ITEM 102 (L1) ]
+\0
+
+[@ITEM 102 (EN) ]
+{Robo}: Where is this?\0
+
+[@ITEM 102 (L2) ]
+\0
+
+[@ITEM 102 (FR) ]
+{Robo} : Où sommes-nous ?\0
+
+[@ITEM 103 (L1) ]
+\0
+
+[@ITEM 103 (EN) ]
+Old Man: Dear me, visitors again...\0
+
+[@ITEM 103 (L2) ]
+\0
+
+[@ITEM 103 (FR) ]
+Vieil homme : Tiens, encore des visiteurs...\0
+
+[@ITEM 104 (L1) ]
+\0
+
+[@ITEM 104 (EN) ]
+{Marle}: Um, just where is this?\0
+
+[@ITEM 104 (L2) ]
+\0
+
+[@ITEM 104 (FR) ]
+{Marle} : Euh, où sommes-nous ?\0
+
+[@ITEM 105 (L1) ]
+\0
+
+[@ITEM 105 (EN) ]
+{Lucca}: Visitors......?
+Um, where is this?\0
+
+[@ITEM 105 (L2) ]
+\0
+
+[@ITEM 105 (FR) ]
+{Lucca} : Des visiteurs...?
+Euh, où sommes-nous ?\0
+
+[@ITEM 106 (L1) ]
+\0
+
+[@ITEM 106 (EN) ]
+Old Man: This is "The Farthest Reaches of Time"...{PRESS_CLEAR}
+The place where the lost children of time end
+up. Where did you all come from?\0
+
+[@ITEM 106 (L2) ]
+\0
+
+[@ITEM 106 (FR) ]
+Vieil homme : Cet endroit est la Fin des temps...{PRESS_CLEAR}
+C'est ici qu'aboutissent ceux qui se perdent dans la
+rivière du temps. D'où venez-vous ?\0
+
+[@ITEM 107 (L1) ]
+\0
+
+[@ITEM 107 (EN) ]
+{Lucca}: We came from Kingdom Year 1000.\0
+
+[@ITEM 107 (L2) ]
+\0
+
+[@ITEM 107 (FR) ]
+{Lucca} : Nous sommes de l'an 1000, selon le
+calendrier du royaume de Gardia.\0
+
+[@ITEM 108 (L1) ]
+\0
+
+[@ITEM 108 (EN) ]
+{Robo}: I came from the world of A.D.2300
+by way of a Gate...\0
+
+[@ITEM 108 (L2) ]
+\0
+
+[@ITEM 108 (FR) ]
+{Robo} : Et moi, je viens de l'an 2300.\0
+
+[@ITEM 109 (L1) ]
+\0
+
+[@ITEM 109 (EN) ]
+Old Man: When you enter a space-time distortion
+with four or more people from different
+times, the dimensional field distorts...{PRESS_CLEAR}
+However, there are many space-time
+distortions in this place.
+There are even those who, like you, appear
+here aimlessly...
+Perhaps something is exerting an effect on all
+of time...\0
+
+[@ITEM 109 (L2) ]
+\0
+
+[@ITEM 109 (FR) ]
+Vieil homme : Quand plus de trois personnes provenant
+d'époques différentes pénètrent dans une distorsion
+spatio-temporelle, le continuum espace-temps se tord...{PRESS_CLEAR}
+Toutefois, il y a beaucoup de ces distorsions depuis
+quelque temps. Des gens apparaissent ici à l'improviste,
+comme vous...{PRESS_CLEAR}
+Il y a peut-être quelque chose qui influe sur la trame
+tout entière du temps...\0
+
+[@ITEM 110 (L1) ]
+\0
+
+[@ITEM 110 (EN) ]
+{Lucca}: Which means it's safer if one of us
+remains here.\0
+
+[@ITEM 110 (L2) ]
+\0
+
+[@ITEM 110 (FR) ]
+{Lucca} : Ce qui veut dire qu'il serait plus prudent
+que l'un de nous reste ici.\0
+
+[@ITEM 111 (L1) ]
+\0
+
+[@ITEM 111 (EN) ]
+{Marle}: What, leaving someone in a place like
+thiiis?\0
+
+[@ITEM 111 (L2) ]
+\0
+
+[@ITEM 111 (FR) ]
+{Marle} : Quoi, quelqu'un devra rester dans un
+endroit pareil ?\0
+
+[@ITEM 112 (L1) ]
+\0
+
+[@ITEM 112 (EN) ]
+Old Man: A place like this? That's rather harsh...{PRESS_CLEAR}
+You don't need to worry about anything.
+This place leads to all times...{PRESS_CLEAR}
+If you wish, you can summon your
+companions at any time. But time travel is unstable.
+You should always act in groups of three.\0
+
+[@ITEM 112 (L2) ]
+\0
+
+[@ITEM 112 (FR) ]
+Vieil homme : Hum, je dois admettre que cet endroit n'est
+en effet pas très accueillant...{PRESS_CLEAR}
+Vous n'avez pas à vous inquiéter. D'ici, vous pouvez
+accéder à toutes les époques...{PRESS_CLEAR}
+En cas de besoin, faites appel à vos compagnons.
+Cependant, les voyages temporels sont très instables.{PRESS_CLEAR}
+Vous devriez toujours agir en groupe de trois
+personnes au plus.\0
+
+[@ITEM 113 (L1) ]
+\0
+
+[@ITEM 113 (EN) ]
+{Robo}: Then someone must remain.\0
+
+[@ITEM 113 (L2) ]
+\0
+
+[@ITEM 113 (FR) ]
+{Robo} : Alors, quelqu'un doit demeurer ici.\0
+
+[@ITEM 114 (L1) ]
+\0
+
+[@ITEM 114 (EN) ]
+{Lucca}: Who stays, {Crono}?\0
+
+[@ITEM 114 (L2) ]
+\0
+
+[@ITEM 114 (FR) ]
+{Lucca} : Qui restera ici, {Crono} ?\0
+
+[@ITEM 115 (L1) ]
+\0
+
+[@ITEM 115 (EN) ]
+{Marle}: Call me quick, {Crono}!\0
+
+[@ITEM 115 (L2) ]
+\0
+
+[@ITEM 115 (FR) ]
+{Marle} : Ne me laisse pas ici trop longtemps,
+{Crono} !\0
+
+[@ITEM 116 (L1) ]
+\0
+
+[@ITEM 116 (EN) ]
+{Lucca}: Don't get any weird thoughts just
+because we're alone together, old man!\0
+
+[@ITEM 116 (L2) ]
+\0
+
+[@ITEM 116 (FR) ]
+{Lucca} : Ne te fais pas des idées parce que nous
+restons seuls tous les deux, vieil homme !\0
+
+[@ITEM 117 (L1) ]
+\0
+
+[@ITEM 117 (EN) ]
+{Robo}: Please call me any time I may
+be of service.\0
+
+[@ITEM 117 (L2) ]
+\0
+
+[@ITEM 117 (FR) ]
+{Robo} : Faites appel à moi quand vous aurez
+besoin de mon aide.\0
+
+[@ITEM 118 (L1) ]
+\0
+
+[@ITEM 118 (EN) ]
+Old Man: Should the need arise, you can place
+a person left here in your party at any time.\0
+
+[@ITEM 118 (L2) ]
+\0
+
+[@ITEM 118 (FR) ]
+Vieil homme : Vous pouvez changer les membres de votre
+équipe quand vous le voulez.\0
+
+[@ITEM 119 (L1) ]
+\0
+
+[@ITEM 119 (EN) ]
+Old Man: Well, that is the way of things.{PRESS_CLEAR}
+Should you desire to switch party members, you
+can do so via the main menu whenever you wish.\0
+
+[@ITEM 119 (L2) ]
+\0
+
+[@ITEM 119 (FR) ]
+Vieil homme : C'est à peu près tout. En passant par
+l'option « Formation » du menu, vous pouvez changer
+les membres de votre équipe quand vous le voulez.
+Ne l'oubliez surtout pas !\0
+
+[@ITEM 120 (L1) ]
+\0
+
+[@ITEM 120 (EN) ]
+{Marle}: To return to our era, what should we do?\0
+
+[@ITEM 120 (L2) ]
+\0
+
+[@ITEM 120 (FR) ]
+{Marle} : Que devrions-nous faire pour retourner à
+notre époque ?\0
+
+[@ITEM 121 (L1) ]
+\0
+
+[@ITEM 121 (EN) ]
+Old Man: You saw the pillars of light when you
+arrived, yes? Each connects this place to a
+different era.{PRESS_CLEAR}
+Once you've passed through a Gate, you can
+use it to return here whenever you wish.
+Step back into the light and press the
+{B:A} Button, and you will return to the Gate.{PRESS_CLEAR}
+But beware the Gate connected to that bucket.\0
+
+[@ITEM 121 (L2) ]
+\0
+
+[@ITEM 121 (FR) ]
+Vieil homme : Il y a des colonnes de lumière là où vous
+êtes arrivés, n'est-ce pas ? Elles relient les distorsions
+dimensionnelles à la Fin des temps.{PRESS_CLEAR}
+Vous devriez pouvoir venir ici à partir de n'importe quel
+portail que vous avez déjà utilisé. Pour retraverser le
+portail, placez-vous dans la colonne de lumière et
+appuyez sur le bouton {B:A}.{PRESS_CLEAR}
+Cependant, gare au portail auquel vous pouvez accéder
+par ce seau, là-bas...\0
+
+[@ITEM 122 (L1) ]
+\0
+
+[@ITEM 122 (EN) ]
+Old Man: That place is connected to
+A.D. 1999... the time called "The Day of
+Lavos"...{PRESS_CLEAR}
+You could try going if you want to see what the
+destruction of the world looks like, but...
+Even you might be destroyed.\0
+
+[@ITEM 122 (L2) ]
+\0
+
+[@ITEM 122 (FR) ]
+Vieil homme : Ce portail mène à l'an 1999, au
+« Jour de Lavos »...{PRESS_CLEAR}
+Si vous voulez voir la destruction du monde, allez-y,
+mais...{PRESS_CLEAR}
+Vous pourriez facilement y laisser la vie.\0
+
+[@ITEM 123 (L1) ]
+\0
+
+[@ITEM 123 (EN) ]
+Old Man: Hey.\0
+
+[@ITEM 123 (L2) ]
+\0
+
+[@ITEM 123 (FR) ]
+Vieil homme : Hé !\0
+
+[@ITEM 124 (L1) ]
+\0
+
+[@ITEM 124 (EN) ]
+Old Man: No need to rush, is there?
+Try dropping in on the other side of the
+door up there, too.\0
+
+[@ITEM 124 (L2) ]
+\0
+
+[@ITEM 124 (FR) ]
+Vieil homme : Pas besoin de vous presser autant.
+Pourquoi ne pas jeter un coup d'œil derrière cette
+porte ?\0
+
+[@ITEM 125 (L1) ]
+\0
+
+[@ITEM 125 (EN) ]
+{MSGWND}
+It's shut tight...\0
+
+[@ITEM 125 (L2) ]
+\0
+
+[@ITEM 125 (FR) ]
+{MSGWND}
+Elle est solidement verrouillée...\0
+
+[@ITEM 126 (L1) ]
+\0
+
+[@ITEM 126 (EN) ]
+Old Man: Oh? Just as I thought.
+All the people of the distant past had such
+power.{PRESS_CLEAR}
+Ah yes, the distant past...{PRESS_CLEAR}
+It looks as though you guys are about to go
+and do something unreasonable, but
+perhaps you should first try returning to your
+era...?{PRESS_CLEAR}
+Less haste, more speed...
+When you're here, you come to understand
+the meaning of even such words...{PRESS_CLEAR}
+If anything happens, come any time.
+I shall be a guide to time for you.\0
+
+[@ITEM 126 (L2) ]
+\0
+
+[@ITEM 126 (FR) ]
+Vieil homme : Oh, je m'en doutais bien. Il y a de cela
+très longtemps, tout le monde avait de tels pouvoirs.
+Oui, très, très longtemps...{PRESS_CLEAR}
+On dirait que vous allez essayer d'accomplir quelque
+chose d'extraordinaire, mais vous devriez peut-être
+retourner d'abord à votre époque.{PRESS_CLEAR}
+Hâtez-vous lentement. En vivant ici, on vient à mieux
+comprendre la signification d'une telle expression...{PRESS_CLEAR}
+Si vous avez besoin de mon aide, venez me voir.
+Je vous guiderai à travers le temps.\0
+
+[@ITEM 127 (L1) ]
+\0
+
+[@ITEM 127 (EN) ]
+Old Man: If anything happens, come any time.
+I shall be a guide to time for you.\0
+
+[@ITEM 127 (L2) ]
+\0
+
+[@ITEM 127 (FR) ]
+Vieil homme : Si vous avez besoin de mon aide, venez me
+voir. Je vous guiderai à travers le temps.\0
+
+[@ITEM 128 (L1) ]
+\0
+
+[@ITEM 128 (EN) ]
+Take {Crono} along?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 128 (L2) ]
+\0
+
+[@ITEM 128 (FR) ]
+Emmener {Crono} ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 129 (L1) ]
+\0
+
+[@ITEM 129 (EN) ]
+{Marle}: Take me toooo!
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 129 (L2) ]
+\0
+
+[@ITEM 129 (FR) ]
+{Marle} : Emmenez-moi avec vous !
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 130 (L1) ]
+\0
+
+[@ITEM 130 (EN) ]
+{Marle}: Okay, I'll do my best!\0
+
+[@ITEM 130 (L2) ]
+\0
+
+[@ITEM 130 (FR) ]
+{Marle} : Super !\0
+
+[@ITEM 131 (L1) ]
+\0
+
+[@ITEM 131 (EN) ]
+{Marle}: Tch, boring!\0
+
+[@ITEM 131 (L2) ]
+\0
+
+[@ITEM 131 (FR) ]
+{Marle} : Oh, allez !\0
+
+[@ITEM 132 (L1) ]
+\0
+
+[@ITEM 132 (EN) ]
+{Lucca}: Don't you need my brain power?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 132 (L2) ]
+\0
+
+[@ITEM 132 (FR) ]
+{Lucca} : Vous avez besoin de mon génie ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 133 (L1) ]
+\0
+
+[@ITEM 133 (EN) ]
+{Lucca}: It really isn't any good without me there!\0
+
+[@ITEM 133 (L2) ]
+\0
+
+[@ITEM 133 (FR) ]
+{Lucca} : Je savais bien que vous ne pourriez pas
+continuer sans moi !\0
+
+[@ITEM 134 (L1) ]
+\0
+
+[@ITEM 134 (EN) ]
+{Lucca}: Oh, ah, really?\0
+
+[@ITEM 134 (L2) ]
+\0
+
+[@ITEM 134 (FR) ]
+{Lucca} : Ah, vraiment ?\0
+
+[@ITEM 135 (L1) ]
+\0
+
+[@ITEM 135 (EN) ]
+{Robo}: May I be of use?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 135 (L2) ]
+\0
+
+[@ITEM 135 (FR) ]
+{Robo} : Puis-je vous être utile ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 136 (L1) ]
+\0
+
+[@ITEM 136 (EN) ]
+{Robo}: Understood.\0
+
+[@ITEM 136 (L2) ]
+\0
+
+[@ITEM 136 (FR) ]
+{Robo} : Je suis prêt, {HERO1} !\0
+
+[@ITEM 137 (L1) ]
+\0
+
+[@ITEM 137 (EN) ]
+{Robo}: Understood.\0
+
+[@ITEM 137 (L2) ]
+\0
+
+[@ITEM 137 (FR) ]
+{Robo} : N'hésitez pas à venir me voir quand vous
+aurez besoin de moi.\0
+
+[@ITEM 138 (L1) ]
+\0
+
+[@ITEM 138 (EN) ]
+{Frog}: You've returned!
+Have you a need for my sword?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 138 (L2) ]
+\0
+
+[@ITEM 138 (FR) ]
+{Frog} : Vous ne pouvez aller nulle part sans un
+chevalier comme moi, n'est-ce pas ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 139 (L1) ]
+\0
+
+[@ITEM 139 (EN) ]
+{Frog}: All right, let's go!\0
+
+[@ITEM 139 (L2) ]
+\0
+
+[@ITEM 139 (FR) ]
+{Frog} : Bien ! Qu'attendons-nous ?\0
+
+[@ITEM 140 (L1) ]
+\0
+
+[@ITEM 140 (EN) ]
+{Frog}: My skill will dull.\0
+
+[@ITEM 140 (L2) ]
+\0
+
+[@ITEM 140 (FR) ]
+{Frog} : Si ça continue, je vais me rouiller !\0
+
+[@ITEM 141 (L1) ]
+\0
+
+[@ITEM 141 (EN) ]
+{Ayla}: {Ayla} go.
+Boring here.
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 141 (L2) ]
+\0
+
+[@ITEM 141 (FR) ]
+{Ayla} : {Ayla} combattre !
+Ici être ennuyant ! Alors ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 142 (L1) ]
+\0
+
+[@ITEM 142 (EN) ]
+{Ayla}: {Ayla} go wild enough to make up for up to now!\0
+
+[@ITEM 142 (L2) ]
+\0
+
+[@ITEM 142 (FR) ]
+{Ayla} : {Ayla} se déchaîner !\0
+
+[@ITEM 143 (L1) ]
+\0
+
+[@ITEM 143 (EN) ]
+{Ayla}: Take {Ayla}, {HERO1}!\0
+
+[@ITEM 143 (L2) ]
+\0
+
+[@ITEM 143 (FR) ]
+{Ayla} : {Crono} ! Emmener {Ayla} !\0
+
+[@ITEM 144 (L1) ]
+\0
+
+[@ITEM 144 (EN) ]
+{Ayla}: Take {Ayla}, {HERO1}!\0
+
+[@ITEM 144 (L2) ]
+\0
+
+[@ITEM 144 (FR) ]
+{Ayla} : {HERO1} ! Emmener {Ayla} !\0
+
+[@ITEM 145 (L1) ]
+\0
+
+[@ITEM 145 (EN) ]
+{Magus}: Are my powers required?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 145 (L2) ]
+\0
+
+[@ITEM 145 (FR) ]
+{Magus} : Auriez-vous besoin de mes pouvoirs...?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 146 (L1) ]
+\0
+
+[@ITEM 146 (EN) ]
+{Magus}: If it seems as though you're going to hinder
+me, I'll kill you...\0
+
+[@ITEM 146 (L2) ]
+\0
+
+[@ITEM 146 (FR) ]
+{Magus} : Si vous devenez une gêne pour moi, je
+vous éliminerai...\0
+
+[@ITEM 147 (L1) ]
+\0
+
+[@ITEM 147 (EN) ]
+{Magus}: Hmph. The weaker they are, the tougher they act...\0
+
+[@ITEM 147 (L2) ]
+\0
+
+[@ITEM 147 (FR) ]
+{Magus} : Hum, plus on est faible, plus on bravade...\0
+
+[@ITEM 148 (L1) ]
+\0
+
+[@ITEM 148 (EN) ]
+Go to A.D. 1999,
+"The Day of Lavos"?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 148 (L2) ]
+\0
+
+[@ITEM 148 (FR) ]
+Voulez-vous vous rendre au Jour de Lavos,
+en l'an 1999 ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 149 (L1) ]
+\0
+
+[@ITEM 149 (EN) ]
+Go to A.D. 2300,
+"Promethe Dome"?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 149 (L2) ]
+\0
+
+[@ITEM 149 (FR) ]
+Voulez-vous vous rendre au dôme de Prométhée,
+en l'an 2300 ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 150 (L1) ]
+\0
+
+[@ITEM 150 (EN) ]
+Go to A.D. 1000,
+"Medina Village"?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 150 (L2) ]
+\0
+
+[@ITEM 150 (FR) ]
+Voulez-vous vous rendre à Médina,
+en l'an 1000 ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 151 (L1) ]
+\0
+
+[@ITEM 151 (EN) ]
+Go to B.C. 65 million,
+"Mystery Mountains"?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 151 (L2) ]
+\0
+
+[@ITEM 151 (FR) ]
+Voulez-vous vous rendre au mont étrange,
+en l'an -65 000 000 ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 152 (L1) ]
+\0
+
+[@ITEM 152 (EN) ]
+Go to A.D. 1000,
+"Leene Square"?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 152 (L2) ]
+\0
+
+[@ITEM 152 (FR) ]
+Voulez-vous vous rendre à la place de Lynne,
+en l'an 1000 ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 153 (L1) ]
+\0
+
+[@ITEM 153 (EN) ]
+Go to A.D. 600,
+"Truce Village Back Hills"?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 153 (L2) ]
+\0
+
+[@ITEM 153 (FR) ]
+Voulez-vous vous rendre au mont de Truce,
+en l'an 600 ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 154 (L1) ]
+\0
+
+[@ITEM 154 (EN) ]
+Go to A.D. 1000,
+"Guardia Forest"?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 154 (L2) ]
+\0
+
+[@ITEM 154 (FR) ]
+Voulez-vous vous rendre à la forêt de Gardia,
+en l'an 1000 ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 155 (L1) ]
+\0
+
+[@ITEM 155 (EN) ]
+Go to A.D. 2300,
+"Bango Dome"?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 155 (L2) ]
+\0
+
+[@ITEM 155 (FR) ]
+Voulez-vous vous rendre au dôme de Bangor,
+en l'an 2300 ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 156 (L1) ]
+\0
+
+[@ITEM 156 (EN) ]
+Go to B.C. 65 million,
+"Tyran Castle Ruins"?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 156 (L2) ]
+\0
+
+[@ITEM 156 (FR) ]
+Voulez-vous vous rendre au cratère de Tyrannos,
+en l'an -65 000 000 ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 157 (L1) ]
+\0
+
+[@ITEM 157 (EN) ]
+Go to B.C. 12,000, "Continent of the People
+of the Earth"?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 157 (L2) ]
+\0
+
+[@ITEM 157 (FR) ]
+Voulez-vous vous rendre au continent des terriens,
+en l'an -12 000 ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 158 (L1) ]
+\0
+
+[@ITEM 158 (EN) ]
+		{SEL1}Operate{/SEL1}
+		{SEL2}Get out{/SEL2}\0
+
+[@ITEM 158 (L2) ]
+\0
+
+[@ITEM 158 (FR) ]
+       {SEL1}Jauge du temps{/SEL1}
+       {SEL2}Descendre{/SEL2}\0
+
+[@ITEM 159 (L1) ]
+\0
+
+[@ITEM 159 (EN) ]
+{Marle}: Go!\0
+
+[@ITEM 159 (L2) ]
+\0
+
+[@ITEM 159 (FR) ]
+{Marle} : C'est parti !\0
+
+[@ITEM 160 (L1) ]
+\0
+
+[@ITEM 160 (EN) ]
+{Lucca}: It's your turn, {Epoch}!\0
+
+[@ITEM 160 (L2) ]
+\0
+
+[@ITEM 160 (FR) ]
+{Lucca} : À toi de jouer, {Epoch} !\0
+
+[@ITEM 161 (L1) ]
+\0
+
+[@ITEM 161 (EN) ]
+{Robo}: {Epoch} IS departing!\0
+
+[@ITEM 161 (L2) ]
+\0
+
+[@ITEM 161 (FR) ]
+{Robo} : Mise en marche du {Epoch} !\0
+
+[@ITEM 162 (L1) ]
+\0
+
+[@ITEM 162 (EN) ]
+{Frog}: Hi ho! {Epoch}!!\0
+
+[@ITEM 162 (L2) ]
+\0
+
+[@ITEM 162 (FR) ]
+{Frog} : En route, {Epoch} !\0
+
+[@ITEM 163 (L1) ]
+\0
+
+[@ITEM 163 (EN) ]
+{Ayla}: {Epoch}! We go!!\0
+
+[@ITEM 163 (L2) ]
+\0
+
+[@ITEM 163 (FR) ]
+{Ayla} : {Epoch} voler !\0
+
+[@ITEM 164 (L1) ]
+\0
+
+[@ITEM 164 (EN) ]
+{Magus}: Here we go...\0
+
+[@ITEM 164 (L2) ]
+\0
+
+[@ITEM 164 (FR) ]
+{Magus} : Allons-y...\0
+
+[@ITEM 165 (L1) ]
+\0
+
+[@ITEM 165 (EN) ]
+Board the {Epoch}?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 165 (L2) ]
+\0
+
+[@ITEM 165 (FR) ]
+Voulez-vous monter à bord du {Epoch} ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 166 (L1) ]
+\0
+
+[@ITEM 166 (EN) ]
+Got any money?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 166 (L2) ]
+\0
+
+[@ITEM 166 (FR) ]
+Vous avez de l'argent ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 167 (L1) ]
+\0
+
+[@ITEM 167 (EN) ]
+Never seen money like this.
+Well, okay, I've got some good stuff.\0
+
+[@ITEM 167 (L2) ]
+\0
+
+[@ITEM 167 (FR) ]
+Ça ne ressemble pas à l'argent que je connais.{PRESS_CLEAR}
+Bah, peu importe, j'ai des marchandises intéressantes,
+vous verrez.\0
+
+[@ITEM 168 (L1) ]
+\0
+
+[@ITEM 168 (EN) ]
+I ain't got no business with window shoppers.\0
+
+[@ITEM 168 (L2) ]
+\0
+
+[@ITEM 168 (FR) ]
+Pas d'argent, pas de marchandise !\0
+
+[@ITEM 169 (L1) ]
+\0
+
+[@ITEM 169 (EN) ]
+If you save up money, it'll be useful someday.
+That's what I believe.\0
+
+[@ITEM 169 (L2) ]
+\0
+
+[@ITEM 169 (FR) ]
+Épargnez votre argent, un jour, il vous sera utile.
+C'est ma devise.\0
+
+[@ITEM 170 (L1) ]
+\0
+
+[@ITEM 170 (EN) ]
+Have any money?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 170 (L2) ]
+\0
+
+[@ITEM 170 (FR) ]
+Avez-vous de l'argent ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 171 (L1) ]
+\0
+
+[@ITEM 171 (EN) ]
+Never theen money like thith.
+Well, okay, I've got thum good thtuff.\0
+
+[@ITEM 171 (L2) ]
+\0
+
+[@ITEM 171 (FR) ]
+Ça ne ressemble pas à l'argent que je connais.{PRESS_CLEAR}
+Bah, peu importe, j'ai des marchandises intéressantes,
+vous verrez.\0
+
+[@ITEM 172 (L1) ]
+\0
+
+[@ITEM 172 (EN) ]
+I don't like window thyopperth!\0
+
+[@ITEM 172 (L2) ]
+\0
+
+[@ITEM 172 (FR) ]
+Pas d'argent, pas de marchandise !\0
+
+[@ITEM 173 (L1) ]
+\0
+
+[@ITEM 173 (EN) ]
+If you jutht thave up money, it'll be utheful thome day.{PRESS_CLEAR}
+The guy who went beyond the ruinth thaid that.\0
+
+[@ITEM 173 (L2) ]
+\0
+
+[@ITEM 173 (FR) ]
+Épargnez votre argent, un jour, il vous sera utile.{PRESS_CLEAR}
+C'était ce que disait le monsieur qui est allé dans l'autre
+dôme.\0
+
+[@ITEM 174 (L1) ]
+\0
+
+[@ITEM 174 (EN) ]
+Old Man: Huh, what happened to that
+energetic boy?\0
+
+[@ITEM 174 (L2) ]
+\0
+
+[@ITEM 174 (FR) ]
+Vieil homme : Tiens, qu'est-il arrivé à ce jeune homme
+énergique ?\0
+
+[@ITEM 175 (L1) ]
+\0
+
+[@ITEM 175 (EN) ]
+Old Man: ...{PRESS_CLEAR}
+I see...{PRESS_CLEAR}
+I can't do much of anything, but I'll let this tune
+play for you.{PRESS_CLEAR}
+I call it...
+"{Crono} Remember"...\0
+
+[@ITEM 175 (L2) ]
+\0
+
+[@ITEM 175 (FR) ]
+Vieil homme : ...{PRESS_CLEAR}
+Je vois...{PRESS_CLEAR}
+Je ne peux pas faire grand-chose, mais je vais vous
+offrir cette mélodie. Je l'appelle...{PRESS_CLEAR}
+« En mémoire de {Crono} »...\0
+
+[@ITEM 176 (L1) ]
+\0
+
+[@ITEM 176 (EN) ]
+Old Man: I'd like to help you if there's anything I
+can do, but...\0
+
+[@ITEM 176 (L2) ]
+\0
+
+[@ITEM 176 (FR) ]
+Vieil homme : J'aimerais vous aider, si seulement je
+pouvais faire quelque chose...\0
+
+[@ITEM 177 (L1) ]
+\0
+
+[@ITEM 177 (EN) ]
+{Marle}: We're looking for the Philosopher of Time...\0
+
+[@ITEM 177 (L2) ]
+\0
+
+[@ITEM 177 (FR) ]
+{Marle} : Nous sommes à la recherche du sage du
+temps...\0
+
+[@ITEM 178 (L1) ]
+\0
+
+[@ITEM 178 (EN) ]
+{Magus}: There is something none but the Philosopher
+of Time can do......\0
+
+[@ITEM 178 (L2) ]
+\0
+
+[@ITEM 178 (FR) ]
+{Magus} : Il y a quelque chose que seul le sage du
+temps pourrait accomplir...\0
+
+[@ITEM 179 (L1) ]
+\0
+
+[@ITEM 179 (EN) ]
+{Ayla}: {Ayla}s want meet Philosopher of Time.
+Searching!\0
+
+[@ITEM 179 (L2) ]
+\0
+
+[@ITEM 179 (FR) ]
+{Ayla} : {Ayla} vouloir rencontrer sage du
+temps. {Ayla} chercher !\0
+
+[@ITEM 180 (L1) ]
+\0
+
+[@ITEM 180 (EN) ]
+{Robo}: We ARE searching for the one known
+as the Philosopher of Time, but......\0
+
+[@ITEM 180 (L2) ]
+\0
+
+[@ITEM 180 (FR) ]
+{Robo} : Nous sommes à la recherche d'un individu
+surnommé le « sage du temps ».\0
+
+[@ITEM 181 (L1) ]
+\0
+
+[@ITEM 181 (EN) ]
+Old Man: Oh, you, where have I......?\0
+
+[@ITEM 181 (L2) ]
+\0
+
+[@ITEM 181 (FR) ]
+Vieil homme : Étrange, j'ai l'impression de te connaître...\0
+
+[@ITEM 182 (L1) ]
+\0
+
+[@ITEM 182 (EN) ]
+Old Man: So that's it...
+You've grown imposing.
+Aged quite a bit, though.\0
+
+[@ITEM 182 (L2) ]
+\0
+
+[@ITEM 182 (FR) ]
+Vieil homme : Oh, je vois... Tu es devenu imposant.
+Tu as beaucoup vieilli, par contre.\0
+
+[@ITEM 183 (L1) ]
+\0
+
+[@ITEM 183 (EN) ]
+King: What...?\0
+
+[@ITEM 183 (L2) ]
+\0
+
+[@ITEM 183 (FR) ]
+{Magus} : Quoi...?\0
+
+[@ITEM 184 (L1) ]
+\0
+
+[@ITEM 184 (EN) ]
+Old Man: The Philosopher of Time......?{PRESS_CLEAR}
+Well yes, I feel as though I've heard of him, but
+what did you want with the Philosopher of Time?\0
+
+[@ITEM 184 (L2) ]
+\0
+
+[@ITEM 184 (FR) ]
+Vieil homme : Le sage du temps...?{PRESS_CLEAR}
+Oui, j'ai déjà entendu parler de lui, mais que lui
+voulez-vous donc ?\0
+
+[@ITEM 185 (L1) ]
+\0
+
+[@ITEM 185 (EN) ]
+{Marle}: We've heard he knows a way to make
+{Crono} come back to life...\0
+
+[@ITEM 185 (L2) ]
+\0
+
+[@ITEM 185 (FR) ]
+{Marle} : Il paraît qu'il connaît un moyen de
+ressusciter {Crono}...\0
+
+[@ITEM 186 (L1) ]
+\0
+
+[@ITEM 186 (EN) ]
+{Frog}: It's said he can make Crono come back
+to life somehow, though I can't put much faith
+in the story.\0
+
+[@ITEM 186 (L2) ]
+\0
+
+[@ITEM 186 (FR) ]
+{Frog} : On dit qu'il pourrait ramener {Crono}
+à la vie, d'une façon ou d'une autre, mais c'est
+difficile à croire.\0
+
+[@ITEM 187 (L1) ]
+\0
+
+[@ITEM 187 (EN) ]
+{Ayla}: They say he can make {Crono} come back life.\0
+
+[@ITEM 187 (L2) ]
+\0
+
+[@ITEM 187 (FR) ]
+{Ayla} : Sage du temps pouvoir rendre vie à
+{Crono}.\0
+
+[@ITEM 188 (L1) ]
+\0
+
+[@ITEM 188 (EN) ]
+{Lucca}: We've heard we can find a way to
+make {Crono} come back to life if we see him.\0
+
+[@ITEM 188 (L2) ]
+\0
+
+[@ITEM 188 (FR) ]
+{Lucca} : Nous avons entendu dire que nous
+pourrons trouver un moyen de ressusciter {Crono}
+si nous le rencontrons.\0
+
+[@ITEM 189 (L1) ]
+\0
+
+[@ITEM 189 (EN) ]
+Old Man: Make the dead return to life...
+How many have wished for that now?{PRESS_CLEAR}
+He is fortunate.
+{Crono}-san...
+To have people who think of him so...\0
+
+[@ITEM 189 (L2) ]
+\0
+
+[@ITEM 189 (FR) ]
+Vieil homme : Rendre la vie à ceux qui ont péri...
+Combien de gens ont voulu y arriver jusqu'à
+maintenant ?{PRESS_CLEAR}
+{Crono} a de la chance...{PRESS_CLEAR}
+Il a des amis qui tiennent à lui...\0
+
+[@ITEM 190 (L1) ]
+\0
+
+[@ITEM 190 (EN) ]
+Old Man: Take this with you.\0
+
+[@ITEM 190 (L2) ]
+\0
+
+[@ITEM 190 (FR) ]
+Vieil homme : Apportez ceci.\0
+
+[@ITEM 191 (L1) ]
+\0
+
+[@ITEM 191 (EN) ]
+{Ayla}: This egg!
+{Ayla} eat?\0
+
+[@ITEM 191 (L2) ]
+\0
+
+[@ITEM 191 (FR) ]
+{Ayla} : Œuf ! {Ayla} pouvoir manger œuf ?\0
+
+[@ITEM 192 (L1) ]
+\0
+
+[@ITEM 192 (EN) ]
+{Frog}: What's this?\0
+
+[@ITEM 192 (L2) ]
+\0
+
+[@ITEM 192 (FR) ]
+{Frog} : Qu'est-ce que c'est ? Une sorte d'œuf ?\0
+
+[@ITEM 193 (L1) ]
+\0
+
+[@ITEM 193 (EN) ]
+{Robo}: This is... an egg?\0
+
+[@ITEM 193 (L2) ]
+\0
+
+[@ITEM 193 (FR) ]
+{Robo} : Est-ce... un œuf ?\0
+
+[@ITEM 194 (L1) ]
+\0
+
+[@ITEM 194 (EN) ]
+{Lucca}: What's this, an egg?\0
+
+[@ITEM 194 (L2) ]
+\0
+
+[@ITEM 194 (FR) ]
+{Lucca} : Qu'est-ce que c'est ? Un œuf ?\0
+
+[@ITEM 195 (L1) ]
+\0
+
+[@ITEM 195 (EN) ]
+Old Man: That is the Chrono Trigger{56}
+an egg of time. Ask the man who built the
+Wings that Cross Time how to hatch that egg...{PRESS_CLEAR}
+However, it will not necessarily go well.{PRESS_CLEAR}
+But surely you do not act for the sake of results?
+The results follow because you act...
+It ought to be so.{PRESS_CLEAR}
+Don't forget that.
+If you have feelings for {Crono}, possibly...\0
+
+[@ITEM 195 (L2) ]
+\0
+
+[@ITEM 195 (FR) ]
+Vieil homme : C'est le Chrono Trigger... Un œuf de temps.
+Demandez à celui qui a construit les ailes qui vous
+permettent de parcourir le temps comment le faire
+éclore...{PRESS_CLEAR}
+Cependant, il est possible que tout ne se passe pas
+comme vous le voulez. Cet œuf a le potentiel de changer
+les choses, mais sans vous, il n'est qu'une coquille vide :
+seules vos actions détermineront son vrai pouvoir.{PRESS_CLEAR}
+Ne l'oubliez pas. Si vous tenez à {Crono}, alors
+peut-être...\0
+
+[@ITEM 196 (L1) ]
+\0
+
+[@ITEM 196 (EN) ]
+{Magus}: I see, so it's you......\0
+
+[@ITEM 196 (L2) ]
+\0
+
+[@ITEM 196 (FR) ]
+{Magus} : Je vois, c'est donc vous...\0
+
+[@ITEM 197 (L1) ]
+\0
+
+[@ITEM 197 (EN) ]
+{Marle}: Then...{PRESS_CLEAR}
+Could you by any chance be the Philosopher of
+Time... Hasch?\0
+
+[@ITEM 197 (L2) ]
+\0
+
+[@ITEM 197 (FR) ]
+{Marle} : Alors...{PRESS_CLEAR}
+C'est vous, Hasch, le sage du temps ?\0
+
+[@ITEM 198 (L1) ]
+\0
+
+[@ITEM 198 (EN) ]
+{Lucca}: Then...!{PRESS_CLEAR}
+You're the Philosopher of Time... Hasch!?\0
+
+[@ITEM 198 (L2) ]
+\0
+
+[@ITEM 198 (FR) ]
+{Lucca} : Alors...!{PRESS_CLEAR}
+Vous êtes le sage du temps... Hasch ?!\0
+
+[@ITEM 199 (L1) ]
+\0
+
+[@ITEM 199 (EN) ]
+{Robo}: That means...{PRESS_CLEAR}
+Are you the Philosopher of Time... Hasch-san!?\0
+
+[@ITEM 199 (L2) ]
+\0
+
+[@ITEM 199 (FR) ]
+{Robo} : Ce qui veut dire que...{PRESS_CLEAR}
+Vous êtes Hasch, le sage du temps ?!\0
+
+[@ITEM 200 (L1) ]
+\0
+
+[@ITEM 200 (EN) ]
+{Frog}: Wha!?{PRESS_CLEAR}
+That means...
+You're the Philosopher of Time...
+Hasch!?\0
+
+[@ITEM 200 (L2) ]
+\0
+
+[@ITEM 200 (FR) ]
+{Frog} : Hein ?!{PRESS_CLEAR}
+Ce qui veut dire que...{PRESS_CLEAR}
+Vous êtes Hasch, le sage du temps ?!\0
+
+[@ITEM 201 (L1) ]
+\0
+
+[@ITEM 201 (EN) ]
+Old Man: Heh, heh...{PRESS_CLEAR}
+I also feel as though I've been called that...{PRESS_CLEAR}
+Yes, long ago...\0
+
+[@ITEM 201 (L2) ]
+\0
+
+[@ITEM 201 (FR) ]
+Vieil homme : Hum...{PRESS_CLEAR}
+J'ai aussi l'impression que j'ai porté ce nom...
+Oui, il y a de cela très longtemps...\0
+
+[@ITEM 202 (L1) ]
+\0
+
+[@ITEM 202 (EN) ]
+{Lucca}: It's the console that controls the passageway.
+Looks like it's locked with a password.\0
+
+[@ITEM 202 (L2) ]
+\0
+
+[@ITEM 202 (FR) ]
+{Lucca} : Cette console contrôle le passage.
+On dirait qu'elle est verrouillée par un mot de
+passe.\0
+
+[@ITEM 203 (L1) ]
+\0
+
+[@ITEM 203 (EN) ]
+{Marle}: Let's go get {Crono}!\0
+
+[@ITEM 203 (L2) ]
+\0
+
+[@ITEM 203 (FR) ]
+{Marle} : {Crono} ! Allons chercher {Crono} !\0
+
+[@ITEM 204 (L1) ]
+\0
+
+[@ITEM 204 (EN) ]
+{Lucca}: ...{PRESS_CLEAR}
+He was a pain, but when you see what it's
+like when he's not here...{PRESS_CLEAR}
+D-don't get the wrong idea.
+It's like he's my little brother, all right!{PRESS_CLEAR}
+...\0
+
+[@ITEM 204 (L2) ]
+\0
+
+[@ITEM 204 (FR) ]
+{Lucca} : ...{PRESS_CLEAR}
+Il nous a causé bien du souci, mais maintenant qu'il
+n'est plus là...{PRESS_CLEAR}
+Ne... Ne vous méprenez pas ! Je l'ai toujours considéré
+comme mon petit frère !{PRESS_CLEAR}
+...\0
+
+[@ITEM 205 (L1) ]
+\0
+
+[@ITEM 205 (EN) ]
+{Robo}: When {Crono} is not here, everyone
+is quiet...\0
+
+[@ITEM 205 (L2) ]
+\0
+
+[@ITEM 205 (FR) ]
+{Robo} : Sans {Crono}, tout le monde est si
+sombre...\0
+
+[@ITEM 206 (L1) ]
+\0
+
+[@ITEM 206 (EN) ]
+{Frog}: That idiot...{PRESS_CLEAR}
+If you're going to die, do it in order of age...\0
+
+[@ITEM 206 (L2) ]
+\0
+
+[@ITEM 206 (FR) ]
+{Frog} : Cet idiot...{PRESS_CLEAR}
+Les plus jeunes ne devraient pas partir les premiers...\0
+
+[@ITEM 207 (L1) ]
+\0
+
+[@ITEM 207 (EN) ]
+{Ayla}: {Crono} strong!
+{Crono} dead is lie!!
+{Ayla} search for {Crono}!!!\0
+
+[@ITEM 207 (L2) ]
+\0
+
+[@ITEM 207 (FR) ]
+{Ayla} : {Crono} être fort ! {Crono} pas
+vraiment être mort !! {Ayla} trouver {Crono} !\0
+
+[@ITEM 208 (L1) ]
+\0
+
+[@ITEM 208 (EN) ]
+{Magus}: I don't care either way whether he's here
+or not...{PRESS_CLEAR}
+Just as long as I can beat it.\0
+
+[@ITEM 208 (L2) ]
+\0
+
+[@ITEM 208 (FR) ]
+{Magus} : Peu importe s'il est là ou non, du moment
+que je peux vaincre Lavos...\0
+
+[@ITEM 209 (L1) ]
+\0
+
+[@ITEM 209 (EN) ]
+{Marle}: Honestly, thank goodness......\0
+
+[@ITEM 209 (L2) ]
+\0
+
+[@ITEM 209 (FR) ]
+{Marle} : Je suis si heureuse que tu sois vivant,
+{Crono}...!\0
+
+[@ITEM 210 (L1) ]
+\0
+
+[@ITEM 210 (EN) ]
+{Lucca}: Don't make girls cry so much!\0
+
+[@ITEM 210 (L2) ]
+\0
+
+[@ITEM 210 (FR) ]
+{Lucca} : Tu n'as pas honte d'avoir fait pleurer les
+filles, {Crono} ?\0
+
+[@ITEM 211 (L1) ]
+\0
+
+[@ITEM 211 (EN) ]
+{Robo}: Everyone is indeed lively when {Crono}
+is here!\0
+
+[@ITEM 211 (L2) ]
+\0
+
+[@ITEM 211 (FR) ]
+{Robo} : C'est évident ! Quand tu es là, {Crono},
+tout le monde est heureux !\0
+
+[@ITEM 212 (L1) ]
+\0
+
+[@ITEM 212 (EN) ]
+{Frog}: Heh, it's tough being a ladies' man.{56}
+Not even having things your way in dying.\0
+
+[@ITEM 212 (L2) ]
+\0
+
+[@ITEM 212 (FR) ]
+{Frog} : Ça doit être dur d'être aussi populaire,
+n'est-ce pas, {Crono} ? Tu n'as même pas eu le
+droit au repos éternel !\0
+
+[@ITEM 213 (L1) ]
+\0
+
+[@ITEM 213 (EN) ]
+{Ayla}: {Crono}!
+{Crono}!!
+{Crono}!!\0
+
+[@ITEM 213 (L2) ]
+\0
+
+[@ITEM 213 (FR) ]
+{Ayla} : {Crono} ! {Crono} ! {Crono} !\0
+
+[@ITEM 214 (L1) ]
+\0
+
+[@ITEM 214 (EN) ]
+{Magus}: ...{PRESS_CLEAR}
+Your death was due to your weakness.\0
+
+[@ITEM 214 (L2) ]
+\0
+
+[@ITEM 214 (FR) ]
+{Magus} : ...{PRESS_CLEAR}
+Tu as péri parce que tu étais faible.\0
+
+[@ITEM 215 (L1) ]
+\0
+
+[@ITEM 215 (EN) ]
+Old Man: Oh? It looks like things went well...{PRESS_CLEAR}
+No, no, I did nothing.
+I did no more than give you a chance.{PRESS_CLEAR}
+If you're thanking someone, thank your companions.
+Companions who felt for this boy.{PRESS_CLEAR}
+The Wings that Cross Time have also followed
+you and come here.
+They, too, may have a heart...\0
+
+[@ITEM 215 (L2) ]
+\0
+
+[@ITEM 215 (FR) ]
+Vieil homme : Oh, tout s'est bien passé, on dirait...{PRESS_CLEAR}
+Non, non, je n'ai pas fait grand-chose. Je ne vous ai
+offert qu'une opportunité. Si vous voulez remercier
+quelqu'un, remerciez vos compagnons, ils tiennent
+tant à vous.{PRESS_CLEAR}
+Votre vaisseau vous a aussi suivi jusqu'ici.
+Il a peut-être un cœur, lui aussi, qui sait...\0
+
+[@ITEM 216 (L1) ]
+\0
+
+[@ITEM 216 (EN) ]
+Old Man: You intend to fight that Lavos...{PRESS_CLEAR}
+Will you jump into the Gate in the bucket over
+there? Or go to the "Day of Lavos" with the
+Wings that Cross Time...?{PRESS_CLEAR}
+Or possibly, that enormous black thing that
+appeared across the eras...
+That, too, is trying to wake Lavos again...
+A foolish heart that relied on power and was
+consumed by power...{PRESS_CLEAR}
+If you go to that Black Dream, you'll
+probably wind up fighting Lavos too.
+When and where you battle Lavos is up to you.{PRESS_CLEAR}
+However, I urge you not to fight just by
+yourselves...
+It's vague, but I can see things that will aid you...\0
+
+[@ITEM 216 (L2) ]
+\0
+
+[@ITEM 216 (FR) ]
+Vieil homme : Vous comptez combattre Lavos...{PRESS_CLEAR}
+Sauterez-vous dans le portail du seau là-bas ?
+Irez-vous au « Jour de Lavos » à bord de votre
+vaisseau...?{PRESS_CLEAR}
+Ou encore sur cette énorme forteresse volante qui
+est apparue à travers les âges...? Quelqu'un à bord
+essaie aussi d'éveiller Lavos une fois de plus...{PRESS_CLEAR}
+Une âme insensée qui dépendait de son pouvoir et qui
+a été dévorée par ce dernier... Si vous allez sur ce
+sombre cauchemar, vous y combattrez probablement
+aussi Lavos.{PRESS_CLEAR}
+À vous de décider où et quand vous voulez l'affronter.
+Cependant, je vous en prie, ne combattez pas seuls...{PRESS_CLEAR}
+Je n'arrive pas à les voir clairement, mais il y a
+certaines choses qui pourront vous venir en
+aide...\0
+
+[@ITEM 217 (L1) ]
+\0
+
+[@ITEM 217 (EN) ]
+The Middle Ages, a forest revived thanks to one
+woman's heart......\0
+
+[@ITEM 217 (L2) ]
+\0
+
+[@ITEM 217 (FR) ]
+Au Moyen-Âge, une forêt qui revient à la vie grâce au
+cœur généreux d'une femme...\0
+
+[@ITEM 218 (L1) ]
+\0
+
+[@ITEM 218 (EN) ]
+The place in the Middle Ages where the three
+escaped evils who served {Magus} make their den.\0
+
+[@ITEM 218 (L2) ]
+\0
+
+[@ITEM 218 (FR) ]
+L'endroit où se sont réfugiés les trois anciens généraux
+de {Magus} au Moyen-Âge...\0
+
+[@ITEM 219 (L1) ]
+\0
+
+[@ITEM 219 (EN) ]
+The Future era, the hometown where machines
+were born......\0
+
+[@ITEM 219 (L2) ]
+\0
+
+[@ITEM 219 (FR) ]
+Dans le Futur, l'endroit où sont nées les machines...\0
+
+[@ITEM 220 (L1) ]
+\0
+
+[@ITEM 220 (EN) ]
+A stone that travels through all times from Primeval
+to Future, continuing to collect the sun's light...\0
+
+[@ITEM 220 (L2) ]
+\0
+
+[@ITEM 220 (FR) ]
+Une pierre qui traverse toutes les époques, de la
+Préhistoire au Futur, absorbant les rayons du soleil...\0
+
+[@ITEM 221 (L1) ]
+\0
+
+[@ITEM 221 (EN) ]
+The soul of a proud knight felled by {Magus}
+in the Middle Ages, still lingering to
+the Present...\0
+
+[@ITEM 221 (L2) ]
+\0
+
+[@ITEM 221 (FR) ]
+L'âme d'un fier chevalier qui a péri des mains de
+{Magus} au Moyen-Âge et qui erre toujours dans
+le Présent...\0
+
+[@ITEM 222 (L1) ]
+\0
+
+[@ITEM 222 (EN) ]
+In the Middle Ages, something mythical
+that shines the colors of the rainbow...\0
+
+[@ITEM 222 (L2) ]
+\0
+
+[@ITEM 222 (FR) ]
+Au Moyen-Âge, un objet mythique qui brille des couleurs
+de l'arc-en-ciel...\0
+
+[@ITEM 223 (L1) ]
+\0
+
+[@ITEM 223 (EN) ]
+Old Man: I expect that there are those among
+you, as well, who know about things where
+their own eras are concerned.{PRESS_CLEAR}
+You should try asking...
+Battle with the aid of the people, no, of all
+life from every era of this planet...!{PRESS_CLEAR}
+If you do not, you cannot beat it.
+In order to change the future, you need an
+energy that great...{PRESS_CLEAR}
+The future to which this planet shall go...
+I shall have you allow me to observe at leisure
+from here...\0
+
+[@ITEM 223 (L2) ]
+\0
+
+[@ITEM 223 (FR) ]
+Vieil homme : Vos compagnons devraient en savoir
+plus si cela concerne leur époque. Vous devriez le
+leur demander, pour voir...{PRESS_CLEAR}
+Combattez en faisant appel aux gens de toutes les
+époques, non, en faisant appel à tous les êtres
+vivants de cette planète...!{PRESS_CLEAR}
+Sans eux, vous ne pourrez pas vaincre Lavos.
+Pour changer le Futur, il vous faudra une telle
+quantité d'énergie...{PRESS_CLEAR}
+J'observerai d'ici patiemment vos actions et l'avenir de
+la planète...\0
+
+[@ITEM 224 (L1) ]
+\0
+
+[@ITEM 224 (EN) ]
+Old Man: The Black Dream is gone, and so that
+woman, too, was at long last able to settle into slumber.
+She was able to turn back into a person...{PRESS_CLEAR}
+Now, dive into the Gate from the bucket
+over there...!{PRESS_CLEAR}
+This is not just your battle.
+The lives on this planet...{PRESS_CLEAR}
+Yes, the battle is between this planet and
+Lavos...!\0
+
+[@ITEM 224 (L2) ]
+\0
+
+[@ITEM 224 (FR) ]
+Vieil homme : Le Songe obscur a disparu et cette femme
+peut maintenant reposer en paix. Elle est redevenue
+humaine...{PRESS_CLEAR}
+Le moment est venu de plonger dans le portail du seau,
+là-bas...!{PRESS_CLEAR}
+Ce n'est pas que votre combat. C'est aussi celui de tous
+les êtres vivants de cette planète...{PRESS_CLEAR}
+Oui, c'est le combat de la planète contre Lavos...!\0
+
+[@ITEM 225 (L1) ]
+\0
+
+[@ITEM 225 (EN) ]
+Old Man: Oh? So you saw that land of magic
+before you came...{PRESS_CLEAR}
+As the pillar of light has been sealed, you need
+wings that can freely come and go through time.
+Wings that Cross Time...{PRESS_CLEAR}
+There was even a man researching such a thing.
+Though I'm afraid he's lost a bit of his sanity,
+immersing himself too much in his research...\0
+
+[@ITEM 225 (L2) ]
+\0
+
+[@ITEM 225 (FR) ]
+Vieil homme : Oh ? Alors, vous êtes allés au royaume de
+la magie...?{PRESS_CLEAR}
+Puisque la colonne de lumière a été scellée, vous aurez
+besoin d'ailes pouvant parcourir librement le temps...{PRESS_CLEAR}
+Un homme s'y intéressait, mais on dirait qu'il a un
+peu perdu l'esprit, absorbé comme il était par ses
+recherches...\0
+
+[@ITEM 226 (L1) ]
+\0
+
+[@ITEM 226 (EN) ]
+Old Man: I see, so that man completed it.
+The Wings that Cross Time...{PRESS_CLEAR}
+In exchange for his life...{PRESS_CLEAR}
+Why don't you try going on those Wings now?
+To that ancient land of magic.\0
+
+[@ITEM 226 (L2) ]
+\0
+
+[@ITEM 226 (FR) ]
+Vieil homme : Je vois... Alors, il les avait terminées, ces
+ailes qui traversent le temps...{PRESS_CLEAR}
+Il aura payé de sa vie...{PRESS_CLEAR}
+Pourquoi ne retourneriez-vous pas dans l'ancien
+royaume de la magie à bord de ce vaisseau ?\0
+
+[@ITEM 227 (L1) ]
+\0
+
+[@ITEM 227 (EN) ]
+Old Man: Dreamstone...?{PRESS_CLEAR}
+That sounds somewhat familiar.
+It's an ore from long before even the distant past...{PRESS_CLEAR}
+Might you not be able to find it if you go
+perhaps to the Primeval era?\0
+
+[@ITEM 227 (L2) ]
+\0
+
+[@ITEM 227 (FR) ]
+Vieil homme : Une pierre onirique...?{PRESS_CLEAR}
+Cela me dit quelque chose. Il s'agit d'une pierre très,
+très ancienne, pour ne pas dire préhistorique...!{PRESS_CLEAR}
+Ne devriez-vous pas pouvoir en trouver en allant dans
+la Préhistoire ?\0
+
+[@ITEM 228 (L1) ]
+\0
+
+[@ITEM 228 (EN) ]
+Old Man: Oh, Dreamstone?
+The radiance takes me back...{PRESS_CLEAR}
+A man who can handle Dreamstone...?
+He's taken up residence now near the village of the
+Demons, called Medina.\0
+
+[@ITEM 228 (L2) ]
+\0
+
+[@ITEM 228 (FR) ]
+Vieil homme : Oh, une pierre onirique ? Quel éclat
+nostalgique...{PRESS_CLEAR}
+L'homme pouvant la manipuler...? Il a établi son domicile
+près de Médina, le village des mystiques.\0
+
+[@ITEM 229 (L1) ]
+\0
+
+[@ITEM 229 (EN) ]
+Old Man: That radiance...
+Gran...d...leon?{PRESS_CLEAR}
+There should be one in the Middle Ages who
+needs to take that in hand and defeat {Magus}.
+I assume you can't handle it on your own?\0
+
+[@ITEM 229 (L2) ]
+\0
+
+[@ITEM 229 (FR) ]
+Vieil homme : Cet éclat... Gran... Grandléon ?{PRESS_CLEAR}
+Il devrait y avoir quelqu'un au Moyen-Âge qui doit
+vaincre le Magistère à l'aide de cette épée.
+Pourriez-vous vous en charger ?\0
+
+[@ITEM 230 (L1) ]
+\0
+
+[@ITEM 230 (EN) ]
+Old Man: Oh my, a peculiar guest.
+You came from the Middle Ages?\0
+
+[@ITEM 230 (L2) ]
+\0
+
+[@ITEM 230 (FR) ]
+Vieil homme : Tiens, quel visiteur étrange !
+Venez-vous du Moyen-Âge ?\0
+
+[@ITEM 231 (L1) ]
+\0
+
+[@ITEM 231 (EN) ]
+Philosopher of Time Hasch: Th-this is...\0
+
+[@ITEM 231 (L2) ]
+\0
+
+[@ITEM 231 (FR) ]
+Hasch, sage du temps : Où suis-je...?\0
+
+[@ITEM 232 (L1) ]
+\0
+
+[@ITEM 232 (EN) ]
+Hey.\0
+
+[@ITEM 232 (L2) ]
+\0
+
+[@ITEM 232 (FR) ]
+Hé !\0
+
+[@ITEM 233 (L1) ]
+\0
+
+[@ITEM 233 (EN) ]
+Nothing here...{PRESS_CLEAR}
+This is...
+The Farthest Reaches of Time...?\0
+
+[@ITEM 233 (L2) ]
+\0
+
+[@ITEM 233 (FR) ]
+Il n'y a rien... Cet endroit...{PRESS_CLEAR}
+Est-ce la Fin des temps...?\0
+
+[@ITEM 234 (L1) ]
+\0
+
+[@ITEM 234 (EN) ]
+{Magus}: ...{PRESS_CLEAR}
+About them.
+I doubt they're dead yet...{PRESS_CLEAR}
+Come to think of it, Vinnegar had a hideout
+similar to my castle...\0
+
+[@ITEM 234 (L2) ]
+\0
+
+[@ITEM 234 (FR) ]
+{Magus} : ...{PRESS_CLEAR}
+Ces trois-là sont donc toujours vivants.{PRESS_CLEAR}
+Au fait, Vinnie avait un manoir qui ressemblait à mon
+palais...\0
+
+[@ITEM 235 (L1) ]
+\0
+
+[@ITEM 235 (EN) ]
+{Marle}: I wonder how he's doing about now......{PRESS_CLEAR}
+Father......\0
+
+[@ITEM 235 (L2) ]
+\0
+
+[@ITEM 235 (FR) ]
+{Marle} : Mon père...{PRESS_CLEAR}
+Je me demande comment il va...\0
+
+[@ITEM 236 (L1) ]
+\0
+
+[@ITEM 236 (EN) ]
+{Robo}: The birthplace of machines...?{PRESS_CLEAR}
+Might I too have a place where I was born?\0
+
+[@ITEM 236 (L2) ]
+\0
+
+[@ITEM 236 (FR) ]
+{Robo} : L'endroit où sont nées les machines...?
+Suis-je vraiment né quelque part, moi aussi ?\0
+
+[@ITEM 237 (L1) ]
+\0
+
+[@ITEM 237 (EN) ]
+{Frog}: A knight's lingering soul...{PRESS_CLEAR}
+It couldn't be... right?\0
+
+[@ITEM 237 (L2) ]
+\0
+
+[@ITEM 237 (FR) ]
+{Frog} : L'âme d'un chevalier qui erre...{PRESS_CLEAR}
+Se pourrait-il que ce soit...\0
+
+[@ITEM 238 (L1) ]
+\0
+
+[@ITEM 238 (EN) ]
+{Ayla}: We fight Lavos!
+{Ayla} village have strong armor!
+Go see!!\0
+
+[@ITEM 238 (L2) ]
+\0
+
+[@ITEM 238 (FR) ]
+{Ayla} : Combattre Lavos ! Village de {Ayla}
+avoir bon équipement ! Aller voir !!\0
+
+[@ITEM 239 (L1) ]
+\0
+
+[@ITEM 239 (EN) ]
+{Lucca}: The solar energy they say they used in
+the Ancient Era before Lavos energy......{PRESS_CLEAR}
+It may be ideal for standing against Lavos.\0
+
+[@ITEM 239 (L2) ]
+\0
+
+[@ITEM 239 (FR) ]
+{Lucca} : On dit que dans l'Antiquité, on utilisait
+l'énergie solaire avant d'utiliser l'énergie de Lavos...{PRESS_CLEAR}
+Ce pourrait être l'idéal pour l'affronter.\0
+
+[@ITEM 240 (L1) ]
+\0
+
+[@ITEM 240 (EN) ]
+Old Man: Have you, by chance, observed any odd
+distortions in time's fabric in recent days?\0
+
+[@ITEM 240 (L2) ]
+\0
+
+[@ITEM 240 (FR) ]
+Vieil homme : Vous n'auriez pas vu des endroits où les
+dimensions se distordent ?\0
+
+[@ITEM 241 (L1) ]
+\0
+
+[@ITEM 241 (EN) ]
+{Magus}: You speak of the dimensional vortices, no?
+One appears to have arisen in every age.\0
+
+[@ITEM 241 (L2) ]
+\0
+
+[@ITEM 241 (FR) ]
+{Magus} : Des vortex dimensionnels ? Si c'est bien
+ce dont vous parlez, il semble effectivement que des
+endroits étranges apparaissent à chaque époque.\0
+
+[@ITEM 242 (L1) ]
+\0
+
+[@ITEM 242 (EN) ]
+{Robo}: Yes, we have.
+Dimensional vortices connecting to a place with
+a civilization entirely different from our own.\0
+
+[@ITEM 242 (L2) ]
+\0
+
+[@ITEM 242 (FR) ]
+{Robo} : Vous voulez dire des vortex
+dimensionnels ?{PRESS_CLEAR}
+Une civilisation complètement différente de la nôtre les
+a développés.\0
+
+[@ITEM 243 (L1) ]
+\0
+
+[@ITEM 243 (EN) ]
+{Lucca}: Oh, you mean the dimensional vortices?
+Yes, we went inside. It was like an entirely
+different world in there.\0
+
+[@ITEM 243 (L2) ]
+\0
+
+[@ITEM 243 (FR) ]
+{Lucca} : Vous voulez dire des vortex
+dimensionnels ?{PRESS_CLEAR}
+Nous en avons fait l'expérience. J'ai eu l'impression
+qu'ils menaient à un monde différent du nôtre.\0
+
+[@ITEM 244 (L1) ]
+\0
+
+[@ITEM 244 (EN) ]
+{Frog}: Yes, we've seen sights most peculiar.
+No matter where we go, a strange dimensional
+distortion now lies within our own world.\0
+
+[@ITEM 244 (L2) ]
+\0
+
+[@ITEM 244 (FR) ]
+{Frog} : Oui, il y a quelque chose d'étrange ces
+derniers temps. Quelle que soit l'époque où nous
+allons, il existe une distorsion des dimensions.\0
+
+[@ITEM 245 (L1) ]
+\0
+
+[@ITEM 245 (EN) ]
+{Marle}: Oh, yeah! I think we've been there.
+It was strange{56}different from our world.\0
+
+[@ITEM 245 (L2) ]
+\0
+
+[@ITEM 245 (FR) ]
+{Marle} : Ah ! Nous en avons peut-être fait
+l'expérience. C'est un endroit étrange qui n'est
+pas exactement pareil à notre monde.\0
+
+[@ITEM 246 (L1) ]
+\0
+
+[@ITEM 246 (EN) ]
+Old Man: Indeed...
+Then it is as I thought.\0
+
+[@ITEM 246 (L2) ]
+\0
+
+[@ITEM 246 (FR) ]
+Vieil homme : Je m'en doutais bien... Hum, la planète
+cherche peut-être à vous aider.\0
+
+[@ITEM 247 (L1) ]
+\0
+
+[@ITEM 247 (EN) ]
+{Ayla}: What you mean?\0
+
+[@ITEM 247 (L2) ]
+\0
+
+[@ITEM 247 (FR) ]
+{Ayla} : Quoi ?\0
+
+[@ITEM 248 (L1) ]
+\0
+
+[@ITEM 248 (EN) ]
+{Marle}: Has something happened?\0
+
+[@ITEM 248 (L2) ]
+\0
+
+[@ITEM 248 (FR) ]
+{Marle} : Que s'est-il passé ?\0
+
+[@ITEM 249 (L1) ]
+\0
+
+[@ITEM 249 (EN) ]
+{Frog}: Is something the matter?\0
+
+[@ITEM 249 (L2) ]
+\0
+
+[@ITEM 249 (FR) ]
+{Frog} : S'est-il passé quelque chose ?\0
+
+[@ITEM 250 (L1) ]
+\0
+
+[@ITEM 250 (EN) ]
+{Lucca}: Is something the matter, I wonder?\0
+
+[@ITEM 250 (L2) ]
+\0
+
+[@ITEM 250 (FR) ]
+{Lucca} : Qu'y a-t-il ?\0
+
+[@ITEM 251 (L1) ]
+\0
+
+[@ITEM 251 (EN) ]
+{Robo}: What has happened?\0
+
+[@ITEM 251 (L2) ]
+\0
+
+[@ITEM 251 (FR) ]
+{Robo} : Est-il arrivé quelque chose ?\0
+
+[@ITEM 252 (L1) ]
+\0
+
+[@ITEM 252 (EN) ]
+Old Man: As it were, the bucket here has seemed a
+bit... different as of late. It's still connected to the
+Day of Lavos, of course, but... there is more.{PRESS_CLEAR}
+A great power flows into it from some distant plane,
+far beyond even the darkened borders of Time's
+Eclipse.{PRESS_CLEAR}
+It's a power similar to that of Lavos, but not entirely
+the same{56}a fearsome presence, to be sure. And yet
+I sense longing and loneliness there as well.{PRESS_CLEAR}
+It may well be that another terrible foe awaits you in
+that place. If you have a mind to face it, by all
+means go{56}but I cannot say I recommend it.\0
+
+[@ITEM 252 (L2) ]
+\0
+
+[@ITEM 252 (FR) ]
+Vieil homme : À vrai dire, il y a quelque chose d'étrange à
+propos du seau ces derniers temps. Il mène toujours au
+« Jour de Lavos », mais...{PRESS_CLEAR}
+C'est comme si une force énorme s'y déversait d'une
+autre dimension lointaine... des ténèbres profondes
+du temps...{PRESS_CLEAR}
+On dirait qu'elle ressemble à celle de Lavos, mais plus
+redoutable encore. Pourtant, j'y décèle une sorte de
+triste solitude...{PRESS_CLEAR}
+Une nouvelle et terrible créature vous attend peut-être
+dans une autre dimension.{PRESS_CLEAR}
+Si vous êtes prêts à l'affronter, allez voir ce qu'il en
+est. Cependant, je ne vous le recommande guère.\0
+
+[@ITEM 253 (L1) ]
+\0
+
+[@ITEM 253 (EN) ]
+Old Man: I will remain here, and bear witness to the
+world's fate.\0
+
+[@ITEM 253 (L2) ]
+\0
+
+[@ITEM 253 (FR) ]
+Vieil homme : J'observerai d'ici patiemment vos actions
+et l'avenir de l'univers...\0
+
+[@ITEM 254 (L1) ]
+\0
+
+[@ITEM 254 (EN) ]
+Where will you go?
+\t\t{SEL1}The Day of Lavos, 1999 A.D.{/SEL1}
+\t\t{SEL2}Time's Eclipse.{/SEL2}
+\t\t{SEL3}Remain here.{/SEL3}\0
+
+[@ITEM 254 (L2) ]
+\0
+
+[@ITEM 254 (FR) ]
+Où voulez-vous aller ?
+       {SEL1}An 1999, Jour de Lavos{/SEL1}
+       {SEL2}Les ténèbres du temps{/SEL2}
+       {SEL3}Rester ici{/SEL3}\0
+
+[@ITEM 255 (L1) ]
+\0
+
+[@ITEM 255 (EN) ]
+Go to the Arena of the Ages,
+beyond the flow of time?
+{75}{75}{SEL1}Yes.{/SEL1}
+{75}{75}{SEL2}No.{/SEL2}\0
+
+[@ITEM 255 (L2) ]
+\0
+
+[@ITEM 255 (FR) ]
+Voulez-vous vous rendre à l'arène
+interdimensionnelle ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+

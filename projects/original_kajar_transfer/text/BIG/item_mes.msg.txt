@@ -1,0 +1,4166 @@
+[@item_mes.msg]
+
+[@ITEM 0 (L1) ]
+\0
+
+[@ITEM 0 (EN) ]
+\0
+
+[@ITEM 0 (L2) ]
+\0
+
+[@ITEM 0 (FR) ]
+\0
+
+[@ITEM 1 (L1) ]
+\0
+
+[@ITEM 1 (EN) ]
+\0
+
+[@ITEM 1 (L2) ]
+\0
+
+[@ITEM 1 (FR) ]
+\0
+
+[@ITEM 2 (L1) ]
+\0
+
+[@ITEM 2 (EN) ]
+\0
+
+[@ITEM 2 (L2) ]
+\0
+
+[@ITEM 2 (FR) ]
+\0
+
+[@ITEM 3 (L1) ]
+\0
+
+[@ITEM 3 (EN) ]
+\0
+
+[@ITEM 3 (L2) ]
+\0
+
+[@ITEM 3 (FR) ]
+\0
+
+[@ITEM 4 (L1) ]
+\0
+
+[@ITEM 4 (EN) ]
+\0
+
+[@ITEM 4 (L2) ]
+\0
+
+[@ITEM 4 (FR) ]
+\0
+
+[@ITEM 5 (L1) ]
+\0
+
+[@ITEM 5 (EN) ]
+Magic power +2\0
+
+[@ITEM 5 (L2) ]
+\0
+
+[@ITEM 5 (FR) ]
+Magie +2\0
+
+[@ITEM 6 (L1) ]
+\0
+
+[@ITEM 6 (EN) ]
+\0
+
+[@ITEM 6 (L2) ]
+\0
+
+[@ITEM 6 (FR) ]
+\0
+
+[@ITEM 7 (L1) ]
+\0
+
+[@ITEM 7 (EN) ]
+\0
+
+[@ITEM 7 (L2) ]
+\0
+
+[@ITEM 7 (FR) ]
+\0
+
+[@ITEM 8 (L1) ]
+\0
+
+[@ITEM 8 (EN) ]
+\0
+
+[@ITEM 8 (L2) ]
+\0
+
+[@ITEM 8 (FR) ]
+\0
+
+[@ITEM 9 (L1) ]
+\0
+
+[@ITEM 9 (EN) ]
+1.5{x} damage to magical creatures\0
+
+[@ITEM 9 (L2) ]
+\0
+
+[@ITEM 9 (FR) ]
+Dégâts aux créatures magiques +50%\0
+
+[@ITEM 10 (L1) ]
+\0
+
+[@ITEM 10 (EN) ]
+\0
+
+[@ITEM 10 (L2) ]
+\0
+
+[@ITEM 10 (FR) ]
+\0
+
+[@ITEM 11 (L1) ]
+\0
+
+[@ITEM 11 (EN) ]
+\0
+
+[@ITEM 11 (L2) ]
+\0
+
+[@ITEM 11 (FR) ]
+\0
+
+[@ITEM 12 (L1) ]
+\0
+
+[@ITEM 12 (EN) ]
+\0
+
+[@ITEM 12 (L2) ]
+\0
+
+[@ITEM 12 (FR) ]
+\0
+
+[@ITEM 13 (L1) ]
+\0
+
+[@ITEM 13 (EN) ]
+\0
+
+[@ITEM 13 (L2) ]
+\0
+
+[@ITEM 13 (FR) ]
+\0
+
+[@ITEM 14 (L1) ]
+\0
+
+[@ITEM 14 (EN) ]
+4{x} damage during criticals\0
+
+[@ITEM 14 (L2) ]
+\0
+
+[@ITEM 14 (FR) ]
+Rend les coups critiques 4{x} plus puissants.\0
+
+[@ITEM 15 (L1) ]
+\0
+
+[@ITEM 15 (EN) ]
+\0
+
+[@ITEM 15 (L2) ]
+\0
+
+[@ITEM 15 (FR) ]
+\0
+
+[@ITEM 16 (L1) ]
+\0
+
+[@ITEM 16 (EN) ]
+Speed +2\0
+
+[@ITEM 16 (L2) ]
+\0
+
+[@ITEM 16 (FR) ]
+Rapidité +2\0
+
+[@ITEM 17 (L1) ]
+\0
+
+[@ITEM 17 (EN) ]
+\0
+
+[@ITEM 17 (L2) ]
+\0
+
+[@ITEM 17 (FR) ]
+\0
+
+[@ITEM 18 (L1) ]
+\0
+
+[@ITEM 18 (EN) ]
+\0
+
+[@ITEM 18 (L2) ]
+\0
+
+[@ITEM 18 (FR) ]
+\0
+
+[@ITEM 19 (L1) ]
+\0
+
+[@ITEM 19 (EN) ]
+\0
+
+[@ITEM 19 (L2) ]
+\0
+
+[@ITEM 19 (FR) ]
+\0
+
+[@ITEM 20 (L1) ]
+\0
+
+[@ITEM 20 (EN) ]
+\0
+
+[@ITEM 20 (L2) ]
+\0
+
+[@ITEM 20 (FR) ]
+\0
+
+[@ITEM 21 (L1) ]
+\0
+
+[@ITEM 21 (EN) ]
+\0
+
+[@ITEM 21 (L2) ]
+\0
+
+[@ITEM 21 (FR) ]
+\0
+
+[@ITEM 22 (L1) ]
+\0
+
+[@ITEM 22 (EN) ]
+\0
+
+[@ITEM 22 (L2) ]
+\0
+
+[@ITEM 22 (FR) ]
+\0
+
+[@ITEM 23 (L1) ]
+\0
+
+[@ITEM 23 (EN) ]
+\0
+
+[@ITEM 23 (L2) ]
+\0
+
+[@ITEM 23 (FR) ]
+\0
+
+[@ITEM 24 (L1) ]
+\0
+
+[@ITEM 24 (EN) ]
+Occasionally inflicts "Slow"\0
+
+[@ITEM 24 (L2) ]
+\0
+
+[@ITEM 24 (FR) ]
+Inflige parfois Lenteur.\0
+
+[@ITEM 25 (L1) ]
+\0
+
+[@ITEM 25 (EN) ]
+\0
+
+[@ITEM 25 (L2) ]
+\0
+
+[@ITEM 25 (FR) ]
+\0
+
+[@ITEM 26 (L1) ]
+\0
+
+[@ITEM 26 (EN) ]
+Occasionally inflicts "Stop"\0
+
+[@ITEM 26 (L2) ]
+\0
+
+[@ITEM 26 (FR) ]
+Inflige parfois Stop.\0
+
+[@ITEM 27 (L1) ]
+\0
+
+[@ITEM 27 (EN) ]
+\0
+
+[@ITEM 27 (L2) ]
+\0
+
+[@ITEM 27 (FR) ]
+\0
+
+[@ITEM 28 (L1) ]
+\0
+
+[@ITEM 28 (EN) ]
+\0
+
+[@ITEM 28 (L2) ]
+\0
+
+[@ITEM 28 (FR) ]
+\0
+
+[@ITEM 29 (L1) ]
+\0
+
+[@ITEM 29 (EN) ]
+\0
+
+[@ITEM 29 (L2) ]
+\0
+
+[@ITEM 29 (FR) ]
+\0
+
+[@ITEM 30 (L1) ]
+\0
+
+[@ITEM 30 (EN) ]
+\0
+
+[@ITEM 30 (L2) ]
+\0
+
+[@ITEM 30 (FR) ]
+\0
+
+[@ITEM 31 (L1) ]
+\0
+
+[@ITEM 31 (EN) ]
+\0
+
+[@ITEM 31 (L2) ]
+\0
+
+[@ITEM 31 (FR) ]
+\0
+
+[@ITEM 32 (L1) ]
+\0
+
+[@ITEM 32 (EN) ]
+\0
+
+[@ITEM 32 (L2) ]
+\0
+
+[@ITEM 32 (FR) ]
+\0
+
+[@ITEM 33 (L1) ]
+\0
+
+[@ITEM 33 (EN) ]
+\0
+
+[@ITEM 33 (L2) ]
+\0
+
+[@ITEM 33 (FR) ]
+\0
+
+[@ITEM 34 (L1) ]
+\0
+
+[@ITEM 34 (EN) ]
+\0
+
+[@ITEM 34 (L2) ]
+\0
+
+[@ITEM 34 (FR) ]
+\0
+
+[@ITEM 35 (L1) ]
+\0
+
+[@ITEM 35 (EN) ]
+Occasionally inflicts "Stop" on mechanical enemies\0
+
+[@ITEM 35 (L2) ]
+\0
+
+[@ITEM 35 (FR) ]
+Inflige parfois Stop aux machines.\0
+
+[@ITEM 36 (L1) ]
+\0
+
+[@ITEM 36 (EN) ]
+\0
+
+[@ITEM 36 (L2) ]
+\0
+
+[@ITEM 36 (FR) ]
+\0
+
+[@ITEM 37 (L1) ]
+\0
+
+[@ITEM 37 (EN) ]
+\0
+
+[@ITEM 37 (L2) ]
+\0
+
+[@ITEM 37 (FR) ]
+\0
+
+[@ITEM 38 (L1) ]
+\0
+
+[@ITEM 38 (EN) ]
+\0
+
+[@ITEM 38 (L2) ]
+\0
+
+[@ITEM 38 (FR) ]
+\0
+
+[@ITEM 39 (L1) ]
+\0
+
+[@ITEM 39 (EN) ]
+Occasionally inflicts "Confusion"\0
+
+[@ITEM 39 (L2) ]
+\0
+
+[@ITEM 39 (FR) ]
+Inflige parfois Confusion.\0
+
+[@ITEM 40 (L1) ]
+\0
+
+[@ITEM 40 (EN) ]
+Damage varies from time to time\0
+
+[@ITEM 40 (L2) ]
+\0
+
+[@ITEM 40 (FR) ]
+Dégâts variables.\0
+
+[@ITEM 41 (L1) ]
+\0
+
+[@ITEM 41 (EN) ]
+Occasionally halves enemy HP\0
+
+[@ITEM 41 (L2) ]
+\0
+
+[@ITEM 41 (FR) ]
+Réduit parfois les PV de la cible de moitié.\0
+
+[@ITEM 42 (L1) ]
+\0
+
+[@ITEM 42 (EN) ]
+\0
+
+[@ITEM 42 (L2) ]
+\0
+
+[@ITEM 42 (FR) ]
+\0
+
+[@ITEM 43 (L1) ]
+\0
+
+[@ITEM 43 (EN) ]
+\0
+
+[@ITEM 43 (L2) ]
+\0
+
+[@ITEM 43 (FR) ]
+\0
+
+[@ITEM 44 (L1) ]
+\0
+
+[@ITEM 44 (EN) ]
+\0
+
+[@ITEM 44 (L2) ]
+\0
+
+[@ITEM 44 (FR) ]
+\0
+
+[@ITEM 45 (L1) ]
+\0
+
+[@ITEM 45 (EN) ]
+\0
+
+[@ITEM 45 (L2) ]
+\0
+
+[@ITEM 45 (FR) ]
+\0
+
+[@ITEM 46 (L1) ]
+\0
+
+[@ITEM 46 (EN) ]
+\0
+
+[@ITEM 46 (L2) ]
+\0
+
+[@ITEM 46 (FR) ]
+\0
+
+[@ITEM 47 (L1) ]
+\0
+
+[@ITEM 47 (EN) ]
+\0
+
+[@ITEM 47 (L2) ]
+\0
+
+[@ITEM 47 (FR) ]
+\0
+
+[@ITEM 48 (L1) ]
+\0
+
+[@ITEM 48 (EN) ]
+\0
+
+[@ITEM 48 (L2) ]
+\0
+
+[@ITEM 48 (FR) ]
+\0
+
+[@ITEM 49 (L1) ]
+\0
+
+[@ITEM 49 (EN) ]
+\0
+
+[@ITEM 49 (L2) ]
+\0
+
+[@ITEM 49 (FR) ]
+\0
+
+[@ITEM 50 (L1) ]
+\0
+
+[@ITEM 50 (EN) ]
+\0
+
+[@ITEM 50 (L2) ]
+\0
+
+[@ITEM 50 (FR) ]
+\0
+
+[@ITEM 51 (L1) ]
+\0
+
+[@ITEM 51 (EN) ]
+\0
+
+[@ITEM 51 (L2) ]
+\0
+
+[@ITEM 51 (FR) ]
+\0
+
+[@ITEM 52 (L1) ]
+\0
+
+[@ITEM 52 (EN) ]
+\0
+
+[@ITEM 52 (L2) ]
+\0
+
+[@ITEM 52 (FR) ]
+\0
+
+[@ITEM 53 (L1) ]
+\0
+
+[@ITEM 53 (EN) ]
+\0
+
+[@ITEM 53 (L2) ]
+\0
+
+[@ITEM 53 (FR) ]
+\0
+
+[@ITEM 54 (L1) ]
+\0
+
+[@ITEM 54 (EN) ]
+\0
+
+[@ITEM 54 (L2) ]
+\0
+
+[@ITEM 54 (FR) ]
+\0
+
+[@ITEM 55 (L1) ]
+\0
+
+[@ITEM 55 (EN) ]
+\0
+
+[@ITEM 55 (L2) ]
+\0
+
+[@ITEM 55 (FR) ]
+\0
+
+[@ITEM 56 (L1) ]
+\0
+
+[@ITEM 56 (EN) ]
+\0
+
+[@ITEM 56 (L2) ]
+\0
+
+[@ITEM 56 (FR) ]
+\0
+
+[@ITEM 57 (L1) ]
+\0
+
+[@ITEM 57 (EN) ]
+Attack power varies by ones digit of own HP\0
+
+[@ITEM 57 (L2) ]
+\0
+
+[@ITEM 57 (FR) ]
+Dégâts variables suivant l'unité des PV.\0
+
+[@ITEM 58 (L1) ]
+\0
+
+[@ITEM 58 (EN) ]
+\0
+
+[@ITEM 58 (L2) ]
+\0
+
+[@ITEM 58 (FR) ]
+\0
+
+[@ITEM 59 (L1) ]
+\0
+
+[@ITEM 59 (EN) ]
+\0
+
+[@ITEM 59 (L2) ]
+\0
+
+[@ITEM 59 (FR) ]
+\0
+
+[@ITEM 60 (L1) ]
+\0
+
+[@ITEM 60 (EN) ]
+\0
+
+[@ITEM 60 (L2) ]
+\0
+
+[@ITEM 60 (FR) ]
+\0
+
+[@ITEM 61 (L1) ]
+\0
+
+[@ITEM 61 (EN) ]
+\0
+
+[@ITEM 61 (L2) ]
+\0
+
+[@ITEM 61 (FR) ]
+\0
+
+[@ITEM 62 (L1) ]
+\0
+
+[@ITEM 62 (EN) ]
+\0
+
+[@ITEM 62 (L2) ]
+\0
+
+[@ITEM 62 (FR) ]
+\0
+
+[@ITEM 63 (L1) ]
+\0
+
+[@ITEM 63 (EN) ]
+1.5{x} damage to magical creatures\0
+
+[@ITEM 63 (L2) ]
+\0
+
+[@ITEM 63 (FR) ]
+Dégâts aux créatures magiques +50%\0
+
+[@ITEM 64 (L1) ]
+\0
+
+[@ITEM 64 (EN) ]
+Magic power +4\0
+
+[@ITEM 64 (L2) ]
+\0
+
+[@ITEM 64 (FR) ]
+Magie +4\0
+
+[@ITEM 65 (L1) ]
+\0
+
+[@ITEM 65 (EN) ]
+\0
+
+[@ITEM 65 (L2) ]
+\0
+
+[@ITEM 65 (FR) ]
+\0
+
+[@ITEM 66 (L1) ]
+\0
+
+[@ITEM 66 (EN) ]
+\0
+
+[@ITEM 66 (L2) ]
+\0
+
+[@ITEM 66 (FR) ]
+\0
+
+[@ITEM 67 (L1) ]
+\0
+
+[@ITEM 67 (EN) ]
+2{x} damage to magical creatures\0
+
+[@ITEM 67 (L2) ]
+\0
+
+[@ITEM 67 (FR) ]
+Dégâts aux créatures magiques +100%\0
+
+[@ITEM 68 (L1) ]
+\0
+
+[@ITEM 68 (EN) ]
+\0
+
+[@ITEM 68 (L2) ]
+\0
+
+[@ITEM 68 (FR) ]
+\0
+
+[@ITEM 69 (L1) ]
+\0
+
+[@ITEM 69 (EN) ]
+\0
+
+[@ITEM 69 (L2) ]
+\0
+
+[@ITEM 69 (FR) ]
+\0
+
+[@ITEM 70 (L1) ]
+\0
+
+[@ITEM 70 (EN) ]
+\0
+
+[@ITEM 70 (L2) ]
+\0
+
+[@ITEM 70 (FR) ]
+\0
+
+[@ITEM 71 (L1) ]
+\0
+
+[@ITEM 71 (EN) ]
+Occasionally inflicts "Confusion"\0
+
+[@ITEM 71 (L2) ]
+\0
+
+[@ITEM 71 (FR) ]
+Inflige parfois Confusion.\0
+
+[@ITEM 72 (L1) ]
+\0
+
+[@ITEM 72 (EN) ]
+9999 damage!!\0
+
+[@ITEM 72 (L2) ]
+\0
+
+[@ITEM 72 (FR) ]
+Coups critiques infligent 9999 points de dégâts.\0
+
+[@ITEM 73 (L1) ]
+\0
+
+[@ITEM 73 (EN) ]
+\0
+
+[@ITEM 73 (L2) ]
+\0
+
+[@ITEM 73 (FR) ]
+\0
+
+[@ITEM 74 (L1) ]
+\0
+
+[@ITEM 74 (EN) ]
+\0
+
+[@ITEM 74 (L2) ]
+\0
+
+[@ITEM 74 (FR) ]
+\0
+
+[@ITEM 75 (L1) ]
+\0
+
+[@ITEM 75 (EN) ]
+\0
+
+[@ITEM 75 (L2) ]
+\0
+
+[@ITEM 75 (FR) ]
+\0
+
+[@ITEM 76 (L1) ]
+\0
+
+[@ITEM 76 (EN) ]
+\0
+
+[@ITEM 76 (L2) ]
+\0
+
+[@ITEM 76 (FR) ]
+\0
+
+[@ITEM 77 (L1) ]
+\0
+
+[@ITEM 77 (EN) ]
+\0
+
+[@ITEM 77 (L2) ]
+\0
+
+[@ITEM 77 (FR) ]
+\0
+
+[@ITEM 78 (L1) ]
+\0
+
+[@ITEM 78 (EN) ]
+Attack power up when companion falls\0
+
+[@ITEM 78 (L2) ]
+\0
+
+[@ITEM 78 (FR) ]
+Bonus de dégâts en cas de Coma d'un allié.\0
+
+[@ITEM 79 (L1) ]
+\0
+
+[@ITEM 79 (EN) ]
+\0
+
+[@ITEM 79 (L2) ]
+\0
+
+[@ITEM 79 (FR) ]
+\0
+
+[@ITEM 80 (L1) ]
+\0
+
+[@ITEM 80 (EN) ]
+\0
+
+[@ITEM 80 (L2) ]
+\0
+
+[@ITEM 80 (FR) ]
+\0
+
+[@ITEM 81 (L1) ]
+\0
+
+[@ITEM 81 (EN) ]
+\0
+
+[@ITEM 81 (L2) ]
+\0
+
+[@ITEM 81 (FR) ]
+\0
+
+[@ITEM 82 (L1) ]
+\0
+
+[@ITEM 82 (EN) ]
+\0
+
+[@ITEM 82 (L2) ]
+\0
+
+[@ITEM 82 (FR) ]
+\0
+
+[@ITEM 83 (L1) ]
+\0
+
+[@ITEM 83 (EN) ]
+Speed +3\0
+
+[@ITEM 83 (L2) ]
+\0
+
+[@ITEM 83 (FR) ]
+Rapidité +3\0
+
+[@ITEM 84 (L1) ]
+\0
+
+[@ITEM 84 (EN) ]
+\0
+
+[@ITEM 84 (L2) ]
+\0
+
+[@ITEM 84 (FR) ]
+\0
+
+[@ITEM 85 (L1) ]
+\0
+
+[@ITEM 85 (EN) ]
+70% critical rate\0
+
+[@ITEM 85 (L2) ]
+\0
+
+[@ITEM 85 (FR) ]
+Probabilité de coup critique : 70%\0
+
+[@ITEM 86 (L1) ]
+\0
+
+[@ITEM 86 (EN) ]
+Dummy\0
+
+[@ITEM 86 (L2) ]
+\0
+
+[@ITEM 86 (FR) ]
+Factice\0
+
+[@ITEM 87 (L1) ]
+\0
+
+[@ITEM 87 (EN) ]
+Dummy\0
+
+[@ITEM 87 (L2) ]
+\0
+
+[@ITEM 87 (FR) ]
+Factice\0
+
+[@ITEM 88 (L1) ]
+\0
+
+[@ITEM 88 (EN) ]
+Dummy\0
+
+[@ITEM 88 (L2) ]
+\0
+
+[@ITEM 88 (FR) ]
+Factice\0
+
+[@ITEM 89 (L1) ]
+\0
+
+[@ITEM 89 (EN) ]
+Dummy\0
+
+[@ITEM 89 (L2) ]
+\0
+
+[@ITEM 89 (FR) ]
+Factice\0
+
+[@ITEM 90 (L1) ]
+\0
+
+[@ITEM 90 (EN) ]
+\0
+
+[@ITEM 90 (L2) ]
+\0
+
+[@ITEM 90 (FR) ]
+\0
+
+[@ITEM 91 (L1) ]
+\0
+
+[@ITEM 91 (EN) ]
+Occasionally inflicts "Confusion"\0
+
+[@ITEM 91 (L2) ]
+\0
+
+[@ITEM 91 (FR) ]
+Inflige parfois Confusion.\0
+
+[@ITEM 92 (L1) ]
+\0
+
+[@ITEM 92 (EN) ]
+Speed +3.\0
+
+[@ITEM 92 (L2) ]
+\0
+
+[@ITEM 92 (FR) ]
+Rapidité +3\0
+
+[@ITEM 93 (L1) ]
+\0
+
+[@ITEM 93 (EN) ]
+Strength +5.\0
+
+[@ITEM 93 (L2) ]
+\0
+
+[@ITEM 93 (FR) ]
+Force +5\0
+
+[@ITEM 94 (L1) ]
+\0
+
+[@ITEM 94 (EN) ]
+\0
+
+[@ITEM 94 (L2) ]
+\0
+
+[@ITEM 94 (FR) ]
+\0
+
+[@ITEM 95 (L1) ]
+\0
+
+[@ITEM 95 (EN) ]
+Occasionally inflicts "Stop"\0
+
+[@ITEM 95 (L2) ]
+\0
+
+[@ITEM 95 (FR) ]
+Inflige parfois Stop.\0
+
+[@ITEM 96 (L1) ]
+\0
+
+[@ITEM 96 (EN) ]
+90% critical hit rate.\0
+
+[@ITEM 96 (L2) ]
+\0
+
+[@ITEM 96 (FR) ]
+Probabilité de coup critique : 90%\0
+
+[@ITEM 97 (L1) ]
+\0
+
+[@ITEM 97 (EN) ]
+Guaranteed 777 damage.\0
+
+[@ITEM 97 (L2) ]
+\0
+
+[@ITEM 97 (FR) ]
+Inflige toujours 777 points de dégâts.\0
+
+[@ITEM 98 (L1) ]
+\0
+
+[@ITEM 98 (EN) ]
+Attack power varies by ones digit of own HP\0
+
+[@ITEM 98 (L2) ]
+\0
+
+[@ITEM 98 (FR) ]
+Dégâts variables suivant l'unité des PM.\0
+
+[@ITEM 99 (L1) ]
+\0
+
+[@ITEM 99 (EN) ]
+9999 damage!!\0
+
+[@ITEM 99 (L2) ]
+\0
+
+[@ITEM 99 (FR) ]
+Inflige parfois 9999 points de dégâts.\0
+
+[@ITEM 100 (L1) ]
+\0
+
+[@ITEM 100 (EN) ]
+4{x} damage during criticals\0
+
+[@ITEM 100 (L2) ]
+\0
+
+[@ITEM 100 (FR) ]
+Rend les coups critiques 4{x} plus puissants.\0
+
+[@ITEM 101 (L1) ]
+\0
+
+[@ITEM 101 (EN) ]
+Dummy\0
+
+[@ITEM 101 (L2) ]
+\0
+
+[@ITEM 101 (FR) ]
+Factice\0
+
+[@ITEM 102 (L1) ]
+\0
+
+[@ITEM 102 (EN) ]
+Dummy\0
+
+[@ITEM 102 (L2) ]
+\0
+
+[@ITEM 102 (FR) ]
+Factice\0
+
+[@ITEM 103 (L1) ]
+\0
+
+[@ITEM 103 (EN) ]
+Dummy\0
+
+[@ITEM 103 (L2) ]
+\0
+
+[@ITEM 103 (FR) ]
+Factice\0
+
+[@ITEM 104 (L1) ]
+\0
+
+[@ITEM 104 (EN) ]
+Dummy\0
+
+[@ITEM 104 (L2) ]
+\0
+
+[@ITEM 104 (FR) ]
+Factice\0
+
+[@ITEM 105 (L1) ]
+\0
+
+[@ITEM 105 (EN) ]
+Dummy\0
+
+[@ITEM 105 (L2) ]
+\0
+
+[@ITEM 105 (FR) ]
+Factice\0
+
+[@ITEM 106 (L1) ]
+\0
+
+[@ITEM 106 (EN) ]
+Dummy\0
+
+[@ITEM 106 (L2) ]
+\0
+
+[@ITEM 106 (FR) ]
+Factice\0
+
+[@ITEM 107 (L1) ]
+\0
+
+[@ITEM 107 (EN) ]
+Dummy\0
+
+[@ITEM 107 (L2) ]
+\0
+
+[@ITEM 107 (FR) ]
+Factice\0
+
+[@ITEM 108 (L1) ]
+\0
+
+[@ITEM 108 (EN) ]
+Dummy\0
+
+[@ITEM 108 (L2) ]
+\0
+
+[@ITEM 108 (FR) ]
+Factice\0
+
+[@ITEM 109 (L1) ]
+\0
+
+[@ITEM 109 (EN) ]
+Dummy\0
+
+[@ITEM 109 (L2) ]
+\0
+
+[@ITEM 109 (FR) ]
+Factice\0
+
+[@ITEM 110 (L1) ]
+\0
+
+[@ITEM 110 (EN) ]
+Dummy\0
+
+[@ITEM 110 (L2) ]
+\0
+
+[@ITEM 110 (FR) ]
+Factice\0
+
+[@ITEM 111 (L1) ]
+\0
+
+[@ITEM 111 (EN) ]
+\0
+
+[@ITEM 111 (L2) ]
+\0
+
+[@ITEM 111 (FR) ]
+\0
+
+[@ITEM 112 (L1) ]
+\0
+
+[@ITEM 112 (EN) ]
+\0
+
+[@ITEM 112 (L2) ]
+\0
+
+[@ITEM 112 (FR) ]
+\0
+
+[@ITEM 113 (L1) ]
+\0
+
+[@ITEM 113 (EN) ]
+\0
+
+[@ITEM 113 (L2) ]
+\0
+
+[@ITEM 113 (FR) ]
+\0
+
+[@ITEM 114 (L1) ]
+\0
+
+[@ITEM 114 (EN) ]
+\0
+
+[@ITEM 114 (L2) ]
+\0
+
+[@ITEM 114 (FR) ]
+\0
+
+[@ITEM 115 (L1) ]
+\0
+
+[@ITEM 115 (EN) ]
+\0
+
+[@ITEM 115 (L2) ]
+\0
+
+[@ITEM 115 (FR) ]
+\0
+
+[@ITEM 116 (L1) ]
+\0
+
+[@ITEM 116 (EN) ]
+\0
+
+[@ITEM 116 (L2) ]
+\0
+
+[@ITEM 116 (FR) ]
+\0
+
+[@ITEM 117 (L1) ]
+\0
+
+[@ITEM 117 (EN) ]
+\0
+
+[@ITEM 117 (L2) ]
+\0
+
+[@ITEM 117 (FR) ]
+\0
+
+[@ITEM 118 (L1) ]
+\0
+
+[@ITEM 118 (EN) ]
+\0
+
+[@ITEM 118 (L2) ]
+\0
+
+[@ITEM 118 (FR) ]
+\0
+
+[@ITEM 119 (L1) ]
+\0
+
+[@ITEM 119 (EN) ]
+Halves "Fire" damage\0
+
+[@ITEM 119 (L2) ]
+\0
+
+[@ITEM 119 (FR) ]
+Dégâts de feu -50%\0
+
+[@ITEM 120 (L1) ]
+\0
+
+[@ITEM 120 (EN) ]
+Magic defense +5\0
+
+[@ITEM 120 (L2) ]
+\0
+
+[@ITEM 120 (FR) ]
+Défense magique +5\0
+
+[@ITEM 121 (L1) ]
+\0
+
+[@ITEM 121 (EN) ]
+\0
+
+[@ITEM 121 (L2) ]
+\0
+
+[@ITEM 121 (FR) ]
+\0
+
+[@ITEM 122 (L1) ]
+\0
+
+[@ITEM 122 (EN) ]
+\0
+
+[@ITEM 122 (L2) ]
+\0
+
+[@ITEM 122 (FR) ]
+\0
+
+[@ITEM 123 (L1) ]
+\0
+
+[@ITEM 123 (EN) ]
+Magic defense +5\0
+
+[@ITEM 123 (L2) ]
+\0
+
+[@ITEM 123 (FR) ]
+Défense magique +5\0
+
+[@ITEM 124 (L1) ]
+\0
+
+[@ITEM 124 (EN) ]
+\0
+
+[@ITEM 124 (L2) ]
+\0
+
+[@ITEM 124 (FR) ]
+\0
+
+[@ITEM 125 (L1) ]
+\0
+
+[@ITEM 125 (EN) ]
+\0
+
+[@ITEM 125 (L2) ]
+\0
+
+[@ITEM 125 (FR) ]
+\0
+
+[@ITEM 126 (L1) ]
+\0
+
+[@ITEM 126 (EN) ]
+\0
+
+[@ITEM 126 (L2) ]
+\0
+
+[@ITEM 126 (FR) ]
+\0
+
+[@ITEM 127 (L1) ]
+\0
+
+[@ITEM 127 (EN) ]
+Magic defense +10\0
+
+[@ITEM 127 (L2) ]
+\0
+
+[@ITEM 127 (FR) ]
+Défense magique +10\0
+
+[@ITEM 128 (L1) ]
+\0
+
+[@ITEM 128 (EN) ]
+Prevents all status abnormalities\0
+
+[@ITEM 128 (L2) ]
+\0
+
+[@ITEM 128 (FR) ]
+Protège des altérations d'état.\0
+
+[@ITEM 129 (L1) ]
+\0
+
+[@ITEM 129 (EN) ]
+Cuts magic damage by 1/3\0
+
+[@ITEM 129 (L2) ]
+\0
+
+[@ITEM 129 (FR) ]
+Dégâts magiques -33%\0
+
+[@ITEM 130 (L1) ]
+\0
+
+[@ITEM 130 (EN) ]
+Magic defense +10\0
+
+[@ITEM 130 (L2) ]
+\0
+
+[@ITEM 130 (FR) ]
+Défense magique +10\0
+
+[@ITEM 131 (L1) ]
+\0
+
+[@ITEM 131 (EN) ]
+Drops "Fire" damage to 1/5\0
+
+[@ITEM 131 (L2) ]
+\0
+
+[@ITEM 131 (FR) ]
+Dégâts de feu -80%\0
+
+[@ITEM 132 (L1) ]
+\0
+
+[@ITEM 132 (EN) ]
+\0
+
+[@ITEM 132 (L2) ]
+\0
+
+[@ITEM 132 (FR) ]
+\0
+
+[@ITEM 133 (L1) ]
+\0
+
+[@ITEM 133 (EN) ]
+\0
+
+[@ITEM 133 (L2) ]
+\0
+
+[@ITEM 133 (FR) ]
+\0
+
+[@ITEM 134 (L1) ]
+\0
+
+[@ITEM 134 (EN) ]
+Absorbs "Sky" damage\0
+
+[@ITEM 134 (L2) ]
+\0
+
+[@ITEM 134 (FR) ]
+Absorbe les dégâts de lumière.\0
+
+[@ITEM 135 (L1) ]
+\0
+
+[@ITEM 135 (EN) ]
+Absorbs "Dark" damage\0
+
+[@ITEM 135 (L2) ]
+\0
+
+[@ITEM 135 (FR) ]
+Absorbe les dégâts de ténèbres.\0
+
+[@ITEM 136 (L1) ]
+\0
+
+[@ITEM 136 (EN) ]
+Absorbs "Water" damage\0
+
+[@ITEM 136 (L2) ]
+\0
+
+[@ITEM 136 (FR) ]
+Absorbe les dégâts d'eau.\0
+
+[@ITEM 137 (L1) ]
+\0
+
+[@ITEM 137 (EN) ]
+Absorbs "Fire" damage\0
+
+[@ITEM 137 (L2) ]
+\0
+
+[@ITEM 137 (FR) ]
+Absorbe les dégâts de feu.\0
+
+[@ITEM 138 (L1) ]
+\0
+
+[@ITEM 138 (EN) ]
+Absorbs half of "Sky" damage\0
+
+[@ITEM 138 (L2) ]
+\0
+
+[@ITEM 138 (FR) ]
+Absorbe 50% des dégâts de lumière.\0
+
+[@ITEM 139 (L1) ]
+\0
+
+[@ITEM 139 (EN) ]
+Absorbs half of "Dark" damage\0
+
+[@ITEM 139 (L2) ]
+\0
+
+[@ITEM 139 (FR) ]
+Absorbe 50% des dégâts de ténèbres.\0
+
+[@ITEM 140 (L1) ]
+\0
+
+[@ITEM 140 (EN) ]
+Absorbs half of "Water" damage\0
+
+[@ITEM 140 (L2) ]
+\0
+
+[@ITEM 140 (FR) ]
+Absorbe 50% des dégâts d'eau.\0
+
+[@ITEM 141 (L1) ]
+\0
+
+[@ITEM 141 (EN) ]
+Absorbs half of "Fire" damage\0
+
+[@ITEM 141 (L2) ]
+\0
+
+[@ITEM 141 (FR) ]
+Absorbe 50% des dégâts de feu.\0
+
+[@ITEM 142 (L1) ]
+\0
+
+[@ITEM 142 (EN) ]
+Speed +2 / "Fire" defense up\0
+
+[@ITEM 142 (L2) ]
+\0
+
+[@ITEM 142 (FR) ]
+Rapidité +2 et dégâts de feu -50%\0
+
+[@ITEM 143 (L1) ]
+\0
+
+[@ITEM 143 (EN) ]
+Speed +3 / "Fire" defense up\0
+
+[@ITEM 143 (L2) ]
+\0
+
+[@ITEM 143 (FR) ]
+Rapidité +3 et dégâts de feu -50%\0
+
+[@ITEM 144 (L1) ]
+\0
+
+[@ITEM 144 (EN) ]
+Strength +10.\0
+
+[@ITEM 144 (L2) ]
+\0
+
+[@ITEM 144 (FR) ]
+Force +10\0
+
+[@ITEM 145 (L1) ]
+\0
+
+[@ITEM 145 (EN) ]
+Magic +10.\0
+
+[@ITEM 145 (L2) ]
+\0
+
+[@ITEM 145 (FR) ]
+Magie +10\0
+
+[@ITEM 146 (L1) ]
+\0
+
+[@ITEM 146 (EN) ]
+Speed +3, Strength +3.\0
+
+[@ITEM 146 (L2) ]
+\0
+
+[@ITEM 146 (FR) ]
+Rapidité +3 et force +3\0
+
+[@ITEM 147 (L1) ]
+\0
+
+[@ITEM 147 (EN) ]
+Stamina +10, Magic Defense +10.\0
+
+[@ITEM 147 (L2) ]
+\0
+
+[@ITEM 147 (FR) ]
+Endurance +10 et défense magique +10\0
+
+[@ITEM 148 (L1) ]
+\0
+
+[@ITEM 148 (EN) ]
+Cuts magic damage by 1/3\0
+
+[@ITEM 148 (L2) ]
+\0
+
+[@ITEM 148 (FR) ]
+Dégâts -33%\0
+
+[@ITEM 149 (L1) ]
+\0
+
+[@ITEM 149 (EN) ]
+Nullifies all elemental damage.\0
+
+[@ITEM 149 (L2) ]
+\0
+
+[@ITEM 149 (FR) ]
+Annule tous les dégâts élémentaires.\0
+
+[@ITEM 150 (L1) ]
+\0
+
+[@ITEM 150 (EN) ]
+Mag. Def. +20, reduces magical damage.\0
+
+[@ITEM 150 (L2) ]
+\0
+
+[@ITEM 150 (FR) ]
+Défense magique +20 / Réduit dégâts magiques.\0
+
+[@ITEM 151 (L1) ]
+\0
+
+[@ITEM 151 (EN) ]
+Dummy\0
+
+[@ITEM 151 (L2) ]
+\0
+
+[@ITEM 151 (FR) ]
+Factice\0
+
+[@ITEM 152 (L1) ]
+\0
+
+[@ITEM 152 (EN) ]
+Dummy\0
+
+[@ITEM 152 (L2) ]
+\0
+
+[@ITEM 152 (FR) ]
+Factice\0
+
+[@ITEM 153 (L1) ]
+\0
+
+[@ITEM 153 (EN) ]
+Dummy\0
+
+[@ITEM 153 (L2) ]
+\0
+
+[@ITEM 153 (FR) ]
+Factice\0
+
+[@ITEM 154 (L1) ]
+\0
+
+[@ITEM 154 (EN) ]
+Dummy\0
+
+[@ITEM 154 (L2) ]
+\0
+
+[@ITEM 154 (FR) ]
+Factice\0
+
+[@ITEM 155 (L1) ]
+\0
+
+[@ITEM 155 (EN) ]
+Dummy\0
+
+[@ITEM 155 (L2) ]
+\0
+
+[@ITEM 155 (FR) ]
+Factice\0
+
+[@ITEM 156 (L1) ]
+\0
+
+[@ITEM 156 (EN) ]
+Dummy\0
+
+[@ITEM 156 (L2) ]
+\0
+
+[@ITEM 156 (FR) ]
+Factice\0
+
+[@ITEM 157 (L1) ]
+\0
+
+[@ITEM 157 (EN) ]
+Dummy\0
+
+[@ITEM 157 (L2) ]
+\0
+
+[@ITEM 157 (FR) ]
+Factice\0
+
+[@ITEM 158 (L1) ]
+\0
+
+[@ITEM 158 (EN) ]
+Dummy\0
+
+[@ITEM 158 (L2) ]
+\0
+
+[@ITEM 158 (FR) ]
+Factice\0
+
+[@ITEM 159 (L1) ]
+\0
+
+[@ITEM 159 (EN) ]
+Dummy\0
+
+[@ITEM 159 (L2) ]
+\0
+
+[@ITEM 159 (FR) ]
+Factice\0
+
+[@ITEM 160 (L1) ]
+\0
+
+[@ITEM 160 (EN) ]
+Dummy\0
+
+[@ITEM 160 (L2) ]
+\0
+
+[@ITEM 160 (FR) ]
+Factice\0
+
+[@ITEM 161 (L1) ]
+\0
+
+[@ITEM 161 (EN) ]
+\0
+
+[@ITEM 161 (L2) ]
+\0
+
+[@ITEM 161 (FR) ]
+\0
+
+[@ITEM 162 (L1) ]
+\0
+
+[@ITEM 162 (EN) ]
+\0
+
+[@ITEM 162 (L2) ]
+\0
+
+[@ITEM 162 (FR) ]
+\0
+
+[@ITEM 163 (L1) ]
+\0
+
+[@ITEM 163 (EN) ]
+\0
+
+[@ITEM 163 (L2) ]
+\0
+
+[@ITEM 163 (FR) ]
+\0
+
+[@ITEM 164 (L1) ]
+\0
+
+[@ITEM 164 (EN) ]
+\0
+
+[@ITEM 164 (L2) ]
+\0
+
+[@ITEM 164 (FR) ]
+\0
+
+[@ITEM 165 (L1) ]
+\0
+
+[@ITEM 165 (EN) ]
+\0
+
+[@ITEM 165 (L2) ]
+\0
+
+[@ITEM 165 (FR) ]
+\0
+
+[@ITEM 166 (L1) ]
+\0
+
+[@ITEM 166 (EN) ]
+\0
+
+[@ITEM 166 (L2) ]
+\0
+
+[@ITEM 166 (FR) ]
+\0
+
+[@ITEM 167 (L1) ]
+\0
+
+[@ITEM 167 (EN) ]
+\0
+
+[@ITEM 167 (L2) ]
+\0
+
+[@ITEM 167 (FR) ]
+\0
+
+[@ITEM 168 (L1) ]
+\0
+
+[@ITEM 168 (EN) ]
+\0
+
+[@ITEM 168 (L2) ]
+\0
+
+[@ITEM 168 (FR) ]
+\0
+
+[@ITEM 169 (L1) ]
+\0
+
+[@ITEM 169 (EN) ]
+\0
+
+[@ITEM 169 (L2) ]
+\0
+
+[@ITEM 169 (FR) ]
+\0
+
+[@ITEM 170 (L1) ]
+\0
+
+[@ITEM 170 (EN) ]
+\0
+
+[@ITEM 170 (L2) ]
+\0
+
+[@ITEM 170 (FR) ]
+\0
+
+[@ITEM 171 (L1) ]
+\0
+
+[@ITEM 171 (EN) ]
+\0
+
+[@ITEM 171 (L2) ]
+\0
+
+[@ITEM 171 (FR) ]
+\0
+
+[@ITEM 172 (L1) ]
+\0
+
+[@ITEM 172 (EN) ]
+Magic defense +9 / Prevents all abnormal status\0
+
+[@ITEM 172 (L2) ]
+\0
+
+[@ITEM 172 (FR) ]
+Déf. magique +9 / Protège des altérations d'état.\0
+
+[@ITEM 173 (L1) ]
+\0
+
+[@ITEM 173 (EN) ]
+\0
+
+[@ITEM 173 (L2) ]
+\0
+
+[@ITEM 173 (FR) ]
+\0
+
+[@ITEM 174 (L1) ]
+\0
+
+[@ITEM 174 (EN) ]
+Halves "Shadow" damage\0
+
+[@ITEM 174 (L2) ]
+\0
+
+[@ITEM 174 (FR) ]
+Dégâts de ténèbres -50%\0
+
+[@ITEM 175 (L1) ]
+\0
+
+[@ITEM 175 (EN) ]
+Prevents all status abnormalities\0
+
+[@ITEM 175 (L2) ]
+\0
+
+[@ITEM 175 (FR) ]
+Protège des altérations d'état.\0
+
+[@ITEM 176 (L1) ]
+\0
+
+[@ITEM 176 (EN) ]
+Cuts physical damage by 1/3\0
+
+[@ITEM 176 (L2) ]
+\0
+
+[@ITEM 176 (FR) ]
+Dégâts physiques -33%\0
+
+[@ITEM 177 (L1) ]
+\0
+
+[@ITEM 177 (EN) ]
+Magic defense +10\0
+
+[@ITEM 177 (L2) ]
+\0
+
+[@ITEM 177 (FR) ]
+Défense magique +10\0
+
+[@ITEM 178 (L1) ]
+\0
+
+[@ITEM 178 (EN) ]
+Prevents "Confusion"\0
+
+[@ITEM 178 (L2) ]
+\0
+
+[@ITEM 178 (FR) ]
+Protège contre Confusion.\0
+
+[@ITEM 179 (L1) ]
+\0
+
+[@ITEM 179 (EN) ]
+Prevents "Lock"\0
+
+[@ITEM 179 (L2) ]
+\0
+
+[@ITEM 179 (FR) ]
+Protège contre Oubli.\0
+
+[@ITEM 180 (L1) ]
+\0
+
+[@ITEM 180 (EN) ]
+Prevents "Stop", "Slow"\0
+
+[@ITEM 180 (L2) ]
+\0
+
+[@ITEM 180 (FR) ]
+Protège contre Stop et Lenteur.\0
+
+[@ITEM 181 (L1) ]
+\0
+
+[@ITEM 181 (EN) ]
+Prevents all status abnormalities\0
+
+[@ITEM 181 (L2) ]
+\0
+
+[@ITEM 181 (FR) ]
+Protège des altérations d'état.\0
+
+[@ITEM 182 (L1) ]
+\0
+
+[@ITEM 182 (EN) ]
+???\0
+
+[@ITEM 182 (L2) ]
+\0
+
+[@ITEM 182 (FR) ]
+???\0
+
+[@ITEM 183 (L1) ]
+\0
+
+[@ITEM 183 (EN) ]
+Halves command input wait time\0
+
+[@ITEM 183 (L2) ]
+\0
+
+[@ITEM 183 (FR) ]
+Réduit de moitié le délai d'action.\0
+
+[@ITEM 184 (L1) ]
+\0
+
+[@ITEM 184 (EN) ]
+Halves "Sky" damage\0
+
+[@ITEM 184 (L2) ]
+\0
+
+[@ITEM 184 (FR) ]
+Dégâts de lumière -50%\0
+
+[@ITEM 185 (L1) ]
+\0
+
+[@ITEM 185 (EN) ]
+Halves "Water" damage\0
+
+[@ITEM 185 (L2) ]
+\0
+
+[@ITEM 185 (FR) ]
+Dégâts d'eau -50%\0
+
+[@ITEM 186 (L1) ]
+\0
+
+[@ITEM 186 (EN) ]
+Strength +5.\0
+
+[@ITEM 186 (L2) ]
+\0
+
+[@ITEM 186 (FR) ]
+Force +5\0
+
+[@ITEM 187 (L1) ]
+\0
+
+[@ITEM 187 (EN) ]
+Magic +5.\0
+
+[@ITEM 187 (L2) ]
+\0
+
+[@ITEM 187 (FR) ]
+Magie +5\0
+
+[@ITEM 188 (L1) ]
+\0
+
+[@ITEM 188 (EN) ]
+Boosts damage, prevents status ailments.\0
+
+[@ITEM 188 (L2) ]
+\0
+
+[@ITEM 188 (FR) ]
+Dégâts ↑ / Protège des altérations d'état.\0
+
+[@ITEM 189 (L1) ]
+\0
+
+[@ITEM 189 (EN) ]
+Faster turns, prevents all status ailments.\0
+
+[@ITEM 189 (L2) ]
+\0
+
+[@ITEM 189 (FR) ]
+Délai d'action ↓ / Protège des altérations d'état.\0
+
+[@ITEM 190 (L1) ]
+\0
+
+[@ITEM 190 (EN) ]
+Dummy\0
+
+[@ITEM 190 (L2) ]
+\0
+
+[@ITEM 190 (FR) ]
+Factice\0
+
+[@ITEM 191 (L1) ]
+\0
+
+[@ITEM 191 (EN) ]
+Dummy\0
+
+[@ITEM 191 (L2) ]
+\0
+
+[@ITEM 191 (FR) ]
+Factice\0
+
+[@ITEM 192 (L1) ]
+\0
+
+[@ITEM 192 (EN) ]
+Dummy\0
+
+[@ITEM 192 (L2) ]
+\0
+
+[@ITEM 192 (FR) ]
+Factice\0
+
+[@ITEM 193 (L1) ]
+\0
+
+[@ITEM 193 (EN) ]
+Dummy\0
+
+[@ITEM 193 (L2) ]
+\0
+
+[@ITEM 193 (FR) ]
+Factice\0
+
+[@ITEM 194 (L1) ]
+\0
+
+[@ITEM 194 (EN) ]
+Dummy\0
+
+[@ITEM 194 (L2) ]
+\0
+
+[@ITEM 194 (FR) ]
+Factice\0
+
+[@ITEM 195 (L1) ]
+\0
+
+[@ITEM 195 (EN) ]
+Dummy\0
+
+[@ITEM 195 (L2) ]
+\0
+
+[@ITEM 195 (FR) ]
+Factice\0
+
+[@ITEM 196 (L1) ]
+\0
+
+[@ITEM 196 (EN) ]
+Dummy\0
+
+[@ITEM 196 (L2) ]
+\0
+
+[@ITEM 196 (FR) ]
+Factice\0
+
+[@ITEM 197 (L1) ]
+\0
+
+[@ITEM 197 (EN) ]
+Dummy\0
+
+[@ITEM 197 (L2) ]
+\0
+
+[@ITEM 197 (FR) ]
+Factice\0
+
+[@ITEM 198 (L1) ]
+\0
+
+[@ITEM 198 (EN) ]
+Dummy\0
+
+[@ITEM 198 (L2) ]
+\0
+
+[@ITEM 198 (FR) ]
+Factice\0
+
+[@ITEM 199 (L1) ]
+\0
+
+[@ITEM 199 (EN) ]
+Dummy\0
+
+[@ITEM 199 (L2) ]
+\0
+
+[@ITEM 199 (FR) ]
+Factice\0
+
+[@ITEM 200 (L1) ]
+\0
+
+[@ITEM 200 (EN) ]
+\0
+
+[@ITEM 200 (L2) ]
+\0
+
+[@ITEM 200 (FR) ]
+\0
+
+[@ITEM 201 (L1) ]
+\0
+
+[@ITEM 201 (EN) ]
+Speed +1\0
+
+[@ITEM 201 (L2) ]
+\0
+
+[@ITEM 201 (FR) ]
+Rapidité +1\0
+
+[@ITEM 202 (L1) ]
+\0
+
+[@ITEM 202 (EN) ]
+Hit +2\0
+
+[@ITEM 202 (L2) ]
+\0
+
+[@ITEM 202 (FR) ]
+Précision +2\0
+
+[@ITEM 203 (L1) ]
+\0
+
+[@ITEM 203 (EN) ]
+Power +2\0
+
+[@ITEM 203 (L2) ]
+\0
+
+[@ITEM 203 (FR) ]
+Force +2\0
+
+[@ITEM 204 (L1) ]
+\0
+
+[@ITEM 204 (EN) ]
+Stamina +2\0
+
+[@ITEM 204 (L2) ]
+\0
+
+[@ITEM 204 (FR) ]
+Endurance +2\0
+
+[@ITEM 205 (L1) ]
+\0
+
+[@ITEM 205 (EN) ]
+Magic power +2\0
+
+[@ITEM 205 (L2) ]
+\0
+
+[@ITEM 205 (FR) ]
+Magie +2\0
+
+[@ITEM 206 (L1) ]
+\0
+
+[@ITEM 206 (EN) ]
+Prevents all status abnormalities\0
+
+[@ITEM 206 (L2) ]
+\0
+
+[@ITEM 206 (FR) ]
+Protège des altérations d'état.\0
+
+[@ITEM 207 (L1) ]
+\0
+
+[@ITEM 207 (EN) ]
+Speed +3\0
+
+[@ITEM 207 (L2) ]
+\0
+
+[@ITEM 207 (FR) ]
+Rapidité +3\0
+
+[@ITEM 208 (L1) ]
+\0
+
+[@ITEM 208 (EN) ]
+Hit +10\0
+
+[@ITEM 208 (L2) ]
+\0
+
+[@ITEM 208 (FR) ]
+Précision +10\0
+
+[@ITEM 209 (L1) ]
+\0
+
+[@ITEM 209 (EN) ]
+Power +6\0
+
+[@ITEM 209 (L2) ]
+\0
+
+[@ITEM 209 (FR) ]
+Force +6\0
+
+[@ITEM 210 (L1) ]
+\0
+
+[@ITEM 210 (EN) ]
+Magic power +6\0
+
+[@ITEM 210 (L2) ]
+\0
+
+[@ITEM 210 (FR) ]
+Magie +6\0
+
+[@ITEM 211 (L1) ]
+\0
+
+[@ITEM 211 (EN) ]
+Magic defense +10\0
+
+[@ITEM 211 (L2) ]
+\0
+
+[@ITEM 211 (FR) ]
+Défense magique +10\0
+
+[@ITEM 212 (L1) ]
+\0
+
+[@ITEM 212 (EN) ]
+Ups max HP by 1/4\0
+
+[@ITEM 212 (L2) ]
+\0
+
+[@ITEM 212 (FR) ]
+PV max +25%\0
+
+[@ITEM 213 (L1) ]
+\0
+
+[@ITEM 213 (EN) ]
+Ups max HP by 1/2\0
+
+[@ITEM 213 (L2) ]
+\0
+
+[@ITEM 213 (FR) ]
+PV max +50%\0
+
+[@ITEM 214 (L1) ]
+\0
+
+[@ITEM 214 (EN) ]
+1/2 MP consumption\0
+
+[@ITEM 214 (L2) ]
+\0
+
+[@ITEM 214 (FR) ]
+PM requis -50%\0
+
+[@ITEM 215 (L1) ]
+\0
+
+[@ITEM 215 (EN) ]
+1/4 MP consumption\0
+
+[@ITEM 215 (L2) ]
+\0
+
+[@ITEM 215 (FR) ]
+PM requis -75%\0
+
+[@ITEM 216 (L1) ]
+\0
+
+[@ITEM 216 (EN) ]
+Can see enemy's remaining HP\0
+
+[@ITEM 216 (L2) ]
+\0
+
+[@ITEM 216 (FR) ]
+Affiche les PV de la cible.\0
+
+[@ITEM 217 (L1) ]
+\0
+
+[@ITEM 217 (EN) ]
+"Seductive Trick" power up\0
+
+[@ITEM 217 (L2) ]
+\0
+
+[@ITEM 217 (FR) ]
+Augmente l'efficacité de Séduction.\0
+
+[@ITEM 218 (L1) ]
+\0
+
+[@ITEM 218 (EN) ]
+Counter 1/2 of attacks\0
+
+[@ITEM 218 (L2) ]
+\0
+
+[@ITEM 218 (FR) ]
+Probabilité de riposter : 50%\0
+
+[@ITEM 219 (L1) ]
+\0
+
+[@ITEM 219 (EN) ]
+Counter 4/5 of attacks\0
+
+[@ITEM 219 (L2) ]
+\0
+
+[@ITEM 219 (FR) ]
+Probabilité de riposter : 80%\0
+
+[@ITEM 220 (L1) ]
+\0
+
+[@ITEM 220 (EN) ]
+2x evasive ability\0
+
+[@ITEM 220 (L2) ]
+\0
+
+[@ITEM 220 (FR) ]
+Esquive {x}2\0
+
+[@ITEM 221 (L1) ]
+\0
+
+[@ITEM 221 (EN) ]
+Replaces experience points with money\0
+
+[@ITEM 221 (L2) ]
+\0
+
+[@ITEM 221 (FR) ]
+Transforme les EXP en G.\0
+
+[@ITEM 222 (L1) ]
+\0
+
+[@ITEM 222 (EN) ]
+Automatically recovers from incapacitated once only\0
+
+[@ITEM 222 (L2) ]
+\0
+
+[@ITEM 222 (FR) ]
+Relève du Coma une fois par combat.\0
+
+[@ITEM 223 (L1) ]
+\0
+
+[@ITEM 223 (EN) ]
+Attack power + physical defense up / uncontrollable\0
+
+[@ITEM 223 (L2) ]
+\0
+
+[@ITEM 223 (FR) ]
+Perte de contrôle / Attaque et défense ↑\0
+
+[@ITEM 224 (L1) ]
+\0
+
+[@ITEM 224 (EN) ]
+Power +4\0
+
+[@ITEM 224 (L2) ]
+\0
+
+[@ITEM 224 (FR) ]
+Force +4\0
+
+[@ITEM 225 (L1) ]
+\0
+
+[@ITEM 225 (EN) ]
+Speed +2\0
+
+[@ITEM 225 (L2) ]
+\0
+
+[@ITEM 225 (FR) ]
+Rapidité +2\0
+
+[@ITEM 226 (L1) ]
+\0
+
+[@ITEM 226 (EN) ]
+Invokes three-person technique "Dark Eternal"\0
+
+[@ITEM 226 (L2) ]
+\0
+
+[@ITEM 226 (FR) ]
+Permet d'utiliser le trio Ténèbres sans fin.\0
+
+[@ITEM 227 (L1) ]
+\0
+
+[@ITEM 227 (EN) ]
+Invokes three-person technique "Omega Flare"\0
+
+[@ITEM 227 (L2) ]
+\0
+
+[@ITEM 227 (FR) ]
+Permet d'utiliser le trio Fission oméga.\0
+
+[@ITEM 228 (L1) ]
+\0
+
+[@ITEM 228 (EN) ]
+Invokes three-person technique "Strike Spin"\0
+
+[@ITEM 228 (L2) ]
+\0
+
+[@ITEM 228 (FR) ]
+Permet d'utiliser le trio Piqué mégatonne.\0
+
+[@ITEM 229 (L1) ]
+\0
+
+[@ITEM 229 (EN) ]
+Invokes three-person technique "Poyozo Dance"\0
+
+[@ITEM 229 (L2) ]
+\0
+
+[@ITEM 229 (FR) ]
+Permet d'utiliser le trio Danse poyozo.\0
+
+[@ITEM 230 (L1) ]
+\0
+
+[@ITEM 230 (EN) ]
+Invokes three-person technique "Grandream"\0
+
+[@ITEM 230 (L2) ]
+\0
+
+[@ITEM 230 (FR) ]
+Permet d'utiliser le trio Songe grandiose.\0
+
+[@ITEM 231 (L1) ]
+\0
+
+[@ITEM 231 (EN) ]
+Ups Grandleon's critical rate\0
+
+[@ITEM 231 (L2) ]
+\0
+
+[@ITEM 231 (FR) ]
+Probabilité de coup critique avec Grandléon ↑\0
+
+[@ITEM 232 (L1) ]
+\0
+
+[@ITEM 232 (EN) ]
+Stamina +6\0
+
+[@ITEM 232 (L2) ]
+\0
+
+[@ITEM 232 (FR) ]
+Endurance +6\0
+
+[@ITEM 233 (L1) ]
+\0
+
+[@ITEM 233 (EN) ]
+Magic defense +12\0
+
+[@ITEM 233 (L2) ]
+\0
+
+[@ITEM 233 (FR) ]
+Défense magique +12\0
+
+[@ITEM 234 (L1) ]
+\0
+
+[@ITEM 234 (EN) ]
+Magic power, magic defense +5\0
+
+[@ITEM 234 (L2) ]
+\0
+
+[@ITEM 234 (FR) ]
+Magie et défense magique +5\0
+
+[@ITEM 235 (L1) ]
+\0
+
+[@ITEM 235 (EN) ]
+Power, stamina +10\0
+
+[@ITEM 235 (L2) ]
+\0
+
+[@ITEM 235 (FR) ]
+Force et endurance +10\0
+
+[@ITEM 236 (L1) ]
+\0
+
+[@ITEM 236 (EN) ]
+\0
+
+[@ITEM 236 (L2) ]
+\0
+
+[@ITEM 236 (FR) ]
+\0
+
+[@ITEM 237 (L1) ]
+\0
+
+[@ITEM 237 (EN) ]
+\0
+
+[@ITEM 237 (L2) ]
+\0
+
+[@ITEM 237 (FR) ]
+\0
+
+[@ITEM 238 (L1) ]
+\0
+
+[@ITEM 238 (EN) ]
+Intensifies all attack powers\0
+
+[@ITEM 238 (L2) ]
+\0
+
+[@ITEM 238 (FR) ]
+Augmente la puissance des attaques.\0
+
+[@ITEM 239 (L1) ]
+\0
+
+[@ITEM 239 (EN) ]
+Superintensifies all attack powers\0
+
+[@ITEM 239 (L2) ]
+\0
+
+[@ITEM 239 (FR) ]
+Augmente beaucoup la puissance des attaques.\0
+
+[@ITEM 240 (L1) ]
+\0
+
+[@ITEM 240 (EN) ]
+Boosts critical hit rate, 50% counter rate.\0
+
+[@ITEM 240 (L2) ]
+\0
+
+[@ITEM 240 (FR) ]
+Coups critiques ↑ / Riposte : 50%\0
+
+[@ITEM 241 (L1) ]
+\0
+
+[@ITEM 241 (EN) ]
+Enhances Grandleon, halves MP costs.\0
+
+[@ITEM 241 (L2) ]
+\0
+
+[@ITEM 241 (FR) ]
+C. critiques avec Grandléon ↑ / PM requis -50%\0
+
+[@ITEM 242 (L1) ]
+\0
+
+[@ITEM 242 (EN) ]
+Ups Grandleon's critical rate\0
+
+[@ITEM 242 (L2) ]
+\0
+
+[@ITEM 242 (FR) ]
+Coups critiques ↑\0
+
+[@ITEM 243 (L1) ]
+\0
+
+[@ITEM 243 (EN) ]
+May instantly reduce opponent's HP to 1.\0
+
+[@ITEM 243 (L2) ]
+\0
+
+[@ITEM 243 (FR) ]
+Réduit parfois les PV de la cible à 1.\0
+
+[@ITEM 244 (L1) ]
+\0
+
+[@ITEM 244 (EN) ]
+Counters non-light attacks 25% of the time.\0
+
+[@ITEM 244 (L2) ]
+\0
+
+[@ITEM 244 (FR) ]
+Riposte : 25% (sauf attaques de lumière)\0
+
+[@ITEM 245 (L1) ]
+\0
+
+[@ITEM 245 (EN) ]
+Counters non-water attacks 25% of the time.\0
+
+[@ITEM 245 (L2) ]
+\0
+
+[@ITEM 245 (FR) ]
+Riposte : 25% (sauf attaques d'eau)\0
+
+[@ITEM 246 (L1) ]
+\0
+
+[@ITEM 246 (EN) ]
+Counters non-fire attacks 25% of the time.\0
+
+[@ITEM 246 (L2) ]
+\0
+
+[@ITEM 246 (FR) ]
+Riposte : 25% (sauf attaques de feu)\0
+
+[@ITEM 247 (L1) ]
+\0
+
+[@ITEM 247 (EN) ]
+Counters non-shadow attacks 25% of the time.\0
+
+[@ITEM 247 (L2) ]
+\0
+
+[@ITEM 247 (FR) ]
+Riposte : 25% (sauf attaques de ténèbres)\0
+
+[@ITEM 248 (L1) ]
+\0
+
+[@ITEM 248 (EN) ]
+Counters non-physical attacks 25% of the time.\0
+
+[@ITEM 248 (L2) ]
+\0
+
+[@ITEM 248 (FR) ]
+Riposte : 25% (sauf attaques physiques)\0
+
+[@ITEM 249 (L1) ]
+\0
+
+[@ITEM 249 (EN) ]
+Dummy\0
+
+[@ITEM 249 (L2) ]
+\0
+
+[@ITEM 249 (FR) ]
+Factice\0
+
+[@ITEM 250 (L1) ]
+\0
+
+[@ITEM 250 (EN) ]
+Dummy\0
+
+[@ITEM 250 (L2) ]
+\0
+
+[@ITEM 250 (FR) ]
+Factice\0
+
+[@ITEM 251 (L1) ]
+\0
+
+[@ITEM 251 (EN) ]
+Dummy\0
+
+[@ITEM 251 (L2) ]
+\0
+
+[@ITEM 251 (FR) ]
+Factice\0
+
+[@ITEM 252 (L1) ]
+\0
+
+[@ITEM 252 (EN) ]
+Dummy\0
+
+[@ITEM 252 (L2) ]
+\0
+
+[@ITEM 252 (FR) ]
+Factice\0
+
+[@ITEM 253 (L1) ]
+\0
+
+[@ITEM 253 (EN) ]
+Dummy\0
+
+[@ITEM 253 (L2) ]
+\0
+
+[@ITEM 253 (FR) ]
+Factice\0
+
+[@ITEM 254 (L1) ]
+\0
+
+[@ITEM 254 (EN) ]
+Dummy\0
+
+[@ITEM 254 (L2) ]
+\0
+
+[@ITEM 254 (FR) ]
+Factice\0
+
+[@ITEM 255 (L1) ]
+\0
+
+[@ITEM 255 (EN) ]
+Dummy\0
+
+[@ITEM 255 (L2) ]
+\0
+
+[@ITEM 255 (FR) ]
+Factice\0
+
+[@ITEM 256 (L1) ]
+\0
+
+[@ITEM 256 (EN) ]
+Dummy\0
+
+[@ITEM 256 (L2) ]
+\0
+
+[@ITEM 256 (FR) ]
+Factice\0
+
+[@ITEM 257 (L1) ]
+\0
+
+[@ITEM 257 (EN) ]
+Dummy\0
+
+[@ITEM 257 (L2) ]
+\0
+
+[@ITEM 257 (FR) ]
+Factice\0
+
+[@ITEM 258 (L1) ]
+\0
+
+[@ITEM 258 (EN) ]
+Dummy\0
+
+[@ITEM 258 (L2) ]
+\0
+
+[@ITEM 258 (FR) ]
+Factice\0
+
+[@ITEM 259 (L1) ]
+\0
+
+[@ITEM 259 (EN) ]
+\0
+
+[@ITEM 259 (L2) ]
+\0
+
+[@ITEM 259 (FR) ]
+\0
+
+[@ITEM 260 (L1) ]
+\0
+
+[@ITEM 260 (EN) ]
+Recovers 50 HP / single\0
+
+[@ITEM 260 (L2) ]
+\0
+
+[@ITEM 260 (FR) ]
+Rend 50 PV à un allié.\0
+
+[@ITEM 261 (L1) ]
+\0
+
+[@ITEM 261 (EN) ]
+Recovers 200 HP / single\0
+
+[@ITEM 261 (L2) ]
+\0
+
+[@ITEM 261 (FR) ]
+Rend 200 PV à un allié.\0
+
+[@ITEM 262 (L1) ]
+\0
+
+[@ITEM 262 (EN) ]
+Recovers 500 HP / single\0
+
+[@ITEM 262 (L2) ]
+\0
+
+[@ITEM 262 (FR) ]
+Rend 500 PV à un allié.\0
+
+[@ITEM 263 (L1) ]
+\0
+
+[@ITEM 263 (EN) ]
+Recovers 10 MP / single\0
+
+[@ITEM 263 (L2) ]
+\0
+
+[@ITEM 263 (FR) ]
+Rend 10 PM à un allié.\0
+
+[@ITEM 264 (L1) ]
+\0
+
+[@ITEM 264 (EN) ]
+Recovers 30 MP / single\0
+
+[@ITEM 264 (L2) ]
+\0
+
+[@ITEM 264 (FR) ]
+Rend 30 PM à un allié.\0
+
+[@ITEM 265 (L1) ]
+\0
+
+[@ITEM 265 (EN) ]
+Recovers 60 MP / single\0
+
+[@ITEM 265 (L2) ]
+\0
+
+[@ITEM 265 (FR) ]
+Rend 60 PM à un allié.\0
+
+[@ITEM 266 (L1) ]
+\0
+
+[@ITEM 266 (EN) ]
+Recovers all HP and MP / single\0
+
+[@ITEM 266 (L2) ]
+\0
+
+[@ITEM 266 (FR) ]
+Rend tous ses PV et PM à un allié.\0
+
+[@ITEM 267 (L1) ]
+\0
+
+[@ITEM 267 (EN) ]
+Recovers all MP / single\0
+
+[@ITEM 267 (L2) ]
+\0
+
+[@ITEM 267 (FR) ]
+Rend tous ses PM à un allié.\0
+
+[@ITEM 268 (L1) ]
+\0
+
+[@ITEM 268 (EN) ]
+Recovers all HP and MP / all\0
+
+[@ITEM 268 (L2) ]
+\0
+
+[@ITEM 268 (FR) ]
+Rend tous leurs PV et PM aux alliés.\0
+
+[@ITEM 269 (L1) ]
+\0
+
+[@ITEM 269 (EN) ]
+Cures status / single\0
+
+[@ITEM 269 (L2) ]
+\0
+
+[@ITEM 269 (FR) ]
+Guérit les altérations d'état d'un allié.\0
+
+[@ITEM 270 (L1) ]
+\0
+
+[@ITEM 270 (EN) ]
+Cures incapacitated / single\0
+
+[@ITEM 270 (L2) ]
+\0
+
+[@ITEM 270 (FR) ]
+Relève un allié du Coma.\0
+
+[@ITEM 271 (L1) ]
+\0
+
+[@ITEM 271 (EN) ]
+Recovers full HP and MP at save points only\0
+
+[@ITEM 271 (L2) ]
+\0
+
+[@ITEM 271 (FR) ]
+Restaure PV et PM si sauvegarde possible.\0
+
+[@ITEM 272 (L1) ]
+\0
+
+[@ITEM 272 (EN) ]
+Restores ???.\0
+
+[@ITEM 272 (L2) ]
+\0
+
+[@ITEM 272 (FR) ]
+Rend des PV et/ou des PM à un allié.\0
+
+[@ITEM 273 (L1) ]
+\0
+
+[@ITEM 273 (EN) ]
+Recovers 200 HP / all\0
+
+[@ITEM 273 (L2) ]
+\0
+
+[@ITEM 273 (FR) ]
+Rend 200 PV aux alliés.\0
+
+[@ITEM 274 (L1) ]
+\0
+
+[@ITEM 274 (EN) ]
+Cuts magic damage by 1/3 / single\0
+
+[@ITEM 274 (L2) ]
+\0
+
+[@ITEM 274 (FR) ]
+Dégâts magiques -33% (un allié)\0
+
+[@ITEM 275 (L1) ]
+\0
+
+[@ITEM 275 (EN) ]
+Cuts physical damage by 1/3 / single\0
+
+[@ITEM 275 (L2) ]
+\0
+
+[@ITEM 275 (FR) ]
+Dégâts physiques -33% (un allié)\0
+
+[@ITEM 276 (L1) ]
+\0
+
+[@ITEM 276 (EN) ]
+Power growth, +1 / single\0
+
+[@ITEM 276 (L2) ]
+\0
+
+[@ITEM 276 (FR) ]
+Augmente la force d'un allié d'un point.\0
+
+[@ITEM 277 (L1) ]
+\0
+
+[@ITEM 277 (EN) ]
+Magic power growth, +1 / single\0
+
+[@ITEM 277 (L2) ]
+\0
+
+[@ITEM 277 (FR) ]
+Augmente la magie d'un allié d'un point.\0
+
+[@ITEM 278 (L1) ]
+\0
+
+[@ITEM 278 (EN) ]
+Speed growth, +1 / single\0
+
+[@ITEM 278 (L2) ]
+\0
+
+[@ITEM 278 (FR) ]
+Augmente la rapidité d'un allié d'un point.\0
+
+[@ITEM 279 (L1) ]
+\0
+
+[@ITEM 279 (EN) ]
+Restores a small amount of HP.\0
+
+[@ITEM 279 (L2) ]
+\0
+
+[@ITEM 279 (FR) ]
+Rend quelques PV.\0
+
+[@ITEM 280 (L1) ]
+\0
+
+[@ITEM 280 (EN) ]
+Unleashes fire-based monster tech.\0
+
+[@ITEM 280 (L2) ]
+\0
+
+[@ITEM 280 (FR) ]
+Permet d'utiliser une compétence. {FIRE}\0
+
+[@ITEM 281 (L1) ]
+\0
+
+[@ITEM 281 (EN) ]
+Unleashes water-based monster tech.\0
+
+[@ITEM 281 (L2) ]
+\0
+
+[@ITEM 281 (FR) ]
+Permet d'utiliser une compétence. {WATER}\0
+
+[@ITEM 282 (L1) ]
+\0
+
+[@ITEM 282 (EN) ]
+Unleashes shadow-based monster tech.\0
+
+[@ITEM 282 (L2) ]
+\0
+
+[@ITEM 282 (FR) ]
+Permet d'utiliser une compétence. {BOMB/SHADOW}\0
+
+[@ITEM 283 (L1) ]
+\0
+
+[@ITEM 283 (EN) ]
+Unleashes light-based monster tech.\0
+
+[@ITEM 283 (L2) ]
+\0
+
+[@ITEM 283 (FR) ]
+Permet d'utiliser une compétence. {LIGHT}\0
+
+[@ITEM 284 (L1) ]
+\0
+
+[@ITEM 284 (EN) ]
+Temporarily boosts Strength by 5.\0
+
+[@ITEM 284 (L2) ]
+\0
+
+[@ITEM 284 (FR) ]
+Augmente temporairement la force de cinq points.\0
+
+[@ITEM 285 (L1) ]
+\0
+
+[@ITEM 285 (EN) ]
+Cuts magic damage by 1/3\0
+
+[@ITEM 285 (L2) ]
+\0
+
+[@ITEM 285 (FR) ]
+Dégâts -33%\0
+
+[@ITEM 286 (L1) ]
+\0
+
+[@ITEM 286 (EN) ]
+4{x} damage during criticals\0
+
+[@ITEM 286 (L2) ]
+\0
+
+[@ITEM 286 (FR) ]
+Rend les coups critiques 4{x} plus puissants.\0
+
+[@ITEM 287 (L1) ]
+\0
+
+[@ITEM 287 (EN) ]
+Restores 250 HP.\0
+
+[@ITEM 287 (L2) ]
+\0
+
+[@ITEM 287 (FR) ]
+Rend 250 PV.\0
+
+[@ITEM 288 (L1) ]
+\0
+
+[@ITEM 288 (EN) ]
+Cures status / single\0
+
+[@ITEM 288 (L2) ]
+\0
+
+[@ITEM 288 (FR) ]
+Guérit les altérations d'état d'un allié.\0
+
+[@ITEM 289 (L1) ]
+\0
+
+[@ITEM 289 (EN) ]
+Restores 20 MP.\0
+
+[@ITEM 289 (L2) ]
+\0
+
+[@ITEM 289 (FR) ]
+Rend 20 PM.\0
+
+[@ITEM 290 (L1) ]
+\0
+
+[@ITEM 290 (EN) ]
+Restores 150 HP.\0
+
+[@ITEM 290 (L2) ]
+\0
+
+[@ITEM 290 (FR) ]
+Rend 150 PV.\0
+
+[@ITEM 291 (L1) ]
+\0
+
+[@ITEM 291 (EN) ]
+Restores 40 MP.\0
+
+[@ITEM 291 (L2) ]
+\0
+
+[@ITEM 291 (FR) ]
+Rend 40 PM.\0
+
+[@ITEM 292 (L1) ]
+\0
+
+[@ITEM 292 (EN) ]
+Dummy\0
+
+[@ITEM 292 (L2) ]
+\0
+
+[@ITEM 292 (FR) ]
+Factice\0
+
+[@ITEM 293 (L1) ]
+\0
+
+[@ITEM 293 (EN) ]
+Dummy\0
+
+[@ITEM 293 (L2) ]
+\0
+
+[@ITEM 293 (FR) ]
+Factice\0
+
+[@ITEM 294 (L1) ]
+\0
+
+[@ITEM 294 (EN) ]
+Dummy\0
+
+[@ITEM 294 (L2) ]
+\0
+
+[@ITEM 294 (FR) ]
+Factice\0
+
+[@ITEM 295 (L1) ]
+\0
+
+[@ITEM 295 (EN) ]
+Dummy\0
+
+[@ITEM 295 (L2) ]
+\0
+
+[@ITEM 295 (FR) ]
+Factice\0
+
+[@ITEM 296 (L1) ]
+\0
+
+[@ITEM 296 (EN) ]
+Dummy\0
+
+[@ITEM 296 (L2) ]
+\0
+
+[@ITEM 296 (FR) ]
+Factice\0
+
+[@ITEM 297 (L1) ]
+\0
+
+[@ITEM 297 (EN) ]
+Dummy\0
+
+[@ITEM 297 (L2) ]
+\0
+
+[@ITEM 297 (FR) ]
+Factice\0
+
+[@ITEM 298 (L1) ]
+\0
+
+[@ITEM 298 (EN) ]
+Dummy\0
+
+[@ITEM 298 (L2) ]
+\0
+
+[@ITEM 298 (FR) ]
+Factice\0
+
+[@ITEM 299 (L1) ]
+\0
+
+[@ITEM 299 (EN) ]
+Dummy\0
+
+[@ITEM 299 (L2) ]
+\0
+
+[@ITEM 299 (FR) ]
+Factice\0
+
+[@ITEM 300 (L1) ]
+\0
+
+[@ITEM 300 (EN) ]
+Dummy\0
+
+[@ITEM 300 (L2) ]
+\0
+
+[@ITEM 300 (FR) ]
+Factice\0
+
+[@ITEM 301 (L1) ]
+\0
+
+[@ITEM 301 (EN) ]
+Dummy\0
+
+[@ITEM 301 (L2) ]
+\0
+
+[@ITEM 301 (FR) ]
+Factice\0
+
+[@ITEM 302 (L1) ]
+\0
+
+[@ITEM 302 (EN) ]
+\0
+
+[@ITEM 302 (L2) ]
+\0
+
+[@ITEM 302 (FR) ]
+\0
+
+[@ITEM 303 (L1) ]
+\0
+
+[@ITEM 303 (EN) ]
+\0
+
+[@ITEM 303 (L2) ]
+\0
+
+[@ITEM 303 (FR) ]
+\0
+
+[@ITEM 304 (L1) ]
+\0
+
+[@ITEM 304 (EN) ]
+\0
+
+[@ITEM 304 (L2) ]
+\0
+
+[@ITEM 304 (FR) ]
+\0
+
+[@ITEM 305 (L1) ]
+\0
+
+[@ITEM 305 (EN) ]
+\0
+
+[@ITEM 305 (L2) ]
+\0
+
+[@ITEM 305 (FR) ]
+\0
+
+[@ITEM 306 (L1) ]
+\0
+
+[@ITEM 306 (EN) ]
+\0
+
+[@ITEM 306 (L2) ]
+\0
+
+[@ITEM 306 (FR) ]
+\0
+
+[@ITEM 307 (L1) ]
+\0
+
+[@ITEM 307 (EN) ]
+\0
+
+[@ITEM 307 (L2) ]
+\0
+
+[@ITEM 307 (FR) ]
+\0
+
+[@ITEM 308 (L1) ]
+\0
+
+[@ITEM 308 (EN) ]
+\0
+
+[@ITEM 308 (L2) ]
+\0
+
+[@ITEM 308 (FR) ]
+\0
+
+[@ITEM 309 (L1) ]
+\0
+
+[@ITEM 309 (EN) ]
+\0
+
+[@ITEM 309 (L2) ]
+\0
+
+[@ITEM 309 (FR) ]
+\0
+
+[@ITEM 310 (L1) ]
+\0
+
+[@ITEM 310 (EN) ]
+\0
+
+[@ITEM 310 (L2) ]
+\0
+
+[@ITEM 310 (FR) ]
+\0
+
+[@ITEM 311 (L1) ]
+\0
+
+[@ITEM 311 (EN) ]
+\0
+
+[@ITEM 311 (L2) ]
+\0
+
+[@ITEM 311 (FR) ]
+\0
+
+[@ITEM 312 (L1) ]
+\0
+
+[@ITEM 312 (EN) ]
+\0
+
+[@ITEM 312 (L2) ]
+\0
+
+[@ITEM 312 (FR) ]
+\0
+
+[@ITEM 313 (L1) ]
+\0
+
+[@ITEM 313 (EN) ]
+\0
+
+[@ITEM 313 (L2) ]
+\0
+
+[@ITEM 313 (FR) ]
+\0
+
+[@ITEM 314 (L1) ]
+\0
+
+[@ITEM 314 (EN) ]
+\0
+
+[@ITEM 314 (L2) ]
+\0
+
+[@ITEM 314 (FR) ]
+\0
+
+[@ITEM 315 (L1) ]
+\0
+
+[@ITEM 315 (EN) ]
+\0
+
+[@ITEM 315 (L2) ]
+\0
+
+[@ITEM 315 (FR) ]
+\0
+
+[@ITEM 316 (L1) ]
+\0
+
+[@ITEM 316 (EN) ]
+Memorizes Bike Race scores\0
+
+[@ITEM 316 (L2) ]
+\0
+
+[@ITEM 316 (FR) ]
+\0
+
+[@ITEM 317 (L1) ]
+\0
+
+[@ITEM 317 (EN) ]
+\0
+
+[@ITEM 317 (L2) ]
+\0
+
+[@ITEM 317 (FR) ]
+\0
+
+[@ITEM 318 (L1) ]
+\0
+
+[@ITEM 318 (EN) ]
+\0
+
+[@ITEM 318 (L2) ]
+\0
+
+[@ITEM 318 (FR) ]
+\0
+
+[@ITEM 319 (L1) ]
+\0
+
+[@ITEM 319 (EN) ]
+\0
+
+[@ITEM 319 (L2) ]
+\0
+
+[@ITEM 319 (FR) ]
+\0
+
+[@ITEM 320 (L1) ]
+\0
+
+[@ITEM 320 (EN) ]
+\0
+
+[@ITEM 320 (L2) ]
+\0
+
+[@ITEM 320 (FR) ]
+\0
+
+[@ITEM 321 (L1) ]
+\0
+
+[@ITEM 321 (EN) ]
+\0
+
+[@ITEM 321 (L2) ]
+\0
+
+[@ITEM 321 (FR) ]
+\0
+
+[@ITEM 322 (L1) ]
+\0
+
+[@ITEM 322 (EN) ]
+\0
+
+[@ITEM 322 (L2) ]
+\0
+
+[@ITEM 322 (FR) ]
+\0
+
+[@ITEM 323 (L1) ]
+\0
+
+[@ITEM 323 (EN) ]
+\0
+
+[@ITEM 323 (L2) ]
+\0
+
+[@ITEM 323 (FR) ]
+\0
+
+[@ITEM 324 (L1) ]
+\0
+
+[@ITEM 324 (EN) ]
+\0
+
+[@ITEM 324 (L2) ]
+\0
+
+[@ITEM 324 (FR) ]
+\0
+
+[@ITEM 325 (L1) ]
+\0
+
+[@ITEM 325 (EN) ]
+\0
+
+[@ITEM 325 (L2) ]
+\0
+
+[@ITEM 325 (FR) ]
+\0
+
+[@ITEM 326 (L1) ]
+\0
+
+[@ITEM 326 (EN) ]
+\0
+
+[@ITEM 326 (L2) ]
+\0
+
+[@ITEM 326 (FR) ]
+\0
+
+[@ITEM 327 (L1) ]
+\0
+
+[@ITEM 327 (EN) ]
+\0
+
+[@ITEM 327 (L2) ]
+\0
+
+[@ITEM 327 (FR) ]
+\0
+
+[@ITEM 328 (L1) ]
+\0
+
+[@ITEM 328 (EN) ]
+\0
+
+[@ITEM 328 (L2) ]
+\0
+
+[@ITEM 328 (FR) ]
+\0
+
+[@ITEM 329 (L1) ]
+\0
+
+[@ITEM 329 (EN) ]
+\0
+
+[@ITEM 329 (L2) ]
+\0
+
+[@ITEM 329 (FR) ]
+\0
+
+[@ITEM 330 (L1) ]
+\0
+
+[@ITEM 330 (EN) ]
+\0
+
+[@ITEM 330 (L2) ]
+\0
+
+[@ITEM 330 (FR) ]
+\0
+
+[@ITEM 331 (L1) ]
+\0
+
+[@ITEM 331 (EN) ]
+\0
+
+[@ITEM 331 (L2) ]
+\0
+
+[@ITEM 331 (FR) ]
+\0
+
+[@ITEM 332 (L1) ]
+\0
+
+[@ITEM 332 (EN) ]
+\0
+
+[@ITEM 332 (L2) ]
+\0
+
+[@ITEM 332 (FR) ]
+\0
+
+[@ITEM 333 (L1) ]
+\0
+
+[@ITEM 333 (EN) ]
+\0
+
+[@ITEM 333 (L2) ]
+\0
+
+[@ITEM 333 (FR) ]
+\0
+
+[@ITEM 334 (L1) ]
+\0
+
+[@ITEM 334 (EN) ]
+\0
+
+[@ITEM 334 (L2) ]
+\0
+
+[@ITEM 334 (FR) ]
+\0
+
+[@ITEM 335 (L1) ]
+\0
+
+[@ITEM 335 (EN) ]
+\0
+
+[@ITEM 335 (L2) ]
+\0
+
+[@ITEM 335 (FR) ]
+\0
+
+[@ITEM 336 (L1) ]
+\0
+
+[@ITEM 336 (EN) ]
+\0
+
+[@ITEM 336 (L2) ]
+\0
+
+[@ITEM 336 (FR) ]
+\0
+
+[@ITEM 337 (L1) ]
+\0
+
+[@ITEM 337 (EN) ]
+\0
+
+[@ITEM 337 (L2) ]
+\0
+
+[@ITEM 337 (FR) ]
+\0
+
+[@ITEM 338 (L1) ]
+\0
+
+[@ITEM 338 (EN) ]
+\0
+
+[@ITEM 338 (L2) ]
+\0
+
+[@ITEM 338 (FR) ]
+\0
+
+[@ITEM 339 (L1) ]
+\0
+
+[@ITEM 339 (EN) ]
+Dummy\0
+
+[@ITEM 339 (L2) ]
+\0
+
+[@ITEM 339 (FR) ]
+Factice\0
+
+[@ITEM 340 (L1) ]
+\0
+
+[@ITEM 340 (EN) ]
+Dummy\0
+
+[@ITEM 340 (L2) ]
+\0
+
+[@ITEM 340 (FR) ]
+Factice\0
+
+[@ITEM 341 (L1) ]
+\0
+
+[@ITEM 341 (EN) ]
+Dummy\0
+
+[@ITEM 341 (L2) ]
+\0
+
+[@ITEM 341 (FR) ]
+Factice\0
+
+[@ITEM 342 (L1) ]
+\0
+
+[@ITEM 342 (EN) ]
+Dummy\0
+
+[@ITEM 342 (L2) ]
+\0
+
+[@ITEM 342 (FR) ]
+Factice\0
+
+[@ITEM 343 (L1) ]
+\0
+
+[@ITEM 343 (EN) ]
+Dummy\0
+
+[@ITEM 343 (L2) ]
+\0
+
+[@ITEM 343 (FR) ]
+Factice\0
+
+[@ITEM 344 (L1) ]
+\0
+
+[@ITEM 344 (EN) ]
+Dummy\0
+
+[@ITEM 344 (L2) ]
+\0
+
+[@ITEM 344 (FR) ]
+Factice\0
+
+[@ITEM 345 (L1) ]
+\0
+
+[@ITEM 345 (EN) ]
+Dummy\0
+
+[@ITEM 345 (L2) ]
+\0
+
+[@ITEM 345 (FR) ]
+Factice\0
+
+[@ITEM 346 (L1) ]
+\0
+
+[@ITEM 346 (EN) ]
+Dummy\0
+
+[@ITEM 346 (L2) ]
+\0
+
+[@ITEM 346 (FR) ]
+Factice\0
+

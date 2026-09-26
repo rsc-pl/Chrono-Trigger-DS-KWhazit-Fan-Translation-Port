@@ -1,0 +1,256 @@
+[@player.msg]
+
+[@ITEM 0 (L1) ]
+\0
+
+[@ITEM 0 (EN) ]
+{Crono}:\0
+
+[@ITEM 0 (L2) ]
+\0
+
+[@ITEM 0 (FR) ]
+Chrono\0
+
+[@ITEM 1 (L1) ]
+\0
+
+[@ITEM 1 (EN) ]
+{Marle}:\0
+
+[@ITEM 1 (L2) ]
+\0
+
+[@ITEM 1 (FR) ]
+Marle\0
+
+[@ITEM 2 (L1) ]
+\0
+
+[@ITEM 2 (EN) ]
+{Lucca}:\0
+
+[@ITEM 2 (L2) ]
+\0
+
+[@ITEM 2 (FR) ]
+Lucca\0
+
+[@ITEM 3 (L1) ]
+\0
+
+[@ITEM 3 (EN) ]
+Robo\0
+
+[@ITEM 3 (L2) ]
+\0
+
+[@ITEM 3 (FR) ]
+RoBo\0
+
+[@ITEM 4 (L1) ]
+\0
+
+[@ITEM 4 (EN) ]
+Frog\0
+
+[@ITEM 4 (L2) ]
+\0
+
+[@ITEM 4 (FR) ]
+Gren\0
+
+[@ITEM 5 (L1) ]
+\0
+
+[@ITEM 5 (EN) ]
+Ayla\0
+
+[@ITEM 5 (L2) ]
+\0
+
+[@ITEM 5 (FR) ]
+Ayla\0
+
+[@ITEM 6 (L1) ]
+\0
+
+[@ITEM 6 (EN) ]
+Magus\0
+
+[@ITEM 6 (L2) ]
+\0
+
+[@ITEM 6 (FR) ]
+Magus\0
+
+[@ITEM 7 (L1) ]
+\0
+
+[@ITEM 7 (EN) ]
+Epoch\0
+
+[@ITEM 7 (L2) ]
+\0
+
+[@ITEM 7 (FR) ]
+Ibis\0
+
+[@ITEM 8 (L1) ]
+\0
+
+[@ITEM 8 (EN) ]
+A kindhearted youth raised
+in the quiet village of Truce.
+Selfless and courageous, he
+stands up for his beliefs and
+lends a hand to those in need.\0
+
+[@ITEM 8 (L2) ]
+\0
+
+[@ITEM 8 (FR) ]
+Un jeune homme du village de
+Truce. Aimable et courageux,
+il est toujours prêt à aider les
+gens dans le besoin au mépris
+du danger.\0
+
+[@ITEM 9 (L1) ]
+\0
+
+[@ITEM 9 (EN) ]
+An unusual young girl met
+through random happenstance.
+Endearingly strong-willed, she
+seems to cherish the pendant
+that hangs about her neck.\0
+
+[@ITEM 9 (L2) ]
+\0
+
+[@ITEM 9 (FR) ]
+Une ravissante jeune fille qui
+ne manque ni d'énergie ni de
+caractère. Elle semble très
+attachée à son pendentif.\0
+
+[@ITEM 10 (L1) ]
+\0
+
+[@ITEM 10 (EN) ]
+{Crono}'s childhood friend.
+A passionate inventor, she
+has a gift for building and
+repairing all things mechanical.\0
+
+[@ITEM 10 (L2) ]
+\0
+
+[@ITEM 10 (FR) ]
+L'amie d'enfance de
+{Crono}. C'est une
+inventrice experte dans la
+fabrication et la réparation
+de machines.\0
+
+[@ITEM 11 (L1) ]
+\0
+
+[@ITEM 11 (EN) ]
+A robot fixed and reactivated
+by {Lucca}. Bearing the
+production number R-66Y, it
+boasts technology of an era
+far beyond the present.\0
+
+[@ITEM 11 (L2) ]
+\0
+
+[@ITEM 11 (FR) ]
+L'androïde R66-Y réparé par
+{Lucca}. Le niveau de
+technologie nécessaire à
+sa fabrication dépasse
+l'entendement.\0
+
+[@ITEM 12 (L1) ]
+\0
+
+[@ITEM 12 (EN) ]
+A mysterious amphibian knight
+whose speech and manner
+alike seem human. His elegant
+swordsmanship speaks of
+vast experience and skill.\0
+
+[@ITEM 12 (L2) ]
+\0
+
+[@ITEM 12 (FR) ]
+Un guerrier énigmatique qui
+parle et se comporte comme
+un être humain malgré son
+aspect batracien. Il semble
+très habile à l'épée.\0
+
+[@ITEM 13 (L1) ]
+\0
+
+[@ITEM 13 (EN) ]
+A beautiful female warrior from
+a time before written record.
+She favors the strong, her
+own might far exceeding that
+of any ordinary human.\0
+
+[@ITEM 13 (L2) ]
+\0
+
+[@ITEM 13 (FR) ]
+Une ravissante guerrière d'un
+passé très lointain dont les
+capacités physiques excèdent
+celles du commun des mortels.
+Elle aime les gens forts.\0
+
+[@ITEM 14 (L1) ]
+\0
+
+[@ITEM 14 (EN) ]
+The once-prince of ancient
+Zeal. Thrust into the Middle
+Ages by Lavos's power, the
+mighty sorcerer soon donned
+the darker mantle of Magus.\0
+
+[@ITEM 14 (L2) ]
+\0
+
+[@ITEM 14 (FR) ]
+Le prince de Zhyle. Propulsé
+jusqu'au Moyen-Âge par
+Lavos, il y est devenu le
+Magistère. C'est un mage
+puissant, mais solitaire.\0
+
+[@ITEM 15 (L1) ]
+\0
+
+[@ITEM 15 (EN) ]
+A machine whose wings span
+time itself. Its completion
+culminated the life work of
+Gasch, one of the Three
+Philosophers of antiquity.\0
+
+[@ITEM 15 (L2) ]
+\0
+
+[@ITEM 15 (FR) ]
+Une machine qui permet de
+voler à travers le temps.
+Gasch, l'un des trois sages
+de l'Antiquité, a consacré sa
+vie entière à sa conception.\0
+

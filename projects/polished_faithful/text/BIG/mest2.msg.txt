@@ -1,0 +1,3341 @@
+[@mest2.msg]
+
+[@ITEM 0 (L1) ]
+\0
+
+[@ITEM 0 (EN) ]
+{Marle}: What!?\0
+
+[@ITEM 0 (L2) ]
+\0
+
+[@ITEM 0 (FR) ]
+{Marle} : Qu'est-ce que...?!\0
+
+[@ITEM 1 (L1) ]
+\0
+
+[@ITEM 1 (EN) ]
+{Lucca}: Th-this is......\0
+
+[@ITEM 1 (L2) ]
+\0
+
+[@ITEM 1 (FR) ]
+{Lucca} : Serait-ce...\0
+
+[@ITEM 2 (L1) ]
+\0
+
+[@ITEM 2 (EN) ]
+{Robo}: Energy value, 100!
+200......! It's still continuing to rise!\0
+
+[@ITEM 2 (L2) ]
+\0
+
+[@ITEM 2 (FR) ]
+{Robo} : Niveau d'énergie à 100 ! 200...!
+Il continue de monter !\0
+
+[@ITEM 3 (L1) ]
+\0
+
+[@ITEM 3 (EN) ]
+{Frog}: Wh-what the!?\0
+
+[@ITEM 3 (L2) ]
+\0
+
+[@ITEM 3 (FR) ]
+{Frog} : Qu'est-ce que c'est ?!\0
+
+[@ITEM 4 (L1) ]
+\0
+
+[@ITEM 4 (EN) ]
+{Ayla}: !!\0
+
+[@ITEM 4 (L2) ]
+\0
+
+[@ITEM 4 (FR) ]
+{Ayla} : !!\0
+
+[@ITEM 5 (L1) ]
+\0
+
+[@ITEM 5 (EN) ]
+{Magus}: It's coming......\0
+
+[@ITEM 5 (L2) ]
+\0
+
+[@ITEM 5 (FR) ]
+{Magus} : Il approche...\0
+
+[@ITEM 6 (L1) ]
+\0
+
+[@ITEM 6 (EN) ]
+{Marle}: I-it's coming out!?\0
+
+[@ITEM 6 (L2) ]
+\0
+
+[@ITEM 6 (FR) ]
+{Marle} : Il va sortir ?!\0
+
+[@ITEM 7 (L1) ]
+\0
+
+[@ITEM 7 (EN) ]
+{Lucca}: It can't be!?\0
+
+[@ITEM 7 (L2) ]
+\0
+
+[@ITEM 7 (FR) ]
+{Lucca} : Oh non !\0
+
+[@ITEM 8 (L1) ]
+\0
+
+[@ITEM 8 (EN) ]
+{Robo}: A.D. 1999!
+1:24!
+There is no mistaking it!\0
+
+[@ITEM 8 (L2) ]
+\0
+
+[@ITEM 8 (FR) ]
+{Robo} : Nous sommes en l'an 1999 à 01:24 !
+Il n'y a pas d'erreur !\0
+
+[@ITEM 9 (L1) ]
+\0
+
+[@ITEM 9 (EN) ]
+{Frog}: Lavos......!?\0
+
+[@ITEM 9 (L2) ]
+\0
+
+[@ITEM 9 (FR) ]
+{Frog} : Lavos ?!\0
+
+[@ITEM 10 (L1) ]
+\0
+
+[@ITEM 10 (EN) ]
+{Ayla}: Strong one!
+Really, really strong one!!\0
+
+[@ITEM 10 (L2) ]
+\0
+
+[@ITEM 10 (FR) ]
+{Ayla} : Fort ! Très fort !\0
+
+[@ITEM 11 (L1) ]
+\0
+
+[@ITEM 11 (EN) ]
+{Magus}: Now, come out......!\0
+
+[@ITEM 11 (L2) ]
+\0
+
+[@ITEM 11 (FR) ]
+{Magus} : Allez, viens...!\0
+
+[@ITEM 12 (L1) ]
+\0
+
+[@ITEM 12 (EN) ]
+{Marle}: Th-this is......{56}!\0
+
+[@ITEM 12 (L2) ]
+\0
+
+[@ITEM 12 (FR) ]
+{Marle} : C'est...!\0
+
+[@ITEM 13 (L1) ]
+\0
+
+[@ITEM 13 (EN) ]
+{Lucca}: A-ah, awawa......\0
+
+[@ITEM 13 (L2) ]
+\0
+
+[@ITEM 13 (FR) ]
+{Lucca} :  Aah...\0
+
+[@ITEM 14 (L1) ]
+\0
+
+[@ITEM 14 (EN) ]
+{Robo}: Combat ability level impossible to measure!?\0
+
+[@ITEM 14 (L2) ]
+\0
+
+[@ITEM 14 (FR) ]
+{Robo} : Impossibilité de mesurer la puissance
+d'attaque ?!\0
+
+[@ITEM 15 (L1) ]
+\0
+
+[@ITEM 15 (EN) ]
+{Frog}: H-huge......\0
+
+[@ITEM 15 (L2) ]
+\0
+
+[@ITEM 15 (FR) ]
+{Frog} : Il est... gigantesque...\0
+
+[@ITEM 16 (L1) ]
+\0
+
+[@ITEM 16 (EN) ]
+{Ayla}: Uuuuuuu......!\0
+
+[@ITEM 16 (L2) ]
+\0
+
+[@ITEM 16 (FR) ]
+{Ayla} : Oooh...!\0
+
+[@ITEM 17 (L1) ]
+\0
+
+[@ITEM 17 (EN) ]
+{Magus}: Long have I awaited this......!\0
+
+[@ITEM 17 (L2) ]
+\0
+
+[@ITEM 17 (FR) ]
+{Magus} : J'ai tant attendu ce moment...!\0
+
+[@ITEM 18 (L1) ]
+\0
+
+[@ITEM 18 (EN) ]
+Lavos......!\0
+
+[@ITEM 18 (L2) ]
+\0
+
+[@ITEM 18 (FR) ]
+Lavos...!\0
+
+[@ITEM 19 (L1) ]
+\0
+
+[@ITEM 19 (EN) ]
+{Marle}: What should we do, {HERO1}!
+		{SEL1}Fight!{/SEL1}
+		{SEL2}Let's run for now!{/SEL2}\0
+
+[@ITEM 19 (L2) ]
+\0
+
+[@ITEM 19 (FR) ]
+{Marle} : Qu'allons-nous faire, {HERO1} ?
+       {SEL1}Combattre !{/SEL1}
+       {SEL2}Fuir !{/SEL2}\0
+
+[@ITEM 20 (L1) ]
+\0
+
+[@ITEM 20 (EN) ]
+{Lucca}: Y-you're not seriously going in?
+		{SEL1}Fight!{/SEL1}
+		{SEL2}Let's run for now!{/SEL2}\0
+
+[@ITEM 20 (L2) ]
+\0
+
+[@ITEM 20 (FR) ]
+{Lucca} : Nous allons vraiment continuer ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 21 (L1) ]
+\0
+
+[@ITEM 21 (EN) ]
+{Robo}: Shall we go in, {HERO1}!?
+		{SEL1}Fight!{/SEL1}
+		{SEL2}Let's run for now!{/SEL2}\0
+
+[@ITEM 21 (L2) ]
+\0
+
+[@ITEM 21 (FR) ]
+{Robo} : Souhaites-tu continuer, {HERO1} ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 22 (L1) ]
+\0
+
+[@ITEM 22 (EN) ]
+{Frog}: A-are you serious, {HERO1}!?
+		{SEL1}Fight!{/SEL1}
+		{SEL2}Let's run for now!{/SEL2}\0
+
+[@ITEM 22 (L2) ]
+\0
+
+[@ITEM 22 (FR) ]
+{Frog} : Tu veux vraiment y aller, {HERO1} ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 23 (L1) ]
+\0
+
+[@ITEM 23 (EN) ]
+{Ayla}: Fight!?
+		{SEL1}Fight!{/SEL1}
+		{SEL2}Let's run for now!{/SEL2}\0
+
+[@ITEM 23 (L2) ]
+\0
+
+[@ITEM 23 (FR) ]
+{Ayla} : Combattre maintenant ?!
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 24 (L1) ]
+\0
+
+[@ITEM 24 (EN) ]
+{Magus}: Hmph, lost your nerve?
+		{SEL1}Fight!{/SEL1}
+		{SEL2}Let's run for now!{/SEL2}\0
+
+[@ITEM 24 (L2) ]
+\0
+
+[@ITEM 24 (FR) ]
+{Magus} : Hésitez-vous ? Qu'allez-vous faire ?
+       {SEL1}Combattre !{/SEL1}
+       {SEL2}Fuir !{/SEL2}\0
+
+[@ITEM 25 (L1) ]
+\0
+
+[@ITEM 25 (EN) ]
+{Marle}: You're right!
+For Don and the others, too!\0
+
+[@ITEM 25 (L2) ]
+\0
+
+[@ITEM 25 (FR) ]
+{Marle} : Tu as raison ! Nous combattrons aussi
+pour Don et les autres !\0
+
+[@ITEM 26 (L1) ]
+\0
+
+[@ITEM 26 (EN) ]
+{Lucca}: My...... my youth was so short!\0
+
+[@ITEM 26 (L2) ]
+\0
+
+[@ITEM 26 (FR) ]
+{Lucca} : Notre jeunesse aura été bien courte...!\0
+
+[@ITEM 27 (L1) ]
+\0
+
+[@ITEM 27 (EN) ]
+{Robo}: Let's go!!\0
+
+[@ITEM 27 (L2) ]
+\0
+
+[@ITEM 27 (FR) ]
+{Robo} : Allons-y !\0
+
+[@ITEM 28 (L1) ]
+\0
+
+[@ITEM 28 (EN) ]
+{Frog}: Here we go, Grandleon!\0
+
+[@ITEM 28 (L2) ]
+\0
+
+[@ITEM 28 (FR) ]
+{Frog} : En avant, Grandléon !\0
+
+[@ITEM 29 (L1) ]
+\0
+
+[@ITEM 29 (EN) ]
+{Ayla}: {Ayla} not run!
+{Ayla} fight!!\0
+
+[@ITEM 29 (L2) ]
+\0
+
+[@ITEM 29 (FR) ]
+{Ayla} : {Ayla} pas fuir !
+{Ayla} se battre !\0
+
+[@ITEM 30 (L1) ]
+\0
+
+[@ITEM 30 (EN) ]
+{Magus}: This time, I'll wipe you out
+for certain......!\0
+
+[@ITEM 30 (L2) ]
+\0
+
+[@ITEM 30 (FR) ]
+{Magus} : Cette fois, je vais te détruire !\0
+
+[@ITEM 31 (L1) ]
+\0
+
+[@ITEM 31 (EN) ]
+W-we did it......!?\0
+
+[@ITEM 31 (L2) ]
+\0
+
+[@ITEM 31 (FR) ]
+Nous... Nous avons réussi...?\0
+
+[@ITEM 32 (L1) ]
+\0
+
+[@ITEM 32 (EN) ]
+{Marle}: W-we did it......!\0
+
+[@ITEM 32 (L2) ]
+\0
+
+[@ITEM 32 (FR) ]
+{Marle} : Nous avons réussi...!\0
+
+[@ITEM 33 (L1) ]
+\0
+
+[@ITEM 33 (EN) ]
+{Lucca}: I-it's over......\0
+
+[@ITEM 33 (L2) ]
+\0
+
+[@ITEM 33 (FR) ]
+{Lucca} : Nous avons réussi...\0
+
+[@ITEM 34 (L1) ]
+\0
+
+[@ITEM 34 (EN) ]
+{Robo}: W-we did it!!\0
+
+[@ITEM 34 (L2) ]
+\0
+
+[@ITEM 34 (FR) ]
+{Robo} : Nous avons réussi !!\0
+
+[@ITEM 35 (L1) ]
+\0
+
+[@ITEM 35 (EN) ]
+{Frog}: Did we do it!?\0
+
+[@ITEM 35 (L2) ]
+\0
+
+[@ITEM 35 (FR) ]
+{Frog} : Nous avons réussi ?!\0
+
+[@ITEM 36 (L1) ]
+\0
+
+[@ITEM 36 (EN) ]
+{Ayla}: Beat Lavos!
+{Ayla}s strongest of all!!\0
+
+[@ITEM 36 (L2) ]
+\0
+
+[@ITEM 36 (FR) ]
+{Ayla} : {Ayla} vaincre Lavos !
+{Ayla} être plus forte !!\0
+
+[@ITEM 37 (L1) ]
+\0
+
+[@ITEM 37 (EN) ]
+{Magus}: We did it......?\0
+
+[@ITEM 37 (L2) ]
+\0
+
+[@ITEM 37 (FR) ]
+{Magus} : Nous avons réussi...?\0
+
+[@ITEM 38 (L1) ]
+\0
+
+[@ITEM 38 (EN) ]
+{Marle}: Th-there's a hole open!\0
+
+[@ITEM 38 (L2) ]
+\0
+
+[@ITEM 38 (FR) ]
+{Marle} : Nous avons fait un trou !\0
+
+[@ITEM 39 (L1) ]
+\0
+
+[@ITEM 39 (EN) ]
+{Lucca}: Is that from our battle......?\0
+
+[@ITEM 39 (L2) ]
+\0
+
+[@ITEM 39 (FR) ]
+{Lucca} : C'est nous qui avons fait ça ?!\0
+
+[@ITEM 40 (L1) ]
+\0
+
+[@ITEM 40 (EN) ]
+{Robo}: Could it be from our battle?\0
+
+[@ITEM 40 (L2) ]
+\0
+
+[@ITEM 40 (FR) ]
+{Robo} : On dirait que nous avons fait un trou...\0
+
+[@ITEM 41 (L1) ]
+\0
+
+[@ITEM 41 (EN) ]
+{Frog}: This is...... from our battle?\0
+
+[@ITEM 41 (L2) ]
+\0
+
+[@ITEM 41 (FR) ]
+{Frog} : Nous avons fait un trou...\0
+
+[@ITEM 42 (L1) ]
+\0
+
+[@ITEM 42 (EN) ]
+{Ayla}: Lavos, hole open!\0
+
+[@ITEM 42 (L2) ]
+\0
+
+[@ITEM 42 (FR) ]
+{Ayla} : Trou dans Lavos !\0
+
+[@ITEM 43 (L1) ]
+\0
+
+[@ITEM 43 (EN) ]
+{Magus}: So the outside is dead......\0
+
+[@ITEM 43 (L2) ]
+\0
+
+[@ITEM 43 (FR) ]
+{Magus} : Nous avons eu raison de son enveloppe
+extérieure...\0
+
+[@ITEM 44 (L1) ]
+\0
+
+[@ITEM 44 (EN) ]
+{Marle}: But I don't think something like this
+would be enough to finish it......!\0
+
+[@ITEM 44 (L2) ]
+\0
+
+[@ITEM 44 (FR) ]
+{Marle} : Mais je doute que ça suffise...\0
+
+[@ITEM 45 (L1) ]
+\0
+
+[@ITEM 45 (EN) ]
+{Lucca}: I, I'd be happy if this ended it, but......\0
+
+[@ITEM 45 (L2) ]
+\0
+
+[@ITEM 45 (FR) ]
+{Lucca} : Je serais heureuse que ce soit maintenant
+fini, mais...\0
+
+[@ITEM 46 (L1) ]
+\0
+
+[@ITEM 46 (EN) ]
+{Robo}: I'm detecting even stronger life energy
+from inside Lavos's body......!\0
+
+[@ITEM 46 (L2) ]
+\0
+
+[@ITEM 46 (FR) ]
+{Robo} : Une énergie vitale encore plus puissante
+émane de l'intérieur du corps de Lavos !\0
+
+[@ITEM 47 (L1) ]
+\0
+
+[@ITEM 47 (EN) ]
+{Frog}: But it doesn't feel like this alone is
+enough to finish it......\0
+
+[@ITEM 47 (L2) ]
+\0
+
+[@ITEM 47 (FR) ]
+{Frog} : Cependant, on dirait que ce n'est pas
+encore fini...\0
+
+[@ITEM 48 (L1) ]
+\0
+
+[@ITEM 48 (EN) ]
+{Ayla}: This Lavos shell!
+Inside still healthy!!\0
+
+[@ITEM 48 (L2) ]
+\0
+
+[@ITEM 48 (FR) ]
+{Ayla} : Carapace de Lavos morte, mais intérieur
+encore vivant !\0
+
+[@ITEM 49 (L1) ]
+\0
+
+[@ITEM 49 (EN) ]
+{Magus}: Don't celebrate!
+It's too early to feel relieved......!\0
+
+[@ITEM 49 (L2) ]
+\0
+
+[@ITEM 49 (FR) ]
+{Magus} : Mais il est encore trop tôt pour se
+réjouir...\0
+
+[@ITEM 50 (L1) ]
+\0
+
+[@ITEM 50 (EN) ]
+{Marle}: L-let's try going inside!\0
+
+[@ITEM 50 (L2) ]
+\0
+
+[@ITEM 50 (FR) ]
+{Marle} : Allons à l'intérieur !\0
+
+[@ITEM 51 (L1) ]
+\0
+
+[@ITEM 51 (EN) ]
+{Lucca}: There's no choice but to go inside.
+I knew it......\0
+
+[@ITEM 51 (L2) ]
+\0
+
+[@ITEM 51 (FR) ]
+{Lucca} : Nous n'avons pas d'autre choix que d'aller
+à l'intérieur...\0
+
+[@ITEM 52 (L1) ]
+\0
+
+[@ITEM 52 (EN) ]
+{Robo}: We must enter its body and defeat
+the core!\0
+
+[@ITEM 52 (L2) ]
+\0
+
+[@ITEM 52 (FR) ]
+{Robo} : Nous devons pénétrer à l'intérieur et
+vaincre le cœur !\0
+
+[@ITEM 53 (L1) ]
+\0
+
+[@ITEM 53 (EN) ]
+{Frog}: So this thing's just armor.
+Got to smash what's inside......!\0
+
+[@ITEM 53 (L2) ]
+\0
+
+[@ITEM 53 (FR) ]
+{Frog} : Après tout, cette carapace n'est que son
+armure. Nous devons détruire ce qu'il y a à l'intérieur !\0
+
+[@ITEM 54 (L1) ]
+\0
+
+[@ITEM 54 (EN) ]
+{Ayla}: {Ayla} not lose!!\0
+
+[@ITEM 54 (L2) ]
+\0
+
+[@ITEM 54 (FR) ]
+{Ayla} : {Ayla} continuer !!\0
+
+[@ITEM 55 (L1) ]
+\0
+
+[@ITEM 55 (EN) ]
+{Magus}: I'll put an end to your life.\0
+
+[@ITEM 55 (L2) ]
+\0
+
+[@ITEM 55 (FR) ]
+{Magus} : Je vais mettre fin à ton existence,
+Lavos...!\0
+
+[@ITEM 56 (L1) ]
+\0
+
+[@ITEM 56 (EN) ]
+Operator: D-direct hit on Truce!!\0
+
+[@ITEM 56 (L2) ]
+\0
+
+[@ITEM 56 (FR) ]
+Opérateur : Tr... Truce a été touchée de plein fouet !!\0
+
+[@ITEM 57 (L1) ]
+\0
+
+[@ITEM 57 (EN) ]
+Director: How's the situation elsewhere?\0
+
+[@ITEM 57 (L2) ]
+\0
+
+[@ITEM 57 (FR) ]
+Directeur : Calmez-vous ! Dans quel état sont les autres
+villes ?\0
+
+[@ITEM 58 (L1) ]
+\0
+
+[@ITEM 58 (EN) ]
+Operator: Parepoley too! And Choras!
+And Medina......!{PRESS_CLEAR}
+They're almost completely destroyed!!\0
+
+[@ITEM 58 (L2) ]
+\0
+
+[@ITEM 58 (FR) ]
+Opérateur : Palpori...! Choras...! Médina...!{PRESS_CLEAR}
+Elles ont toutes été détruites !\0
+
+[@ITEM 59 (L1) ]
+\0
+
+[@ITEM 59 (EN) ]
+Director: ......\0
+
+[@ITEM 59 (L2) ]
+\0
+
+[@ITEM 59 (FR) ]
+Directeur : ...\0
+
+[@ITEM 60 (L1) ]
+\0
+
+[@ITEM 60 (EN) ]
+Operator: Director! It's dangerous here, too!\0
+
+[@ITEM 60 (L2) ]
+\0
+
+[@ITEM 60 (FR) ]
+Opérateur : Attention ! Nous sommes aussi en danger !\0
+
+[@ITEM 61 (L1) ]
+\0
+
+[@ITEM 61 (EN) ]
+Director: All hands, evacuate to the shelter dome......\0
+
+[@ITEM 61 (L2) ]
+\0
+
+[@ITEM 61 (FR) ]
+Directeur : Que tout le personnel se réfugie dans le
+dôme protecteur !\0
+
+[@ITEM 62 (L1) ]
+\0
+
+[@ITEM 62 (EN) ]
+Operator: Director! Director, what about you!?\0
+
+[@ITEM 62 (L2) ]
+\0
+
+[@ITEM 62 (FR) ]
+Opérateur : Monsieur le directeur ?\0
+
+[@ITEM 63 (L1) ]
+\0
+
+[@ITEM 63 (EN) ]
+Director: There's no time! Hurry!!\0
+
+[@ITEM 63 (L2) ]
+\0
+
+[@ITEM 63 (FR) ]
+Directeur : Il n'y a pas de temps à perdre !
+Dépêchez-vous !\0
+
+[@ITEM 64 (L1) ]
+\0
+
+[@ITEM 64 (EN) ]
+Operator: Y-yes sir!\0
+
+[@ITEM 64 (L2) ]
+\0
+
+[@ITEM 64 (FR) ]
+Opérateur : À... À vos ordres !\0
+
+[@ITEM 65 (L1) ]
+\0
+
+[@ITEM 65 (EN) ]
+Director: ......{PRESS_CLEAR}
+Lavos......\0
+
+[@ITEM 65 (L2) ]
+\0
+
+[@ITEM 65 (FR) ]
+Directeur : ...{PRESS_CLEAR}
+Lavos...\0
+
+[@ITEM 66 (L1) ]
+\0
+
+[@ITEM 66 (EN) ]
+{Marle}: Kyaah!\0
+
+[@ITEM 66 (L2) ]
+\0
+
+[@ITEM 66 (FR) ]
+{Marle} : Aaah !\0
+
+[@ITEM 67 (L1) ]
+\0
+
+[@ITEM 67 (EN) ]
+{Lucca}: E-everything's okay, right!?\0
+
+[@ITEM 67 (L2) ]
+\0
+
+[@ITEM 67 (FR) ]
+{Lucca} : Tout le monde va bien ?!\0
+
+[@ITEM 68 (L1) ]
+\0
+
+[@ITEM 68 (EN) ]
+{Robo}: Energy unlike anything I've ever seen!
+It is as though the power of the human
+spirit has been amplified to a terrifying
+degree......!!\0
+
+[@ITEM 68 (L2) ]
+\0
+
+[@ITEM 68 (FR) ]
+{Robo} : Je n'ai jamais vu une telle énergie !
+Ça ressemble à une force mentale humaine
+amplifiée à l'extrême !\0
+
+[@ITEM 69 (L1) ]
+\0
+
+[@ITEM 69 (EN) ]
+{Frog}: Wh-wh-wh-wh, what's going on!?\0
+
+[@ITEM 69 (L2) ]
+\0
+
+[@ITEM 69 (FR) ]
+{Frog} : Que... Que se passe-t-il ?!\0
+
+[@ITEM 70 (L1) ]
+\0
+
+[@ITEM 70 (EN) ]
+{Ayla}: {Epoch} alive!?\0
+
+[@ITEM 70 (L2) ]
+\0
+
+[@ITEM 70 (FR) ]
+{Ayla} : {Epoch} être vivant ?\0
+
+[@ITEM 71 (L1) ]
+\0
+
+[@ITEM 71 (EN) ]
+{Marle}: Amaaaazing!\0
+
+[@ITEM 71 (L2) ]
+\0
+
+[@ITEM 71 (FR) ]
+{Marle} : Incroyable !\0
+
+[@ITEM 72 (L1) ]
+\0
+
+[@ITEM 72 (EN) ]
+{Lucca}: Through dimensional space at
+this speed!\0
+
+[@ITEM 72 (L2) ]
+\0
+
+[@ITEM 72 (FR) ]
+{Lucca} : Il traverse l'espace dimensionnel à une
+vitesse phénoménale !\0
+
+[@ITEM 73 (L1) ]
+\0
+
+[@ITEM 73 (EN) ]
+{Robo}: Even in my era, there was no such
+thing as a vehicle that travels through
+timespace......!\0
+
+[@ITEM 73 (L2) ]
+\0
+
+[@ITEM 73 (FR) ]
+{Robo} : Et dire qu'il n'y avait même pas de
+véhicules spatio-temporels à mon époque !\0
+
+[@ITEM 74 (L1) ]
+\0
+
+[@ITEM 74 (EN) ]
+{Frog}: hyeeeiih!\0
+
+[@ITEM 74 (L2) ]
+\0
+
+[@ITEM 74 (FR) ]
+{Frog} : Ouah...!\0
+
+[@ITEM 75 (L1) ]
+\0
+
+[@ITEM 75 (EN) ]
+{Ayla}: This awesome!
+This strong!!!\0
+
+[@ITEM 75 (L2) ]
+\0
+
+[@ITEM 75 (FR) ]
+{Ayla} : {Epoch} être très puissant !
+{Epoch} très rapide !\0
+
+[@ITEM 76 (L1) ]
+\0
+
+[@ITEM 76 (EN) ]
+Th-this is the {Epoch}'s power!?\0
+
+[@ITEM 76 (L2) ]
+\0
+
+[@ITEM 76 (FR) ]
+C'est incroyable...\0
+
+[@ITEM 77 (L1) ]
+\0
+
+[@ITEM 77 (EN) ]
+{Marle}: {Crono} has to be somewhere!
+I'm going to look for him!!\0
+
+[@ITEM 77 (L2) ]
+\0
+
+[@ITEM 77 (FR) ]
+{Marle} : {Crono} doit bien être quelque part !
+Je vais le chercher !!\0
+
+[@ITEM 78 (L1) ]
+\0
+
+[@ITEM 78 (EN) ]
+{Lucca}: Maybe {Crono} managed to make it to
+this island too......\0
+
+[@ITEM 78 (L2) ]
+\0
+
+[@ITEM 78 (FR) ]
+{Lucca} : Si ça se trouve, {Crono} s'est
+peut-être aussi retrouvé sur cette île...\0
+
+[@ITEM 79 (L1) ]
+\0
+
+[@ITEM 79 (EN) ]
+{Robo}: Let us search for {Crono}!\0
+
+[@ITEM 79 (L2) ]
+\0
+
+[@ITEM 79 (FR) ]
+{Robo} : Allons chercher {Crono} !\0
+
+[@ITEM 80 (L1) ]
+\0
+
+[@ITEM 80 (EN) ]
+{Frog}: Dead or alive, I guess we'll try searching
+for {Crono}......\0
+
+[@ITEM 80 (L2) ]
+\0
+
+[@ITEM 80 (FR) ]
+{Frog} : Allons chercher {Crono}, qu'il soit mort
+ou vivant...\0
+
+[@ITEM 81 (L1) ]
+\0
+
+[@ITEM 81 (EN) ]
+{Ayla}: Search {Crono}!
+{Crono} alive for sure!!\0
+
+[@ITEM 81 (L2) ]
+\0
+
+[@ITEM 81 (FR) ]
+{Ayla} : {Ayla} chercher {Crono} !
+{Crono} toujours en vie !\0
+
+[@ITEM 82 (L1) ]
+\0
+
+[@ITEM 82 (EN) ]
+{Marle}: Wh-what's that!?\0
+
+[@ITEM 82 (L2) ]
+\0
+
+[@ITEM 82 (FR) ]
+{Marle} : Qu'est-ce que c'est ?!\0
+
+[@ITEM 83 (L1) ]
+\0
+
+[@ITEM 83 (EN) ]
+{Lucca}: An enormous Gate reaction!?
+It, it can't be! Lavos!?\0
+
+[@ITEM 83 (L2) ]
+\0
+
+[@ITEM 83 (FR) ]
+{Lucca} : Un portail énorme ?! Non...
+Lavos ?!\0
+
+[@ITEM 84 (L1) ]
+\0
+
+[@ITEM 84 (EN) ]
+{Robo}: The {Epoch}'s timespace gyroscope is
+fluctuating wildly!\0
+
+[@ITEM 84 (L2) ]
+\0
+
+[@ITEM 84 (FR) ]
+{Robo} : Le gyroscope temporel du {Epoch}
+s'affole !\0
+
+[@ITEM 85 (L1) ]
+\0
+
+[@ITEM 85 (EN) ]
+{Frog}: !?\0
+
+[@ITEM 85 (L2) ]
+\0
+
+[@ITEM 85 (FR) ]
+{Frog} : ?!\0
+
+[@ITEM 86 (L1) ]
+\0
+
+[@ITEM 86 (EN) ]
+{Magus}: That is......!\0
+
+[@ITEM 86 (L2) ]
+\0
+
+[@ITEM 86 (FR) ]
+{Magus} : C'est...!\0
+
+[@ITEM 87 (L1) ]
+\0
+
+[@ITEM 87 (EN) ]
+{Marle}: It's like it's calling us......\0
+
+[@ITEM 87 (L2) ]
+\0
+
+[@ITEM 87 (FR) ]
+{Marle} : On dirait qu'il nous appelle...\0
+
+[@ITEM 88 (L1) ]
+\0
+
+[@ITEM 88 (EN) ]
+{Lucca}: Wh-what a presence!
+It's like we'll be sucked in just by
+looking at it......\0
+
+[@ITEM 88 (L2) ]
+\0
+
+[@ITEM 88 (FR) ]
+{Lucca} : Quelle présence imposante !
+J'ai l'impression d'être aspirée rien qu'à le regarder...\0
+
+[@ITEM 89 (L1) ]
+\0
+
+[@ITEM 89 (EN) ]
+{Robo}: It is enormous, almost beyond measure!
+I can detect a mighty spiritual energy!\0
+
+[@ITEM 89 (L2) ]
+\0
+
+[@ITEM 89 (FR) ]
+{Robo} : Il est gigantesque ! Il s'en dégage une
+immense quantité d'énergie spirituelle !\0
+
+[@ITEM 90 (L1) ]
+\0
+
+[@ITEM 90 (EN) ]
+{Frog}: A...... a ship of the dead?
+Has it come for us!?\0
+
+[@ITEM 90 (L2) ]
+\0
+
+[@ITEM 90 (FR) ]
+{Frog} : Cette chose semble sortie tout droit du
+monde des ténèbres...\0
+
+[@ITEM 91 (L1) ]
+\0
+
+[@ITEM 91 (EN) ]
+{Ayla}: That thing hates us!
+It hates {Ayla}s!!\0
+
+[@ITEM 91 (L2) ]
+\0
+
+[@ITEM 91 (FR) ]
+{Ayla} : {Ayla} haïr chose flottante !
+Chose flottante haïr {Ayla} et amis !\0
+
+[@ITEM 92 (L1) ]
+\0
+
+[@ITEM 92 (EN) ]
+{Magus}: ......the Ocean Floor Temple?
+Impossible......!{56}\0
+
+[@ITEM 92 (L2) ]
+\0
+
+[@ITEM 92 (FR) ]
+{Magus} : ... Le sanctuaire sous-marin ?
+C'est impossible...!\0
+
+[@ITEM 93 (L1) ]
+\0
+
+[@ITEM 93 (EN) ]
+{Magus}: We'll plunge straight into it
+like this......\0
+
+[@ITEM 93 (L2) ]
+\0
+
+[@ITEM 93 (FR) ]
+{Magus} : Fonçons-lui dedans !\0
+
+[@ITEM 94 (L1) ]
+\0
+
+[@ITEM 94 (EN) ]
+{Ayla}: Good, {Epoch}, keep go like this!\0
+
+[@ITEM 94 (L2) ]
+\0
+
+[@ITEM 94 (FR) ]
+{Ayla} : Bien ! {Epoch} continuer !\0
+
+[@ITEM 95 (L1) ]
+\0
+
+[@ITEM 95 (EN) ]
+{Frog}: Fighting it like this won't get us anywhere!{PRESS_CLEAR}
+How about we charge in with the {Epoch} and
+ram straight into its depths......?\0
+
+[@ITEM 95 (L2) ]
+\0
+
+[@ITEM 95 (FR) ]
+{Frog} : L'affronter tel quel serait une perte de
+temps !{PRESS_CLEAR}
+Pourquoi ne pas pénétrer de force à l'intérieur avec le
+{Epoch} ?\0
+
+[@ITEM 96 (L1) ]
+\0
+
+[@ITEM 96 (EN) ]
+{Marle}: Let's keep going like this and
+plunge into Lavos with the {Epoch}!!\0
+
+[@ITEM 96 (L2) ]
+\0
+
+[@ITEM 96 (FR) ]
+{Marle} : Pénétrons de force à l'intérieur de Lavos
+avec le {Epoch} !\0
+
+[@ITEM 97 (L1) ]
+\0
+
+[@ITEM 97 (EN) ]
+{Robo}: Continuing to fight like this will not
+damage Lavos.{PRESS_CLEAR}
+How about taking this {Epoch} to its depths and
+striking the main body?\0
+
+[@ITEM 97 (L2) ]
+\0
+
+[@ITEM 97 (FR) ]
+{Robo} : Attaquer la carapace de Lavos n'aurait
+que peu d'effet.{PRESS_CLEAR}
+Que diriez-vous de pénétrer à l'intérieur avec le
+{Epoch} pour mieux le combattre ?\0
+
+[@ITEM 98 (L1) ]
+\0
+
+[@ITEM 98 (EN) ]
+{Lucca}: ......I wonder if the {Epoch} could break
+through Lavos's outer shell and get us inside?\0
+
+[@ITEM 98 (L2) ]
+\0
+
+[@ITEM 98 (FR) ]
+{Lucca} : Je me demande si nous ne pourrions pas
+pénétrer en force à l'intérieur de Lavos à l'aide du
+{Epoch}...\0
+
+[@ITEM 99 (L1) ]
+\0
+
+[@ITEM 99 (EN) ]
+{Lucca}: It might destroy the {Epoch}!
+And even if we get in, who knows whether
+we'll hold out inside it......\0
+
+[@ITEM 99 (L2) ]
+\0
+
+[@ITEM 99 (FR) ]
+{Lucca} : Le {Epoch} pourrait être détruit !
+Je ne sais même pas si nous pourrions survivre
+au choc...\0
+
+[@ITEM 100 (L1) ]
+\0
+
+[@ITEM 100 (EN) ]
+{Robo}: Lavos's outer shell and the {Epoch}'s durability
+are roughly equal, but whether we can
+withstand the shock of entry......\0
+
+[@ITEM 100 (L2) ]
+\0
+
+[@ITEM 100 (FR) ]
+{Robo} : La dureté de la carapace de Lavos est à
+peu près équivalente à celle de la coque du {Epoch},
+mais je ne sais pas si nous pourrions survivre au choc
+de l'impact...\0
+
+[@ITEM 101 (L1) ]
+\0
+
+[@ITEM 101 (EN) ]
+{Marle}: Whaaat!?
+If we do that, the Sylbird and us too......\0
+
+[@ITEM 101 (L2) ]
+\0
+
+[@ITEM 101 (FR) ]
+{Marle} : Hein ?! Si nous nous écrasons sur Lavos,
+nous pourrions tous mourir !\0
+
+[@ITEM 102 (L1) ]
+\0
+
+[@ITEM 102 (EN) ]
+{Frog}: One wrong move and we're done for.\0
+
+[@ITEM 102 (L2) ]
+\0
+
+[@ITEM 102 (FR) ]
+{Frog} : Nous risquerions d'y rester...\0
+
+[@ITEM 103 (L1) ]
+\0
+
+[@ITEM 103 (EN) ]
+{Ayla}: It okay!?
+{Epoch} not die!?\0
+
+[@ITEM 103 (L2) ]
+\0
+
+[@ITEM 103 (FR) ]
+{Ayla} : Pas dangereux ?! {Epoch} pas mourir ?!\0
+
+[@ITEM 104 (L1) ]
+\0
+
+[@ITEM 104 (EN) ]
+{Magus}: Is there any guarantee it
+will hold......?\0
+
+[@ITEM 104 (L2) ]
+\0
+
+[@ITEM 104 (FR) ]
+{Magus} : Êtes-vous certains que cela
+fonctionnera ?\0
+
+[@ITEM 105 (L1) ]
+\0
+
+[@ITEM 105 (EN) ]
+{Magus}: There's no chance of winning if we fight
+fairly, either......\0
+
+[@ITEM 105 (L2) ]
+\0
+
+[@ITEM 105 (FR) ]
+{Magus} : Nous n'avons aucune chance en
+combattant Lavos directement...\0
+
+[@ITEM 106 (L1) ]
+\0
+
+[@ITEM 106 (EN) ]
+{Marle}: Let's believe in the {Epoch}!\0
+
+[@ITEM 106 (L2) ]
+\0
+
+[@ITEM 106 (FR) ]
+{Marle} : Faisons confiance au {Epoch} !\0
+
+[@ITEM 107 (L1) ]
+\0
+
+[@ITEM 107 (EN) ]
+{Lucca}: If it's the {Epoch}......
+It should be able to do it......!\0
+
+[@ITEM 107 (L2) ]
+\0
+
+[@ITEM 107 (FR) ]
+{Lucca} : Le {Epoch} devrait pouvoir y arriver !\0
+
+[@ITEM 108 (L1) ]
+\0
+
+[@ITEM 108 (EN) ]
+{Robo}: The probability is exceedingly low......{PRESS_CLEAR}
+But perhaps if the {Epoch}'s energy and our
+spiritual energy become one......\0
+
+[@ITEM 108 (L2) ]
+\0
+
+[@ITEM 108 (FR) ]
+{Robo} : Nos chances de succès sont très faibles...{PRESS_CLEAR}
+Si nous unissions notre énergie spirituelle à celle du
+{Epoch}, alors peut-être...\0
+
+[@ITEM 109 (L1) ]
+\0
+
+[@ITEM 109 (EN) ]
+{Frog}: I doubt there's any way to beat that monster
+except by striking it from the inside......!\0
+
+[@ITEM 109 (L2) ]
+\0
+
+[@ITEM 109 (FR) ]
+{Frog} : Pour vaincre cette créature, nous n'avons
+pas d'autre choix que de la combattre de l'intérieur...!\0
+
+[@ITEM 110 (L1) ]
+\0
+
+[@ITEM 110 (EN) ]
+{Ayla}: {Epoch} not lose!
+{Ayla} not lose either!\0
+
+[@ITEM 110 (L2) ]
+\0
+
+[@ITEM 110 (FR) ]
+{Ayla} : {Epoch} pas perdre !
+{Ayla} pas perdre non plus !\0
+
+[@ITEM 111 (L1) ]
+\0
+
+[@ITEM 111 (EN) ]
+{Magus}: Very well......\0
+
+[@ITEM 111 (L2) ]
+\0
+
+[@ITEM 111 (FR) ]
+{Magus} : Très bien...\0
+
+[@ITEM 112 (L1) ]
+\0
+
+[@ITEM 112 (EN) ]
+{Marle}: We're counting on you, {Epoch}!\0
+
+[@ITEM 112 (L2) ]
+\0
+
+[@ITEM 112 (FR) ]
+{Marle} : Nous comptons sur toi, {Epoch} !\0
+
+[@ITEM 113 (L1) ]
+\0
+
+[@ITEM 113 (EN) ]
+{Lucca}: Sorry, {Epoch}......\0
+
+[@ITEM 113 (L2) ]
+\0
+
+[@ITEM 113 (FR) ]
+{Lucca} : Je suis désolée, {Epoch}...\0
+
+[@ITEM 114 (L1) ]
+\0
+
+[@ITEM 114 (EN) ]
+{Robo}: Certainly, there are no other probabilities
+for success either.\0
+
+[@ITEM 114 (L2) ]
+\0
+
+[@ITEM 114 (FR) ]
+{Robo} : Nous n'avons certainement aucune autre
+chance de réussir.\0
+
+[@ITEM 115 (L1) ]
+\0
+
+[@ITEM 115 (EN) ]
+{Frog}: All or nothing...... I guess.\0
+
+[@ITEM 115 (L2) ]
+\0
+
+[@ITEM 115 (FR) ]
+{Frog} : C'est le tout pour le tout...\0
+
+[@ITEM 116 (L1) ]
+\0
+
+[@ITEM 116 (EN) ]
+{Ayla}: Okay!
+{Ayla} try hard!
+{Epoch} try hard too!!\0
+
+[@ITEM 116 (L2) ]
+\0
+
+[@ITEM 116 (FR) ]
+{Ayla} : Bien ! {Ayla} faire de son mieux !
+{Epoch} aussi faire de son mieux !\0
+
+[@ITEM 117 (L1) ]
+\0
+
+[@ITEM 117 (EN) ]
+{Marle}: Everyone, hold on tight!{WAIT}0c{/WAIT}{CLOSE}\0
+
+[@ITEM 117 (L2) ]
+\0
+
+[@ITEM 117 (FR) ]
+{Marle} : Tenez-vous bien !{WAIT}0c{/WAIT}{CLOSE}\0
+
+[@ITEM 118 (L1) ]
+\0
+
+[@ITEM 118 (EN) ]
+{Lucca}: We believe in you, {Epoch}!{WAIT}0c{/WAIT}{CLOSE}\0
+
+[@ITEM 118 (L2) ]
+\0
+
+[@ITEM 118 (FR) ]
+{Lucca} : Nous croyons en toi, {Epoch} !{WAIT}0c{/WAIT}{CLOSE}\0
+
+[@ITEM 119 (L1) ]
+\0
+
+[@ITEM 119 (EN) ]
+{Robo}: Everyone, prepare for the shock
+of entry!{WAIT}0c{/WAIT}{CLOSE}\0
+
+[@ITEM 119 (L2) ]
+\0
+
+[@ITEM 119 (FR) ]
+{Robo} : Parez-vous au choc de l'impact !{WAIT}0c{/WAIT}{CLOSE}\0
+
+[@ITEM 120 (L1) ]
+\0
+
+[@ITEM 120 (EN) ]
+{Frog}: Protect us......
+Cyrus!{WAIT}0c{/WAIT}{CLOSE}\0
+
+[@ITEM 120 (L2) ]
+\0
+
+[@ITEM 120 (FR) ]
+{Frog} : Veille sur nous, Cyrus !{WAIT}0c{/WAIT}{CLOSE}\0
+
+[@ITEM 121 (L1) ]
+\0
+
+[@ITEM 121 (EN) ]
+{Ayla}: {Ayla} not lose!
+{Epoch}, you not lose either!!{WAIT}0c{/WAIT}{CLOSE}\0
+
+[@ITEM 121 (L2) ]
+\0
+
+[@ITEM 121 (FR) ]
+{Ayla} : {Ayla} pas perdre !
+{Epoch} pas perdre non plus !!{WAIT}0c{/WAIT}{CLOSE}\0
+
+[@ITEM 122 (L1) ]
+\0
+
+[@ITEM 122 (EN) ]
+{Magus}: ......just you wait, Lavos.{WAIT}0c{/WAIT}{CLOSE}\0
+
+[@ITEM 122 (L2) ]
+\0
+
+[@ITEM 122 (FR) ]
+{Magus} : Ton heure est proche, Lavos...{WAIT}0c{/WAIT}{CLOSE}\0
+
+[@ITEM 123 (L1) ]
+\0
+
+[@ITEM 123 (EN) ]
+{Marle}: Here we go, everyone!!{WAIT}0c{/WAIT}{CLOSE}\0
+
+[@ITEM 123 (L2) ]
+\0
+
+[@ITEM 123 (FR) ]
+{Marle} : Allons-y !{WAIT}0c{/WAIT}{CLOSE}\0
+
+[@ITEM 124 (L1) ]
+\0
+
+[@ITEM 124 (EN) ]
+{Lucca}: We're counting on you, {Epoch}!{WAIT}0c{/WAIT}{CLOSE}\0
+
+[@ITEM 124 (L2) ]
+\0
+
+[@ITEM 124 (FR) ]
+{Lucca} : Nous comptons sur toi, {Epoch} !{WAIT}0c{/WAIT}{CLOSE}\0
+
+[@ITEM 125 (L1) ]
+\0
+
+[@ITEM 125 (EN) ]
+{Robo}: Sylbird, launch!{WAIT}0c{/WAIT}{CLOSE}\0
+
+[@ITEM 125 (L2) ]
+\0
+
+[@ITEM 125 (FR) ]
+{Robo} : En avant, {Epoch} !{WAIT}0c{/WAIT}{CLOSE}\0
+
+[@ITEM 126 (L1) ]
+\0
+
+[@ITEM 126 (EN) ]
+{Frog}: Heigh-ho, {Epoch}!{WAIT}0c{/WAIT}{CLOSE}\0
+
+[@ITEM 126 (L2) ]
+\0
+
+[@ITEM 126 (FR) ]
+{Frog} : En avant, {Epoch} !{WAIT}0c{/WAIT}{CLOSE}\0
+
+[@ITEM 127 (L1) ]
+\0
+
+[@ITEM 127 (EN) ]
+{Ayla}: Go, {Epoch}!!{WAIT}0c{/WAIT}{CLOSE}\0
+
+[@ITEM 127 (L2) ]
+\0
+
+[@ITEM 127 (FR) ]
+{Ayla} : {Epoch} foncer !{WAIT}0c{/WAIT}{CLOSE}\0
+
+[@ITEM 128 (L1) ]
+\0
+
+[@ITEM 128 (EN) ]
+{Magus}: I'm coming for you now......
+Lavos!{WAIT}0c{/WAIT}{CLOSE}\0
+
+[@ITEM 128 (L2) ]
+\0
+
+[@ITEM 128 (FR) ]
+{Magus} : J'arrive, Lavos...!{WAIT}0c{/WAIT}{CLOSE}\0
+
+[@ITEM 129 (L1) ]
+\0
+
+[@ITEM 129 (EN) ]
+{Marle}: U, uun......\0
+
+[@ITEM 129 (L2) ]
+\0
+
+[@ITEM 129 (FR) ]
+{Marle} : Oooh...\0
+
+[@ITEM 130 (L1) ]
+\0
+
+[@ITEM 130 (EN) ]
+{Lucca}: Is, is everyone okay......?\0
+
+[@ITEM 130 (L2) ]
+\0
+
+[@ITEM 130 (FR) ]
+{Lucca} : Tout le monde va bien ?\0
+
+[@ITEM 131 (L1) ]
+\0
+
+[@ITEM 131 (EN) ]
+{Robo}: ......\0
+
+[@ITEM 131 (L2) ]
+\0
+
+[@ITEM 131 (FR) ]
+{Robo} : ...\0
+
+[@ITEM 132 (L1) ]
+\0
+
+[@ITEM 132 (EN) ]
+{Frog}: O-ow ow ow......\0
+
+[@ITEM 132 (L2) ]
+\0
+
+[@ITEM 132 (FR) ]
+{Frog} : Aïe...\0
+
+[@ITEM 133 (L1) ]
+\0
+
+[@ITEM 133 (EN) ]
+{Ayla}: {Ayla} alive......!\0
+
+[@ITEM 133 (L2) ]
+\0
+
+[@ITEM 133 (FR) ]
+{Ayla} : {Ayla} survivre...!\0
+
+[@ITEM 134 (L1) ]
+\0
+
+[@ITEM 134 (EN) ]
+{Magus}: Wake up already.
+We're inside it......!\0
+
+[@ITEM 134 (L2) ]
+\0
+
+[@ITEM 134 (FR) ]
+{Magus} : Relevez-vous ! Nous sommes à l'intérieur...\0
+
+[@ITEM 135 (L1) ]
+\0
+
+[@ITEM 135 (EN) ]
+{Frog}: ......you did well to make it this far.\0
+
+[@ITEM 135 (L2) ]
+\0
+
+[@ITEM 135 (FR) ]
+{Frog} : ... Nous y sommes parvenus.\0
+
+[@ITEM 136 (L1) ]
+\0
+
+[@ITEM 136 (EN) ]
+{Robo}: The {Epoch}......
+was severely damaged.\0
+
+[@ITEM 136 (L2) ]
+\0
+
+[@ITEM 136 (FR) ]
+{Robo} : Le {Epoch}... Il est en morceaux.\0
+
+[@ITEM 137 (L1) ]
+\0
+
+[@ITEM 137 (EN) ]
+{Marle}: Thank you, {Epoch}......\0
+
+[@ITEM 137 (L2) ]
+\0
+
+[@ITEM 137 (FR) ]
+{Marle} : Je te remercie, {Epoch}...\0
+
+[@ITEM 138 (L1) ]
+\0
+
+[@ITEM 138 (EN) ]
+{Lucca}: Sorry, {Epoch}......\0
+
+[@ITEM 138 (L2) ]
+\0
+
+[@ITEM 138 (FR) ]
+{Lucca} : Je suis désolée, {Epoch}...\0
+
+[@ITEM 139 (L1) ]
+\0
+
+[@ITEM 139 (EN) ]
+{Ayla}: {Epoch}......
+You fought well!\0
+
+[@ITEM 139 (L2) ]
+\0
+
+[@ITEM 139 (FR) ]
+{Ayla} : {Epoch} bien se battre !\0
+
+[@ITEM 140 (L1) ]
+\0
+
+[@ITEM 140 (EN) ]
+{Magus}: ......there's no turning back now.\0
+
+[@ITEM 140 (L2) ]
+\0
+
+[@ITEM 140 (FR) ]
+{Magus} : ...
+Nous ne pouvons plus reculer.\0
+
+[@ITEM 141 (L1) ]
+\0
+
+[@ITEM 141 (EN) ]
+{Marle}: We've come pretty deep inside......\0
+
+[@ITEM 141 (L2) ]
+\0
+
+[@ITEM 141 (FR) ]
+{Marle} : Nous avons pénétré très loin à l'intérieur...\0
+
+[@ITEM 142 (L1) ]
+\0
+
+[@ITEM 142 (EN) ]
+{Lucca}: W-we're okay, right?\0
+
+[@ITEM 142 (L2) ]
+\0
+
+[@ITEM 142 (FR) ]
+{Lucca} : Tout va bien, n'est-ce pas...?\0
+
+[@ITEM 143 (L1) ]
+\0
+
+[@ITEM 143 (EN) ]
+{Robo}: According to my sensors, the core
+is close!\0
+
+[@ITEM 143 (L2) ]
+\0
+
+[@ITEM 143 (FR) ]
+{Robo} : Je détecte que nous sommes près du
+centre !\0
+
+[@ITEM 144 (L1) ]
+\0
+
+[@ITEM 144 (EN) ]
+{Frog}: Creepy place.
+Worse taste than {Magus} Castle......\0
+
+[@ITEM 144 (L2) ]
+\0
+
+[@ITEM 144 (FR) ]
+{Frog} : Cet endroit me donne encore plus la chair
+de poule que le palais du Magistère...\0
+
+[@ITEM 145 (L1) ]
+\0
+
+[@ITEM 145 (EN) ]
+{Ayla}: !!{PRESS_CLEAR}
+Lavos's smell getting stronger!!\0
+
+[@ITEM 145 (L2) ]
+\0
+
+[@ITEM 145 (FR) ]
+{Ayla} : !!{PRESS_CLEAR}
+Odeur de Lavos devenir plus forte !\0
+
+[@ITEM 146 (L1) ]
+\0
+
+[@ITEM 146 (EN) ]
+{Marle}: This...... is Lavos!\0
+
+[@ITEM 146 (L2) ]
+\0
+
+[@ITEM 146 (FR) ]
+{Marle} : C'est... Lavos !\0
+
+[@ITEM 147 (L1) ]
+\0
+
+[@ITEM 147 (EN) ]
+{Lucca}: Th-this...... is its true form!?\0
+
+[@ITEM 147 (L2) ]
+\0
+
+[@ITEM 147 (FR) ]
+{Lucca} : Est-ce... sa véritable forme ?!\0
+
+[@ITEM 148 (L1) ]
+\0
+
+[@ITEM 148 (EN) ]
+{Robo}: I! I cannot believe it......!
+It has the genes of all living creatures since
+life first appeared on this planet!\0
+
+[@ITEM 148 (L2) ]
+\0
+
+[@ITEM 148 (FR) ]
+{Robo} : Je n'arrive pas à y croire...! Il possède les
+gènes de tous les êtres vivants qui ont existé depuis
+l'apparition de la vie sur la planète !\0
+
+[@ITEM 149 (L1) ]
+\0
+
+[@ITEM 149 (EN) ]
+{Frog}: Fight along with me......\0
+
+[@ITEM 149 (L2) ]
+\0
+
+[@ITEM 149 (FR) ]
+{Frog} : Combats à mes côtés, Cyrus...!\0
+
+[@ITEM 150 (L1) ]
+\0
+
+[@ITEM 150 (EN) ]
+{Ayla}: {Ayla} not lose!!\0
+
+[@ITEM 150 (L2) ]
+\0
+
+[@ITEM 150 (FR) ]
+{Ayla} : {Ayla} pas perdre !!\0
+
+[@ITEM 151 (L1) ]
+\0
+
+[@ITEM 151 (EN) ]
+{Magus}: This is the end for you, Lavos......!\0
+
+[@ITEM 151 (L2) ]
+\0
+
+[@ITEM 151 (FR) ]
+{Magus} : Cette fois, je te le promets...
+Je vais en finir avec toi...!\0
+
+[@ITEM 152 (L1) ]
+\0
+
+[@ITEM 152 (EN) ]
+{Marle}: H, human form......{PRESS_CLEAR}
+It, it, don't tell me......
+It couldn't have the powers of every
+living thing on this planet......?\0
+
+[@ITEM 152 (L2) ]
+\0
+
+[@ITEM 152 (FR) ]
+{Marle} : Il est de forme humanoïde...{PRESS_CLEAR}
+Il... Serait-il possible qu'il possède la force de tous les
+êtres vivants de la planète...?\0
+
+[@ITEM 153 (L1) ]
+\0
+
+[@ITEM 153 (EN) ]
+{Lucca}: I, I've figured it out.{PRESS_CLEAR}
+Its aim......
+It lives parasitically on a planet, then
+spends ages selecting and gathering the best
+traits of that planet's life forms......{PRESS_CLEAR}
+It gives birth to children with those genes on
+that Death Mountain, then moves on to another
+planet......\0
+
+[@ITEM 153 (L2) ]
+\0
+
+[@ITEM 153 (FR) ]
+{Lucca} : J'ai compris quel est son objectif...{PRESS_CLEAR}
+C'est un parasite. Pendant des millions d'années, il
+choisit avec soin et accumule les meilleurs éléments
+des êtres vivants d'une planète...{PRESS_CLEAR}
+Il engendre ensuite des larves portant ces gènes sur le
+mont des défunts, puis se rend vers une autre planète...\0
+
+[@ITEM 154 (L1) ]
+\0
+
+[@ITEM 154 (EN) ]
+{Robo}: Th, this was Lavos's goal......!{PRESS_CLEAR}
+To gain a record of the genes of every living
+creature on the planet......{PRESS_CLEAR}
+And to evolve itself!\0
+
+[@ITEM 154 (L2) ]
+\0
+
+[@ITEM 154 (FR) ]
+{Robo} : C'était donc l'objectif de Lavos...!{PRESS_CLEAR}
+Il voulait obtenir une copie des gènes de tous les êtres
+vivants de la planète...{PRESS_CLEAR}
+Et ce, pour pouvoir évoluer lui-même !\0
+
+[@ITEM 155 (L1) ]
+\0
+
+[@ITEM 155 (EN) ]
+{Frog}: Wh-what the hell's going on......!?{PRESS_CLEAR}
+Hold on, don't tell me it's got the powers
+of every living thing on this planet......
+That's it! Everything we, and every living
+thing on this planet, evolved into......{PRESS_CLEAR}
+The bastard's been storing it all up while it
+slept......!!\0
+
+[@ITEM 155 (L2) ]
+\0
+
+[@ITEM 155 (FR) ]
+{Frog} : Qu'est-ce qui se passe...?!{PRESS_CLEAR}
+Un instant, ne me dites pas qu'il a les pouvoirs de tous
+les êtres vivants...?{PRESS_CLEAR}
+Je vois ! Il a donc accumulé pendant son sommeil les
+gènes de tous les habitants de la planète...!\0
+
+[@ITEM 156 (L1) ]
+\0
+
+[@ITEM 156 (EN) ]
+{Magus}: .......{PRESS_CLEAR}
+It's slept underground since ancient times,
+claiming the evolution of all life on this
+planet for itself......?\0
+
+[@ITEM 156 (L2) ]
+\0
+
+[@ITEM 156 (FR) ]
+{Magus} : ...{PRESS_CLEAR}
+Il a dormi sous le sol, faisant sienne l'évolution de tous
+les êtres vivants de cette planète depuis l'aube des
+temps...\0
+
+[@ITEM 157 (L1) ]
+\0
+
+[@ITEM 157 (EN) ]
+{Ayla}: This {Ayla}s!
+Dinomen, Pteran, Nizbel......!{PRESS_CLEAR}
+{Ayla}, {HERO1}, all!
+Smells like everyone......!{PRESS_CLEAR}
+Has all smells of earth life!!\0
+
+[@ITEM 157 (L2) ]
+\0
+
+[@ITEM 157 (FR) ]
+{Ayla} : Lavos être nous ! Être sauriens,
+ptéranodons, Nizbel...!{PRESS_CLEAR}
+Lavos sentir comme {Ayla}, {HERO1}, tous,
+tous...!{PRESS_CLEAR}
+Lavos sentir comme tous êtres vivants de planète !\0
+
+[@ITEM 158 (L1) ]
+\0
+
+[@ITEM 158 (EN) ]
+{Robo}: Combat ability value is......{PRESS_CLEAR}
+C, cannot measure!
+My sensors are near breaking!!\0
+
+[@ITEM 158 (L2) ]
+\0
+
+[@ITEM 158 (FR) ]
+{Robo} : Sa puissance d'attaque est...{PRESS_CLEAR}
+Ah, impossible à mesurer ! Mes capteurs s'affolent !\0
+
+[@ITEM 159 (L1) ]
+\0
+
+[@ITEM 159 (EN) ]
+{Marle}: Then that means we've been living for
+its sake!?\0
+
+[@ITEM 159 (L2) ]
+\0
+
+[@ITEM 159 (FR) ]
+{Marle} : On aurait vécu pour lui ?!\0
+
+[@ITEM 160 (L1) ]
+\0
+
+[@ITEM 160 (EN) ]
+{Magus}: In other words, we were nothing more
+than Lavos's food.
+We humans, no......{PRESS_CLEAR}
+All life on this planet......\0
+
+[@ITEM 160 (L2) ]
+\0
+
+[@ITEM 160 (FR) ]
+{Magus} : Nous ne sommes, en quelque sorte, qu'une
+moisson abondante que Lavos a récoltée...{PRESS_CLEAR}
+Tous les êtres humains, non...{PRESS_CLEAR}
+Tous les êtres vivants de cette planète...\0
+
+[@ITEM 161 (L1) ]
+\0
+
+[@ITEM 161 (EN) ]
+{Lucca}: Using the evolution this planet's life took
+so long to achieve just by sleeping......
+That's asking way too much......!\0
+
+[@ITEM 161 (L2) ]
+\0
+
+[@ITEM 161 (FR) ]
+{Lucca} : Il a utilisé l'évolution des êtres vivants
+de notre planète pendant si longtemps juste en
+dormant ? Quel égoïste...!\0
+
+[@ITEM 162 (L1) ]
+\0
+
+[@ITEM 162 (EN) ]
+{Frog}: You've got to be kidding......
+We're not all living just to become your
+provisions, damn you!\0
+
+[@ITEM 162 (L2) ]
+\0
+
+[@ITEM 162 (FR) ]
+{Frog} : Dites-moi que je rêve... Nous ne vivons pas
+pour satisfaire tes besoins, Lavos !\0
+
+[@ITEM 163 (L1) ]
+\0
+
+[@ITEM 163 (EN) ]
+{Ayla}: Not run!
+{Ayla} not run!
+Run away worse than lose!!\0
+
+[@ITEM 163 (L2) ]
+\0
+
+[@ITEM 163 (FR) ]
+{Ayla} : {Ayla} pas fuir ! {Ayla} détester
+fuir plus que perdre !\0
+
+[@ITEM 164 (L1) ]
+\0
+
+[@ITEM 164 (EN) ]
+{Marle}: This is ours......
+Leene's, Don's...... everyone's......!\0
+
+[@ITEM 164 (L2) ]
+\0
+
+[@ITEM 164 (FR) ]
+{Marle} : C'est notre planète !\0
+
+[@ITEM 165 (L1) ]
+\0
+
+[@ITEM 165 (EN) ]
+{Marle}: This is Crono's, our......
+Leene's, Don's...... everyone's......!\0
+
+[@ITEM 165 (L2) ]
+\0
+
+[@ITEM 165 (FR) ]
+{Marle} : C'est notre planète !\0
+
+[@ITEM 166 (L1) ]
+\0
+
+[@ITEM 166 (EN) ]
+It's everyone's planet!!\0
+
+[@ITEM 166 (L2) ]
+\0
+
+[@ITEM 166 (FR) ]
+La planète de tous les êtres vivants !\0
+
+[@ITEM 167 (L1) ]
+\0
+
+[@ITEM 167 (EN) ]
+{Lucca}: No way......\0
+
+[@ITEM 167 (L2) ]
+\0
+
+[@ITEM 167 (FR) ]
+{Lucca} : Non...\0
+
+[@ITEM 168 (L1) ]
+\0
+
+[@ITEM 168 (EN) ]
+I won't stand for such a ridiculous evolution!\0
+
+[@ITEM 168 (L2) ]
+\0
+
+[@ITEM 168 (FR) ]
+Tu ne t'en tireras pas à si bon compte !\0
+
+[@ITEM 169 (L1) ]
+\0
+
+[@ITEM 169 (EN) ]
+{Robo}: I am a life created by humans......{PRESS_CLEAR}
+However, life is life!
+Just like {Lucca} and everyone else......\0
+
+[@ITEM 169 (L2) ]
+\0
+
+[@ITEM 169 (FR) ]
+{Robo} : C'est l'Homme qui m'a créé...{PRESS_CLEAR}
+Néanmoins, je suis vivant malgré tout !
+Comme {Lucca} et les autres...\0
+
+[@ITEM 170 (L1) ]
+\0
+
+[@ITEM 170 (EN) ]
+I am one of the many lives of this planet!!\0
+
+[@ITEM 170 (L2) ]
+\0
+
+[@ITEM 170 (FR) ]
+Je suis un des êtres vivants de cette planète !\0
+
+[@ITEM 171 (L1) ]
+\0
+
+[@ITEM 171 (EN) ]
+{Frog}: For the sake of a bastard like you......!\0
+
+[@ITEM 171 (L2) ]
+\0
+
+[@ITEM 171 (FR) ]
+{Frog} : Tu as vécu trop longtemps aux dépens des
+habitants de cette planète...\0
+
+[@ITEM 172 (L1) ]
+\0
+
+[@ITEM 172 (EN) ]
+That's NOT why we're living!!\0
+
+[@ITEM 172 (L2) ]
+\0
+
+[@ITEM 172 (FR) ]
+Il est grand temps de payer !\0
+
+[@ITEM 173 (L1) ]
+\0
+
+[@ITEM 173 (EN) ]
+{Ayla}: {Ayla} not lose!
+{Ayla}s are life of this earth!\0
+
+[@ITEM 173 (L2) ]
+\0
+
+[@ITEM 173 (FR) ]
+{Ayla} : {Ayla} pas perdre !
+Nous être vie de planète !\0
+
+[@ITEM 174 (L1) ]
+\0
+
+[@ITEM 174 (EN) ]
+You not life of this earth!!\0
+
+[@ITEM 174 (L2) ]
+\0
+
+[@ITEM 174 (FR) ]
+Lavos pas être vie de planète !\0
+
+[@ITEM 175 (L1) ]
+\0
+
+[@ITEM 175 (EN) ]
+{Magus}: ......{PRESS_CLEAR}
+This time, I will defeat you,
+you bastard......\0
+
+[@ITEM 175 (L2) ]
+\0
+
+[@ITEM 175 (FR) ]
+{Magus} : ...{PRESS_CLEAR}
+Cette fois, je te vaincrai pour de bon...\0
+
+[@ITEM 176 (L1) ]
+\0
+
+[@ITEM 176 (EN) ]
+And settle my long struggle......!\0
+
+[@ITEM 176 (L2) ]
+\0
+
+[@ITEM 176 (FR) ]
+Il y a si longtemps que j'attends ce moment !\0
+
+[@ITEM 177 (L1) ]
+\0
+
+[@ITEM 177 (EN) ]
+{MSGWND}
+Lavos enters attack mode!\0
+
+[@ITEM 177 (L2) ]
+\0
+
+[@ITEM 177 (FR) ]
+{MSGWND}
+Lavos entre en mode d'attaque !\0
+
+[@ITEM 178 (L1) ]
+\0
+
+[@ITEM 178 (EN) ]
+{MSGWND}
+Lavos's attack mode changes!\0
+
+[@ITEM 178 (L2) ]
+\0
+
+[@ITEM 178 (FR) ]
+{MSGWND}
+Lavos change son mode d'attaque !\0
+
+[@ITEM 179 (L1) ]
+\0
+
+[@ITEM 179 (EN) ]
+{Lucca}: Hey, look at the time-space monitor!
+It looks like something's happening in other ages, too!\0
+
+[@ITEM 179 (L2) ]
+\0
+
+[@ITEM 179 (FR) ]
+{Lucca} : Regardez le moniteur spatio-temporel !
+On dirait que quelque chose se produit aussi aux
+autres époques.\0
+
+[@ITEM 180 (L1) ]
+\0
+
+[@ITEM 180 (EN) ]
+{Robo}: Look at the {Epoch}'s time-space
+monitor! There is activity in other ages as well.\0
+
+[@ITEM 180 (L2) ]
+\0
+
+[@ITEM 180 (FR) ]
+{Robo} : Regardez le moniteur spatio-temporel du
+{Epoch} ! On dirait que quelque chose se produit
+aussi aux autres époques.\0
+
+[@ITEM 181 (L1) ]
+\0
+
+[@ITEM 181 (EN) ]
+{Marle}: Uh-oh! Look at that screen!
+It looks like something is happening!\0
+
+[@ITEM 181 (L2) ]
+\0
+
+[@ITEM 181 (FR) ]
+{Marle} : Oh, non ! Regardez cet écran ! On dirait
+que quelque chose se produit aussi aux autres
+époques !\0
+
+[@ITEM 182 (L1) ]
+\0
+
+[@ITEM 182 (EN) ]
+{Ayla}: Look, look!
+Something strange!\0
+
+[@ITEM 182 (L2) ]
+\0
+
+[@ITEM 182 (FR) ]
+{Ayla} : Regarder écran ! Étrange !\0
+
+[@ITEM 183 (L1) ]
+\0
+
+[@ITEM 183 (EN) ]
+{Frog}: A vortex has appeared.
+But why?\0
+
+[@ITEM 183 (L2) ]
+\0
+
+[@ITEM 183 (FR) ]
+{Frog} : Un vortex est soudainement apparu.
+Que se passe-t-il ?\0
+
+[@ITEM 184 (L1) ]
+\0
+
+[@ITEM 184 (EN) ]
+{Robo}: The space-time balance appears to be
+slipping out of alignment.\0
+
+[@ITEM 184 (L2) ]
+\0
+
+[@ITEM 184 (FR) ]
+{Robo} : Il semble que l'équilibre du temps
+commence à se rompre.\0
+
+[@ITEM 185 (L1) ]
+\0
+
+[@ITEM 185 (EN) ]
+{Magus}: Is Lavos's hand in this as well?\0
+
+[@ITEM 185 (L2) ]
+\0
+
+[@ITEM 185 (FR) ]
+{Magus} : Est-ce encore une manigance de Lavos ?\0
+
+[@ITEM 186 (L1) ]
+\0
+
+[@ITEM 186 (EN) ]
+{Ayla}: {Ayla} not understand.
+Think too much, head go boom.\0
+
+[@ITEM 186 (L2) ]
+\0
+
+[@ITEM 186 (FR) ]
+{Ayla} : {Ayla} pas comprendre !
+Tête de {Ayla} exploser !\0
+
+[@ITEM 187 (L1) ]
+\0
+
+[@ITEM 187 (EN) ]
+{Marle}: What's happening to our world?\0
+
+[@ITEM 187 (L2) ]
+\0
+
+[@ITEM 187 (FR) ]
+{Marle} : Qu'arrivera-t-il à notre monde ?\0
+
+[@ITEM 188 (L1) ]
+\0
+
+[@ITEM 188 (EN) ]
+{Lucca}: We need to hurry and do something about
+Lavos!\0
+
+[@ITEM 188 (L2) ]
+\0
+
+[@ITEM 188 (FR) ]
+{Lucca} : Nous devons nous occuper de
+Lavos au plus vite !\0
+
+[@ITEM 189 (L1) ]
+\0
+
+[@ITEM 189 (EN) ]
+\0
+
+[@ITEM 189 (L2) ]
+\0
+
+[@ITEM 189 (FR) ]
+\0
+
+[@ITEM 190 (L1) ]
+\0
+
+[@ITEM 190 (EN) ]
+\0
+
+[@ITEM 190 (L2) ]
+\0
+
+[@ITEM 190 (FR) ]
+\0
+
+[@ITEM 191 (L1) ]
+\0
+
+[@ITEM 191 (EN) ]
+\0
+
+[@ITEM 191 (L2) ]
+\0
+
+[@ITEM 191 (FR) ]
+\0
+
+[@ITEM 192 (L1) ]
+\0
+
+[@ITEM 192 (EN) ]
+\0
+
+[@ITEM 192 (L2) ]
+\0
+
+[@ITEM 192 (FR) ]
+\0
+
+[@ITEM 193 (L1) ]
+\0
+
+[@ITEM 193 (EN) ]
+\0
+
+[@ITEM 193 (L2) ]
+\0
+
+[@ITEM 193 (FR) ]
+\0
+
+[@ITEM 194 (L1) ]
+\0
+
+[@ITEM 194 (EN) ]
+\0
+
+[@ITEM 194 (L2) ]
+\0
+
+[@ITEM 194 (FR) ]
+\0
+
+[@ITEM 195 (L1) ]
+\0
+
+[@ITEM 195 (EN) ]
+\0
+
+[@ITEM 195 (L2) ]
+\0
+
+[@ITEM 195 (FR) ]
+\0
+
+[@ITEM 196 (L1) ]
+\0
+
+[@ITEM 196 (EN) ]
+\0
+
+[@ITEM 196 (L2) ]
+\0
+
+[@ITEM 196 (FR) ]
+\0
+
+[@ITEM 197 (L1) ]
+\0
+
+[@ITEM 197 (EN) ]
+\0
+
+[@ITEM 197 (L2) ]
+\0
+
+[@ITEM 197 (FR) ]
+\0
+
+[@ITEM 198 (L1) ]
+\0
+
+[@ITEM 198 (EN) ]
+\0
+
+[@ITEM 198 (L2) ]
+\0
+
+[@ITEM 198 (FR) ]
+\0
+
+[@ITEM 199 (L1) ]
+\0
+
+[@ITEM 199 (EN) ]
+\0
+
+[@ITEM 199 (L2) ]
+\0
+
+[@ITEM 199 (FR) ]
+\0
+
+[@ITEM 200 (L1) ]
+\0
+
+[@ITEM 200 (EN) ]
+\0
+
+[@ITEM 200 (L2) ]
+\0
+
+[@ITEM 200 (FR) ]
+\0
+
+[@ITEM 201 (L1) ]
+\0
+
+[@ITEM 201 (EN) ]
+\0
+
+[@ITEM 201 (L2) ]
+\0
+
+[@ITEM 201 (FR) ]
+\0
+
+[@ITEM 202 (L1) ]
+\0
+
+[@ITEM 202 (EN) ]
+\0
+
+[@ITEM 202 (L2) ]
+\0
+
+[@ITEM 202 (FR) ]
+\0
+
+[@ITEM 203 (L1) ]
+\0
+
+[@ITEM 203 (EN) ]
+\0
+
+[@ITEM 203 (L2) ]
+\0
+
+[@ITEM 203 (FR) ]
+\0
+
+[@ITEM 204 (L1) ]
+\0
+
+[@ITEM 204 (EN) ]
+\0
+
+[@ITEM 204 (L2) ]
+\0
+
+[@ITEM 204 (FR) ]
+\0
+
+[@ITEM 205 (L1) ]
+\0
+
+[@ITEM 205 (EN) ]
+\0
+
+[@ITEM 205 (L2) ]
+\0
+
+[@ITEM 205 (FR) ]
+\0
+
+[@ITEM 206 (L1) ]
+\0
+
+[@ITEM 206 (EN) ]
+\0
+
+[@ITEM 206 (L2) ]
+\0
+
+[@ITEM 206 (FR) ]
+\0
+
+[@ITEM 207 (L1) ]
+\0
+
+[@ITEM 207 (EN) ]
+\0
+
+[@ITEM 207 (L2) ]
+\0
+
+[@ITEM 207 (FR) ]
+\0
+
+[@ITEM 208 (L1) ]
+\0
+
+[@ITEM 208 (EN) ]
+\0
+
+[@ITEM 208 (L2) ]
+\0
+
+[@ITEM 208 (FR) ]
+\0
+
+[@ITEM 209 (L1) ]
+\0
+
+[@ITEM 209 (EN) ]
+\0
+
+[@ITEM 209 (L2) ]
+\0
+
+[@ITEM 209 (FR) ]
+\0
+
+[@ITEM 210 (L1) ]
+\0
+
+[@ITEM 210 (EN) ]
+\0
+
+[@ITEM 210 (L2) ]
+\0
+
+[@ITEM 210 (FR) ]
+\0
+
+[@ITEM 211 (L1) ]
+\0
+
+[@ITEM 211 (EN) ]
+\0
+
+[@ITEM 211 (L2) ]
+\0
+
+[@ITEM 211 (FR) ]
+\0
+
+[@ITEM 212 (L1) ]
+\0
+
+[@ITEM 212 (EN) ]
+\0
+
+[@ITEM 212 (L2) ]
+\0
+
+[@ITEM 212 (FR) ]
+\0
+
+[@ITEM 213 (L1) ]
+\0
+
+[@ITEM 213 (EN) ]
+\0
+
+[@ITEM 213 (L2) ]
+\0
+
+[@ITEM 213 (FR) ]
+\0
+
+[@ITEM 214 (L1) ]
+\0
+
+[@ITEM 214 (EN) ]
+\0
+
+[@ITEM 214 (L2) ]
+\0
+
+[@ITEM 214 (FR) ]
+\0
+
+[@ITEM 215 (L1) ]
+\0
+
+[@ITEM 215 (EN) ]
+\0
+
+[@ITEM 215 (L2) ]
+\0
+
+[@ITEM 215 (FR) ]
+\0
+
+[@ITEM 216 (L1) ]
+\0
+
+[@ITEM 216 (EN) ]
+\0
+
+[@ITEM 216 (L2) ]
+\0
+
+[@ITEM 216 (FR) ]
+\0
+
+[@ITEM 217 (L1) ]
+\0
+
+[@ITEM 217 (EN) ]
+\0
+
+[@ITEM 217 (L2) ]
+\0
+
+[@ITEM 217 (FR) ]
+\0
+
+[@ITEM 218 (L1) ]
+\0
+
+[@ITEM 218 (EN) ]
+\0
+
+[@ITEM 218 (L2) ]
+\0
+
+[@ITEM 218 (FR) ]
+\0
+
+[@ITEM 219 (L1) ]
+\0
+
+[@ITEM 219 (EN) ]
+\0
+
+[@ITEM 219 (L2) ]
+\0
+
+[@ITEM 219 (FR) ]
+\0
+
+[@ITEM 220 (L1) ]
+\0
+
+[@ITEM 220 (EN) ]
+\0
+
+[@ITEM 220 (L2) ]
+\0
+
+[@ITEM 220 (FR) ]
+\0
+
+[@ITEM 221 (L1) ]
+\0
+
+[@ITEM 221 (EN) ]
+\0
+
+[@ITEM 221 (L2) ]
+\0
+
+[@ITEM 221 (FR) ]
+\0
+
+[@ITEM 222 (L1) ]
+\0
+
+[@ITEM 222 (EN) ]
+\0
+
+[@ITEM 222 (L2) ]
+\0
+
+[@ITEM 222 (FR) ]
+\0
+
+[@ITEM 223 (L1) ]
+\0
+
+[@ITEM 223 (EN) ]
+\0
+
+[@ITEM 223 (L2) ]
+\0
+
+[@ITEM 223 (FR) ]
+\0
+
+[@ITEM 224 (L1) ]
+\0
+
+[@ITEM 224 (EN) ]
+\0
+
+[@ITEM 224 (L2) ]
+\0
+
+[@ITEM 224 (FR) ]
+\0
+
+[@ITEM 225 (L1) ]
+\0
+
+[@ITEM 225 (EN) ]
+\0
+
+[@ITEM 225 (L2) ]
+\0
+
+[@ITEM 225 (FR) ]
+\0
+
+[@ITEM 226 (L1) ]
+\0
+
+[@ITEM 226 (EN) ]
+\0
+
+[@ITEM 226 (L2) ]
+\0
+
+[@ITEM 226 (FR) ]
+\0
+
+[@ITEM 227 (L1) ]
+\0
+
+[@ITEM 227 (EN) ]
+\0
+
+[@ITEM 227 (L2) ]
+\0
+
+[@ITEM 227 (FR) ]
+\0
+
+[@ITEM 228 (L1) ]
+\0
+
+[@ITEM 228 (EN) ]
+\0
+
+[@ITEM 228 (L2) ]
+\0
+
+[@ITEM 228 (FR) ]
+\0
+
+[@ITEM 229 (L1) ]
+\0
+
+[@ITEM 229 (EN) ]
+\0
+
+[@ITEM 229 (L2) ]
+\0
+
+[@ITEM 229 (FR) ]
+\0
+
+[@ITEM 230 (L1) ]
+\0
+
+[@ITEM 230 (EN) ]
+\0
+
+[@ITEM 230 (L2) ]
+\0
+
+[@ITEM 230 (FR) ]
+\0
+
+[@ITEM 231 (L1) ]
+\0
+
+[@ITEM 231 (EN) ]
+\0
+
+[@ITEM 231 (L2) ]
+\0
+
+[@ITEM 231 (FR) ]
+\0
+
+[@ITEM 232 (L1) ]
+\0
+
+[@ITEM 232 (EN) ]
+\0
+
+[@ITEM 232 (L2) ]
+\0
+
+[@ITEM 232 (FR) ]
+\0
+
+[@ITEM 233 (L1) ]
+\0
+
+[@ITEM 233 (EN) ]
+\0
+
+[@ITEM 233 (L2) ]
+\0
+
+[@ITEM 233 (FR) ]
+\0
+
+[@ITEM 234 (L1) ]
+\0
+
+[@ITEM 234 (EN) ]
+\0
+
+[@ITEM 234 (L2) ]
+\0
+
+[@ITEM 234 (FR) ]
+\0
+
+[@ITEM 235 (L1) ]
+\0
+
+[@ITEM 235 (EN) ]
+\0
+
+[@ITEM 235 (L2) ]
+\0
+
+[@ITEM 235 (FR) ]
+\0
+
+[@ITEM 236 (L1) ]
+\0
+
+[@ITEM 236 (EN) ]
+\0
+
+[@ITEM 236 (L2) ]
+\0
+
+[@ITEM 236 (FR) ]
+\0
+
+[@ITEM 237 (L1) ]
+\0
+
+[@ITEM 237 (EN) ]
+\0
+
+[@ITEM 237 (L2) ]
+\0
+
+[@ITEM 237 (FR) ]
+\0
+
+[@ITEM 238 (L1) ]
+\0
+
+[@ITEM 238 (EN) ]
+\0
+
+[@ITEM 238 (L2) ]
+\0
+
+[@ITEM 238 (FR) ]
+\0
+
+[@ITEM 239 (L1) ]
+\0
+
+[@ITEM 239 (EN) ]
+\0
+
+[@ITEM 239 (L2) ]
+\0
+
+[@ITEM 239 (FR) ]
+\0
+
+[@ITEM 240 (L1) ]
+\0
+
+[@ITEM 240 (EN) ]
+\0
+
+[@ITEM 240 (L2) ]
+\0
+
+[@ITEM 240 (FR) ]
+\0
+
+[@ITEM 241 (L1) ]
+\0
+
+[@ITEM 241 (EN) ]
+\0
+
+[@ITEM 241 (L2) ]
+\0
+
+[@ITEM 241 (FR) ]
+\0
+
+[@ITEM 242 (L1) ]
+\0
+
+[@ITEM 242 (EN) ]
+\0
+
+[@ITEM 242 (L2) ]
+\0
+
+[@ITEM 242 (FR) ]
+\0
+
+[@ITEM 243 (L1) ]
+\0
+
+[@ITEM 243 (EN) ]
+\0
+
+[@ITEM 243 (L2) ]
+\0
+
+[@ITEM 243 (FR) ]
+\0
+
+[@ITEM 244 (L1) ]
+\0
+
+[@ITEM 244 (EN) ]
+\0
+
+[@ITEM 244 (L2) ]
+\0
+
+[@ITEM 244 (FR) ]
+\0
+
+[@ITEM 245 (L1) ]
+\0
+
+[@ITEM 245 (EN) ]
+\0
+
+[@ITEM 245 (L2) ]
+\0
+
+[@ITEM 245 (FR) ]
+\0
+
+[@ITEM 246 (L1) ]
+\0
+
+[@ITEM 246 (EN) ]
+\0
+
+[@ITEM 246 (L2) ]
+\0
+
+[@ITEM 246 (FR) ]
+\0
+
+[@ITEM 247 (L1) ]
+\0
+
+[@ITEM 247 (EN) ]
+\0
+
+[@ITEM 247 (L2) ]
+\0
+
+[@ITEM 247 (FR) ]
+\0
+
+[@ITEM 248 (L1) ]
+\0
+
+[@ITEM 248 (EN) ]
+\0
+
+[@ITEM 248 (L2) ]
+\0
+
+[@ITEM 248 (FR) ]
+\0
+
+[@ITEM 249 (L1) ]
+\0
+
+[@ITEM 249 (EN) ]
+\0
+
+[@ITEM 249 (L2) ]
+\0
+
+[@ITEM 249 (FR) ]
+\0
+
+[@ITEM 250 (L1) ]
+\0
+
+[@ITEM 250 (EN) ]
+\0
+
+[@ITEM 250 (L2) ]
+\0
+
+[@ITEM 250 (FR) ]
+\0
+
+[@ITEM 251 (L1) ]
+\0
+
+[@ITEM 251 (EN) ]
+\0
+
+[@ITEM 251 (L2) ]
+\0
+
+[@ITEM 251 (FR) ]
+\0
+
+[@ITEM 252 (L1) ]
+\0
+
+[@ITEM 252 (EN) ]
+\0
+
+[@ITEM 252 (L2) ]
+\0
+
+[@ITEM 252 (FR) ]
+\0
+
+[@ITEM 253 (L1) ]
+\0
+
+[@ITEM 253 (EN) ]
+\0
+
+[@ITEM 253 (L2) ]
+\0
+
+[@ITEM 253 (FR) ]
+\0
+
+[@ITEM 254 (L1) ]
+\0
+
+[@ITEM 254 (EN) ]
+\0
+
+[@ITEM 254 (L2) ]
+\0
+
+[@ITEM 254 (FR) ]
+\0
+
+[@ITEM 255 (L1) ]
+\0
+
+[@ITEM 255 (EN) ]
+\0
+
+[@ITEM 255 (L2) ]
+\0
+
+[@ITEM 255 (FR) ]
+\0
+

@@ -1,0 +1,3596 @@
+[@mesk0.msg]
+
+[@ITEM 0 (L1) ]
+\0
+
+[@ITEM 0 (EN) ]
+1/11 1:00 version\0
+
+[@ITEM 0 (L2) ]
+\0
+
+[@ITEM 0 (FR) ]
+
+Version 1/11 1 G\0
+
+[@ITEM 1 (L1) ]
+\0
+
+[@ITEM 1 (EN) ]
+{MSGWND}
+It's sealed with a mysterious power.\0
+
+[@ITEM 1 (L2) ]
+\0
+
+[@ITEM 1 (FR) ]
+{MSGWND}
+Un sceau magique en empêche l'ouverture...\0
+
+[@ITEM 2 (L1) ]
+\0
+
+[@ITEM 2 (EN) ]
+{MSGWND}
+Obtained {ITEM}!\0
+
+[@ITEM 2 (L2) ]
+\0
+
+[@ITEM 2 (FR) ]
+{MSGWND}
+Obtenu : {ITEM} !\0
+
+[@ITEM 3 (L1) ]
+\0
+
+[@ITEM 3 (EN) ]
+Are you going out in disguise again today?\0
+
+[@ITEM 3 (L2) ]
+\0
+
+[@ITEM 3 (FR) ]
+Vous vous êtes déguisée pour sortir aujourd'hui aussi,
+Votre Altesse ?\0
+
+[@ITEM 4 (L1) ]
+\0
+
+[@ITEM 4 (EN) ]
+Oh, Princess.
+Are you going out in disguise again today?\0
+
+[@ITEM 4 (L2) ]
+\0
+
+[@ITEM 4 (FR) ]
+Votre maquillage est très réussi, Votre Altesse.\0
+
+[@ITEM 5 (L1) ]
+\0
+
+[@ITEM 5 (EN) ]
+You're looking like us again.\0
+
+[@ITEM 5 (L2) ]
+\0
+
+[@ITEM 5 (FR) ]
+Princesse ! Vous avez encore une fois pris la même
+apparence que nous !\0
+
+[@ITEM 6 (L1) ]
+\0
+
+[@ITEM 6 (EN) ]
+{Marle}: Something seems weird, doesn't it?\0
+
+[@ITEM 6 (L2) ]
+\0
+
+[@ITEM 6 (FR) ]
+{Marle} : J'ai l'impression qu'il se passe quelque
+chose...\0
+
+[@ITEM 7 (L1) ]
+\0
+
+[@ITEM 7 (EN) ]
+{Marle}: Let's try going back to the castle.\0
+
+[@ITEM 7 (L2) ]
+\0
+
+[@ITEM 7 (FR) ]
+{Marle} : Retournons au château.\0
+
+[@ITEM 8 (L1) ]
+\0
+
+[@ITEM 8 (EN) ]
+My cat......\0
+
+[@ITEM 8 (L2) ]
+\0
+
+[@ITEM 8 (FR) ]
+Ouiiiiiin ! Mon chat...! J'ai perdu mon chat !\0
+
+[@ITEM 9 (L1) ]
+\0
+
+[@ITEM 9 (EN) ]
+Thanks for bringing me back my kitty.\0
+
+[@ITEM 9 (L2) ]
+\0
+
+[@ITEM 9 (FR) ]
+Merci de m'avoir ramené mon chat !\0
+
+[@ITEM 10 (L1) ]
+\0
+
+[@ITEM 10 (EN) ]
+Make a prediction?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 10 (L2) ]
+\0
+
+[@ITEM 10 (FR) ]
+Voulez-vous prédire qui gagnera la course ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 11 (L1) ]
+\0
+
+[@ITEM 11 (EN) ]
+{MSGWND}
+Ate the lunch and became healthy!!\0
+
+[@ITEM 11 (L2) ]
+\0
+
+[@ITEM 11 (FR) ]
+{MSGWND}
+Le panier-repas vous a redonné des forces !\0
+
+[@ITEM 12 (L1) ]
+\0
+
+[@ITEM 12 (EN) ]
+Last round's winner......{PRESS_CLEAR}
+The Iron-Masked Runner.\0
+
+[@ITEM 12 (L2) ]
+\0
+
+[@ITEM 12 (FR) ]
+Le gagnant de la course précédente est...{PRESS_CLEAR}
+Le coureur au masque de fer !\0
+
+[@ITEM 13 (L1) ]
+\0
+
+[@ITEM 13 (EN) ]
+And the winner of the last race was...{PRESS_CLEAR}
+Green Ambler!\0
+
+[@ITEM 13 (L2) ]
+\0
+
+[@ITEM 13 (FR) ]
+Le gagnant de la course précédente est...{PRESS_CLEAR}
+Le saurien traînard !\0
+
+[@ITEM 14 (L1) ]
+\0
+
+[@ITEM 14 (EN) ]
+And the winner of the last race was...{PRESS_CLEAR}
+Catalack!\0
+
+[@ITEM 14 (L2) ]
+\0
+
+[@ITEM 14 (FR) ]
+Le gagnant de la course précédente est...{PRESS_CLEAR}
+Le joli minet !\0
+
+[@ITEM 15 (L1) ]
+\0
+
+[@ITEM 15 (EN) ]
+Last round's winner......{PRESS_CLEAR}
+The Novice Soldier.\0
+
+[@ITEM 15 (L2) ]
+\0
+
+[@ITEM 15 (FR) ]
+Le gagnant de la course précédente est...{PRESS_CLEAR}
+Le soldat enthousiaste !\0
+
+[@ITEM 16 (L1) ]
+\0
+
+[@ITEM 16 (EN) ]
+\t\t{SEL1}No. 1{SEL5}\t{/SEL5}Steel Runner{/SEL1}
+\t\t{SEL2}No. 2{SEL5}\t{/SEL5}Green Ambler{/SEL2}
+\t\t{SEL3}No. 3{SEL5}\t{/SEL5}Catalack{/SEL3}
+\t\t{SEL4}No. 4{SEL5}\t{/SEL5}G.I. Jogger{/SEL4}\0
+
+[@ITEM 16 (L2) ]
+\0
+
+[@ITEM 16 (FR) ]
+       {SEL1}Le coureur au masque de fer{/SEL1}
+       {SEL2}Le saurien traînard{/SEL2}
+       {SEL3}Le joli minet{/SEL3}
+       {SEL4}Le soldat enthousiaste{/SEL4}\0
+
+[@ITEM 17 (L1) ]
+\0
+
+[@ITEM 17 (EN) ]
+Your card is already full.
+I can't give you any more points!\0
+
+[@ITEM 17 (L2) ]
+\0
+
+[@ITEM 17 (FR) ]
+Vous ne pouvez accumuler plus de points !\0
+
+[@ITEM 18 (L1) ]
+\0
+
+[@ITEM 18 (EN) ]
+There's a race underway.
+Be quiet and watch!{PRESS_CLEAR}
+If you want to try and guess the next winner,
+talk to me once the runners have lined up over
+there after the race.\0
+
+[@ITEM 18 (L2) ]
+\0
+
+[@ITEM 18 (FR) ]
+Nous sommes en plein milieu de la course.
+Taisez-vous et regardez !{PRESS_CLEAR}
+Si vous voulez essayer de prédire le résultat de la
+prochaine course, revenez me parler quand les quatre
+participants seront alignés sur la ligne de départ.\0
+
+[@ITEM 19 (L1) ]
+\0
+
+[@ITEM 19 (EN) ]
+I've got a feeling that Steel Runner just might pull it
+off today.\0
+
+[@ITEM 19 (L2) ]
+\0
+
+[@ITEM 19 (FR) ]
+J'ai le pressentiment que le coureur au masque de fer
+va tenter quelque chose aujourd'hui.\0
+
+[@ITEM 20 (L1) ]
+\0
+
+[@ITEM 20 (EN) ]
+It'll be the Green Ambler for sure this time.
+I can feel it in my bones!\0
+
+[@ITEM 20 (L2) ]
+\0
+
+[@ITEM 20 (FR) ]
+Le saurien traînard... Hum... C'est sur lui que je parie.\0
+
+[@ITEM 21 (L1) ]
+\0
+
+[@ITEM 21 (EN) ]
+Promising...... Sweet Cat.\0
+
+[@ITEM 21 (L2) ]
+\0
+
+[@ITEM 21 (FR) ]
+Le joli minet est une valeur sûre !\0
+
+[@ITEM 22 (L1) ]
+\0
+
+[@ITEM 22 (EN) ]
+There's none above the Novice Soldier today......\0
+
+[@ITEM 22 (L2) ]
+\0
+
+[@ITEM 22 (FR) ]
+Le soldat enthousiaste a l'air en pleine forme !\0
+
+[@ITEM 23 (L1) ]
+\0
+
+[@ITEM 23 (EN) ]
+Not bad!
+I'll put 5 Silver Points on your card.\0
+
+[@ITEM 23 (L2) ]
+\0
+
+[@ITEM 23 (FR) ]
+Bravo ! Vous obtenez 5 points d'argent !\0
+
+[@ITEM 24 (L1) ]
+\0
+
+[@ITEM 24 (EN) ]
+You were right on the money!
+I'll put your 20 Silver Points on your card.\0
+
+[@ITEM 24 (L2) ]
+\0
+
+[@ITEM 24 (FR) ]
+Bravo ! Vous obtenez 20 points d'argent !\0
+
+[@ITEM 25 (L1) ]
+\0
+
+[@ITEM 25 (EN) ]
+Press the confirmation button while facing the bell.
+Judge your distance carefully, and then press the
+A Button!\0
+
+[@ITEM 25 (L2) ]
+\0
+
+[@ITEM 25 (FR) ]
+Placez-vous devant le gong pour prendre de l'élan,
+puis appuyez sur le bouton A au bon moment pour
+faire monter le palet.\0
+
+[@ITEM 26 (L1) ]
+\0
+
+[@ITEM 26 (EN) ]
+Way to go!
+I'll put 1 Silver Point on your card.\0
+
+[@ITEM 26 (L2) ]
+\0
+
+[@ITEM 26 (FR) ]
+Bravo ! Vous obtenez 1 point d'argent !\0
+
+[@ITEM 27 (L1) ]
+\0
+
+[@ITEM 27 (EN) ]
+Oh! On a closer look, that pendant......{56}{PRESS_CLEAR}
+No, I can't take something that valuable.
+You take good care of it.\0
+
+[@ITEM 27 (L2) ]
+\0
+
+[@ITEM 27 (FR) ]
+Oh ! Ce pendentif !{PRESS_CLEAR}
+Non, je ne peux pas acheter un objet aussi précieux.
+Prenez-en grand soin.\0
+
+[@ITEM 28 (L1) ]
+\0
+
+[@ITEM 28 (EN) ]
+Bosch the swordsmith, at your service!
+Might I interest you in one of my fine blades?{PRESS_CLEAR}
+		{SEL1}Take a look.{/SEL1}
+		{SEL2}No, thanks.{/SEL2}\0
+
+[@ITEM 28 (L2) ]
+\0
+
+[@ITEM 28 (FR) ]
+Je suis Bosch, le forgeron. Voulez-vous acheter une
+des armes que j'ai fabriquées ?{PRESS_CLEAR}
+       {SEL1}Jeter un coup d'œil{/SEL1}
+       {SEL2}Laisser tomber{/SEL2}\0
+
+[@ITEM 29 (L1) ]
+\0
+
+[@ITEM 29 (EN) ]
+By the way, the pendant the girl behind you has.{PRESS_CLEAR}
+Could you talk her into
+selling it?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 29 (L2) ]
+\0
+
+[@ITEM 29 (FR) ]
+Au fait...{PRESS_CLEAR}
+Pourriez-vous convaincre la jeune fille qui vous
+accompagne de me vendre son pendentif ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 30 (L1) ]
+\0
+
+[@ITEM 30 (EN) ]
+Bosch: I live on the eastern continent.
+Stop by some time.\0
+
+[@ITEM 30 (L2) ]
+\0
+
+[@ITEM 30 (FR) ]
+Bosch : J'habite sur le continent est. Venez me rendre
+visite un de ces jours.\0
+
+[@ITEM 31 (L1) ]
+\0
+
+[@ITEM 31 (EN) ]
+Stand next to me! Compete in drinking!\0
+
+[@ITEM 31 (L2) ]
+\0
+
+[@ITEM 31 (FR) ]
+Venez à côté de moi et essayez de boire le plus de
+verres possible !{PRESS_CLEAR}
+Appuyez rapidement sur le bouton A de façon répétée !\0
+
+[@ITEM 32 (L1) ]
+\0
+
+[@ITEM 32 (EN) ]
+Ready... GO!!\0
+
+[@ITEM 32 (L2) ]
+\0
+
+[@ITEM 32 (FR) ]
+C'est parti !\0
+
+[@ITEM 33 (L1) ]
+\0
+
+[@ITEM 33 (EN) ]
+{COUNT}?
+You've got a ways to go!\0
+
+[@ITEM 33 (L2) ]
+\0
+
+[@ITEM 33 (FR) ]
+Seulement {COUNT} ?
+Vous avez encore du chemin à faire !\0
+
+[@ITEM 34 (L1) ]
+\0
+
+[@ITEM 34 (EN) ]
+Not bad!\0
+
+[@ITEM 34 (L2) ]
+\0
+
+[@ITEM 34 (FR) ]
+Pas mal !\0
+
+[@ITEM 35 (L1) ]
+\0
+
+[@ITEM 35 (EN) ]
+I can't drink with you.\0
+
+[@ITEM 35 (L2) ]
+\0
+
+[@ITEM 35 (FR) ]
+Je ne suis pas de taille contre vous.\0
+
+[@ITEM 36 (L1) ]
+\0
+
+[@ITEM 36 (EN) ]
+Girl: Kyah!\0
+
+[@ITEM 36 (L2) ]
+\0
+
+[@ITEM 36 (FR) ]
+Jeune fille : Ah !\0
+
+[@ITEM 37 (L1) ]
+\0
+
+[@ITEM 37 (EN) ]
+Girl: Owww......\0
+
+[@ITEM 37 (L2) ]
+\0
+
+[@ITEM 37 (FR) ]
+Jeune fille : Ouille...\0
+
+[@ITEM 38 (L1) ]
+\0
+
+[@ITEM 38 (EN) ]
+Girl: I, I'm sorry!\0
+
+[@ITEM 38 (L2) ]
+\0
+
+[@ITEM 38 (FR) ]
+Jeune fille : Je suis désolée ! Ça va ?\0
+
+[@ITEM 39 (L1) ]
+\0
+
+[@ITEM 39 (EN) ]
+Girl: H, huh?
+My pendant......\0
+
+[@ITEM 39 (L2) ]
+\0
+
+[@ITEM 39 (FR) ]
+Jeune fille : Oh ? Mon pendentif...\0
+
+[@ITEM 40 (L1) ]
+\0
+
+[@ITEM 40 (EN) ]
+Girl: Th, this is awful!
+Could I have lost it?\0
+
+[@ITEM 40 (L2) ]
+\0
+
+[@ITEM 40 (FR) ]
+Jeune fille : Oh, non ! Où est mon pendentif ?
+L'aurais-je perdu ?!\0
+
+[@ITEM 41 (L1) ]
+\0
+
+[@ITEM 41 (EN) ]
+Girl: Thanks!!
+That pendant's mine.
+It's worn out, but it's very important.{PRESS_CLEAR}
+Could you give it back?
+		{SEL1}Yes.{/SEL1}
+		{SEL2}No.{/SEL2}\0
+
+[@ITEM 41 (L2) ]
+\0
+
+[@ITEM 41 (FR) ]
+Jeune fille : Oh, tu as retrouvé mon pendentif ?
+Il est vieux, mais il m'est très précieux.{PRESS_CLEAR}
+Pourrais-je le ravoir ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 42 (L1) ]
+\0
+
+[@ITEM 42 (EN) ]
+{Marle}: It's worn out, but it's reeeally important.
+Could you give it back?\0
+
+[@ITEM 42 (L2) ]
+\0
+
+[@ITEM 42 (FR) ]
+{Marle} : Il est vieux, mais il m'est très précieux.
+Pourrais-je le ravoir ?\0
+
+[@ITEM 43 (L1) ]
+\0
+
+[@ITEM 43 (EN) ]
+I came to see the festival.{PRESS_CLEAR}
+Hey, you're from this town, right?
+It's no fun alone.{PRESS_CLEAR}
+Let's wander around together!
+That's okay, right? Right?
+		{SEL1}Yes.{/SEL1}
+		{SEL2}No.{/SEL2}\0
+
+[@ITEM 43 (L2) ]
+\0
+
+[@ITEM 43 (FR) ]
+Dis, tu es de ce village, pas vrai ? Je suis venue
+m'amuser à la foire, mais toute seule, ce n'est pas
+marrant.{PRESS_CLEAR}
+Tu veux bien m'accompagner ?
+S'il te plaît !
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 44 (L1) ]
+\0
+
+[@ITEM 44 (EN) ]
+Girl: No way! I thought you'd help
+out a frail little girl, please ♥
+		{SEL1}Yes.{/SEL1}
+		{SEL2}No.{/SEL2}\0
+
+[@ITEM 44 (L2) ]
+\0
+
+[@ITEM 44 (FR) ]
+Jeune fille : Oh, allons ! Tu refuserais de porter secours
+à une jeune fille en détresse ?
+       {SEL1}Accompagner la jeune fille{/SEL1}
+       {SEL2}Refuser de l'accompagner{/SEL2}\0
+
+[@ITEM 45 (L1) ]
+\0
+
+[@ITEM 45 (EN) ]
+Girl: Yaaay, all right!\0
+
+[@ITEM 45 (L2) ]
+\0
+
+[@ITEM 45 (FR) ]
+Jeune fille : Super !\0
+
+[@ITEM 46 (L1) ]
+\0
+
+[@ITEM 46 (EN) ]
+Girl: Ah, I haven't told you my name.\0
+
+[@ITEM 46 (L2) ]
+\0
+
+[@ITEM 46 (FR) ]
+Jeune fille : Oh, j'ai oublié de me présenter.
+Euh... Je m'appelle...\0
+
+[@ITEM 47 (L1) ]
+\0
+
+[@ITEM 47 (EN) ]
+{Marle}: I'm {Marle}.
+And you?\0
+
+[@ITEM 47 (L2) ]
+\0
+
+[@ITEM 47 (FR) ]
+{Marle} : Je m'appelle {Marle}.
+Et toi ?\0
+
+[@ITEM 48 (L1) ]
+\0
+
+[@ITEM 48 (EN) ]
+{Marle}: {Crono}? That's a good name!
+Nice to meet you, {Crono}!
+C'mon, let's go, quick!\0
+
+[@ITEM 48 (L2) ]
+\0
+
+[@ITEM 48 (FR) ]
+{Marle} : {Crono} ? Quel joli nom !
+Enchantée ! Alors, qu'attendons-nous ?\0
+
+[@ITEM 49 (L1) ]
+\0
+
+[@ITEM 49 (EN) ]
+Oh, the young!
+Today is our kingdom's Millennial Festival!
+Go enjoy it to your heart's content.\0
+
+[@ITEM 49 (L2) ]
+\0
+
+[@ITEM 49 (FR) ]
+Bienvenue à la foire du millénaire du royaume !
+Amusez-vous à cœur joie !\0
+
+[@ITEM 50 (L1) ]
+\0
+
+[@ITEM 50 (EN) ]
+I hear the Princess slipped out of the castle.\0
+
+[@ITEM 50 (L2) ]
+\0
+
+[@ITEM 50 (FR) ]
+Il paraît que la princesse s'est encore échappée du
+château.\0
+
+[@ITEM 51 (L1) ]
+\0
+
+[@ITEM 51 (EN) ]
+Come one, come all, to the Tent of Horrors!
+Spend your Silver Points here!
+Put your bravery to the test!{PRESS_CLEAR}
+Let me check how many points you have...{COUNT}.
+Well, you can only spend them in here, you know!\0
+
+[@ITEM 51 (L2) ]
+\0
+
+[@ITEM 51 (FR) ]
+Voici la tente des horreurs ! Ce n'est qu'à l'intérieur que
+vous pouvez utiliser vos points d'argent.{PRESS_CLEAR}
+Vous en avez {COUNT}. Mais aurez-vous le courage d'y
+pénétrer ?\0
+
+[@ITEM 52 (L1) ]
+\0
+
+[@ITEM 52 (EN) ]
+That bundle's my mommy's lunch.
+Packed with energy! I look forward to it every day.\0
+
+[@ITEM 52 (L2) ]
+\0
+
+[@ITEM 52 (FR) ]
+Ce paquet rose est le panier-repas que m'a préparé
+mamie. J'attends chaque jour avec impatience le
+moment de le manger. Il me redonne de l'énergie !\0
+
+[@ITEM 53 (L1) ]
+\0
+
+[@ITEM 53 (EN) ]
+The running people are in the middle of racing.
+They won't answer even if you talk to them.\0
+
+[@ITEM 53 (L2) ]
+\0
+
+[@ITEM 53 (FR) ]
+Ces coureurs sont tellement concentrés sur leur course
+qu'ils ne répondent même pas quand on leur adresse la
+parole.\0
+
+[@ITEM 54 (L1) ]
+\0
+
+[@ITEM 54 (EN) ]
+Thinking back on it, a lot's happened to this
+country......{PRESS_CLEAR}
+Like the war with Magus's army about 400 years
+ago.
+You be thankful for the peace now too.\0
+
+[@ITEM 54 (L2) ]
+\0
+
+[@ITEM 54 (FR) ]
+Quand on y pense, il s'en est passé des choses dans ce
+royaume... La guerre contre l'armée de {Magus} il y a
+400 ans, par exemple...{PRESS_CLEAR}
+Nous devrions tous être reconnaissants de la paix qui
+règne aujourd'hui.\0
+
+[@ITEM 55 (L1) ]
+\0
+
+[@ITEM 55 (EN) ]
+I hear this guy buys accessories and stuff too.{PRESS_CLEAR}
+Yeah...... I bet you could sell pendants and
+stuff too.\0
+
+[@ITEM 55 (L2) ]
+\0
+
+[@ITEM 55 (FR) ]
+J'ai entendu dire que ce vieil homme achète toutes
+sortes d'accessoires.{PRESS_CLEAR}
+Hum... Je me demande s'il achète aussi des pendentifs...\0
+
+[@ITEM 56 (L1) ]
+\0
+
+[@ITEM 56 (EN) ]
+Those who want to fight with Gonzales, the
+bipedal robot that {Lucca} developed, head in
+here! You can get silver points if you win!!\0
+
+[@ITEM 56 (L2) ]
+\0
+
+[@ITEM 56 (FR) ]
+Par ici pour ceux qui veulent combattre Gonzales, le
+robot bipède inventé par {Lucca} ! Si vous arrivez à
+le vaincre, vous obtiendrez des points d'argent !\0
+
+[@ITEM 57 (L1) ]
+\0
+
+[@ITEM 57 (EN) ]
+This is Leene Square.
+There's a legend that says if you hear the
+sound of Leene's bell, you'll be able to live
+happily ever after.\0
+
+[@ITEM 57 (L2) ]
+\0
+
+[@ITEM 57 (FR) ]
+La légende dit que ceux qui entendent la cloche de
+Lynne seront toujours heureux !\0
+
+[@ITEM 58 (L1) ]
+\0
+
+[@ITEM 58 (EN) ]
+Eh, heh, heh, I know about it.
+I heard there was an awesome battle with
+Magus's army hundreds of years ago.
+My mama says that if we'd lost that battle,
+there wouldn't be a festival like this now.\0
+
+[@ITEM 58 (L2) ]
+\0
+
+[@ITEM 58 (FR) ]
+Ma mère m'a raconté que notre royaume a combattu
+l'armée du Magistère il y a des centaines d'années.{PRESS_CLEAR}
+Elle dit que si on avait perdu, il n'y aurait pas de foire
+aujourd'hui.\0
+
+[@ITEM 59 (L1) ]
+\0
+
+[@ITEM 59 (EN) ]
+They're in the middle of setting up ahead.
+Come again after having a look around the square.\0
+
+[@ITEM 59 (L2) ]
+\0
+
+[@ITEM 59 (FR) ]
+Ils n'ont pas terminé les préparatifs. Allez faire le tour
+de la foire et revenez un peu plus tard.\0
+
+[@ITEM 60 (L1) ]
+\0
+
+[@ITEM 60 (EN) ]
+I hear {Lucca}'s made another questionable
+invention with her blacksmith father.{PRESS_CLEAR}
+Hope it doesn't suddenly go BOOM! like that
+other one did.\0
+
+[@ITEM 60 (L2) ]
+\0
+
+[@ITEM 60 (FR) ]
+Apparemment, {Lucca} et son père, le forgeron, ont
+fabriqué une autre de leurs inventions bizarres.{PRESS_CLEAR}
+J'espère qu'elle n'explosera pas comme la dernière fois...\0
+
+[@ITEM 61 (L1) ]
+\0
+
+[@ITEM 61 (EN) ]
+Isn't it about time for them to be ready?
+It's waaay in the back of the square.{PRESS_CLEAR}
+{Marle}: Hmmm, sounds interesting.
+Take me there, {Crono}!\0
+
+[@ITEM 61 (L2) ]
+\0
+
+[@ITEM 61 (FR) ]
+Leur invention devrait être prête, maintenant.
+Ils l'ont installée à l'autre bout de la place.{PRESS_CLEAR}
+{Marle} : Oh, ça a l'air intéressant !
+Allons-y, {Crono} !\0
+
+[@ITEM 62 (L1) ]
+\0
+
+[@ITEM 62 (EN) ]
+{Lucca}'s invention's ready now.
+It's waaay in the back of the square.\0
+
+[@ITEM 62 (L2) ]
+\0
+
+[@ITEM 62 (FR) ]
+L'invention de {Lucca} est prête.
+Elle est installée au nord de la place.\0
+
+[@ITEM 63 (L1) ]
+\0
+
+[@ITEM 63 (EN) ]
+{Marle}: Wait up!!
+I'm gonna go buy some candy!\0
+
+[@ITEM 63 (L2) ]
+\0
+
+[@ITEM 63 (FR) ]
+{Marle} : Attends un peu ! Je veux acheter des
+bonbons !\0
+
+[@ITEM 64 (L1) ]
+\0
+
+[@ITEM 64 (EN) ]
+{Marle}: Hold on a minute, don't rush!\0
+
+[@ITEM 64 (L2) ]
+\0
+
+[@ITEM 64 (FR) ]
+{Marle} : Ne sois pas si pressé ! Attends !\0
+
+[@ITEM 65 (L1) ]
+\0
+
+[@ITEM 65 (EN) ]
+{Marle}: It's not like you're a kidnapper.
+Don't drag my arm like that!\0
+
+[@ITEM 65 (L2) ]
+\0
+
+[@ITEM 65 (FR) ]
+{Marle} : Arrête de me tirer par le bras comme ça !
+Tu me fais mal !\0
+
+[@ITEM 66 (L1) ]
+\0
+
+[@ITEM 66 (EN) ]
+{Marle}: Miss,
+this one please!{PRESS_CLEAR}
+Middle-aged Woman: Gotcha.\0
+
+[@ITEM 66 (L2) ]
+\0
+
+[@ITEM 66 (FR) ]
+{Marle} : Je voudrais ceux-là, s'il vous plaît !{PRESS_CLEAR}
+Vendeuse : Voilà.\0
+
+[@ITEM 67 (L1) ]
+\0
+
+[@ITEM 67 (EN) ]
+{Marle}: Thanks for waiting!\0
+
+[@ITEM 67 (L2) ]
+\0
+
+[@ITEM 67 (FR) ]
+{Marle} : Désolée de t'avoir fait attendre !\0
+
+[@ITEM 68 (L1) ]
+\0
+
+[@ITEM 68 (EN) ]
+{Marle}: *giggle*
+{Crono}, you're a pig!\0
+
+[@ITEM 68 (L2) ]
+\0
+
+[@ITEM 68 (FR) ]
+{Marle} : Hi, hi, hi ! Quel glouton tu es, {Crono} !\0
+
+[@ITEM 69 (L1) ]
+\0
+
+[@ITEM 69 (EN) ]
+{Marle}: {Crono}, you're nice!\0
+
+[@ITEM 69 (L2) ]
+\0
+
+[@ITEM 69 (FR) ]
+{Marle} : Ah, tu es si gentil, {Crono} !\0
+
+[@ITEM 70 (L1) ]
+\0
+
+[@ITEM 70 (EN) ]
+{Marle}: You give your all no matter what you're
+doing, don't you, {Crono}.\0
+
+[@ITEM 70 (L2) ]
+\0
+
+[@ITEM 70 (FR) ]
+{Marle} : Tu te donnes toujours à fond, quoi que
+tu fasses, hein, {Crono} ?\0
+
+[@ITEM 71 (L1) ]
+\0
+
+[@ITEM 71 (EN) ]
+{Marle}: I'm happy!
+I'm with {Crono} like this.\0
+
+[@ITEM 71 (L2) ]
+\0
+
+[@ITEM 71 (FR) ]
+{Marle} : Je m'amuse tant avec toi, {Crono} !\0
+
+[@ITEM 72 (L1) ]
+\0
+
+[@ITEM 72 (EN) ]
+The merchants in the square have all gone home
+to stock up on new merchandise.
+Try going to the town goods market.\0
+
+[@ITEM 72 (L2) ]
+\0
+
+[@ITEM 72 (FR) ]
+Les marchands de la place sont rentrés se
+réapprovisionner. Allez voir au magasin du
+village.\0
+
+[@ITEM 73 (L1) ]
+\0
+
+[@ITEM 73 (EN) ]
+Let me see how many Silver Points you have
+on your card... Looks like you've got {COUNT}.{PRESS_CLEAR}
+Would you like to exchange 10 Silver Points
+for 50 G?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 73 (L2) ]
+\0
+
+[@ITEM 73 (FR) ]
+Vous avez actuellement {COUNT} point(s) d'argent.{PRESS_CLEAR}
+Voulez-vous échanger 10 points d'argent contre
+50 G ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 74 (L1) ]
+\0
+
+[@ITEM 74 (EN) ]
+Not enough points.\0
+
+[@ITEM 74 (L2) ]
+\0
+
+[@ITEM 74 (FR) ]
+Vous n'avez pas assez de points d'argent.\0
+
+[@ITEM 75 (L1) ]
+\0
+
+[@ITEM 75 (EN) ]
+Come again.\0
+
+[@ITEM 75 (L2) ]
+\0
+
+[@ITEM 75 (FR) ]
+À bientôt, j'espère.\0
+
+[@ITEM 76 (L1) ]
+\0
+
+[@ITEM 76 (EN) ]
+Ho, ho, ho, festivals are such fun.
+By the way, have you heard?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 76 (L2) ]
+\0
+
+[@ITEM 76 (FR) ]
+Ho, ho, ho ! J'aime les foires ! Au fait, avez-vous
+entendu les dernières nouvelles ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 77 (L1) ]
+\0
+
+[@ITEM 77 (EN) ]
+I see...... okay then.\0
+
+[@ITEM 77 (L2) ]
+\0
+
+[@ITEM 77 (FR) ]
+Je vois... Eh bien, tant mieux.\0
+
+[@ITEM 78 (L1) ]
+\0
+
+[@ITEM 78 (EN) ]
+Just between us, our country's king, King Guardia,
+is at a loss over his daughter acting like a tomboy,
+or so I hear.{PRESS_CLEAR}
+But I'd like to see just how much of a tomboy
+that Princess is some time.\0
+
+[@ITEM 78 (L2) ]
+\0
+
+[@ITEM 78 (FR) ]
+Entre vous et moi, il paraît que le roi Gardia ne sait que
+faire de sa fille qui n'est qu'un garçon manqué.{PRESS_CLEAR}
+Cependant, j'aimerais bien voir à quel point elle l'est !\0
+
+[@ITEM 79 (L1) ]
+\0
+
+[@ITEM 79 (EN) ]
+Taban: Come, come, those with time and
+bravery witness it!
+THIS is the great invention of the century!
+It's the Ultra Dimensional Matter-Transfer
+Machine #1!!\0
+
+[@ITEM 79 (L2) ]
+\0
+
+[@ITEM 79 (FR) ]
+Taban : Approchez ! Approchez, si vous en avez le
+courage !{PRESS_CLEAR}
+Voici l'invention du siècle : le premier super-téléporteur
+transdimensionnel !\0
+
+[@ITEM 80 (L1) ]
+\0
+
+[@ITEM 80 (EN) ]
+Taban: In short, when you get on over here,\0
+
+[@ITEM 80 (L2) ]
+\0
+
+[@ITEM 80 (FR) ]
+Taban : C'est une machine extraordinaire ! Vous n'avez
+qu'à monter sur cette plateforme et...\0
+
+[@ITEM 81 (L1) ]
+\0
+
+[@ITEM 81 (EN) ]
+Taban: You're transferred to over here. It's a
+dreamlike device!{PRESS_CLEAR}
+The one who invented this one is the
+clear-headed, gifted with both intelligence and
+beauty, my own one daughter, {Lucca}!\0
+
+[@ITEM 81 (L2) ]
+\0
+
+[@ITEM 81 (FR) ]
+Taban : ... vous serez téléporté ici !{PRESS_CLEAR}
+C'est l'invention de ma brillante et ravissante fille
+unique, {Lucca} !\0
+
+[@ITEM 82 (L1) ]
+\0
+
+[@ITEM 82 (EN) ]
+Taban: Oh? You gonna do it, boy?
+......oh, it's you, {Crono}.\0
+
+[@ITEM 82 (L2) ]
+\0
+
+[@ITEM 82 (FR) ]
+Taban : Oh, tu veux l'essayer, {Crono} ?\0
+
+[@ITEM 83 (L1) ]
+\0
+
+[@ITEM 83 (EN) ]
+Taban: There's not a THING scary about it.
+It worked fine with cats.{PRESS_CLEAR}
+Though we haven't tried on humans yet......
+Hey, relax and get on! Get on!\0
+
+[@ITEM 83 (L2) ]
+\0
+
+[@ITEM 83 (FR) ]
+Taban : Il n'y a rien à craindre ! Nous l'avons testée
+avec succès avec des chats. Pas encore avec des
+humains, mais bon...{PRESS_CLEAR}
+Tu peux l'utiliser en toute confiance ! Allez !\0
+
+[@ITEM 84 (L1) ]
+\0
+
+[@ITEM 84 (EN) ]
+Taban: It really went well!?{56}{PRESS_CLEAR}
+Even rarities can happ......
+C, cough!
+No, no, it's {Lucca}'s invention, so naturally!
+Great, right!\0
+
+[@ITEM 84 (L2) ]
+\0
+
+[@ITEM 84 (FR) ]
+Taban : Tout s'est vraiment bien passé ?! Quel mir...
+Euh, je veux dire, bien entendu ! C'est une invention
+de {Lucca}, après tout ! Formidable !\0
+
+[@ITEM 85 (L1) ]
+\0
+
+[@ITEM 85 (EN) ]
+{Lucca}: {Crono}!\0
+
+[@ITEM 85 (L2) ]
+\0
+
+[@ITEM 85 (FR) ]
+{Lucca} : {Crono} !\0
+
+[@ITEM 86 (L1) ]
+\0
+
+[@ITEM 86 (EN) ]
+{Lucca}: I was waiting for you!
+Nooo one will brave this Telepod's transmission.{PRESS_CLEAR}
+Won't you do it now that it's come to this?\0
+
+[@ITEM 86 (L2) ]
+\0
+
+[@ITEM 86 (FR) ]
+{Lucca} : Je t'attendais ! Personne ne veut essayer
+le téléporteur.{PRESS_CLEAR}
+Que dirais-tu de le faire ?\0
+
+[@ITEM 87 (L1) ]
+\0
+
+[@ITEM 87 (EN) ]
+{Lucca}: Just get on the left pad.\0
+
+[@ITEM 87 (L2) ]
+\0
+
+[@ITEM 87 (FR) ]
+{Lucca} : Monte sur la plateforme de gauche !\0
+
+[@ITEM 88 (L1) ]
+\0
+
+[@ITEM 88 (EN) ]
+{Lucca}: How was it, were you surprised?
+You can do it again, if you want?\0
+
+[@ITEM 88 (L2) ]
+\0
+
+[@ITEM 88 (FR) ]
+{Lucca} : Alors, qu'en dis-tu ? Tu veux réessayer ?\0
+
+[@ITEM 89 (L1) ]
+\0
+
+[@ITEM 89 (EN) ]
+{Marle}: Try doing it. I'll be watching!\0
+
+[@ITEM 89 (L2) ]
+\0
+
+[@ITEM 89 (FR) ]
+{Marle} : Ça a l'air amusant ! Essaie !
+Je vais te regarder !\0
+
+[@ITEM 90 (L1) ]
+\0
+
+[@ITEM 90 (EN) ]
+{Marle}: It looks fun, I'll do it too!\0
+
+[@ITEM 90 (L2) ]
+\0
+
+[@ITEM 90 (FR) ]
+{Marle} : Ça a l'air pas mal ! Je veux essayer !\0
+
+[@ITEM 91 (L1) ]
+\0
+
+[@ITEM 91 (EN) ]
+{Lucca}: Huh?\0
+
+[@ITEM 91 (L2) ]
+\0
+
+[@ITEM 91 (FR) ]
+{Lucca} : Hein ?\0
+
+[@ITEM 92 (L1) ]
+\0
+
+[@ITEM 92 (EN) ]
+{Lucca}: H, hold on, {Crono}.
+Just when did you seduce such a cute girl?\0
+
+[@ITEM 92 (L2) ]
+\0
+
+[@ITEM 92 (FR) ]
+{Lucca} : Dis donc, {Crono}, comment as-tu fait
+pour dénicher soudainement une aussi jolie fille ?\0
+
+[@ITEM 93 (L1) ]
+\0
+
+[@ITEM 93 (EN) ]
+{Marle}: Hey, you don't mind, right, {Crono}?
+Wait here.{56}
+Don't go anywhere!\0
+
+[@ITEM 93 (L2) ]
+\0
+
+[@ITEM 93 (FR) ]
+{Marle} : Reste là, d'accord {Crono} ?
+Ne bouge surtout pas !\0
+
+[@ITEM 94 (L1) ]
+\0
+
+[@ITEM 94 (EN) ]
+Taban: Well, well, the one who braves it is
+such a lovely young woman!
+Come, come, this way please!\0
+
+[@ITEM 94 (L2) ]
+\0
+
+[@ITEM 94 (FR) ]
+Taban : Oh, c'est cette demoiselle qui va mettre la
+machine au défi ! Par ici, s'il te plaît !\0
+
+[@ITEM 95 (L1) ]
+\0
+
+[@ITEM 95 (EN) ]
+{Marle}: *giggle*
+Well, be right back!\0
+
+[@ITEM 95 (L2) ]
+\0
+
+[@ITEM 95 (FR) ]
+{Marle} : Hi, hi, hi ! Je reviens tout de suite !\0
+
+[@ITEM 96 (L1) ]
+\0
+
+[@ITEM 96 (EN) ]
+Taban: Is this okay?
+If you're quitting, now's the time for it.\0
+
+[@ITEM 96 (L2) ]
+\0
+
+[@ITEM 96 (FR) ]
+Taban : Es-tu certaine de vouloir essayer ? Si tu veux
+abandonner, c'est le moment de le dire.\0
+
+[@ITEM 97 (L1) ]
+\0
+
+[@ITEM 97 (EN) ]
+{Marle}: No problem!
+It's not like it's scary or anything.\0
+
+[@ITEM 97 (L2) ]
+\0
+
+[@ITEM 97 (FR) ]
+{Marle} : J'en suis sûre ! Je n'ai pas peur du tout !\0
+
+[@ITEM 98 (L1) ]
+\0
+
+[@ITEM 98 (EN) ]
+Taban: Well then, everyone!
+When this cute young woman beautifully
+vanishes, let's have some applause.\0
+
+[@ITEM 98 (L2) ]
+\0
+
+[@ITEM 98 (FR) ]
+Taban : Eh bien, mesdames et messieurs ! Quand elle
+disparaîtra comme par magie, n'oubliez pas d'applaudir !\0
+
+[@ITEM 99 (L1) ]
+\0
+
+[@ITEM 99 (EN) ]
+Taban: Switch on!\0
+
+[@ITEM 99 (L2) ]
+\0
+
+[@ITEM 99 (FR) ]
+Taban : Pleine puissance !\0
+
+[@ITEM 100 (L1) ]
+\0
+
+[@ITEM 100 (EN) ]
+{Lucca}: Energy loading beginning!\0
+
+[@ITEM 100 (L2) ]
+\0
+
+[@ITEM 100 (FR) ]
+{Lucca} : Chargement des batteries !\0
+
+[@ITEM 101 (L1) ]
+\0
+
+[@ITEM 101 (EN) ]
+{Marle}: The pendant{56}\0
+
+[@ITEM 101 (L2) ]
+\0
+
+[@ITEM 101 (FR) ]
+{Marle} : Qu'est-ce qui se passe ?
+Mon pendentif...\0
+
+[@ITEM 102 (L1) ]
+\0
+
+[@ITEM 102 (EN) ]
+{Lucca}: That girl......
+......hm? Come to think of it, it feels like I've
+seen that girl somewhere?\0
+
+[@ITEM 102 (L2) ]
+\0
+
+[@ITEM 102 (FR) ]
+{Lucca} : Cette fille... Hum...
+J'ai l'impression de l'avoir déjà vue quelque part...\0
+
+[@ITEM 103 (L1) ]
+\0
+
+[@ITEM 103 (EN) ]
+{Lucca}: Huh!?\0
+
+[@ITEM 103 (L2) ]
+\0
+
+[@ITEM 103 (FR) ]
+{Lucca} : Hein ?!\0
+
+[@ITEM 104 (L1) ]
+\0
+
+[@ITEM 104 (EN) ]
+All Present: Ohhhh!
+Great!!\0
+
+[@ITEM 104 (L2) ]
+\0
+
+[@ITEM 104 (FR) ]
+Foule : Oooh !
+Formidable !\0
+
+[@ITEM 105 (L1) ]
+\0
+
+[@ITEM 105 (EN) ]
+Taban: Hm......?\0
+
+[@ITEM 105 (L2) ]
+\0
+
+[@ITEM 105 (FR) ]
+Taban : Euh...?!\0
+
+[@ITEM 106 (L1) ]
+\0
+
+[@ITEM 106 (EN) ]
+Taban: Hey, {Lucca},
+she's not coming out, you know?\0
+
+[@ITEM 106 (L2) ]
+\0
+
+[@ITEM 106 (FR) ]
+Taban : Dis, {Lucca}, elle ne réapparaît pas de
+l'autre côté ?\0
+
+[@ITEM 107 (L1) ]
+\0
+
+[@ITEM 107 (EN) ]
+{Lucca}: ......\0
+
+[@ITEM 107 (L2) ]
+\0
+
+[@ITEM 107 (FR) ]
+{Lucca} : ...\0
+
+[@ITEM 108 (L1) ]
+\0
+
+[@ITEM 108 (EN) ]
+Taban: Y, yes! As you can see, she's vanished
+without a trace!
+Sh, show's over!!\0
+
+[@ITEM 108 (L2) ]
+\0
+
+[@ITEM 108 (FR) ]
+Taban : Eh oui, mesdames et messieurs, comme vous
+pouvez le constater, elle a disparu sans laisser de
+trace ! Euh, le spectacle est fini !\0
+
+[@ITEM 109 (L1) ]
+\0
+
+[@ITEM 109 (EN) ]
+Taban: Hey, {Lucca}!
+What the hell's going on?
+What happened to that girl!?\0
+
+[@ITEM 109 (L2) ]
+\0
+
+[@ITEM 109 (FR) ]
+Taban : {Lucca} ! Que s'est-il passé ?
+Qu'est-il arrivé à cette jeune fille ?!\0
+
+[@ITEM 110 (L1) ]
+\0
+
+[@ITEM 110 (EN) ]
+{Lucca}: The way that girl vanished isn't the way
+things vanish with the Telepod's transfer.{PRESS_CLEAR}
+The way space warped......
+The pendant seemed like it was reacting...
+And another...... something......\0
+
+[@ITEM 110 (L2) ]
+\0
+
+[@ITEM 110 (FR) ]
+{Lucca} : La façon dont elle a disparu est différente
+de l'effet habituel du téléporteur...{PRESS_CLEAR}
+Cette distorsion de l'espace... Le pendentif semblait y
+réagir...\0
+
+[@ITEM 111 (L1) ]
+\0
+
+[@ITEM 111 (EN) ]
+Taban: What should we do?\0
+
+[@ITEM 111 (L2) ]
+\0
+
+[@ITEM 111 (FR) ]
+Taban : Comment allons-nous faire pour la sauver ?\0
+
+[@ITEM 112 (L1) ]
+\0
+
+[@ITEM 112 (EN) ]
+{Lucca}: H, hey, {Crono}!
+You brought that girl here!
+Where do you think you're going!\0
+
+[@ITEM 112 (L2) ]
+\0
+
+[@ITEM 112 (FR) ]
+{Lucca} : Un instant, {Crono} ! Où t'en vas-tu
+comme ça ?{PRESS_CLEAR}
+C'est pourtant toi qui l'as emmenée ici !\0
+
+[@ITEM 113 (L1) ]
+\0
+
+[@ITEM 113 (EN) ]
+{Lucca}: {Crono}!\0
+
+[@ITEM 113 (L2) ]
+\0
+
+[@ITEM 113 (FR) ]
+{Lucca} : {Crono} !\0
+
+[@ITEM 114 (L1) ]
+\0
+
+[@ITEM 114 (EN) ]
+Taban: Ohh!
+So you mean you're going after her, Crono.
+That's a man for you!\0
+
+[@ITEM 114 (L2) ]
+\0
+
+[@ITEM 114 (FR) ]
+Taban : Oh ! Tu vas la suivre, c'est ça, {Crono} ?
+Je savais bien que tu étais un homme digne de
+ce nom !\0
+
+[@ITEM 115 (L1) ]
+\0
+
+[@ITEM 115 (EN) ]
+{Lucca}: That's right!
+Though we don't know what's beyond that
+space, it looks like there's no way but that.{PRESS_CLEAR}
+Taban: But the hole won't necessarily
+conveniently appear again.{PRESS_CLEAR}
+{Lucca}: It's worth trying!
+The pendant has definitely become the key!
+{Crono}!{56}
+Hold on to it tight, and the same thing should
+definitely happen!\0
+
+[@ITEM 115 (L2) ]
+\0
+
+[@ITEM 115 (FR) ]
+{Lucca} : Tu as raison ! Même si on ne sait pas ce
+qu'il y a au-delà de cette distorsion, je ne vois pas
+d'autre solution.{PRESS_CLEAR}
+Taban : Mais la distorsion pourrait ne pas apparaître de
+nouveau au bon moment !{PRESS_CLEAR}
+{Lucca} : Ça vaut tout de même la peine d'essayer !
+Le pendentif est sûrement la clef, {Crono} !
+Tiens-le fermement ! La même chose devrait se
+reproduire !\0
+
+[@ITEM 116 (L1) ]
+\0
+
+[@ITEM 116 (EN) ]
+{Lucca}: Raise the output more!!\0
+
+[@ITEM 116 (L2) ]
+\0
+
+[@ITEM 116 (FR) ]
+{Lucca} : Transfère plus d'énergie !\0
+
+[@ITEM 117 (L1) ]
+\0
+
+[@ITEM 117 (EN) ]
+Taban: Gotcha!!\0
+
+[@ITEM 117 (L2) ]
+\0
+
+[@ITEM 117 (FR) ]
+Taban : Entendu !\0
+
+[@ITEM 118 (L1) ]
+\0
+
+[@ITEM 118 (EN) ]
+{Lucca}: More! More!\0
+
+[@ITEM 118 (L2) ]
+\0
+
+[@ITEM 118 (FR) ]
+{Lucca} : Encore plus !\0
+
+[@ITEM 119 (L1) ]
+\0
+
+[@ITEM 119 (EN) ]
+{Lucca}: Bingo!!
+It looks like it's going to go well!!\0
+
+[@ITEM 119 (L2) ]
+\0
+
+[@ITEM 119 (FR) ]
+{Lucca} : Voilà ! On dirait que ça va marcher !\0
+
+[@ITEM 120 (L1) ]
+\0
+
+[@ITEM 120 (EN) ]
+{Lucca}: Once I investigate the cause, I'll follow
+after you too!
+I'm counting on you, {Crono}!\0
+
+[@ITEM 120 (L2) ]
+\0
+
+[@ITEM 120 (FR) ]
+{Lucca} : Quand j'aurai découvert la cause de ce
+phénomène, je te suivrai moi aussi, {Crono} !
+Je compte sur toi !\0
+
+[@ITEM 121 (L1) ]
+\0
+
+[@ITEM 121 (EN) ]
+{Marle}: Yaaay!
+We finally made it back!\0
+
+[@ITEM 121 (L2) ]
+\0
+
+[@ITEM 121 (FR) ]
+{Marle} : Hourra ! On est enfin de retour !\0
+
+[@ITEM 122 (L1) ]
+\0
+
+[@ITEM 122 (EN) ]
+{Marle}: Hey, {Crono}, {Lucca}!
+Will you come with me to the castle?
+I owe you one!\0
+
+[@ITEM 122 (L2) ]
+\0
+
+[@ITEM 122 (FR) ]
+{Marle} : Dites, ça vous dirait de venir avec moi au
+château ? Vous avez tant fait pour moi !\0
+
+[@ITEM 123 (L1) ]
+\0
+
+[@ITEM 123 (EN) ]
+{Lucca}: I'm sorry, {Marle}.
+For making you go through all that.\0
+
+[@ITEM 123 (L2) ]
+\0
+
+[@ITEM 123 (FR) ]
+{Lucca} : Je suis désolée de t'avoir causé autant
+d'ennuis, {Marle}.\0
+
+[@ITEM 124 (L1) ]
+\0
+
+[@ITEM 124 (EN) ]
+{Marle}: Nah, it was thrilling and really fun.
+I made great friends, for one thing!\0
+
+[@ITEM 124 (L2) ]
+\0
+
+[@ITEM 124 (FR) ]
+{Marle} : Mais pas du tout ! Je me suis bien amusée !
+C'était si palpitant ! Et puis, je me suis fait de
+merveilleux nouveaux amis !\0
+
+[@ITEM 125 (L1) ]
+\0
+
+[@ITEM 125 (EN) ]
+{Lucca}: {Crono}, you see her off to the castle.{PRESS_CLEAR}
+Do a good job of escorting her.
+I'll try investigating the cause of the Gate's
+appearance.\0
+
+[@ITEM 125 (L2) ]
+\0
+
+[@ITEM 125 (FR) ]
+{Lucca} : Raccompagne-la jusqu'au château,
+{Crono}. Escorte-la comme il faut, surtout !{PRESS_CLEAR}
+Je vais tâcher de trouver la cause de l'apparition des
+portails.\0
+
+[@ITEM 126 (L1) ]
+\0
+
+[@ITEM 126 (EN) ]
+{Marle}: Later, {Lucca}!\0
+
+[@ITEM 126 (L2) ]
+\0
+
+[@ITEM 126 (FR) ]
+{Marle} : À plus, {Lucca} !\0
+
+[@ITEM 127 (L1) ]
+\0
+
+[@ITEM 127 (EN) ]
+{Marle}: Well then, escort me to the castle, {Crono}!\0
+
+[@ITEM 127 (L2) ]
+\0
+
+[@ITEM 127 (FR) ]
+{Marle} : Allez, escorte-moi jusqu'au château,
+{Crono} !\0
+
+[@ITEM 128 (L1) ]
+\0
+
+[@ITEM 128 (EN) ]
+What's "transfer"?\0
+
+[@ITEM 128 (L2) ]
+\0
+
+[@ITEM 128 (FR) ]
+C'est quoi, un téléporteur ?\0
+
+[@ITEM 129 (L1) ]
+\0
+
+[@ITEM 129 (EN) ]
+They speak of moving things in the blink of an eye.\0
+
+[@ITEM 129 (L2) ]
+\0
+
+[@ITEM 129 (FR) ]
+J'ai entendu dire qu'un téléporteur permet de
+transporter les choses en un clin d'œil.\0
+
+[@ITEM 130 (L1) ]
+\0
+
+[@ITEM 130 (EN) ]
+It's true!\0
+
+[@ITEM 130 (L2) ]
+\0
+
+[@ITEM 130 (FR) ]
+C'est prodigieux !\0
+
+[@ITEM 131 (L1) ]
+\0
+
+[@ITEM 131 (EN) ]
+It's {Lucca}'s invention we're talking about, so
+something will......\0
+
+[@ITEM 131 (L2) ]
+\0
+
+[@ITEM 131 (FR) ]
+Que va-t-il encore se passer ? Les inventions de
+{Lucca} réservent toujours quelques surprises...\0
+
+[@ITEM 132 (L1) ]
+\0
+
+[@ITEM 132 (EN) ]
+Even {Lucca}'s inventions succeed once in a while.\0
+
+[@ITEM 132 (L2) ]
+\0
+
+[@ITEM 132 (FR) ]
+Les inventions de {Lucca} fonctionnent aussi de
+temps en temps.\0
+
+[@ITEM 133 (L1) ]
+\0
+
+[@ITEM 133 (EN) ]
+I am the lawyer Pierre.\0
+
+[@ITEM 133 (L2) ]
+\0
+
+[@ITEM 133 (FR) ]
+Je m'appelle Pierre. Je suis l'avocat de la défense.\0
+
+[@ITEM 134 (L1) ]
+\0
+
+[@ITEM 134 (EN) ]
+I'm the the public prosecutor, the Chancellor!\0
+
+[@ITEM 134 (L2) ]
+\0
+
+[@ITEM 134 (FR) ]
+Je suis le chancelier du royaume et le procureur !\0
+
+[@ITEM 135 (L1) ]
+\0
+
+[@ITEM 135 (EN) ]
+Chancellor: Welcome, everyone.{PRESS_CLEAR}
+Let us bring in the man called {Crono}, who is
+suspected in the crime of kidnapping Princess
+Marledia.\0
+
+[@ITEM 135 (L2) ]
+\0
+
+[@ITEM 135 (FR) ]
+Chancelier : Bienvenue à tous. Faisons entrer
+{Crono}, celui que l'on accuse d'avoir enlevé
+la princesse Marledia.\0
+
+[@ITEM 136 (L1) ]
+\0
+
+[@ITEM 136 (EN) ]
+Chancellor: What shall we do with this man...
+Burning at the stake? The tickling sentence?
+Hanging upside-down?{PRESS_CLEAR}
+Or...... his neck with a guillotine......\0
+
+[@ITEM 136 (L2) ]
+\0
+
+[@ITEM 136 (FR) ]
+Chancelier : Qu'allons-nous faire de lui...?
+Le condamner au bûcher ?
+Lui faire subir le supplice des chatouilles ?
+Le suspendre la tête en bas ?{PRESS_CLEAR}
+Ou encore... l'envoyer à la guillotine...\0
+
+[@ITEM 137 (L1) ]
+\0
+
+[@ITEM 137 (EN) ]
+Chancellor: It will be all of you who decide that.\0
+
+[@ITEM 137 (L2) ]
+\0
+
+[@ITEM 137 (FR) ]
+Chancelier : C'est vous qui prendrez cette décision.
+Commençons donc.\0
+
+[@ITEM 138 (L1) ]
+\0
+
+[@ITEM 138 (EN) ]
+Presiding Judge: Well then, defendant Crono!
+Take the witness stand.\0
+
+[@ITEM 138 (L2) ]
+\0
+
+[@ITEM 138 (FR) ]
+Juge : Que l'accusé se présente à la barre !\0
+
+[@ITEM 139 (L1) ]
+\0
+
+[@ITEM 139 (EN) ]
+Pierre: I will begin.
+Did {Crono} truly have the intent to kidnap?
+......no, he didn't.\0
+
+[@ITEM 139 (L2) ]
+\0
+
+[@ITEM 139 (FR) ]
+Pierre : Je débuterai. {Crono} avait-il vraiment
+l'intention d'enlever la princesse ? Non.\0
+
+[@ITEM 140 (L1) ]
+\0
+
+[@ITEM 140 (EN) ]
+Pierre: The prosecution says the defendant
+deliberately kidnapped the princess, but is
+that the case? ......no, it's wrong.{PRESS_CLEAR}
+The two met by chance, and it was by no
+means intentional.{Crono}\0
+
+[@ITEM 140 (L2) ]
+\0
+
+[@ITEM 140 (FR) ]
+Pierre : Le procureur prétend que l'accusé a enlevé la
+princesse avec préméditation, mais est-ce le cas ?
+Non.{PRESS_CLEAR}
+En fait, c'est complètement par hasard qu'ils se sont
+rencontrés.\0
+
+[@ITEM 141 (L1) ]
+\0
+
+[@ITEM 141 (EN) ]
+Chancellor: Is that really so?
+Which of you made the first move?
+		{SEL1}I did.{/SEL1}
+		{SEL2}{Marle} did.{/SEL2}\0
+
+[@ITEM 141 (L2) ]
+\0
+
+[@ITEM 141 (FR) ]
+Chancelier : Est-ce vraiment ce qui s'est passé ?
+Qui a pris l'initiative ?
+       {SEL1}Moi{/SEL1}
+       {SEL2}{Marle}{/SEL2}\0
+
+[@ITEM 142 (L1) ]
+\0
+
+[@ITEM 142 (EN) ]
+Chancellor: Good!
+As you have heard, feigning chance, the
+defendant approached the princess.\0
+
+[@ITEM 142 (L2) ]
+\0
+
+[@ITEM 142 (FR) ]
+Chancelier : Bien ! Comme vous venez de l'entendre,
+l'accusé s'est approché délibérément de la princesse,
+feignant une rencontre fortuite.\0
+
+[@ITEM 143 (L1) ]
+\0
+
+[@ITEM 143 (EN) ]
+Chancellor: Can you really say that with certainty?
+There are witnesses who say it was you who
+collided with her.\0
+
+[@ITEM 143 (L2) ]
+\0
+
+[@ITEM 143 (FR) ]
+Chancelier : Peux-tu vraiment l'affirmer ? Des témoins
+prétendent pourtant que c'est toi qui as heurté la
+princesse.\0
+
+[@ITEM 144 (L1) ]
+\0
+
+[@ITEM 144 (EN) ]
+Chancellor: Then, with the princess invited, he
+proceeds to {Lucca} and her father's show.
+Many people are witnesses to that.{PRESS_CLEAR}
+And then, the two disappeared......
+If this isn't kidnapping, then what on earth is it?\0
+
+[@ITEM 144 (L2) ]
+\0
+
+[@ITEM 144 (FR) ]
+Chancelier : Ensuite, tu as emmené la princesse assister
+au spectacle de {Lucca} et de son père.{PRESS_CLEAR}
+Plusieurs personnes peuvent en témoigner.{PRESS_CLEAR}
+C'est à ce moment que vous avez tous les deux
+disparu... Si cela ne constitue pas un enlèvement,
+qu'est-ce donc ?\0
+
+[@ITEM 145 (L1) ]
+\0
+
+[@ITEM 145 (EN) ]
+Chancellor: I have even gotten hold of several facts
+that place the defendant's humanity in question.\0
+
+[@ITEM 145 (L2) ]
+\0
+
+[@ITEM 145 (FR) ]
+Chancelier : J'ai en ma possession plusieurs faits qui
+mettent en cause l'intégrité de l'accusé.\0
+
+[@ITEM 146 (L1) ]
+\0
+
+[@ITEM 146 (EN) ]
+Pierre: Objection!{PRESS_CLEAR}
+Does this have any relevance to the current
+case? ......no, it doesn't.\0
+
+[@ITEM 146 (L2) ]
+\0
+
+[@ITEM 146 (FR) ]
+Pierre : Objection !{PRESS_CLEAR}
+Cela a-t-il un rapport avec notre affaire ? Non.\0
+
+[@ITEM 147 (L1) ]
+\0
+
+[@ITEM 147 (EN) ]
+Presiding Judge: Is there relevance? Chancellor.\0
+
+[@ITEM 147 (L2) ]
+\0
+
+[@ITEM 147 (FR) ]
+Juge : Cela concerne-t-il ce procès, chancelier ?\0
+
+[@ITEM 148 (L1) ]
+\0
+
+[@ITEM 148 (EN) ]
+Chancellor: Yes. There is a need to make
+known the defendant {Crono}'s humanity in order to
+show his testimony's accuracy.{PRESS_CLEAR}
+Pierre: Fine.\0
+
+[@ITEM 148 (L2) ]
+\0
+
+[@ITEM 148 (FR) ]
+Chancelier : Oui. Il est indispensable de faire connaître
+le caractère de l'accusé pour démontrer la « justesse »
+de son témoignage.{PRESS_CLEAR}
+Pierre : Très bien.\0
+
+[@ITEM 149 (L1) ]
+\0
+
+[@ITEM 149 (EN) ]
+Pierre: Well then, we shall bring in a witness.
+A charming witness who will verify the
+defendant's honesty.\0
+
+[@ITEM 149 (L2) ]
+\0
+
+[@ITEM 149 (FR) ]
+Pierre : Alors, appelons un témoin qui pourra attester la
+bienveillance de l'accusé.\0
+
+[@ITEM 150 (L1) ]
+\0
+
+[@ITEM 150 (EN) ]
+This person......
+He brought me my kitty.\0
+
+[@ITEM 150 (L2) ]
+\0
+
+[@ITEM 150 (FR) ]
+Ce monsieur... Il m'a ramené mon chat.\0
+
+[@ITEM 151 (L1) ]
+\0
+
+[@ITEM 151 (EN) ]
+Thanks for back then.\0
+
+[@ITEM 151 (L2) ]
+\0
+
+[@ITEM 151 (FR) ]
+Merci encore !\0
+
+[@ITEM 152 (L1) ]
+\0
+
+[@ITEM 152 (EN) ]
+Pierre: How is it?
+This young person's conduct?
+Worthy of a medal.\0
+
+[@ITEM 152 (L2) ]
+\0
+
+[@ITEM 152 (FR) ]
+Pierre : Alors ? Que dites-vous de sa conduite ?
+Digne d'une médaille !\0
+
+[@ITEM 153 (L1) ]
+\0
+
+[@ITEM 153 (EN) ]
+Pierre: Heh heh......
+Looks like it's working.\0
+
+[@ITEM 153 (L2) ]
+\0
+
+[@ITEM 153 (FR) ]
+Pierre : Hé hé, voilà qui devrait les convaincre.\0
+
+[@ITEM 154 (L1) ]
+\0
+
+[@ITEM 154 (EN) ]
+Chancellor: The defendant's coldhearted character
+is obvious.\0
+
+[@ITEM 154 (L2) ]
+\0
+
+[@ITEM 154 (FR) ]
+Chancelier : La cruauté de l'accusé est évidente.\0
+
+[@ITEM 155 (L1) ]
+\0
+
+[@ITEM 155 (EN) ]
+Chancellor: You do remember doing this?
+You wouldn't even listen to the request of an
+innocent girl who had lost sight of her cat.\0
+
+[@ITEM 155 (L2) ]
+\0
+
+[@ITEM 155 (FR) ]
+Chancelier : Te souviens-tu d'elle ? Tu as refusé d'aider
+cette petite fille à retrouver son chat !\0
+
+[@ITEM 156 (L1) ]
+\0
+
+[@ITEM 156 (EN) ]
+You ignored me.\0
+
+[@ITEM 156 (L2) ]
+\0
+
+[@ITEM 156 (FR) ]
+Tu m'as ignorée.\0
+
+[@ITEM 157 (L1) ]
+\0
+
+[@ITEM 157 (EN) ]
+Chancellor: Oh...... you poor thing......
+Thank you.\0
+
+[@ITEM 157 (L2) ]
+\0
+
+[@ITEM 157 (FR) ]
+Chancelier : Oh... La pauvre... Je te remercie.\0
+
+[@ITEM 158 (L1) ]
+\0
+
+[@ITEM 158 (EN) ]
+Chancellor: No further explanation is required.\0
+
+[@ITEM 158 (L2) ]
+\0
+
+[@ITEM 158 (FR) ]
+Chancelier : Aucune autre explication n'est nécessaire.\0
+
+[@ITEM 159 (L1) ]
+\0
+
+[@ITEM 159 (EN) ]
+Chancellor: Have you ever committed theft?
+		{SEL1}I have.{/SEL1}
+		{SEL2}I certainly have not.{/SEL2}\0
+
+[@ITEM 159 (L2) ]
+\0
+
+[@ITEM 159 (FR) ]
+Chancelier : As-tu déjà commis un vol ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 160 (L1) ]
+\0
+
+[@ITEM 160 (EN) ]
+Chancellor: Look, as he says.
+The defendant is lacking in morals.
+That is generally accepted.
+Please listen. It's a bitter outcry!\0
+
+[@ITEM 160 (L2) ]
+\0
+
+[@ITEM 160 (FR) ]
+Chancelier : Ah, vous voyez ! La moralité lui fait défaut.
+C'est un fait généralement reconnu. Écoutez donc ce
+témoignage poignant !\0
+
+[@ITEM 161 (L1) ]
+\0
+
+[@ITEM 161 (EN) ]
+Chancellor: Do not play dumb.\0
+
+[@ITEM 161 (L2) ]
+\0
+
+[@ITEM 161 (FR) ]
+Chancelier : Ne fais pas l'ignorant ! Un témoin t'a
+aperçu !\0
+
+[@ITEM 162 (L1) ]
+\0
+
+[@ITEM 162 (EN) ]
+My precious lunch!
+He ate it.
+The lunch mommy worked so hard to make me!\0
+
+[@ITEM 162 (L2) ]
+\0
+
+[@ITEM 162 (FR) ]
+Il a mangé mon précieux panier-repas ! Celui que mamie
+m'avait si tendrement préparé !\0
+
+[@ITEM 163 (L1) ]
+\0
+
+[@ITEM 163 (EN) ]
+Chancellor: There is no room for sympathy for a
+defendant who would even deprive an honestly
+living man of his faint pleasures.\0
+
+[@ITEM 163 (L2) ]
+\0
+
+[@ITEM 163 (FR) ]
+Chancelier : L'accusé est un jeune homme sans
+scrupules qui prive un vieil homme de ses simples
+et modestes plaisirs.{PRESS_CLEAR}
+On ne peut avoir de la compassion pour lui.\0
+
+[@ITEM 164 (L1) ]
+\0
+
+[@ITEM 164 (EN) ]
+Pierre: The problem is motive.
+Where is the motive for this citizen to kidnap
+Princess Marledia? ......no, there is none.\0
+
+[@ITEM 164 (L2) ]
+\0
+
+[@ITEM 164 (FR) ]
+Pierre : Le problème demeure une question de motif.
+L'accusé avait-il une raison d'enlever la princesse ?
+Non.\0
+
+[@ITEM 165 (L1) ]
+\0
+
+[@ITEM 165 (EN) ]
+Chancellor: Sorry to contradict you, but what if
+I say your purpose is her wealth, {Crono}-kun?{PRESS_CLEAR}
+You had your eyes on the princess's wealth,
+didn't you?
+		{SEL1}No{/SEL1}
+		{SEL2}Yes{/SEL2}\0
+
+[@ITEM 165 (L2) ]
+\0
+
+[@ITEM 165 (FR) ]
+Chancelier : Désolé de vous contredire, mais...
+Et si le motif était sa fortune ?{PRESS_CLEAR}
+Tu en voulais à ses richesses, n'est-ce pas,
+{Crono} ?
+       {SEL1}Non{/SEL1}
+       {SEL2}Oui{/SEL2}\0
+
+[@ITEM 166 (L1) ]
+\0
+
+[@ITEM 166 (EN) ]
+Chancellor: It seems he's spoken frankly.\0
+
+[@ITEM 166 (L2) ]
+\0
+
+[@ITEM 166 (FR) ]
+Chancelier : Tu l'avoues donc franchement.\0
+
+[@ITEM 167 (L1) ]
+\0
+
+[@ITEM 167 (EN) ]
+Chancellor: I have nothing more to say.
+Your honor. The verdict.\0
+
+[@ITEM 167 (L2) ]
+\0
+
+[@ITEM 167 (FR) ]
+Chancelier : Je n'ai plus rien à ajouter, Votre Honneur.
+J'attends votre verdict.\0
+
+[@ITEM 168 (L1) ]
+\0
+
+[@ITEM 168 (EN) ]
+Chancellor: Do you truly have no interest in her
+wealth?
+		{SEL1}No interest{/SEL1}
+		{SEL2}Just a little{/SEL2}\0
+
+[@ITEM 168 (L2) ]
+\0
+
+[@ITEM 168 (FR) ]
+Chancelier : Alors, sa fortune ne t'intéresse vraiment
+pas du tout ?
+       {SEL1}Pas du tout{/SEL1}
+       {SEL2}Un peu{/SEL2}\0
+
+[@ITEM 169 (L1) ]
+\0
+
+[@ITEM 169 (EN) ]
+Chancellor: W, well all right.
+My questioning concludes.{PRESS_CLEAR}
+Pierre: As you can see, he is a young man
+with a strong sense of justice.
+Now, your honor. The verdict.\0
+
+[@ITEM 169 (L2) ]
+\0
+
+[@ITEM 169 (FR) ]
+Chancelier : Hum, bien. Je n'ai pas d'autre question.{PRESS_CLEAR}
+Pierre : Comme vous pouvez le constater, l'accusé
+est un jeune homme d'une probité irréfutable.
+J'attends votre verdict, Votre Honneur.\0
+
+[@ITEM 170 (L1) ]
+\0
+
+[@ITEM 170 (EN) ]
+Chancellor: Everyone, please keep his words just
+now firmly in mind.
+The defendant said he has no interest in her
+wealth.{PRESS_CLEAR}
+Now for the witness.\0
+
+[@ITEM 170 (L2) ]
+\0
+
+[@ITEM 170 (FR) ]
+Chancelier : Gardez ces paroles à l'esprit ! L'accusé
+prétend que la fortune de la princesse ne l'intéresse
+pas.{PRESS_CLEAR}
+Laissez-moi vous présenter mon prochain témoin !\0
+
+[@ITEM 171 (L1) ]
+\0
+
+[@ITEM 171 (EN) ]
+Uh-huhn, I saw it.\0
+
+[@ITEM 171 (L2) ]
+\0
+
+[@ITEM 171 (FR) ]
+J'ai tout vu !\0
+
+[@ITEM 172 (L1) ]
+\0
+
+[@ITEM 172 (EN) ]
+I'm so nervous!\0
+
+[@ITEM 172 (L2) ]
+\0
+
+[@ITEM 172 (FR) ]
+Ah, je suis si nerveuse tout à coup !\0
+
+[@ITEM 173 (L1) ]
+\0
+
+[@ITEM 173 (EN) ]
+When this person ran into the Princess and they
+fell over, he went straight to grab up her pendant{56}even
+before worrying about the Princess......\0
+
+[@ITEM 173 (L2) ]
+\0
+
+[@ITEM 173 (FR) ]
+Quand il a bousculé la princesse, il est d'abord allé
+ramasser le pendentif. C'était plus important pour
+lui que de se soucier de la princesse...\0
+
+[@ITEM 174 (L1) ]
+\0
+
+[@ITEM 174 (EN) ]
+It looked like he was refusing to give the
+Princess back her pendant......\0
+
+[@ITEM 174 (L2) ]
+\0
+
+[@ITEM 174 (FR) ]
+De plus, il n'avait pas l'air de vouloir le lui rendre.\0
+
+[@ITEM 175 (L1) ]
+\0
+
+[@ITEM 175 (EN) ]
+He tried selling it off to this peddler, Bosch.\0
+
+[@ITEM 175 (L2) ]
+\0
+
+[@ITEM 175 (FR) ]
+Il a essayé de le vendre à Bosch, le marchand.\0
+
+[@ITEM 176 (L1) ]
+\0
+
+[@ITEM 176 (EN) ]
+Chancellor: Finally, let us bring this to a finish with
+some conclusive testimony.\0
+
+[@ITEM 176 (L2) ]
+\0
+
+[@ITEM 176 (FR) ]
+Chancelier : C'est avec un témoignage décisif que je
+conclurai mon réquisitoire.\0
+
+[@ITEM 177 (L1) ]
+\0
+
+[@ITEM 177 (EN) ]
+I heard her!
+What the Princess said, plain as day, with my
+own ears!\0
+
+[@ITEM 177 (L2) ]
+\0
+
+[@ITEM 177 (FR) ]
+J'ai clairement entendu ces paroles de la bouche de la
+princesse, de mes propres oreilles ! Elle a dit...\0
+
+[@ITEM 178 (L1) ]
+\0
+
+[@ITEM 178 (EN) ]
+Oh, done already?\0
+
+[@ITEM 178 (L2) ]
+\0
+
+[@ITEM 178 (FR) ]
+Ah, c'est tout ? Au revoir.\0
+
+[@ITEM 179 (L1) ]
+\0
+
+[@ITEM 179 (EN) ]
+Presiding Judge: Jurors.
+Go, those who think he is guilty to the left,
+those who think he is not guilty to the right!\0
+
+[@ITEM 179 (L2) ]
+\0
+
+[@ITEM 179 (FR) ]
+Juge : Messieurs les jurés, si vous pensez que l'accusé
+est coupable, placez-vous à gauche. Si vous le croyez
+au contraire innocent, placez-vous à droite.\0
+
+[@ITEM 180 (L1) ]
+\0
+
+[@ITEM 180 (EN) ]
+Guilty.\0
+
+[@ITEM 180 (L2) ]
+\0
+
+[@ITEM 180 (FR) ]
+Coupable.\0
+
+[@ITEM 181 (L1) ]
+\0
+
+[@ITEM 181 (EN) ]
+Not guilty.\0
+
+[@ITEM 181 (L2) ]
+\0
+
+[@ITEM 181 (FR) ]
+Innocent.\0
+
+[@ITEM 182 (L1) ]
+\0
+
+[@ITEM 182 (EN) ]
+Silence! Silence!\0
+
+[@ITEM 182 (L2) ]
+\0
+
+[@ITEM 182 (FR) ]
+Silence ! Silence !\0
+
+[@ITEM 183 (L1) ]
+\0
+
+[@ITEM 183 (EN) ]
+A verdict has been reached!\0
+
+[@ITEM 183 (L2) ]
+\0
+
+[@ITEM 183 (FR) ]
+Voici le verdict !\0
+
+[@ITEM 184 (L1) ]
+\0
+
+[@ITEM 184 (EN) ]
+Unanimously!!\0
+
+[@ITEM 184 (L2) ]
+\0
+
+[@ITEM 184 (FR) ]
+Il est unanime !\0
+
+[@ITEM 185 (L1) ]
+\0
+
+[@ITEM 185 (EN) ]
+We find him guilty.
+Take him to solitary confinement at once.
+We will enforce the death sentence in three days!\0
+
+[@ITEM 185 (L2) ]
+\0
+
+[@ITEM 185 (FR) ]
+L'accusé est déclaré coupable !{PRESS_CLEAR}
+Emmenez-le immédiatement dans sa cellule. Il sera
+exécuté dans trois jours.\0
+
+[@ITEM 186 (L1) ]
+\0
+
+[@ITEM 186 (EN) ]
+We find him not guilty!{PRESS_CLEAR}
+......however. Though he had no intent to kidnap,
+it is a fact that he took Princess Marledia
+away with him for a while.{PRESS_CLEAR}
+Accordingly, to urge him to contemplation, we
+sentence him to three days of solitary confinement!!\0
+
+[@ITEM 186 (L2) ]
+\0
+
+[@ITEM 186 (FR) ]
+L'accusé est déclaré innocent !{PRESS_CLEAR}
+Cependant... Bien qu'il n'ait pas eu l'intention d'enlever
+la princesse, il est vrai qu'il était avec elle pendant un
+certain temps.{PRESS_CLEAR}
+Pour l'inciter à réfléchir à la gravité de ses actes, je le
+condamne à passer trois jours en prison !\0
+
+[@ITEM 187 (L1) ]
+\0
+
+[@ITEM 187 (EN) ]
+Chancellor: Now, take him away!\0
+
+[@ITEM 187 (L2) ]
+\0
+
+[@ITEM 187 (FR) ]
+Chancelier : Emmenez-le !\0
+
+[@ITEM 188 (L1) ]
+\0
+
+[@ITEM 188 (EN) ]
+{Marle}: Wait!!{PRESS_CLEAR}
+Chancellor: P, Princess......\0
+
+[@ITEM 188 (L2) ]
+\0
+
+[@ITEM 188 (FR) ]
+{Marle} : Attendez !!{PRESS_CLEAR}
+Chancelier : Votre Altesse...!\0
+
+[@ITEM 189 (L1) ]
+\0
+
+[@ITEM 189 (EN) ]
+King Guardia: Behave yourself!\0
+
+[@ITEM 189 (L2) ]
+\0
+
+[@ITEM 189 (FR) ]
+Roi de Gardia : Ça suffit, Marledia !\0
+
+[@ITEM 190 (L1) ]
+\0
+
+[@ITEM 190 (EN) ]
+{Marle}: Father{56}! Please listen!{PRESS_CLEAR}
+King Guardia: I simply want you to behave like
+a proper princess in the castle.{PRESS_CLEAR}
+Even if you are, for example, a king or
+princess, you must abide by the country's rules...{PRESS_CLEAR}
+Leave the rest to the Chancellor.
+Marledia, you forget about what happened in
+the town, too.\0
+
+[@ITEM 190 (L2) ]
+\0
+
+[@ITEM 190 (FR) ]
+{Marle} : Père ! Écoute-moi !{PRESS_CLEAR}
+Roi de Gardia : Je ne te demande que de rester
+sagement au château, comme une princesse doit
+le faire.{PRESS_CLEAR}
+Même le roi et la princesse doivent obéir aux lois du
+royaume... Laisse le chancelier s'occuper du reste.{PRESS_CLEAR}
+Oublie ce qui s'est passé à la foire, Marledia.\0
+
+[@ITEM 191 (L1) ]
+\0
+
+[@ITEM 191 (EN) ]
+King Guardia: Now, we're going!\0
+
+[@ITEM 191 (L2) ]
+\0
+
+[@ITEM 191 (FR) ]
+Roi de Gardia : Partons !\0
+
+[@ITEM 192 (L1) ]
+\0
+
+[@ITEM 192 (EN) ]
+{Marle}: Cronoooooo!!\0
+
+[@ITEM 192 (L2) ]
+\0
+
+[@ITEM 192 (FR) ]
+{Marle} : {Crono} !!\0
+
+[@ITEM 193 (L1) ]
+\0
+
+[@ITEM 193 (EN) ]
+'Uhhyaaa!\0
+
+[@ITEM 193 (L2) ]
+\0
+
+[@ITEM 193 (FR) ]
+Aaah !\0
+
+[@ITEM 194 (L1) ]
+\0
+
+[@ITEM 194 (EN) ]
+Boy: Th, this is a horrible place!
+Y, you guys too, it's dangerous.
+Gotta run away quick.\0
+
+[@ITEM 194 (L2) ]
+\0
+
+[@ITEM 194 (FR) ]
+Garçon : Cet endroit est terrible ! C'est trop dangereux !
+Fichez le camp ! Fuyez !\0
+
+[@ITEM 195 (L1) ]
+\0
+
+[@ITEM 195 (EN) ]
+Badge......
+....the....Hero's......\0
+
+[@ITEM 195 (L2) ]
+\0
+
+[@ITEM 195 (FR) ]
+La médaille...
+...
+La médaille... du héros...\0
+
+[@ITEM 196 (L1) ]
+\0
+
+[@ITEM 196 (EN) ]
+{Frog}: Hand over the Grandleon.\0
+
+[@ITEM 196 (L2) ]
+\0
+
+[@ITEM 196 (FR) ]
+{Frog} : Donne-moi Grandléon.\0
+
+[@ITEM 197 (L1) ]
+\0
+
+[@ITEM 197 (EN) ]
+{Frog}: My name is Glenn!
+Cyrus's wishes and aspirations, and this,
+the Grandleon......\0
+
+[@ITEM 197 (L2) ]
+\0
+
+[@ITEM 197 (FR) ]
+{Frog} : Mon nom est Glenn ! Aujourd'hui, en cet
+endroit, je prends à ma charge les rêves et les
+aspirations de Cyrus, ainsi que Grandléon...\0
+
+[@ITEM 198 (L1) ]
+\0
+
+[@ITEM 198 (EN) ]
+{Frog}: I here and now inherit them, and will strike down
+{Magus}!\0
+
+[@ITEM 198 (L2) ]
+\0
+
+[@ITEM 198 (FR) ]
+{Frog} : Je me vengerai de {Magus} !\0
+
+[@ITEM 199 (L1) ]
+\0
+
+[@ITEM 199 (EN) ]
+{MSGWND}
+Lettering in blood......{PRESS_CLEAR}{MSGWND}
+"The Juggler in Magus Castle...
+strengthens striking defense if you strike him, and
+strengthens magical defense if you unleash magic.
+His guard is harsh......"\0
+
+[@ITEM 199 (L2) ]
+\0
+
+[@ITEM 199 (FR) ]
+{MSGWND}
+Il a écrit un message avec son propre sang...{PRESS_CLEAR}
+« Les jongleurs du palais du Magistère deviennent
+plus résistants à chaque coup qu'on leur porte... »\0
+
+[@ITEM 200 (L1) ]
+\0
+
+[@ITEM 200 (EN) ]
+{Frog}: Could what you're using be what they
+call magic?
+I heard that none but the Demons could use it
+now.\0
+
+[@ITEM 200 (L2) ]
+\0
+
+[@ITEM 200 (FR) ]
+{Frog} : Est-ce de la magie que vous utilisez ?
+J'avais entendu dire que seuls les mystiques en
+connaissaient encore les secrets...\0
+
+[@ITEM 201 (L1) ]
+\0
+
+[@ITEM 201 (EN) ]
+If we go the Farthest Reaches of Time, you
+might become able to use it too.\0
+
+[@ITEM 201 (L2) ]
+\0
+
+[@ITEM 201 (FR) ]
+Si tu vas à la Fin des temps, tu pourras peut-être
+apprendre à l'utiliser, toi aussi.\0
+
+[@ITEM 202 (L1) ]
+\0
+
+[@ITEM 202 (EN) ]
+{Robo}: If we go to the Farthest Reaches of
+Time, you MAY become able to use it as well.\0
+
+[@ITEM 202 (L2) ]
+\0
+
+[@ITEM 202 (FR) ]
+{Robo} : Si tu vas à la Fin des temps, tu pourras
+peut-être apprendre à l'utiliser, toi aussi.\0
+
+[@ITEM 203 (L1) ]
+\0
+
+[@ITEM 203 (EN) ]
+\0
+
+[@ITEM 203 (L2) ]
+\0
+
+[@ITEM 203 (FR) ]
+\0
+
+[@ITEM 204 (L1) ]
+\0
+
+[@ITEM 204 (EN) ]
+\0
+
+[@ITEM 204 (L2) ]
+\0
+
+[@ITEM 204 (FR) ]
+\0
+
+[@ITEM 205 (L1) ]
+\0
+
+[@ITEM 205 (EN) ]
+\0
+
+[@ITEM 205 (L2) ]
+\0
+
+[@ITEM 205 (FR) ]
+\0
+
+[@ITEM 206 (L1) ]
+\0
+
+[@ITEM 206 (EN) ]
+\0
+
+[@ITEM 206 (L2) ]
+\0
+
+[@ITEM 206 (FR) ]
+\0
+
+[@ITEM 207 (L1) ]
+\0
+
+[@ITEM 207 (EN) ]
+\0
+
+[@ITEM 207 (L2) ]
+\0
+
+[@ITEM 207 (FR) ]
+\0
+
+[@ITEM 208 (L1) ]
+\0
+
+[@ITEM 208 (EN) ]
+\0
+
+[@ITEM 208 (L2) ]
+\0
+
+[@ITEM 208 (FR) ]
+\0
+
+[@ITEM 209 (L1) ]
+\0
+
+[@ITEM 209 (EN) ]
+\0
+
+[@ITEM 209 (L2) ]
+\0
+
+[@ITEM 209 (FR) ]
+\0
+
+[@ITEM 210 (L1) ]
+\0
+
+[@ITEM 210 (EN) ]
+\0
+
+[@ITEM 210 (L2) ]
+\0
+
+[@ITEM 210 (FR) ]
+\0
+
+[@ITEM 211 (L1) ]
+\0
+
+[@ITEM 211 (EN) ]
+\0
+
+[@ITEM 211 (L2) ]
+\0
+
+[@ITEM 211 (FR) ]
+\0
+
+[@ITEM 212 (L1) ]
+\0
+
+[@ITEM 212 (EN) ]
+\0
+
+[@ITEM 212 (L2) ]
+\0
+
+[@ITEM 212 (FR) ]
+\0
+
+[@ITEM 213 (L1) ]
+\0
+
+[@ITEM 213 (EN) ]
+\0
+
+[@ITEM 213 (L2) ]
+\0
+
+[@ITEM 213 (FR) ]
+\0
+
+[@ITEM 214 (L1) ]
+\0
+
+[@ITEM 214 (EN) ]
+\0
+
+[@ITEM 214 (L2) ]
+\0
+
+[@ITEM 214 (FR) ]
+\0
+
+[@ITEM 215 (L1) ]
+\0
+
+[@ITEM 215 (EN) ]
+\0
+
+[@ITEM 215 (L2) ]
+\0
+
+[@ITEM 215 (FR) ]
+\0
+
+[@ITEM 216 (L1) ]
+\0
+
+[@ITEM 216 (EN) ]
+\0
+
+[@ITEM 216 (L2) ]
+\0
+
+[@ITEM 216 (FR) ]
+\0
+
+[@ITEM 217 (L1) ]
+\0
+
+[@ITEM 217 (EN) ]
+\0
+
+[@ITEM 217 (L2) ]
+\0
+
+[@ITEM 217 (FR) ]
+\0
+
+[@ITEM 218 (L1) ]
+\0
+
+[@ITEM 218 (EN) ]
+\0
+
+[@ITEM 218 (L2) ]
+\0
+
+[@ITEM 218 (FR) ]
+\0
+
+[@ITEM 219 (L1) ]
+\0
+
+[@ITEM 219 (EN) ]
+\0
+
+[@ITEM 219 (L2) ]
+\0
+
+[@ITEM 219 (FR) ]
+\0
+
+[@ITEM 220 (L1) ]
+\0
+
+[@ITEM 220 (EN) ]
+\0
+
+[@ITEM 220 (L2) ]
+\0
+
+[@ITEM 220 (FR) ]
+\0
+
+[@ITEM 221 (L1) ]
+\0
+
+[@ITEM 221 (EN) ]
+\0
+
+[@ITEM 221 (L2) ]
+\0
+
+[@ITEM 221 (FR) ]
+\0
+
+[@ITEM 222 (L1) ]
+\0
+
+[@ITEM 222 (EN) ]
+\0
+
+[@ITEM 222 (L2) ]
+\0
+
+[@ITEM 222 (FR) ]
+\0
+
+[@ITEM 223 (L1) ]
+\0
+
+[@ITEM 223 (EN) ]
+\0
+
+[@ITEM 223 (L2) ]
+\0
+
+[@ITEM 223 (FR) ]
+\0
+
+[@ITEM 224 (L1) ]
+\0
+
+[@ITEM 224 (EN) ]
+\0
+
+[@ITEM 224 (L2) ]
+\0
+
+[@ITEM 224 (FR) ]
+\0
+
+[@ITEM 225 (L1) ]
+\0
+
+[@ITEM 225 (EN) ]
+\0
+
+[@ITEM 225 (L2) ]
+\0
+
+[@ITEM 225 (FR) ]
+\0
+
+[@ITEM 226 (L1) ]
+\0
+
+[@ITEM 226 (EN) ]
+\0
+
+[@ITEM 226 (L2) ]
+\0
+
+[@ITEM 226 (FR) ]
+\0
+
+[@ITEM 227 (L1) ]
+\0
+
+[@ITEM 227 (EN) ]
+\0
+
+[@ITEM 227 (L2) ]
+\0
+
+[@ITEM 227 (FR) ]
+\0
+
+[@ITEM 228 (L1) ]
+\0
+
+[@ITEM 228 (EN) ]
+\0
+
+[@ITEM 228 (L2) ]
+\0
+
+[@ITEM 228 (FR) ]
+\0
+
+[@ITEM 229 (L1) ]
+\0
+
+[@ITEM 229 (EN) ]
+\0
+
+[@ITEM 229 (L2) ]
+\0
+
+[@ITEM 229 (FR) ]
+\0
+
+[@ITEM 230 (L1) ]
+\0
+
+[@ITEM 230 (EN) ]
+\0
+
+[@ITEM 230 (L2) ]
+\0
+
+[@ITEM 230 (FR) ]
+\0
+
+[@ITEM 231 (L1) ]
+\0
+
+[@ITEM 231 (EN) ]
+\0
+
+[@ITEM 231 (L2) ]
+\0
+
+[@ITEM 231 (FR) ]
+\0
+
+[@ITEM 232 (L1) ]
+\0
+
+[@ITEM 232 (EN) ]
+\0
+
+[@ITEM 232 (L2) ]
+\0
+
+[@ITEM 232 (FR) ]
+\0
+
+[@ITEM 233 (L1) ]
+\0
+
+[@ITEM 233 (EN) ]
+\0
+
+[@ITEM 233 (L2) ]
+\0
+
+[@ITEM 233 (FR) ]
+\0
+
+[@ITEM 234 (L1) ]
+\0
+
+[@ITEM 234 (EN) ]
+\0
+
+[@ITEM 234 (L2) ]
+\0
+
+[@ITEM 234 (FR) ]
+\0
+
+[@ITEM 235 (L1) ]
+\0
+
+[@ITEM 235 (EN) ]
+\0
+
+[@ITEM 235 (L2) ]
+\0
+
+[@ITEM 235 (FR) ]
+\0
+
+[@ITEM 236 (L1) ]
+\0
+
+[@ITEM 236 (EN) ]
+\0
+
+[@ITEM 236 (L2) ]
+\0
+
+[@ITEM 236 (FR) ]
+\0
+
+[@ITEM 237 (L1) ]
+\0
+
+[@ITEM 237 (EN) ]
+\0
+
+[@ITEM 237 (L2) ]
+\0
+
+[@ITEM 237 (FR) ]
+\0
+
+[@ITEM 238 (L1) ]
+\0
+
+[@ITEM 238 (EN) ]
+\0
+
+[@ITEM 238 (L2) ]
+\0
+
+[@ITEM 238 (FR) ]
+\0
+
+[@ITEM 239 (L1) ]
+\0
+
+[@ITEM 239 (EN) ]
+\0
+
+[@ITEM 239 (L2) ]
+\0
+
+[@ITEM 239 (FR) ]
+\0
+
+[@ITEM 240 (L1) ]
+\0
+
+[@ITEM 240 (EN) ]
+\0
+
+[@ITEM 240 (L2) ]
+\0
+
+[@ITEM 240 (FR) ]
+\0
+
+[@ITEM 241 (L1) ]
+\0
+
+[@ITEM 241 (EN) ]
+\0
+
+[@ITEM 241 (L2) ]
+\0
+
+[@ITEM 241 (FR) ]
+\0
+
+[@ITEM 242 (L1) ]
+\0
+
+[@ITEM 242 (EN) ]
+\0
+
+[@ITEM 242 (L2) ]
+\0
+
+[@ITEM 242 (FR) ]
+\0
+
+[@ITEM 243 (L1) ]
+\0
+
+[@ITEM 243 (EN) ]
+\0
+
+[@ITEM 243 (L2) ]
+\0
+
+[@ITEM 243 (FR) ]
+\0
+
+[@ITEM 244 (L1) ]
+\0
+
+[@ITEM 244 (EN) ]
+\0
+
+[@ITEM 244 (L2) ]
+\0
+
+[@ITEM 244 (FR) ]
+\0
+
+[@ITEM 245 (L1) ]
+\0
+
+[@ITEM 245 (EN) ]
+\0
+
+[@ITEM 245 (L2) ]
+\0
+
+[@ITEM 245 (FR) ]
+\0
+
+[@ITEM 246 (L1) ]
+\0
+
+[@ITEM 246 (EN) ]
+\0
+
+[@ITEM 246 (L2) ]
+\0
+
+[@ITEM 246 (FR) ]
+\0
+
+[@ITEM 247 (L1) ]
+\0
+
+[@ITEM 247 (EN) ]
+\0
+
+[@ITEM 247 (L2) ]
+\0
+
+[@ITEM 247 (FR) ]
+\0
+
+[@ITEM 248 (L1) ]
+\0
+
+[@ITEM 248 (EN) ]
+\0
+
+[@ITEM 248 (L2) ]
+\0
+
+[@ITEM 248 (FR) ]
+\0
+
+[@ITEM 249 (L1) ]
+\0
+
+[@ITEM 249 (EN) ]
+\0
+
+[@ITEM 249 (L2) ]
+\0
+
+[@ITEM 249 (FR) ]
+\0
+
+[@ITEM 250 (L1) ]
+\0
+
+[@ITEM 250 (EN) ]
+\0
+
+[@ITEM 250 (L2) ]
+\0
+
+[@ITEM 250 (FR) ]
+\0
+
+[@ITEM 251 (L1) ]
+\0
+
+[@ITEM 251 (EN) ]
+\0
+
+[@ITEM 251 (L2) ]
+\0
+
+[@ITEM 251 (FR) ]
+\0
+
+[@ITEM 252 (L1) ]
+\0
+
+[@ITEM 252 (EN) ]
+\0
+
+[@ITEM 252 (L2) ]
+\0
+
+[@ITEM 252 (FR) ]
+\0
+
+[@ITEM 253 (L1) ]
+\0
+
+[@ITEM 253 (EN) ]
+\0
+
+[@ITEM 253 (L2) ]
+\0
+
+[@ITEM 253 (FR) ]
+\0
+
+[@ITEM 254 (L1) ]
+\0
+
+[@ITEM 254 (EN) ]
+\0
+
+[@ITEM 254 (L2) ]
+\0
+
+[@ITEM 254 (FR) ]
+\0
+
+[@ITEM 255 (L1) ]
+\0
+
+[@ITEM 255 (EN) ]
+\0
+
+[@ITEM 255 (L2) ]
+\0
+
+[@ITEM 255 (FR) ]
+\0
+

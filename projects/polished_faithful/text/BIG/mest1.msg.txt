@@ -1,0 +1,3421 @@
+[@mest1.msg]
+
+[@ITEM 0 (L1) ]
+\0
+
+[@ITEM 0 (EN) ]
+{MSGWND}
+Obtained {ITEM}!\0
+
+[@ITEM 0 (L2) ]
+\0
+
+[@ITEM 0 (FR) ]
+{MSGWND}
+Obtenu : {ITEM} !\0
+
+[@ITEM 1 (L1) ]
+\0
+
+[@ITEM 1 (EN) ]
+{MSGWND}
+Obtained {ITEM}!\0
+
+[@ITEM 1 (L2) ]
+\0
+
+[@ITEM 1 (FR) ]
+{MSGWND}
+Trouvé : {ITEM} !\0
+
+[@ITEM 2 (L1) ]
+\0
+
+[@ITEM 2 (EN) ]
+{Frog}: This place...\0
+
+[@ITEM 2 (L2) ]
+\0
+
+[@ITEM 2 (FR) ]
+{Frog} : Cet endroit...\0
+
+[@ITEM 3 (L1) ]
+\0
+
+[@ITEM 3 (EN) ]
+{Frog}: It's Magus Castle......!\0
+
+[@ITEM 3 (L2) ]
+\0
+
+[@ITEM 3 (FR) ]
+{Frog} : C'est le palais du Magistère...!\0
+
+[@ITEM 4 (L1) ]
+\0
+
+[@ITEM 4 (EN) ]
+{Frog}: Vinnegar!\0
+
+[@ITEM 4 (L2) ]
+\0
+
+[@ITEM 4 (FR) ]
+{Frog} : Vinnie !\0
+
+[@ITEM 5 (L1) ]
+\0
+
+[@ITEM 5 (EN) ]
+Vinnegar: Well done making it here, Glenn. No,
+wait, you're just a frog now.
+Does that mean those guys are your substitutes
+for Cyrus this time?{PRESS_CLEAR}
+But {Magus}-sama is in the middle of an important
+ritual at the moment.
+I'll take you on.{PRESS_CLEAR}
+If you can beat the Dark Arts Swordsman
+Soysaw, and the Void Mage Mayonnay.\0
+
+[@ITEM 5 (L2) ]
+\0
+
+[@ITEM 5 (FR) ]
+Vinnie : Sois le bienvenu, Glenn. Non, attends, tu n'es
+qu'une grenouille désormais.{PRESS_CLEAR}
+Sont-ce les remplaçants de Cyrus ?{PRESS_CLEAR}
+Son Excellence est actuellement en plein milieu d'un
+rituel important. Je serai votre adversaire.{PRESS_CLEAR}
+Si vous arrivez à vaincre d'abord Soja, l'épéiste des
+ténèbres, Mayo, le mage du néant, ainsi que...\0
+
+[@ITEM 6 (L1) ]
+\0
+
+[@ITEM 6 (EN) ]
+And!
+Vinnegar: The hundred monsters here in
+Magus Castle!\0
+
+[@ITEM 6 (L2) ]
+\0
+
+[@ITEM 6 (FR) ]
+Vinnie : ... les 100 monstres de ce palais !\0
+
+[@ITEM 7 (L1) ]
+\0
+
+[@ITEM 7 (EN) ]
+Please save us...\0
+
+[@ITEM 7 (L2) ]
+\0
+
+[@ITEM 7 (FR) ]
+Délivrez-nous...\0
+
+[@ITEM 8 (L1) ]
+\0
+
+[@ITEM 8 (EN) ]
+From this agony!\0
+
+[@ITEM 8 (L2) ]
+\0
+
+[@ITEM 8 (FR) ]
+... de nos souffrances !\0
+
+[@ITEM 9 (L1) ]
+\0
+
+[@ITEM 9 (EN) ]
+...\0
+
+[@ITEM 9 (L2) ]
+\0
+
+[@ITEM 9 (FR) ]
+...\0
+
+[@ITEM 10 (L1) ]
+\0
+
+[@ITEM 10 (EN) ]
+Hu, hu...\0
+
+[@ITEM 10 (L2) ]
+\0
+
+[@ITEM 10 (FR) ]
+Ha, ha...\0
+
+[@ITEM 11 (L1) ]
+\0
+
+[@ITEM 11 (EN) ]
+Let's play...\0
+
+[@ITEM 11 (L2) ]
+\0
+
+[@ITEM 11 (FR) ]
+Jouons ensemble...\0
+
+[@ITEM 12 (L1) ]
+\0
+
+[@ITEM 12 (EN) ]
+Our treasure...\0
+
+[@ITEM 12 (L2) ]
+\0
+
+[@ITEM 12 (FR) ]
+Notre trésor...\0
+
+[@ITEM 13 (L1) ]
+\0
+
+[@ITEM 13 (EN) ]
+Want it? Our treasure...
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 13 (L2) ]
+\0
+
+[@ITEM 13 (FR) ]
+Vous voulez notre trésor...?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 14 (L1) ]
+\0
+
+[@ITEM 14 (EN) ]
+But it's good stuff...\0
+
+[@ITEM 14 (L2) ]
+\0
+
+[@ITEM 14 (FR) ]
+C'est pourtant un joli trésor...\0
+
+[@ITEM 15 (L1) ]
+\0
+
+[@ITEM 15 (EN) ]
+In exchange, with us......{PRESS_CLEAR}
+Play! Play! Play!\0
+
+[@ITEM 15 (L2) ]
+\0
+
+[@ITEM 15 (FR) ]
+En échange, jouez...{PRESS_CLEAR}
+Jouez avec nous ! Jouez !\0
+
+[@ITEM 16 (L1) ]
+\0
+
+[@ITEM 16 (EN) ]
+'Oh...?{PRESS_CLEAR}
+The corpses I sent, so easily...\0
+
+[@ITEM 16 (L2) ]
+\0
+
+[@ITEM 16 (FR) ]
+Oh...{PRESS_CLEAR}
+Vous vous êtes débarrassés si facilement de mes
+cadavériques amis.\0
+
+[@ITEM 17 (L1) ]
+\0
+
+[@ITEM 17 (EN) ]
+{Frog}: It's been a while.
+Dark Arts Swordsman Soysaw...!\0
+
+[@ITEM 17 (L2) ]
+\0
+
+[@ITEM 17 (FR) ]
+{Frog} : Cela fait longtemps, Soja, épéiste des
+ténèbres...!\0
+
+[@ITEM 18 (L1) ]
+\0
+
+[@ITEM 18 (EN) ]
+Soysaw: I never even thought that you
+would come this far, Glenn.{PRESS_CLEAR}
+If Cyrus hadn't been there back then, you
+would have had the same fate as well.\0
+
+[@ITEM 18 (L2) ]
+\0
+
+[@ITEM 18 (FR) ]
+Soja : Jamais je n'aurais cru que tu parviendrais
+jusqu'ici, Glenn.{PRESS_CLEAR}
+Si Cyrus n'avait pas été là la dernière fois, tu aurais
+subi le même sort...\0
+
+[@ITEM 19 (L1) ]
+\0
+
+[@ITEM 19 (EN) ]
+Soysaw: Same as the corpses earlier!\0
+
+[@ITEM 19 (L2) ]
+\0
+
+[@ITEM 19 (FR) ]
+Soja : ... que les cadavres que tu viens de rencontrer !\0
+
+[@ITEM 20 (L1) ]
+\0
+
+[@ITEM 20 (EN) ]
+Soysaw: Pretty good.
+Guess I'll get serious for the first time in a while.\0
+
+[@ITEM 20 (L2) ]
+\0
+
+[@ITEM 20 (FR) ]
+Soja : Pas mal. Je vais combattre sérieusement pour la
+première fois depuis un bon moment.\0
+
+[@ITEM 21 (L1) ]
+\0
+
+[@ITEM 21 (EN) ]
+Soysaw: But without Cyrus, will you......\0
+
+[@ITEM 21 (L2) ]
+\0
+
+[@ITEM 21 (FR) ]
+Soja : Mais sans Cyrus...\0
+
+[@ITEM 22 (L1) ]
+\0
+
+[@ITEM 22 (EN) ]
+Soysaw: Be able to take me!?\0
+
+[@ITEM 22 (L2) ]
+\0
+
+[@ITEM 22 (FR) ]
+Soja : ... pourras-tu me vaincre ?\0
+
+[@ITEM 23 (L1) ]
+\0
+
+[@ITEM 23 (EN) ]
+Soysaw: Well done...!
+But being beaten while fighting for {Magus}-sama...\0
+
+[@ITEM 23 (L2) ]
+\0
+
+[@ITEM 23 (FR) ]
+Soja : Bravo...! Je m'avoue vaincu...\0
+
+[@ITEM 24 (L1) ]
+\0
+
+[@ITEM 24 (EN) ]
+Soysaw: My life is without regrets!\0
+
+[@ITEM 24 (L2) ]
+\0
+
+[@ITEM 24 (FR) ]
+Soja : Cependant, je n'ai aucun regret, car c'est pour le
+Magistère que je me suis battu...\0
+
+[@ITEM 25 (L1) ]
+\0
+
+[@ITEM 25 (EN) ]
+{Frog}: The Void Mage Mayonnay!?\0
+
+[@ITEM 25 (L2) ]
+\0
+
+[@ITEM 25 (FR) ]
+{Frog} : Mayo, le mage du néant ?!\0
+
+[@ITEM 26 (L1) ]
+\0
+
+[@ITEM 26 (EN) ]
+{Frog}: The one just now wasn't Mayonnay...\0
+
+[@ITEM 26 (L2) ]
+\0
+
+[@ITEM 26 (FR) ]
+{Frog} : Ce n'était pas Mayo... Où est le vrai
+Mayo ?!\0
+
+[@ITEM 27 (L1) ]
+\0
+
+[@ITEM 27 (EN) ]
+'Hu, hu, here, here...\0
+
+[@ITEM 27 (L2) ]
+\0
+
+[@ITEM 27 (FR) ]
+Hi, hi, hi... Je suis ici...\0
+
+[@ITEM 28 (L1) ]
+\0
+
+[@ITEM 28 (EN) ]
+'Give it up, Frog-chan!\0
+
+[@ITEM 28 (L2) ]
+\0
+
+[@ITEM 28 (FR) ]
+Cela faisait longtemps qu'on ne t'avait vu, ma petite
+grenouille !\0
+
+[@ITEM 29 (L1) ]
+\0
+
+[@ITEM 29 (EN) ]
+{Marle}: Who's this girl?\0
+
+[@ITEM 29 (L2) ]
+\0
+
+[@ITEM 29 (FR) ]
+{Marle} : Qui est cette fille ?\0
+
+[@ITEM 30 (L1) ]
+\0
+
+[@ITEM 30 (EN) ]
+{Lucca}: Who're you!?\0
+
+[@ITEM 30 (L2) ]
+\0
+
+[@ITEM 30 (FR) ]
+{Lucca} : Qui es-tu ?!\0
+
+[@ITEM 31 (L1) ]
+\0
+
+[@ITEM 31 (EN) ]
+{Robo}: This person is?\0
+
+[@ITEM 31 (L2) ]
+\0
+
+[@ITEM 31 (FR) ]
+{Robo} : Qui est cette personne ?\0
+
+[@ITEM 32 (L1) ]
+\0
+
+[@ITEM 32 (EN) ]
+{Frog}: Don't get careless!
+This one's the Void Mage Mayonnay!
+She's not a normal woman.\0
+
+[@ITEM 32 (L2) ]
+\0
+
+[@ITEM 32 (FR) ]
+{Frog} : Restez sur vos gardes ! C'est Mayo, le
+mage du néant ! Ce n'est pas une femme ordinaire.\0
+
+[@ITEM 33 (L1) ]
+\0
+
+[@ITEM 33 (EN) ]
+Mayonnay: Mukiiii!
+Anyhow, I'm a guy!\0
+
+[@ITEM 33 (L2) ]
+\0
+
+[@ITEM 33 (FR) ]
+Mayo : Ce que tu peux être vexant !
+Je suis un homme, un vrai !\0
+
+[@ITEM 34 (L1) ]
+\0
+
+[@ITEM 34 (EN) ]
+{Marle}: A guy, this girl!\0
+
+[@ITEM 34 (L2) ]
+\0
+
+[@ITEM 34 (FR) ]
+{Marle} : Cette fille ?! Un homme...?!\0
+
+[@ITEM 35 (L1) ]
+\0
+
+[@ITEM 35 (EN) ]
+{Lucca}: Geh! A guy, YOU!?\0
+
+[@ITEM 35 (L2) ]
+\0
+
+[@ITEM 35 (FR) ]
+{Lucca} : Hein ? Un homme ?! Toi ?!\0
+
+[@ITEM 36 (L1) ]
+\0
+
+[@ITEM 36 (EN) ]
+{Robo}: I can think nothing but that the
+appearance is obviously female...\0
+
+[@ITEM 36 (L2) ]
+\0
+
+[@ITEM 36 (FR) ]
+{Robo} : Je ne peux m'empêcher de penser que son
+apparence est de toute évidence celle d'une femme...\0
+
+[@ITEM 37 (L1) ]
+\0
+
+[@ITEM 37 (EN) ]
+Mayonnay: *giggle*, but male, female, either way,
+the strong are beauuuutiful.\0
+
+[@ITEM 37 (L2) ]
+\0
+
+[@ITEM 37 (FR) ]
+Mayo : Hi, hi, hi... Femme ou homme, peu importe.
+La beauté fait la force !\0
+
+[@ITEM 38 (L1) ]
+\0
+
+[@ITEM 38 (EN) ]
+Mayonnay: With Cyrus-chan gone, you must
+be lonely, Frog-chan.{PRESS_CLEAR}
+And to make things worse, to be made into such
+an ugly form{56}yuk!\0
+
+[@ITEM 38 (L2) ]
+\0
+
+[@ITEM 38 (FR) ]
+Mayo : Maintenant que Cyrus n'est plus là, tu dois être
+si triste... D'autant que tu es devenu une hideuse petite
+grenouille ! Beurk !\0
+
+[@ITEM 39 (L1) ]
+\0
+
+[@ITEM 39 (EN) ]
+Mayonnay: But you've gone to so much trouble to
+come play with me with your new friends...\0
+
+[@ITEM 39 (L2) ]
+\0
+
+[@ITEM 39 (FR) ]
+Mayo : Mais tu t'es donné tant de mal pour venir jouer
+avec moi accompagné de tes nouveaux amis...\0
+
+[@ITEM 40 (L1) ]
+\0
+
+[@ITEM 40 (EN) ]
+Mayonnay: I'll settle everything and entertain
+you!\0
+
+[@ITEM 40 (L2) ]
+\0
+
+[@ITEM 40 (FR) ]
+Mayo : Je me dois de vous accueillir chaleureusement !\0
+
+[@ITEM 41 (L1) ]
+\0
+
+[@ITEM 41 (EN) ]
+Mayonnay: H-how could I be beaten...?{PRESS_CLEAR}
+{Magus}-samaaaaa ♥\0
+
+[@ITEM 41 (L2) ]
+\0
+
+[@ITEM 41 (FR) ]
+Mayo : Comment... avez-vous pu me battre...?
+Ma beauté est pourtant sans pareille !{PRESS_CLEAR}
+Sire {Magus} ! ♥\0
+
+[@ITEM 42 (L1) ]
+\0
+
+[@ITEM 42 (EN) ]
+{Crono}, I was wondering why you hadn't come back
+from the festival, and here you are in a place like this.\0
+
+[@ITEM 42 (L2) ]
+\0
+
+[@ITEM 42 (FR) ]
+{Crono}, je me demandais où tu étais car tu n'es
+pas revenu après la foire... Que fais-tu dans un
+endroit pareil ?\0
+
+[@ITEM 43 (L1) ]
+\0
+
+[@ITEM 43 (EN) ]
+Such a bad boy...{PRESS_CLEAR}
+Die!\0
+
+[@ITEM 43 (L2) ]
+\0
+
+[@ITEM 43 (FR) ]
+Un aussi vilain garçon...{PRESS_CLEAR}
+... mérite la mort !\0
+
+[@ITEM 44 (L1) ]
+\0
+
+[@ITEM 44 (EN) ]
+Marledia......{PRESS_CLEAR}
+It's my fault, come back to the castle......\0
+
+[@ITEM 44 (L2) ]
+\0
+
+[@ITEM 44 (FR) ]
+Marledia...{PRESS_CLEAR}
+J'avais tort, reviens au château...\0
+
+[@ITEM 45 (L1) ]
+\0
+
+[@ITEM 45 (EN) ]
+As a corpse!\0
+
+[@ITEM 45 (L2) ]
+\0
+
+[@ITEM 45 (FR) ]
+... dans un cercueil !\0
+
+[@ITEM 46 (L1) ]
+\0
+
+[@ITEM 46 (EN) ]
+Oh, if it isn't {Lucca}.\0
+
+[@ITEM 46 (L2) ]
+\0
+
+[@ITEM 46 (FR) ]
+Oh, c'est toi, {Lucca} ?\0
+
+[@ITEM 47 (L1) ]
+\0
+
+[@ITEM 47 (EN) ]
+You're still alive!?\0
+
+[@ITEM 47 (L2) ]
+\0
+
+[@ITEM 47 (FR) ]
+Tu es encore en vie ?!\0
+
+[@ITEM 48 (L1) ]
+\0
+
+[@ITEM 48 (EN) ]
+{Robo}, you mustn't overdo it.\0
+
+[@ITEM 48 (L2) ]
+\0
+
+[@ITEM 48 (FR) ]
+{Robo}, n'en fais pas trop !\0
+
+[@ITEM 49 (L1) ]
+\0
+
+[@ITEM 49 (EN) ]
+I'll break you regardless, though!\0
+
+[@ITEM 49 (L2) ]
+\0
+
+[@ITEM 49 (FR) ]
+De toute façon, je vais te mettre en pièces !\0
+
+[@ITEM 50 (L1) ]
+\0
+
+[@ITEM 50 (EN) ]
+{Frog}, you were safe?\0
+
+[@ITEM 50 (L2) ]
+\0
+
+[@ITEM 50 (FR) ]
+{Frog}, tu es sain et sauf ?\0
+
+[@ITEM 51 (L1) ]
+\0
+
+[@ITEM 51 (EN) ]
+In that case, I'll do you a favor and kill you!\0
+
+[@ITEM 51 (L2) ]
+\0
+
+[@ITEM 51 (FR) ]
+Alors, laisse-moi y remédier !\0
+
+[@ITEM 52 (L1) ]
+\0
+
+[@ITEM 52 (EN) ]
+Tonight, the god of us Demons will be born.\0
+
+[@ITEM 52 (L2) ]
+\0
+
+[@ITEM 52 (FR) ]
+Dansez, dansez ! Cette nuit verra la naissance du dieu
+des mystiques !\0
+
+[@ITEM 53 (L1) ]
+\0
+
+[@ITEM 53 (EN) ]
+Oh, so the sacrifice has come!\0
+
+[@ITEM 53 (L2) ]
+\0
+
+[@ITEM 53 (FR) ]
+Oh, voici le sacrifice !\0
+
+[@ITEM 54 (L1) ]
+\0
+
+[@ITEM 54 (EN) ]
+To kill each other even though they've turned\0
+
+[@ITEM 54 (L2) ]
+\0
+
+[@ITEM 54 (FR) ]
+Même à l'état de squelette, ils continuent à s'entretuer.\0
+
+[@ITEM 55 (L1) ]
+\0
+
+[@ITEM 55 (EN) ]
+You humans!\0
+
+[@ITEM 55 (L2) ]
+\0
+
+[@ITEM 55 (FR) ]
+Les humains, quelles idiotes créatures...!\0
+
+[@ITEM 56 (L1) ]
+\0
+
+[@ITEM 56 (EN) ]
+Let me die...\0
+
+[@ITEM 56 (L2) ]
+\0
+
+[@ITEM 56 (FR) ]
+Laissez-moi mourir...\0
+
+[@ITEM 57 (L1) ]
+\0
+
+[@ITEM 57 (EN) ]
+Kill me...\0
+
+[@ITEM 57 (L2) ]
+\0
+
+[@ITEM 57 (FR) ]
+Achevez-moi...\0
+
+[@ITEM 58 (L1) ]
+\0
+
+[@ITEM 58 (EN) ]
+Aah...\0
+
+[@ITEM 58 (L2) ]
+\0
+
+[@ITEM 58 (FR) ]
+Ah...\0
+
+[@ITEM 59 (L1) ]
+\0
+
+[@ITEM 59 (EN) ]
+Stop it...\0
+
+[@ITEM 59 (L2) ]
+\0
+
+[@ITEM 59 (FR) ]
+Arrêtez...\0
+
+[@ITEM 60 (L1) ]
+\0
+
+[@ITEM 60 (EN) ]
+Vinnegar: You've come...?\0
+
+[@ITEM 60 (L2) ]
+\0
+
+[@ITEM 60 (FR) ]
+Vinnie : Vous voilà donc...\0
+
+[@ITEM 61 (L1) ]
+\0
+
+[@ITEM 61 (EN) ]
+Vinnegar: Mayonnay!\0
+
+[@ITEM 61 (L2) ]
+\0
+
+[@ITEM 61 (FR) ]
+Vinnie : Mayo !\0
+
+[@ITEM 62 (L1) ]
+\0
+
+[@ITEM 62 (EN) ]
+Vinnegar: Soysaw!!\0
+
+[@ITEM 62 (L2) ]
+\0
+
+[@ITEM 62 (FR) ]
+Vinnie : Soja !!\0
+
+[@ITEM 63 (L1) ]
+\0
+
+[@ITEM 63 (EN) ]
+{Frog}: Too bad, Vinnegar.
+Those guys can't come help anymore.\0
+
+[@ITEM 63 (L2) ]
+\0
+
+[@ITEM 63 (FR) ]
+{Frog} : Dommage, Vinnie, ils ne peuvent plus venir
+t'aider.\0
+
+[@ITEM 64 (L1) ]
+\0
+
+[@ITEM 64 (EN) ]
+Vinnegar: Y-you ribbit bastard...\0
+
+[@ITEM 64 (L2) ]
+\0
+
+[@ITEM 64 (FR) ]
+Vinnie : Espèce de vaurien gobeur de mouches !\0
+
+[@ITEM 65 (L1) ]
+\0
+
+[@ITEM 65 (EN) ]
+Vinnegar: V...{PRESS_CLEAR}
+Vinnegar piiinch!!\0
+
+[@ITEM 65 (L2) ]
+\0
+
+[@ITEM 65 (FR) ]
+Vinnie : Je...{PRESS_CLEAR}
+Je suis dans le pétrin !\0
+
+[@ITEM 66 (L1) ]
+\0
+
+[@ITEM 66 (EN) ]
+{Frog}: I won't let you get away!\0
+
+[@ITEM 66 (L2) ]
+\0
+
+[@ITEM 66 (FR) ]
+{Frog} : Tu ne t'échapperas pas !\0
+
+[@ITEM 67 (L1) ]
+\0
+
+[@ITEM 67 (EN) ]
+Vinnegar: Weeelcome......!\0
+
+[@ITEM 67 (L2) ]
+\0
+
+[@ITEM 67 (FR) ]
+Vinnie : Bienvenue...!\0
+
+[@ITEM 68 (L1) ]
+\0
+
+[@ITEM 68 (EN) ]
+Vinnegar: Hu, hu, not bad.
+But I wonder how this is?\0
+
+[@ITEM 68 (L2) ]
+\0
+
+[@ITEM 68 (FR) ]
+Vinnie : Ho, ho, pas mal. Mais que dites-vous de ça ?!\0
+
+[@ITEM 69 (L1) ]
+\0
+
+[@ITEM 69 (EN) ]
+Vinnegar: Gasp pant gasp pant...\0
+
+[@ITEM 69 (L2) ]
+\0
+
+[@ITEM 69 (FR) ]
+Vinnie : Ouf, ouf, ouf...\0
+
+[@ITEM 70 (L1) ]
+\0
+
+[@ITEM 70 (EN) ]
+Vinnegar: Nhuu! It can't be...!\0
+
+[@ITEM 70 (L2) ]
+\0
+
+[@ITEM 70 (FR) ]
+Vinnie : Gnnniii ! Impossible...!\0
+
+[@ITEM 71 (L1) ]
+\0
+
+[@ITEM 71 (EN) ]
+Vinnegar: Dammit! Is this the end!?\0
+
+[@ITEM 71 (L2) ]
+\0
+
+[@ITEM 71 (FR) ]
+Vinnie : Grrr... Est-ce la fin ?!\0
+
+[@ITEM 72 (L1) ]
+\0
+
+[@ITEM 72 (EN) ]
+{Frog}: It's payback time, Vinnegar.\0
+
+[@ITEM 72 (L2) ]
+\0
+
+[@ITEM 72 (FR) ]
+{Frog} : Le moment est venu de payer pour tes
+crimes, Vinnie.\0
+
+[@ITEM 73 (L1) ]
+\0
+
+[@ITEM 73 (EN) ]
+Vinnegar: Ghgehgeh...{PRESS_CLEAR}
+But {Magus}-sama is most likely already
+summoning...
+Lavos-sama!!\0
+
+[@ITEM 73 (L2) ]
+\0
+
+[@ITEM 73 (FR) ]
+Vinnie : Ga, ha, ha, ha...{PRESS_CLEAR}
+Son Excellence est probablement déjà en train
+d'invoquer le grand Lavos...!\0
+
+[@ITEM 74 (L1) ]
+\0
+
+[@ITEM 74 (EN) ]
+Vinnegar: I won't be beaten, I won't be beaten!
+My barrier rejects all attacks!\0
+
+[@ITEM 74 (L2) ]
+\0
+
+[@ITEM 74 (FR) ]
+Vinnie : Je ne serai pas vaincu ! Je ne serai pas vaincu !
+Ma barrière saura repousser toutes les attaques !\0
+
+[@ITEM 75 (L1) ]
+\0
+
+[@ITEM 75 (EN) ]
+Vinnegar: Gyehh, heh, heh!!\0
+
+[@ITEM 75 (L2) ]
+\0
+
+[@ITEM 75 (FR) ]
+Vinnie : Ga, ha, ha, ha...\0
+
+[@ITEM 76 (L1) ]
+\0
+
+[@ITEM 76 (EN) ]
+Vinnegar: Where're you aiming!?\0
+
+[@ITEM 76 (L2) ]
+\0
+
+[@ITEM 76 (FR) ]
+Vinnie : C'est tout ce que tu sais faire ?\0
+
+[@ITEM 77 (L1) ]
+\0
+
+[@ITEM 77 (EN) ]
+Vinnegar: Gyehh, heh, heh...\0
+
+[@ITEM 77 (L2) ]
+\0
+
+[@ITEM 77 (FR) ]
+Vinnie : Ga, ha, ha, ha...\0
+
+[@ITEM 78 (L1) ]
+\0
+
+[@ITEM 78 (EN) ]
+Vinnegar: Huh?\0
+
+[@ITEM 78 (L2) ]
+\0
+
+[@ITEM 78 (FR) ]
+Vinnie : Hein ?!\0
+
+[@ITEM 79 (L1) ]
+\0
+
+[@ITEM 79 (EN) ]
+{Marle}: Heeey, that was no big deal!\0
+
+[@ITEM 79 (L2) ]
+\0
+
+[@ITEM 79 (FR) ]
+{Marle} : C'était du gâteau !\0
+
+[@ITEM 80 (L1) ]
+\0
+
+[@ITEM 80 (EN) ]
+{Lucca}: What was that guy's problem...?\0
+
+[@ITEM 80 (L2) ]
+\0
+
+[@ITEM 80 (FR) ]
+{Lucca} : C'était quoi, son problème, au juste ?\0
+
+[@ITEM 81 (L1) ]
+\0
+
+[@ITEM 81 (EN) ]
+{Robo}: What could his problem have been?
+That Vinnegar...\0
+
+[@ITEM 81 (L2) ]
+\0
+
+[@ITEM 81 (FR) ]
+{Robo} : Quel étrange personnage, ce Vinnie...\0
+
+[@ITEM 82 (L1) ]
+\0
+
+[@ITEM 82 (EN) ]
+{Frog}: We're fighting over the whole country!
+Hurry, to where {Magus} is!\0
+
+[@ITEM 82 (L2) ]
+\0
+
+[@ITEM 82 (FR) ]
+{Frog} : Nous n'avons pas une minute à perdre !
+Dépêchons-nous de trouver {Magus} !\0
+
+[@ITEM 83 (L1) ]
+\0
+
+[@ITEM 83 (EN) ]
+'Da zuma lafwa roh laira......\0
+
+[@ITEM 83 (L2) ]
+\0
+
+[@ITEM 83 (FR) ]
+Da, zuma, lafa, ro, laïra...\0
+
+[@ITEM 84 (L1) ]
+\0
+
+[@ITEM 84 (EN) ]
+'Be spun, betwixt heaven and earth......\0
+
+[@ITEM 84 (L2) ]
+\0
+
+[@ITEM 84 (FR) ]
+Sois tissé entre ciel et terre...\0
+
+[@ITEM 85 (L1) ]
+\0
+
+[@ITEM 85 (EN) ]
+'In exchange for this earth's life...!\0
+
+[@ITEM 85 (L2) ]
+\0
+
+[@ITEM 85 (FR) ]
+En échange de la vie de ce monde...!\0
+
+[@ITEM 86 (L1) ]
+\0
+
+[@ITEM 86 (EN) ]
+{Frog}: {Magus}!!\0
+
+[@ITEM 86 (L2) ]
+\0
+
+[@ITEM 86 (FR) ]
+{Frog} : {Magus} !!\0
+
+[@ITEM 87 (L1) ]
+\0
+
+[@ITEM 87 (EN) ]
+{Magus}: The frog from that other time...?{PRESS_CLEAR}
+How's your life been after that?\0
+
+[@ITEM 87 (L2) ]
+\0
+
+[@ITEM 87 (FR) ]
+{Magus} : La grenouille de l'autre fois...?{PRESS_CLEAR}
+Que penses-tu de ta vie depuis ?\0
+
+[@ITEM 88 (L1) ]
+\0
+
+[@ITEM 88 (EN) ]
+{Frog}: I'm grateful.
+It's because of such a form...
+That I have what I've got!\0
+
+[@ITEM 88 (L2) ]
+\0
+
+[@ITEM 88 (FR) ]
+{Frog} : Je te suis reconnaissant. C'est justement
+parce que j'ai une telle apparence...\0
+
+[@ITEM 89 (L1) ]
+\0
+
+[@ITEM 89 (EN) ]
+{Frog}: That I have what I've got!\0
+
+[@ITEM 89 (L2) ]
+\0
+
+[@ITEM 89 (FR) ]
+{Frog} : ... que j'ai pu obtenir ceci !\0
+
+[@ITEM 90 (L1) ]
+\0
+
+[@ITEM 90 (EN) ]
+{Magus}: Oh...?
+The Grandleon, you...{WAIT}06{/WAIT}{CLEAR}
+But this time, those of the earth would do better
+not to hinder me.{WAIT}08{/WAIT}{CLOSE}\0
+
+[@ITEM 90 (L2) ]
+\0
+
+[@ITEM 90 (FR) ]
+{Magus} : Oh... Grandléon...{WAIT}06{/WAIT}{CLEAR}
+Espérons que personne ne nous fera obstacle, cette
+fois.{WAIT}08{/WAIT}{CLOSE}\0
+
+[@ITEM 91 (L1) ]
+\0
+
+[@ITEM 91 (EN) ]
+{Magus}: The black wind has again begun to
+howl...{WAIT}06{/WAIT}{CLEAR}
+Very well, come at me...{WAIT}06{/WAIT}{CLOSE}\0
+
+[@ITEM 91 (L2) ]
+\0
+
+[@ITEM 91 (FR) ]
+{Magus} : Le vent sombre se lamente de nouveau...{WAIT}06{/WAIT}{CLEAR}
+Viens, je t'attends...{WAIT}06{/WAIT}{CLOSE}\0
+
+[@ITEM 92 (L1) ]
+\0
+
+[@ITEM 92 (EN) ]
+{Magus}: If you're prepared for death!{WAIT}06{/WAIT}{CLOSE}\0
+
+[@ITEM 92 (L2) ]
+\0
+
+[@ITEM 92 (FR) ]
+{Magus} : J'espère que tu es prêt à mourir !{WAIT}06{/WAIT}{CLOSE}\0
+
+[@ITEM 93 (L1) ]
+\0
+
+[@ITEM 93 (EN) ]
+{Magus}: Y-you, the Grandleon, that far...\0
+
+[@ITEM 93 (L2) ]
+\0
+
+[@ITEM 93 (FR) ]
+{Magus} : Grandléon... Tu la maîtrises à ce point...\0
+
+[@ITEM 94 (L1) ]
+\0
+
+[@ITEM 94 (EN) ]
+{Marle}: Wh-what!?\0
+
+[@ITEM 94 (L2) ]
+\0
+
+[@ITEM 94 (FR) ]
+{Marle} : Qu'est-ce qui se passe ?!\0
+
+[@ITEM 95 (L1) ]
+\0
+
+[@ITEM 95 (EN) ]
+{Lucca}: Th-this is!?\0
+
+[@ITEM 95 (L2) ]
+\0
+
+[@ITEM 95 (FR) ]
+{Lucca} : Que se passe-t-il ?!\0
+
+[@ITEM 96 (L1) ]
+\0
+
+[@ITEM 96 (EN) ]
+{Robo}: It is a powerful energy reaction!\0
+
+[@ITEM 96 (L2) ]
+\0
+
+[@ITEM 96 (FR) ]
+{Robo} : Une puissante réaction énergétique !\0
+
+[@ITEM 97 (L1) ]
+\0
+
+[@ITEM 97 (EN) ]
+{Frog}: That Lavos thing!?\0
+
+[@ITEM 97 (L2) ]
+\0
+
+[@ITEM 97 (FR) ]
+{Frog} : Est-ce Lavos ?!\0
+
+[@ITEM 98 (L1) ]
+\0
+
+[@ITEM 98 (EN) ]
+{Magus}: Damn!
+Being awakened from its sleep now...\0
+
+[@ITEM 98 (L2) ]
+\0
+
+[@ITEM 98 (FR) ]
+{Magus} : Malédiction ! Il ne doit pas se réveiller
+maintenant !\0
+
+[@ITEM 99 (L1) ]
+\0
+
+[@ITEM 99 (EN) ]
+{Marle}: Sleep?
+You brought it forth, right!?\0
+
+[@ITEM 99 (L2) ]
+\0
+
+[@ITEM 99 (FR) ]
+{Marle} : Se réveiller ? Mais tu l'as créé !\0
+
+[@ITEM 100 (L1) ]
+\0
+
+[@ITEM 100 (EN) ]
+{Lucca}: Sleep!?
+Didn't you make it!?\0
+
+[@ITEM 100 (L2) ]
+\0
+
+[@ITEM 100 (FR) ]
+{Lucca} : Que veux-tu dire, se réveiller ?
+Ne l'as-tu pas créé ?!\0
+
+[@ITEM 101 (L1) ]
+\0
+
+[@ITEM 101 (EN) ]
+{Robo}: Sleep?
+According to the records, Lavos was born
+right at this time......\0
+
+[@ITEM 101 (L2) ]
+\0
+
+[@ITEM 101 (FR) ]
+{Robo} : Se réveiller ? Selon les archives,
+Lavos est né à cet instant précis...\0
+
+[@ITEM 102 (L1) ]
+\0
+
+[@ITEM 102 (EN) ]
+{Magus}: Foolish ones!
+I did nothing more than summon it!{PRESS_CLEAR}
+It has existed deep underground since ancient
+times, and leisurely continues to mature
+as it absorbs this earth's energy!\0
+
+[@ITEM 102 (L2) ]
+\0
+
+[@ITEM 102 (FR) ]
+{Magus} : Imbéciles ! Je n'ai fait que l'invoquer !{PRESS_CLEAR}
+Il existe depuis des lustres, loin sous la terre,
+continuant de croître lentement au fur et à
+mesure qu'il absorbe l'énergie de la planète !\0
+
+[@ITEM 103 (L1) ]
+\0
+
+[@ITEM 103 (EN) ]
+{Marle}: What did you say!?\0
+
+[@ITEM 103 (L2) ]
+\0
+
+[@ITEM 103 (FR) ]
+{Marle} : Qu'est-ce que tu dis ?!\0
+
+[@ITEM 104 (L1) ]
+\0
+
+[@ITEM 104 (EN) ]
+{Lucca}: Then, that means it wasn't born in this era...\0
+
+[@ITEM 104 (L2) ]
+\0
+
+[@ITEM 104 (FR) ]
+{Lucca} : Alors, cela veut dire qu'il n'est pas né à
+cette époque...\0
+
+[@ITEM 105 (L1) ]
+\0
+
+[@ITEM 105 (EN) ]
+{Robo}: Then that means the records of my era
+are not factual...\0
+
+[@ITEM 105 (L2) ]
+\0
+
+[@ITEM 105 (FR) ]
+{Robo} : Tu veux dire que mes archives sont
+incorrectes ?\0
+
+[@ITEM 106 (L1) ]
+\0
+
+[@ITEM 106 (EN) ]
+{Frog}: What's this feeling!?\0
+
+[@ITEM 106 (L2) ]
+\0
+
+[@ITEM 106 (FR) ]
+{Frog} : Qu'est-ce que c'est ?!\0
+
+[@ITEM 107 (L1) ]
+\0
+
+[@ITEM 107 (EN) ]
+{Marle}: A-a Gate!?\0
+
+[@ITEM 107 (L2) ]
+\0
+
+[@ITEM 107 (FR) ]
+{Marle} : Un portail ?!\0
+
+[@ITEM 108 (L1) ]
+\0
+
+[@ITEM 108 (EN) ]
+{Lucca}: A-a Gate!?
+And how enormous...!\0
+
+[@ITEM 108 (L2) ]
+\0
+
+[@ITEM 108 (FR) ]
+{Lucca} : Un portail ?! Il est énorme...!\0
+
+[@ITEM 109 (L1) ]
+\0
+
+[@ITEM 109 (EN) ]
+{Robo}: This cannot be!
+This Gate reaction is of impossible size!\0
+
+[@ITEM 109 (L2) ]
+\0
+
+[@ITEM 109 (FR) ]
+{Robo} : Impossible ! Un portail d'une taille pareille
+est inconcevable !\0
+
+[@ITEM 110 (L1) ]
+\0
+
+[@ITEM 110 (EN) ]
+{Magus}: You, if only you bastards hadn't
+appeared...!\0
+
+[@ITEM 110 (L2) ]
+\0
+
+[@ITEM 110 (FR) ]
+{Magus} : Si seulement vous n'étiez pas venus...!\0
+
+[@ITEM 111 (L1) ]
+\0
+
+[@ITEM 111 (EN) ]
+{Marle}: {Crono}!!\0
+
+[@ITEM 111 (L2) ]
+\0
+
+[@ITEM 111 (FR) ]
+{Marle} : {Crono} !!\0
+
+[@ITEM 112 (L1) ]
+\0
+
+[@ITEM 112 (EN) ]
+{Lucca}: W-we're being suc...!\0
+
+[@ITEM 112 (L2) ]
+\0
+
+[@ITEM 112 (FR) ]
+{Lucca} : Nous allons être aspirés...!\0
+
+[@ITEM 113 (L1) ]
+\0
+
+[@ITEM 113 (EN) ]
+{Robo}: The gravitation is very strong!\0
+
+[@ITEM 113 (L2) ]
+\0
+
+[@ITEM 113 (FR) ]
+{Robo} : L'énergie gravitationnelle est
+surpuissante !\0
+
+[@ITEM 114 (L1) ]
+\0
+
+[@ITEM 114 (EN) ]
+{Frog}: Whoooooah!{56}!\0
+
+[@ITEM 114 (L2) ]
+\0
+
+[@ITEM 114 (FR) ]
+{Frog} : Aaah !\0
+
+[@ITEM 115 (L1) ]
+\0
+
+[@ITEM 115 (EN) ]
+{Lucca}: Phew...
+This is awfully stubborn.{WAIT}0c{/WAIT}{CLEAR}
+{Robo}: I am sorry, {Lucca}...{WAIT}06{/WAIT}{CLEAR}
+{Lucca}: It's not your fault, is it?
+It was we humans who put weapons on this body.{WAIT}0f{/WAIT}{CLOSE}\0
+
+[@ITEM 115 (L2) ]
+\0
+
+[@ITEM 115 (FR) ]
+{Lucca} : Dis donc, celui-là est plutôt coriace.{WAIT}0c{/WAIT}{CLEAR}
+{Robo} : Je suis désolé, {Lucca}...{WAIT}06{/WAIT}{CLEAR}
+{Lucca} : Ce n'est pas ta faute. Ce sont des humains
+qui t'ont muni d'armes, après tout.{WAIT}0f{/WAIT}{CLOSE}\0
+
+[@ITEM 116 (L1) ]
+\0
+
+[@ITEM 116 (EN) ]
+{Lucca}: But I'm amazed he's sleeping.
+That idiot...
+I wonder if we should wake him and make him help.{WAIT}0e{/WAIT}{CLEAR}
+Don't!{WAIT}04{/WAIT}{CLOSE}\0
+
+[@ITEM 116 (L2) ]
+\0
+
+[@ITEM 116 (FR) ]
+{Lucca} : Pfft, il dort comme une souche, cet idiot.
+Je me demande si je ne devrais pas le réveiller pour
+qu'il me donne un coup de main...{WAIT}0f{/WAIT}{CLEAR}
+Non !{WAIT}04{/WAIT}{CLOSE}\0
+
+[@ITEM 117 (L1) ]
+\0
+
+[@ITEM 117 (EN) ]
+{Marle}: Let's let him sleep.
+That was really some battle after all.{WAIT}0c{/WAIT}{CLOSE}\0
+
+[@ITEM 117 (L2) ]
+\0
+
+[@ITEM 117 (FR) ]
+{Marle} : Laissons-le dormir. Il le mérite, après une
+telle bataille.{WAIT}0c{/WAIT}{CLOSE}\0
+
+[@ITEM 118 (L1) ]
+\0
+
+[@ITEM 118 (EN) ]
+{Frog}: ...{WAIT}04{/WAIT}{CLOSE}\0
+
+[@ITEM 118 (L2) ]
+\0
+
+[@ITEM 118 (FR) ]
+{Frog} : ...{WAIT}04{/WAIT}{CLOSE}\0
+
+[@ITEM 119 (L1) ]
+\0
+
+[@ITEM 119 (EN) ]
+{Lucca}: Sigh... fine, fine.{WAIT}06{/WAIT}{CLOSE}\0
+
+[@ITEM 119 (L2) ]
+\0
+
+[@ITEM 119 (FR) ]
+{Lucca} : Hum... Bon, d'accord.{WAIT}06{/WAIT}{CLOSE}\0
+
+[@ITEM 120 (L1) ]
+\0
+
+[@ITEM 120 (EN) ]
+{Marle}: Where're you going?
+We've gone to the trouble of making tea.{WAIT}0c{/WAIT}{CLOSE}\0
+
+[@ITEM 120 (L2) ]
+\0
+
+[@ITEM 120 (FR) ]
+{Marle} : Où t'en vas-tu comme ça ? Je viens tout
+juste de préparer du thé pour tout le monde.{WAIT}0c{/WAIT}{CLOSE}\0
+
+[@ITEM 121 (L1) ]
+\0
+
+[@ITEM 121 (EN) ]
+{Frog}: Oh, just some minor little business.{WAIT}0c{/WAIT}{CLOSE}\0
+
+[@ITEM 121 (L2) ]
+\0
+
+[@ITEM 121 (FR) ]
+{Frog} : J'ai quelque chose à régler.{WAIT}0c{/WAIT}{CLOSE}\0
+
+[@ITEM 122 (L1) ]
+\0
+
+[@ITEM 122 (EN) ]
+{Marle}: Phooey...{WAIT}04{/WAIT}{CLOSE}\0
+
+[@ITEM 122 (L2) ]
+\0
+
+[@ITEM 122 (FR) ]
+{Marle} : Ha, ha...{WAIT}04{/WAIT}{CLOSE}\0
+
+[@ITEM 123 (L1) ]
+\0
+
+[@ITEM 123 (EN) ]
+Foolish...{WAIT}06{/WAIT}{CLOSE}\0
+
+[@ITEM 123 (L2) ]
+\0
+
+[@ITEM 123 (FR) ]
+Pauvre fou...{WAIT}06{/WAIT}{CLOSE}\0
+
+[@ITEM 124 (L1) ]
+\0
+
+[@ITEM 124 (EN) ]
+Foolish...
+It's been a long time since someone rushing
+to die has appeared!{WAIT}0c{/WAIT}{CLOSE}\0
+
+[@ITEM 124 (L2) ]
+\0
+
+[@ITEM 124 (FR) ]
+Il y avait longtemps que je n'avais pas vu quelqu'un
+aussi pressé de mourir !{WAIT}0c{/WAIT}{CLOSE}\0
+
+[@ITEM 125 (L1) ]
+\0
+
+[@ITEM 125 (EN) ]
+*giggle*, you're so underestimating me...{WAIT}06{/WAIT}{CLOSE}\0
+
+[@ITEM 125 (L2) ]
+\0
+
+[@ITEM 125 (FR) ]
+Hi, hi, hi... Tu dois me sous-estimer...{WAIT}06{/WAIT}{CLOSE}\0
+
+[@ITEM 126 (L1) ]
+\0
+
+[@ITEM 126 (EN) ]
+Trying to beat me by yourself, as if!{WAIT}06{/WAIT}{CLOSE}\0
+
+[@ITEM 126 (L2) ]
+\0
+
+[@ITEM 126 (FR) ]
+Si tu crois pouvoir me vaincre seul !{WAIT}06{/WAIT}{CLOSE}\0
+
+[@ITEM 127 (L1) ]
+\0
+
+[@ITEM 127 (EN) ]
+Y-you're...!!{WAIT}06{/WAIT}{CLOSE}\0
+
+[@ITEM 127 (L2) ]
+\0
+
+[@ITEM 127 (FR) ]
+Mais c'est...!!{WAIT}06{/WAIT}{CLOSE}\0
+
+[@ITEM 128 (L1) ]
+\0
+
+[@ITEM 128 (EN) ]
+Da zuma lafwa roh laira......
+Be spun, betwixt heaven and earth......{WAIT}0c{/WAIT}{CLOSE}\0
+
+[@ITEM 128 (L2) ]
+\0
+
+[@ITEM 128 (FR) ]
+Da, zuma, lafa, ro, laïra...
+Sois tissé entre ciel et terre...{WAIT}0c{/WAIT}{CLOSE}\0
+
+[@ITEM 129 (L1) ]
+\0
+
+[@ITEM 129 (EN) ]
+'In exchange for this earth's life...!{WAIT}06{/WAIT}{CLOSE}\0
+
+[@ITEM 129 (L2) ]
+\0
+
+[@ITEM 129 (FR) ]
+En échange de la vie de ce monde...!{WAIT}06{/WAIT}{CLOSE}\0
+
+[@ITEM 130 (L1) ]
+\0
+
+[@ITEM 130 (EN) ]
+{Magus}: So you really did come...{WAIT}06{/WAIT}{CLOSE}\0
+
+[@ITEM 130 (L2) ]
+\0
+
+[@ITEM 130 (FR) ]
+{Magus} : Tu es donc venu...{WAIT}06{/WAIT}{CLOSE}\0
+
+[@ITEM 131 (L1) ]
+\0
+
+[@ITEM 131 (EN) ]
+{Magus}: Both humans and we Demons have
+in large part let their lives drop...{WAIT}0c{/WAIT}{CLEAR}
+Those aside from you and I who live are like
+unto worms...{WAIT}0c{/WAIT}{CLEAR}
+The one who lives when this battle ends will
+take the world...{WAIT}0c{/WAIT}{CLEAR}
+No{56}take the future in his hands...{WAIT}06{/WAIT}{CLOSE}\0
+
+[@ITEM 131 (L2) ]
+\0
+
+[@ITEM 131 (FR) ]
+{Magus} : Les mystiques et les humains ont pour la
+plupart péri...{WAIT}0c{/WAIT}{CLEAR}
+En dehors de toi et moi, ceux qui ont survécu ne sont
+que des vers...{WAIT}0c{/WAIT}{CLEAR}
+Après cette bataille, celui d'entre nous qui sera
+toujours en vie aura le monde entre ses mains...{WAIT}0c{/WAIT}{CLEAR}
+Non, je devrais plutôt dire, le Futur...{WAIT}06{/WAIT}{CLOSE}\0
+
+[@ITEM 132 (L1) ]
+\0
+
+[@ITEM 132 (EN) ]
+{Frog}: Looks that way...
+But I don't care either way about such things.{WAIT}0c{/WAIT}{CLOSE}\0
+
+[@ITEM 132 (L2) ]
+\0
+
+[@ITEM 132 (FR) ]
+{Frog} : On dirait bien... Cependant, ce genre de
+chose m'importe peu.{WAIT}0c{/WAIT}{CLOSE}\0
+
+[@ITEM 133 (L1) ]
+\0
+
+[@ITEM 133 (EN) ]
+{Frog}: There is meaning in fighting you......!{WAIT}0c{/WAIT}{CLOSE}\0
+
+[@ITEM 133 (L2) ]
+\0
+
+[@ITEM 133 (FR) ]
+{Frog} : Tout ce qui compte, c'est notre combat !{WAIT}0c{/WAIT}{CLOSE}\0
+
+[@ITEM 134 (L1) ]
+\0
+
+[@ITEM 134 (EN) ]
+{Magus}: Oh...?
+The Grandleon, you...{WAIT}0c{/WAIT}{CLEAR}
+Very well, come at me...{WAIT}06{/WAIT}{CLOSE}\0
+
+[@ITEM 134 (L2) ]
+\0
+
+[@ITEM 134 (FR) ]
+{Magus} : Oh... Grandléon...{WAIT}0c{/WAIT}{CLEAR}
+Viens, je t'attends...{WAIT}06{/WAIT}{CLOSE}\0
+
+[@ITEM 135 (L1) ]
+\0
+
+[@ITEM 135 (EN) ]
+'Whaddaya want?{PRESS_CLEAR}
+Me? I'm Spekkio.
+God of war!
+I'm watching the wars in various eras from here.\0
+
+[@ITEM 135 (L2) ]
+\0
+
+[@ITEM 135 (FR) ]
+Qu'est-ce que vous me voulez ?{PRESS_CLEAR}
+Moi ? Je suis Specchio, le dieu de la guerre !
+D'ici, j'observe les conflits de différentes
+époques.\0
+
+[@ITEM 136 (L1) ]
+\0
+
+[@ITEM 136 (EN) ]
+Spekkio: You, how do I look?
+\t\t{SEL1}Strong!{/SEL1}
+\t\t{SEL2}Weak!{/SEL2}\0
+
+[@ITEM 136 (L2) ]
+\0
+
+[@ITEM 136 (FR) ]
+Specchio : Selon vous, ai-je l'air fort ou faible ?
+       {SEL1}Fort{/SEL1}
+       {SEL2}Faible{/SEL2}\0
+
+[@ITEM 137 (L1) ]
+\0
+
+[@ITEM 137 (EN) ]
+Spekkio: Is that so.
+My appearance is your strength.
+If you're strong, I look strong, if you're weak, I
+look weak.\0
+
+[@ITEM 137 (L2) ]
+\0
+
+[@ITEM 137 (FR) ]
+Specchio : Je vois. Mon apparence est une réflexion
+de votre force. Si j'ai l'air fort, c'est que vous êtes
+forts, si j'ai l'air faible, c'est que vous êtes faibles.\0
+
+[@ITEM 138 (L1) ]
+\0
+
+[@ITEM 138 (EN) ]
+Spekkio: Hm?{PRESS_CLEAR}
+You guys have it.
+Power of the heart...
+I get it, that's why the old man outside let you
+in here.{PRESS_CLEAR}
+Long before you guys were born...
+There was a kingdom that prospered by magic.
+Everyone in that world used magic.{PRESS_CLEAR}
+But that country grew addicted to magical power
+and was destroyed...
+After that, people became unable to use magic.
+Except for the Demons anyway.{PRESS_CLEAR}
+But you guys've got it. Strength of the heart.
+Magic's the heart's strength, power.{PRESS_CLEAR}
+Magic's made up of the four powers Sky, Dark,
+Fire, and Water.{56}\0
+
+[@ITEM 138 (L2) ]
+\0
+
+[@ITEM 138 (FR) ]
+Specchio : Hum ?{PRESS_CLEAR}
+Vous possédez le pouvoir de l'âme...{PRESS_CLEAR}
+Ah, c'est pour ça que le vieillard vous a laissés entrer
+ici.{PRESS_CLEAR}
+Bien avant votre naissance, il y avait un royaume qui
+prospérait grâce à la magie... Tous ceux qui y habitaient
+pouvaient s'en servir.{PRESS_CLEAR}
+Cependant, ils en devinrent dépendants et le royaume
+fut détruit... Par la suite, personne ne put utiliser la
+magie, à part les mystiques, évidemment.{PRESS_CLEAR}
+Toutefois, vous l'avez, cette force de l'âme, et c'est
+d'elle que la magie tire son pouvoir.{PRESS_CLEAR}
+Elle est divisée en quatre éléments : lumière, ténèbres,
+feu et eau.\0
+
+[@ITEM 139 (L1) ]
+\0
+
+[@ITEM 139 (EN) ]
+Spekkio: You, pointy head, you're "Sky".\0
+
+[@ITEM 139 (L2) ]
+\0
+
+[@ITEM 139 (FR) ]
+Specchio : Toi, avec les cheveux pointus, ton élément
+est la lumière.\0
+
+[@ITEM 140 (L1) ]
+\0
+
+[@ITEM 140 (EN) ]
+Spekkio: This ponytailed girl's "Water" power.\0
+
+[@ITEM 140 (L2) ]
+\0
+
+[@ITEM 140 (FR) ]
+Specchio : L'élément de la fille avec la queue de cheval
+est l'eau.\0
+
+[@ITEM 141 (L1) ]
+\0
+
+[@ITEM 141 (EN) ]
+Spekkio: Glasses chick here's "Fire" power.\0
+
+[@ITEM 141 (L2) ]
+\0
+
+[@ITEM 141 (FR) ]
+Specchio : L'élément de la fille aux lunettes est le feu.\0
+
+[@ITEM 142 (L1) ]
+\0
+
+[@ITEM 142 (EN) ]
+Spekkio: This hugeass doll...
+You, you're not a living thing.{PRESS_CLEAR}
+You've got a strong heart too, but since you're
+not descended from the ancient magic
+peoples, magic's a no-go.{PRESS_CLEAR}
+But that laser weapon of yours has got
+serious destructive ability.
+It resembles "Dark" power.\0
+
+[@ITEM 142 (L2) ]
+\0
+
+[@ITEM 142 (FR) ]
+Specchio : L'élément de cette énorme poupée est...
+Dis, tu n'es pas un être vivant.{PRESS_CLEAR}
+Ton âme est forte, toi aussi, mais puisque tu n'es pas
+un descendant de ces anciens magiciens, tu ne peux
+pas utiliser la magie.{PRESS_CLEAR}
+Cependant, tes lasers ont un pouvoir très destructif
+qui ressemble à celui de l'élément ténèbres.\0
+
+[@ITEM 143 (L1) ]
+\0
+
+[@ITEM 143 (EN) ]
+Spekkio: Like so, it's not just magic{56}all things
+are made up of the balance of these four.\0
+
+[@ITEM 143 (L2) ]
+\0
+
+[@ITEM 143 (FR) ]
+Specchio : Et ce n'est pas seulement la magie, tout ce
+qui existe est constitué d'un mélange de ces quatre
+éléments.\0
+
+[@ITEM 144 (L1) ]
+\0
+
+[@ITEM 144 (EN) ]
+Spekkio: While silently praying, "I wanna use magic",
+circle clockwise along the edge of this room
+three times, starting from where the door is!{PRESS_CLEAR}
+I'll be watching so you can't cheat.\0
+
+[@ITEM 144 (L2) ]
+\0
+
+[@ITEM 144 (FR) ]
+Specchio : En priant silencieusement « Je veux utiliser
+la magie ! », faites trois fois le tour de cette pièce dans
+le sens des aiguilles d'une montre, en commençant
+devant la porte !{PRESS_CLEAR}
+Ne faites pas d'erreur, surtout !\0
+
+[@ITEM 145 (L1) ]
+\0
+
+[@ITEM 145 (EN) ]
+Spekkio: No cheating!
+I'm keeping close watch!{PRESS_CLEAR}
+Start over again! Three times, clockwise, along
+the edge, from the door!\0
+
+[@ITEM 145 (L2) ]
+\0
+
+[@ITEM 145 (FR) ]
+Specchio : Pas de tricherie ! Je vous regarde !{PRESS_CLEAR}
+Recommencez ! Faites trois fois le tour de la pièce dans
+le sens des aiguilles d'une montre, en commençant
+devant la porte !\0
+
+[@ITEM 146 (L1) ]
+\0
+
+[@ITEM 146 (EN) ]
+Spekkio: All right!\0
+
+[@ITEM 146 (L2) ]
+\0
+
+[@ITEM 146 (FR) ]
+Specchio : Très bien !\0
+
+[@ITEM 147 (L1) ]
+\0
+
+[@ITEM 147 (EN) ]
+Spekkio: Hanyaharahettamitaai!\0
+
+[@ITEM 147 (L2) ]
+\0
+
+[@ITEM 147 (FR) ]
+Specchio : Abracadabri, abracadabra !\0
+
+[@ITEM 148 (L1) ]
+\0
+
+[@ITEM 148 (EN) ]
+{MSGWND}
+{Crono} became able to use magic!\0
+
+[@ITEM 148 (L2) ]
+\0
+
+[@ITEM 148 (FR) ]
+{MSGWND}
+{Crono} peut désormais utiliser la magie !\0
+
+[@ITEM 149 (L1) ]
+\0
+
+[@ITEM 149 (EN) ]
+{MSGWND}
+{Marle} became able to use magic!\0
+
+[@ITEM 149 (L2) ]
+\0
+
+[@ITEM 149 (FR) ]
+{MSGWND}
+{Marle} peut désormais utiliser la magie !\0
+
+[@ITEM 150 (L1) ]
+\0
+
+[@ITEM 150 (EN) ]
+{MSGWND}
+{Lucca} became able to use magic!\0
+
+[@ITEM 150 (L2) ]
+\0
+
+[@ITEM 150 (FR) ]
+{MSGWND}
+{Lucca} peut désormais utiliser la magie !\0
+
+[@ITEM 151 (L1) ]
+\0
+
+[@ITEM 151 (EN) ]
+{MSGWND}
+{Robo} can't use magic!\0
+
+[@ITEM 151 (L2) ]
+\0
+
+[@ITEM 151 (FR) ]
+{MSGWND}
+{Robo} ne peut pas utiliser la magie !\0
+
+[@ITEM 152 (L1) ]
+\0
+
+[@ITEM 152 (EN) ]
+Spekkio: So! All fortified with magic!
+Wanna try it out?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 152 (L2) ]
+\0
+
+[@ITEM 152 (FR) ]
+Specchio : Alors, excités par ce nouveau pouvoir qui
+vous envahit ? Voulez-vous l'essayer ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 153 (L1) ]
+\0
+
+[@ITEM 153 (EN) ]
+Spekkio: Hu, hu, I'm excited!\0
+
+[@ITEM 153 (L2) ]
+\0
+
+[@ITEM 153 (FR) ]
+Specchio : Oh ! Je meurs d'impatience !\0
+
+[@ITEM 154 (L1) ]
+\0
+
+[@ITEM 154 (EN) ]
+Spekkio: What do you want?
+You lookin' for some practice?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 154 (L2) ]
+\0
+
+[@ITEM 154 (FR) ]
+Specchio : Qu'y a-t-il ? Vous voulez vous mesurer
+à moi ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 155 (L1) ]
+\0
+
+[@ITEM 155 (EN) ]
+Spekkio: Any time's fine.
+I'm the god of war after all!\0
+
+[@ITEM 155 (L2) ]
+\0
+
+[@ITEM 155 (FR) ]
+Specchio : Revenez quand vous voulez. De toute façon,
+je suis le dieu de la guerre !\0
+
+[@ITEM 156 (L1) ]
+\0
+
+[@ITEM 156 (EN) ]
+Spekkio: Ogogo...{PRESS_CLEAR}
+How could I lose...?\0
+
+[@ITEM 156 (L2) ]
+\0
+
+[@ITEM 156 (FR) ]
+Specchio : Hum...?{PRESS_CLEAR}
+Comment ai-je pu perdre...?!\0
+
+[@ITEM 157 (L1) ]
+\0
+
+[@ITEM 157 (EN) ]
+Spekkio: It's some kinda mistake! I'm the god of war!{PRESS_CLEAR}
+Oh, I get it, you could win since I taught you
+magic!\0
+
+[@ITEM 157 (L2) ]
+\0
+
+[@ITEM 157 (FR) ]
+Specchio : Il doit y avoir une erreur quelque part !
+Je suis le dieu de la guerre ! Ah, je sais ! C'est parce
+que JE vous ai enseigné la magie que vous avez gagné !\0
+
+[@ITEM 158 (L1) ]
+\0
+
+[@ITEM 158 (EN) ]
+Spekkio: I really am the god of war!\0
+
+[@ITEM 158 (L2) ]
+\0
+
+[@ITEM 158 (FR) ]
+Specchio : Je suis le dieu de la guerre, pas de doute
+là-dessus ! La, lalaa ! ♪\0
+
+[@ITEM 159 (L1) ]
+\0
+
+[@ITEM 159 (EN) ]
+Spekkio: H-hmph.
+Looks like you're sort of competent.
+Can't help it, I'll give you this.\0
+
+[@ITEM 159 (L2) ]
+\0
+
+[@ITEM 159 (FR) ]
+Specchio : Hum... Pas mal. D'accord, prenez ceci.\0
+
+[@ITEM 160 (L1) ]
+\0
+
+[@ITEM 160 (EN) ]
+Spekkio: I'm the god of war! So generous!\0
+
+[@ITEM 160 (L2) ]
+\0
+
+[@ITEM 160 (FR) ]
+Specchio : Je suis le dieu de la guerre ! Je suis
+généreux ! La, lalaa ! ♪\0
+
+[@ITEM 161 (L1) ]
+\0
+
+[@ITEM 161 (EN) ]
+Spekkio: Hun, hu, huuuun♪
+I win!\0
+
+[@ITEM 161 (L2) ]
+\0
+
+[@ITEM 161 (FR) ]
+Specchio :  La, lalaa ! ♪
+J'ai gagné !\0
+
+[@ITEM 162 (L1) ]
+\0
+
+[@ITEM 162 (EN) ]
+Spekkio: If you make new companions, you're
+bringing them here.
+You guys are very interesting.\0
+
+[@ITEM 162 (L2) ]
+\0
+
+[@ITEM 162 (FR) ]
+Specchio : Si vous vous faites de nouveaux amis, venez
+me les présenter. Vous êtes marrants !\0
+
+[@ITEM 163 (L1) ]
+\0
+
+[@ITEM 163 (EN) ]
+Spekkio: This is another weird one you've brought.
+As you might guess since this guy's frog{56}he's
+got "Water" power.\0
+
+[@ITEM 163 (L2) ]
+\0
+
+[@ITEM 163 (FR) ]
+Specchio : Quelle étrange créature que voilà !{PRESS_CLEAR}
+Comme vous pouvez le deviner par son apparence, son
+élément est l'eau.\0
+
+[@ITEM 164 (L1) ]
+\0
+
+[@ITEM 164 (EN) ]
+{MSGWND}
+{Frog} became able to use magic!\0
+
+[@ITEM 164 (L2) ]
+\0
+
+[@ITEM 164 (FR) ]
+{MSGWND}
+{Frog} peut désormais utiliser la magie !\0
+
+[@ITEM 165 (L1) ]
+\0
+
+[@ITEM 165 (EN) ]
+Spekkio: Th-this is one sexy babe!{PRESS_CLEAR}
+But, babe, you were born before an era that
+had magic.
+You're dynamite, but magic's a no-go.\0
+
+[@ITEM 165 (L2) ]
+\0
+
+[@ITEM 165 (FR) ]
+Specchio : Quelle jolie créature que voilà !{PRESS_CLEAR}
+Malheureusement, ma chérie, tu es née avant l'ère des
+magiciens. Tu es canon, mais tu ne peux pas utiliser la
+magie.\0
+
+[@ITEM 166 (L1) ]
+\0
+
+[@ITEM 166 (EN) ]
+{MSGWND}
+{Ayla} can't use magic!\0
+
+[@ITEM 166 (L2) ]
+\0
+
+[@ITEM 166 (FR) ]
+{MSGWND}
+{Ayla} ne peut pas utiliser la magie !\0
+
+[@ITEM 167 (L1) ]
+\0
+
+[@ITEM 167 (EN) ]
+Spekkio: ...!!{PRESS_CLEAR}
+Th-this guy you've brought is really something
+else!{PRESS_CLEAR}
+The incredibly rare "Dark" power...!
+I've got nothing to teach him.\0
+
+[@ITEM 167 (L2) ]
+\0
+
+[@ITEM 167 (FR) ]
+Specchio : ...!!{PRESS_CLEAR}
+Votre nouveau compagnon est vraiment fantastique !{PRESS_CLEAR}
+Il peut utiliser le pouvoir exceptionnel des ténèbres...!
+Il n'y a rien que je puisse lui apprendre.\0
+
+[@ITEM 168 (L1) ]
+\0
+
+[@ITEM 168 (EN) ]
+Spekkio: Hm? That pointy-head hasn't come by
+lately.\0
+
+[@ITEM 168 (L2) ]
+\0
+
+[@ITEM 168 (FR) ]
+Specchio : Hum ? Il y a un moment que je n'ai pas vu le
+garçon aux cheveux pointus.\0
+
+[@ITEM 169 (L1) ]
+\0
+
+[@ITEM 169 (EN) ]
+Spekkio: Oh! Pointy-head!
+How are ya, what's up?\0
+
+[@ITEM 169 (L2) ]
+\0
+
+[@ITEM 169 (FR) ]
+Specchio : Ah ! Le garçon aux cheveux pointus !
+Ça va ? Où étais-tu passé ?\0
+
+[@ITEM 170 (L1) ]
+\0
+
+[@ITEM 170 (EN) ]
+{MSGWND}
+Spekkio's special refresher set!{PRESS_CLEAR}{MSGWND}
+
+Obtained 1 Magic Capsule and 5 Ethers!\0
+
+[@ITEM 170 (L2) ]
+\0
+
+[@ITEM 170 (FR) ]
+{MSGWND}
+Vous obtenez l'assortiment rafraîchissant
+de Specchio !{PRESS_CLEAR}{MSGWND}
+
+Une gélule de magie et cinq éthers !\0
+
+[@ITEM 171 (L1) ]
+\0
+
+[@ITEM 171 (EN) ]
+{MSGWND}
+Spekkio's choice set!{PRESS_CLEAR}{MSGWND}
+
+Obtained 1 Magic Capsule and 5 Mid-Ethers!\0
+
+[@ITEM 171 (L2) ]
+\0
+
+[@ITEM 171 (FR) ]
+{MSGWND}
+Vous obtenez l'assortiment flexible
+de Specchio !{PRESS_CLEAR}{MSGWND}
+
+Une gélule de magie et cinq super-éthers !\0
+
+[@ITEM 172 (L1) ]
+\0
+
+[@ITEM 172 (EN) ]
+{MSGWND}
+Spekkio's healthy choice set!{PRESS_CLEAR}{MSGWND}
+
+Obtained 1 Magic Capsule and 5 Hi-Ethers!\0
+
+[@ITEM 172 (L2) ]
+\0
+
+[@ITEM 172 (FR) ]
+{MSGWND}
+Vous obtenez l'assortiment sain
+de Specchio !{PRESS_CLEAR}{MSGWND}
+
+Une gélule de magie et cinq méga-éthers !\0
+
+[@ITEM 173 (L1) ]
+\0
+
+[@ITEM 173 (EN) ]
+{MSGWND}
+Spekkio's gratuity set!{PRESS_CLEAR}{MSGWND}
+
+Obtained 1 Magic Capsule, 1 Speed Capsule,
+1 Strength Capsule, and 10 Elixirs!\0
+
+[@ITEM 173 (L2) ]
+\0
+
+[@ITEM 173 (FR) ]
+{MSGWND}
+Vous obtenez l'assortiment gracieux
+de Specchio !{PRESS_CLEAR}{MSGWND}
+
+Une gélule de magie, une gélule de rapidité,
+une gélule de force et dix élixirs !\0
+
+[@ITEM 174 (L1) ]
+\0
+
+[@ITEM 174 (EN) ]
+{MSGWND}
+Spekkio's cheer and joy set!{PRESS_CLEAR}{MSGWND}
+
+Obtained 10 Magic Capsules, 10 Speed Capsules,
+10 Strength Capsules, and 10 Megalixirs!{PRESS_CLEAR}{MSGWND}
+
+Received enough of Spekkio's praise
+to last a year!\0
+
+[@ITEM 174 (L2) ]
+\0
+
+[@ITEM 174 (FR) ]
+{MSGWND}
+Vous obtenez l'assortiment joyeux
+de Specchio !{PRESS_CLEAR}{MSGWND}
+
+Dix gélules de magie, dix gélules de rapidité,
+dix gélules de force et dix ultra-élixirs...!{PRESS_CLEAR}{MSGWND}
+
+Il y a de quoi faire pendant un an !\0
+
+[@ITEM 175 (L1) ]
+\0
+
+[@ITEM 175 (EN) ]
+Spekkio: Cut it out already, you guys.\0
+
+[@ITEM 175 (L2) ]
+\0
+
+[@ITEM 175 (FR) ]
+Specchio : Ça suffit ! Je n'ai plus rien à vous offrir !\0
+
+[@ITEM 176 (L1) ]
+\0
+
+[@ITEM 176 (EN) ]
+Spekkio: What're you guys laughing at...?{PRESS_CLEAR}
+There's no connection between form and true
+strength...\0
+
+[@ITEM 176 (L2) ]
+\0
+
+[@ITEM 176 (FR) ]
+Specchio : Pourquoi vous riez comme ça...?{PRESS_CLEAR}
+L'habit ne fait pas le moine.\0
+
+[@ITEM 177 (L1) ]
+\0
+
+[@ITEM 177 (EN) ]
+{MSGWND}
+It's empty!\0
+
+[@ITEM 177 (L2) ]
+\0
+
+[@ITEM 177 (FR) ]
+{MSGWND}
+Il est vide !\0
+
+[@ITEM 178 (L1) ]
+\0
+
+[@ITEM 178 (EN) ]
+\0
+
+[@ITEM 178 (L2) ]
+\0
+
+[@ITEM 178 (FR) ]
+\0
+
+[@ITEM 179 (L1) ]
+\0
+
+[@ITEM 179 (EN) ]
+\0
+
+[@ITEM 179 (L2) ]
+\0
+
+[@ITEM 179 (FR) ]
+\0
+
+[@ITEM 180 (L1) ]
+\0
+
+[@ITEM 180 (EN) ]
+\0
+
+[@ITEM 180 (L2) ]
+\0
+
+[@ITEM 180 (FR) ]
+\0
+
+[@ITEM 181 (L1) ]
+\0
+
+[@ITEM 181 (EN) ]
+\0
+
+[@ITEM 181 (L2) ]
+\0
+
+[@ITEM 181 (FR) ]
+\0
+
+[@ITEM 182 (L1) ]
+\0
+
+[@ITEM 182 (EN) ]
+\0
+
+[@ITEM 182 (L2) ]
+\0
+
+[@ITEM 182 (FR) ]
+\0
+
+[@ITEM 183 (L1) ]
+\0
+
+[@ITEM 183 (EN) ]
+\0
+
+[@ITEM 183 (L2) ]
+\0
+
+[@ITEM 183 (FR) ]
+\0
+
+[@ITEM 184 (L1) ]
+\0
+
+[@ITEM 184 (EN) ]
+\0
+
+[@ITEM 184 (L2) ]
+\0
+
+[@ITEM 184 (FR) ]
+\0
+
+[@ITEM 185 (L1) ]
+\0
+
+[@ITEM 185 (EN) ]
+\0
+
+[@ITEM 185 (L2) ]
+\0
+
+[@ITEM 185 (FR) ]
+\0
+
+[@ITEM 186 (L1) ]
+\0
+
+[@ITEM 186 (EN) ]
+\0
+
+[@ITEM 186 (L2) ]
+\0
+
+[@ITEM 186 (FR) ]
+\0
+
+[@ITEM 187 (L1) ]
+\0
+
+[@ITEM 187 (EN) ]
+\0
+
+[@ITEM 187 (L2) ]
+\0
+
+[@ITEM 187 (FR) ]
+\0
+
+[@ITEM 188 (L1) ]
+\0
+
+[@ITEM 188 (EN) ]
+\0
+
+[@ITEM 188 (L2) ]
+\0
+
+[@ITEM 188 (FR) ]
+\0
+
+[@ITEM 189 (L1) ]
+\0
+
+[@ITEM 189 (EN) ]
+\0
+
+[@ITEM 189 (L2) ]
+\0
+
+[@ITEM 189 (FR) ]
+\0
+
+[@ITEM 190 (L1) ]
+\0
+
+[@ITEM 190 (EN) ]
+\0
+
+[@ITEM 190 (L2) ]
+\0
+
+[@ITEM 190 (FR) ]
+\0
+
+[@ITEM 191 (L1) ]
+\0
+
+[@ITEM 191 (EN) ]
+\0
+
+[@ITEM 191 (L2) ]
+\0
+
+[@ITEM 191 (FR) ]
+\0
+
+[@ITEM 192 (L1) ]
+\0
+
+[@ITEM 192 (EN) ]
+\0
+
+[@ITEM 192 (L2) ]
+\0
+
+[@ITEM 192 (FR) ]
+\0
+
+[@ITEM 193 (L1) ]
+\0
+
+[@ITEM 193 (EN) ]
+\0
+
+[@ITEM 193 (L2) ]
+\0
+
+[@ITEM 193 (FR) ]
+\0
+
+[@ITEM 194 (L1) ]
+\0
+
+[@ITEM 194 (EN) ]
+\0
+
+[@ITEM 194 (L2) ]
+\0
+
+[@ITEM 194 (FR) ]
+\0
+
+[@ITEM 195 (L1) ]
+\0
+
+[@ITEM 195 (EN) ]
+\0
+
+[@ITEM 195 (L2) ]
+\0
+
+[@ITEM 195 (FR) ]
+\0
+
+[@ITEM 196 (L1) ]
+\0
+
+[@ITEM 196 (EN) ]
+\0
+
+[@ITEM 196 (L2) ]
+\0
+
+[@ITEM 196 (FR) ]
+\0
+
+[@ITEM 197 (L1) ]
+\0
+
+[@ITEM 197 (EN) ]
+\0
+
+[@ITEM 197 (L2) ]
+\0
+
+[@ITEM 197 (FR) ]
+\0
+
+[@ITEM 198 (L1) ]
+\0
+
+[@ITEM 198 (EN) ]
+\0
+
+[@ITEM 198 (L2) ]
+\0
+
+[@ITEM 198 (FR) ]
+\0
+
+[@ITEM 199 (L1) ]
+\0
+
+[@ITEM 199 (EN) ]
+\0
+
+[@ITEM 199 (L2) ]
+\0
+
+[@ITEM 199 (FR) ]
+\0
+
+[@ITEM 200 (L1) ]
+\0
+
+[@ITEM 200 (EN) ]
+\0
+
+[@ITEM 200 (L2) ]
+\0
+
+[@ITEM 200 (FR) ]
+\0
+
+[@ITEM 201 (L1) ]
+\0
+
+[@ITEM 201 (EN) ]
+\0
+
+[@ITEM 201 (L2) ]
+\0
+
+[@ITEM 201 (FR) ]
+\0
+
+[@ITEM 202 (L1) ]
+\0
+
+[@ITEM 202 (EN) ]
+\0
+
+[@ITEM 202 (L2) ]
+\0
+
+[@ITEM 202 (FR) ]
+\0
+
+[@ITEM 203 (L1) ]
+\0
+
+[@ITEM 203 (EN) ]
+\0
+
+[@ITEM 203 (L2) ]
+\0
+
+[@ITEM 203 (FR) ]
+\0
+
+[@ITEM 204 (L1) ]
+\0
+
+[@ITEM 204 (EN) ]
+\0
+
+[@ITEM 204 (L2) ]
+\0
+
+[@ITEM 204 (FR) ]
+\0
+
+[@ITEM 205 (L1) ]
+\0
+
+[@ITEM 205 (EN) ]
+\0
+
+[@ITEM 205 (L2) ]
+\0
+
+[@ITEM 205 (FR) ]
+\0
+
+[@ITEM 206 (L1) ]
+\0
+
+[@ITEM 206 (EN) ]
+\0
+
+[@ITEM 206 (L2) ]
+\0
+
+[@ITEM 206 (FR) ]
+\0
+
+[@ITEM 207 (L1) ]
+\0
+
+[@ITEM 207 (EN) ]
+\0
+
+[@ITEM 207 (L2) ]
+\0
+
+[@ITEM 207 (FR) ]
+\0
+
+[@ITEM 208 (L1) ]
+\0
+
+[@ITEM 208 (EN) ]
+\0
+
+[@ITEM 208 (L2) ]
+\0
+
+[@ITEM 208 (FR) ]
+\0
+
+[@ITEM 209 (L1) ]
+\0
+
+[@ITEM 209 (EN) ]
+\0
+
+[@ITEM 209 (L2) ]
+\0
+
+[@ITEM 209 (FR) ]
+\0
+
+[@ITEM 210 (L1) ]
+\0
+
+[@ITEM 210 (EN) ]
+\0
+
+[@ITEM 210 (L2) ]
+\0
+
+[@ITEM 210 (FR) ]
+\0
+
+[@ITEM 211 (L1) ]
+\0
+
+[@ITEM 211 (EN) ]
+\0
+
+[@ITEM 211 (L2) ]
+\0
+
+[@ITEM 211 (FR) ]
+\0
+
+[@ITEM 212 (L1) ]
+\0
+
+[@ITEM 212 (EN) ]
+\0
+
+[@ITEM 212 (L2) ]
+\0
+
+[@ITEM 212 (FR) ]
+\0
+
+[@ITEM 213 (L1) ]
+\0
+
+[@ITEM 213 (EN) ]
+\0
+
+[@ITEM 213 (L2) ]
+\0
+
+[@ITEM 213 (FR) ]
+\0
+
+[@ITEM 214 (L1) ]
+\0
+
+[@ITEM 214 (EN) ]
+\0
+
+[@ITEM 214 (L2) ]
+\0
+
+[@ITEM 214 (FR) ]
+\0
+
+[@ITEM 215 (L1) ]
+\0
+
+[@ITEM 215 (EN) ]
+\0
+
+[@ITEM 215 (L2) ]
+\0
+
+[@ITEM 215 (FR) ]
+\0
+
+[@ITEM 216 (L1) ]
+\0
+
+[@ITEM 216 (EN) ]
+\0
+
+[@ITEM 216 (L2) ]
+\0
+
+[@ITEM 216 (FR) ]
+\0
+
+[@ITEM 217 (L1) ]
+\0
+
+[@ITEM 217 (EN) ]
+\0
+
+[@ITEM 217 (L2) ]
+\0
+
+[@ITEM 217 (FR) ]
+\0
+
+[@ITEM 218 (L1) ]
+\0
+
+[@ITEM 218 (EN) ]
+\0
+
+[@ITEM 218 (L2) ]
+\0
+
+[@ITEM 218 (FR) ]
+\0
+
+[@ITEM 219 (L1) ]
+\0
+
+[@ITEM 219 (EN) ]
+\0
+
+[@ITEM 219 (L2) ]
+\0
+
+[@ITEM 219 (FR) ]
+\0
+
+[@ITEM 220 (L1) ]
+\0
+
+[@ITEM 220 (EN) ]
+\0
+
+[@ITEM 220 (L2) ]
+\0
+
+[@ITEM 220 (FR) ]
+\0
+
+[@ITEM 221 (L1) ]
+\0
+
+[@ITEM 221 (EN) ]
+\0
+
+[@ITEM 221 (L2) ]
+\0
+
+[@ITEM 221 (FR) ]
+\0
+
+[@ITEM 222 (L1) ]
+\0
+
+[@ITEM 222 (EN) ]
+\0
+
+[@ITEM 222 (L2) ]
+\0
+
+[@ITEM 222 (FR) ]
+\0
+
+[@ITEM 223 (L1) ]
+\0
+
+[@ITEM 223 (EN) ]
+\0
+
+[@ITEM 223 (L2) ]
+\0
+
+[@ITEM 223 (FR) ]
+\0
+
+[@ITEM 224 (L1) ]
+\0
+
+[@ITEM 224 (EN) ]
+\0
+
+[@ITEM 224 (L2) ]
+\0
+
+[@ITEM 224 (FR) ]
+\0
+
+[@ITEM 225 (L1) ]
+\0
+
+[@ITEM 225 (EN) ]
+\0
+
+[@ITEM 225 (L2) ]
+\0
+
+[@ITEM 225 (FR) ]
+\0
+
+[@ITEM 226 (L1) ]
+\0
+
+[@ITEM 226 (EN) ]
+\0
+
+[@ITEM 226 (L2) ]
+\0
+
+[@ITEM 226 (FR) ]
+\0
+
+[@ITEM 227 (L1) ]
+\0
+
+[@ITEM 227 (EN) ]
+\0
+
+[@ITEM 227 (L2) ]
+\0
+
+[@ITEM 227 (FR) ]
+\0
+
+[@ITEM 228 (L1) ]
+\0
+
+[@ITEM 228 (EN) ]
+\0
+
+[@ITEM 228 (L2) ]
+\0
+
+[@ITEM 228 (FR) ]
+\0
+
+[@ITEM 229 (L1) ]
+\0
+
+[@ITEM 229 (EN) ]
+\0
+
+[@ITEM 229 (L2) ]
+\0
+
+[@ITEM 229 (FR) ]
+\0
+
+[@ITEM 230 (L1) ]
+\0
+
+[@ITEM 230 (EN) ]
+\0
+
+[@ITEM 230 (L2) ]
+\0
+
+[@ITEM 230 (FR) ]
+\0
+
+[@ITEM 231 (L1) ]
+\0
+
+[@ITEM 231 (EN) ]
+\0
+
+[@ITEM 231 (L2) ]
+\0
+
+[@ITEM 231 (FR) ]
+\0
+
+[@ITEM 232 (L1) ]
+\0
+
+[@ITEM 232 (EN) ]
+\0
+
+[@ITEM 232 (L2) ]
+\0
+
+[@ITEM 232 (FR) ]
+\0
+
+[@ITEM 233 (L1) ]
+\0
+
+[@ITEM 233 (EN) ]
+\0
+
+[@ITEM 233 (L2) ]
+\0
+
+[@ITEM 233 (FR) ]
+\0
+
+[@ITEM 234 (L1) ]
+\0
+
+[@ITEM 234 (EN) ]
+\0
+
+[@ITEM 234 (L2) ]
+\0
+
+[@ITEM 234 (FR) ]
+\0
+
+[@ITEM 235 (L1) ]
+\0
+
+[@ITEM 235 (EN) ]
+\0
+
+[@ITEM 235 (L2) ]
+\0
+
+[@ITEM 235 (FR) ]
+\0
+
+[@ITEM 236 (L1) ]
+\0
+
+[@ITEM 236 (EN) ]
+\0
+
+[@ITEM 236 (L2) ]
+\0
+
+[@ITEM 236 (FR) ]
+\0
+
+[@ITEM 237 (L1) ]
+\0
+
+[@ITEM 237 (EN) ]
+\0
+
+[@ITEM 237 (L2) ]
+\0
+
+[@ITEM 237 (FR) ]
+\0
+
+[@ITEM 238 (L1) ]
+\0
+
+[@ITEM 238 (EN) ]
+\0
+
+[@ITEM 238 (L2) ]
+\0
+
+[@ITEM 238 (FR) ]
+\0
+
+[@ITEM 239 (L1) ]
+\0
+
+[@ITEM 239 (EN) ]
+\0
+
+[@ITEM 239 (L2) ]
+\0
+
+[@ITEM 239 (FR) ]
+\0
+
+[@ITEM 240 (L1) ]
+\0
+
+[@ITEM 240 (EN) ]
+\0
+
+[@ITEM 240 (L2) ]
+\0
+
+[@ITEM 240 (FR) ]
+\0
+
+[@ITEM 241 (L1) ]
+\0
+
+[@ITEM 241 (EN) ]
+\0
+
+[@ITEM 241 (L2) ]
+\0
+
+[@ITEM 241 (FR) ]
+\0
+
+[@ITEM 242 (L1) ]
+\0
+
+[@ITEM 242 (EN) ]
+\0
+
+[@ITEM 242 (L2) ]
+\0
+
+[@ITEM 242 (FR) ]
+\0
+
+[@ITEM 243 (L1) ]
+\0
+
+[@ITEM 243 (EN) ]
+\0
+
+[@ITEM 243 (L2) ]
+\0
+
+[@ITEM 243 (FR) ]
+\0
+
+[@ITEM 244 (L1) ]
+\0
+
+[@ITEM 244 (EN) ]
+\0
+
+[@ITEM 244 (L2) ]
+\0
+
+[@ITEM 244 (FR) ]
+\0
+
+[@ITEM 245 (L1) ]
+\0
+
+[@ITEM 245 (EN) ]
+\0
+
+[@ITEM 245 (L2) ]
+\0
+
+[@ITEM 245 (FR) ]
+\0
+
+[@ITEM 246 (L1) ]
+\0
+
+[@ITEM 246 (EN) ]
+\0
+
+[@ITEM 246 (L2) ]
+\0
+
+[@ITEM 246 (FR) ]
+\0
+
+[@ITEM 247 (L1) ]
+\0
+
+[@ITEM 247 (EN) ]
+\0
+
+[@ITEM 247 (L2) ]
+\0
+
+[@ITEM 247 (FR) ]
+\0
+
+[@ITEM 248 (L1) ]
+\0
+
+[@ITEM 248 (EN) ]
+\0
+
+[@ITEM 248 (L2) ]
+\0
+
+[@ITEM 248 (FR) ]
+\0
+
+[@ITEM 249 (L1) ]
+\0
+
+[@ITEM 249 (EN) ]
+\0
+
+[@ITEM 249 (L2) ]
+\0
+
+[@ITEM 249 (FR) ]
+\0
+
+[@ITEM 250 (L1) ]
+\0
+
+[@ITEM 250 (EN) ]
+\0
+
+[@ITEM 250 (L2) ]
+\0
+
+[@ITEM 250 (FR) ]
+\0
+
+[@ITEM 251 (L1) ]
+\0
+
+[@ITEM 251 (EN) ]
+\0
+
+[@ITEM 251 (L2) ]
+\0
+
+[@ITEM 251 (FR) ]
+\0
+
+[@ITEM 252 (L1) ]
+\0
+
+[@ITEM 252 (EN) ]
+\0
+
+[@ITEM 252 (L2) ]
+\0
+
+[@ITEM 252 (FR) ]
+\0
+
+[@ITEM 253 (L1) ]
+\0
+
+[@ITEM 253 (EN) ]
+\0
+
+[@ITEM 253 (L2) ]
+\0
+
+[@ITEM 253 (FR) ]
+\0
+
+[@ITEM 254 (L1) ]
+\0
+
+[@ITEM 254 (EN) ]
+\0
+
+[@ITEM 254 (L2) ]
+\0
+
+[@ITEM 254 (FR) ]
+\0
+
+[@ITEM 255 (L1) ]
+\0
+
+[@ITEM 255 (EN) ]
+\0
+
+[@ITEM 255 (L2) ]
+\0
+
+[@ITEM 255 (FR) ]
+\0
+

@@ -1,0 +1,3596 @@
+[@mest4.msg]
+
+[@ITEM 0 (L1) ]
+\0
+
+[@ITEM 0 (EN) ]
+{MSGWND}
+Obtained {ITEM}!\0
+
+[@ITEM 0 (L2) ]
+\0
+
+[@ITEM 0 (FR) ]
+{MSGWND}
+Obtenu : {ITEM} !\0
+
+[@ITEM 1 (L1) ]
+\0
+
+[@ITEM 1 (EN) ]
+Soldier: Who goes there!\0
+
+[@ITEM 1 (L2) ]
+\0
+
+[@ITEM 1 (FR) ]
+Soldat : Qui va là ?!\0
+
+[@ITEM 2 (L1) ]
+\0
+
+[@ITEM 2 (EN) ]
+Soldier: I've never seen this guy.
+And what's with that getup?
+Maybe he works for Magus's army?{PRESS_CLEAR}
+Soldier: But I doubt such a frail guy would be in
+Magus's army.{PRESS_CLEAR}
+Soldier: Go on, get lost!
+Loiter around too long and we'll arrest you!{PRESS_CLEAR}
+Woman's Voice: 'Stop!\0
+
+[@ITEM 2 (L2) ]
+\0
+
+[@ITEM 2 (FR) ]
+Soldat : D'où tu viens, toi ? Ta tête me revient pas !
+Quel accoutrement ridicule ! On te prendrait presque
+pour un soldat de l'armée du Magistère...{PRESS_CLEAR}
+Soldat : ... S'il était pas aussi chétif !{PRESS_CLEAR}
+Soldat : Allez, déguerpis ! Si on te voit traîner dans le
+coin, on te jette au cachot !{PRESS_CLEAR}
+Assez !\0
+
+[@ITEM 3 (L1) ]
+\0
+
+[@ITEM 3 (EN) ]
+Soldier: Qu, Queen Leene-sama!\0
+
+[@ITEM 3 (L2) ]
+\0
+
+[@ITEM 3 (FR) ]
+Soldat : Votre Majesté !\0
+
+[@ITEM 4 (L1) ]
+\0
+
+[@ITEM 4 (EN) ]
+Queen: That person is one to whom I am
+indebted. Make him welcome, as a guest.\0
+
+[@ITEM 4 (L2) ]
+\0
+
+[@ITEM 4 (FR) ]
+Reine : Je suis redevable à ce jeune homme. Il est mon
+invité. Accueillez-le comme il se doit.\0
+
+[@ITEM 5 (L1) ]
+\0
+
+[@ITEM 5 (EN) ]
+Soldier: But, such a suspicious......\0
+
+[@ITEM 5 (L2) ]
+\0
+
+[@ITEM 5 (FR) ]
+Soldat : Votre Majesté, si je puis me permettre, il ne
+m'inspire pas confiance...\0
+
+[@ITEM 6 (L1) ]
+\0
+
+[@ITEM 6 (EN) ]
+Queen: Do you mean won't obey my orders?\0
+
+[@ITEM 6 (L2) ]
+\0
+
+[@ITEM 6 (FR) ]
+Reine : Refuseriez-vous d'obéir à mes ordres ?\0
+
+[@ITEM 7 (L1) ]
+\0
+
+[@ITEM 7 (EN) ]
+Soldier: That is surely not the case!{56}\0
+
+[@ITEM 7 (L2) ]
+\0
+
+[@ITEM 7 (FR) ]
+Soldat : Non, Votre Majesté ! Qu'il soit le bienvenu !\0
+
+[@ITEM 8 (L1) ]
+\0
+
+[@ITEM 8 (EN) ]
+QUEEN: Hu, hu......\0
+
+[@ITEM 8 (L2) ]
+\0
+
+[@ITEM 8 (FR) ]
+Reine : Hi, hi, hi...\0
+
+[@ITEM 9 (L1) ]
+\0
+
+[@ITEM 9 (EN) ]
+Pardon me, I did not know you were the Queen's\0
+
+[@ITEM 9 (L2) ]
+\0
+
+[@ITEM 9 (FR) ]
+Veuillez pardonner notre impolitesse. Nous ne pouvions
+pas deviner que vous étiez l'invité de la reine.\0
+
+[@ITEM 10 (L1) ]
+\0
+
+[@ITEM 10 (EN) ]
+You're a lucky guy, being able to get close to the
+queen.\0
+
+[@ITEM 10 (L2) ]
+\0
+
+[@ITEM 10 (FR) ]
+Vous avez de la chance, il n'est pas donné à tout le
+monde de côtoyer la reine.\0
+
+[@ITEM 11 (L1) ]
+\0
+
+[@ITEM 11 (EN) ]
+King Guardia the 21st is in here.\0
+
+[@ITEM 11 (L2) ]
+\0
+
+[@ITEM 11 (FR) ]
+Sa Majesté le roi Gardia XXI est dans la salle du trône.\0
+
+[@ITEM 12 (L1) ]
+\0
+
+[@ITEM 12 (EN) ]
+Make absolutely certain not to be impolite.\0
+
+[@ITEM 12 (L2) ]
+\0
+
+[@ITEM 12 (FR) ]
+Tâchez de ne pas commettre d'impolitesse.\0
+
+[@ITEM 13 (L1) ]
+\0
+
+[@ITEM 13 (EN) ]
+King: Oh, it's you?
+Leene said she became indebted to you out there.
+I thank you from my heart!{PRESS_CLEAR}
+But what happened out there?
+Leene hasn't been quite her usual self.{PRESS_CLEAR}
+She seems to have even lost the coral hair
+ornament she always wore, for one thing.
+For something she treasured that much......{PRESS_CLEAR}
+No, excuse me.
+I shall tell the Knight Captain about you.
+Rest in the Knights' room in the basement on the left.\0
+
+[@ITEM 13 (L2) ]
+\0
+
+[@ITEM 13 (FR) ]
+Roi : Oh, vous êtes celui qui a aidé Lynne lors de sa
+mésaventure ? Je vous remercie du fond du cœur.{PRESS_CLEAR}
+Mais que lui est-il arrivé ? Elle a l'air différente.{PRESS_CLEAR}
+Il semble même qu'elle a perdu la barrette en corail
+qu'elle porte toujours dans ses cheveux. Elle qui y
+tenait tellement...{PRESS_CLEAR}
+Ah, pardonnez-moi, vous devez être fatigué. Allez donc
+vous reposer dans la salle des chevaliers au sous-sol,
+à gauche. Je parlerai de vous au capitaine.\0
+
+[@ITEM 14 (L1) ]
+\0
+
+[@ITEM 14 (EN) ]
+Chancellor: Hmmm......\0
+
+[@ITEM 14 (L2) ]
+\0
+
+[@ITEM 14 (FR) ]
+Chancelier : Hum...\0
+
+[@ITEM 15 (L1) ]
+\0
+
+[@ITEM 15 (EN) ]
+Chancellor: How was she able to come back?
+She shouldn't have been able to sneak out of
+there on her own......\0
+
+[@ITEM 15 (L2) ]
+\0
+
+[@ITEM 15 (FR) ]
+Chancelier : Comment se fait-il qu'elle soit revenue ?
+Elle n'aurait pourtant pas dû pouvoir sortir de là-bas
+toute seule...\0
+
+[@ITEM 16 (L1) ]
+\0
+
+[@ITEM 16 (EN) ]
+Chancellor: What is it, you!
+Arrgh, get away from me!\0
+
+[@ITEM 16 (L2) ]
+\0
+
+[@ITEM 16 (FR) ]
+Chancelier : Que me voulez-vous ? Pfft !
+Hors de mon chemin !\0
+
+[@ITEM 17 (L1) ]
+\0
+
+[@ITEM 17 (EN) ]
+This leads to the King's room.
+For the Knights' room, leave here, go left soon
+after, and down the stairs.\0
+
+[@ITEM 17 (L2) ]
+\0
+
+[@ITEM 17 (FR) ]
+La chambre du roi est située tout en haut. Pour trouver
+la salle des chevaliers, sortez de la salle du trône,
+tournez à droite, puis descendez les escaliers.\0
+
+[@ITEM 18 (L1) ]
+\0
+
+[@ITEM 18 (EN) ]
+This leads to the Queen's room.
+She said I may let you pass.\0
+
+[@ITEM 18 (L2) ]
+\0
+
+[@ITEM 18 (FR) ]
+La chambre de la reine est au dernier étage.
+J'ai reçu l'ordre de vous laisser passer.\0
+
+[@ITEM 19 (L1) ]
+\0
+
+[@ITEM 19 (EN) ]
+The Queen eagerly awaits you.\0
+
+[@ITEM 19 (L2) ]
+\0
+
+[@ITEM 19 (FR) ]
+Sa Majesté la reine vous attend.\0
+
+[@ITEM 20 (L1) ]
+\0
+
+[@ITEM 20 (EN) ]
+Oh my, it's you?
+The one the Queen became indebted to outside.
+Doesn't seem like you've got the skill.\0
+
+[@ITEM 20 (L2) ]
+\0
+
+[@ITEM 20 (FR) ]
+Oh, alors c'est vous qui avez porté secours à la reine ?
+Vous n'avez pourtant pas l'air de pouvoir aider qui que
+ce soit.\0
+
+[@ITEM 21 (L1) ]
+\0
+
+[@ITEM 21 (EN) ]
+Ten-odd years......
+She is youthful even now.{PRESS_CLEAR}
+But it seems like she's become even younger
+since she came back......\0
+
+[@ITEM 21 (L2) ]
+\0
+
+[@ITEM 21 (FR) ]
+La reine a épousé le roi il y a une dizaine d'années...
+Elle paraît aussi jeune maintenant qu'à l'époque.{PRESS_CLEAR}
+D'ailleurs, depuis son retour, on dirait qu'elle a même
+rajeuni...\0
+
+[@ITEM 22 (L1) ]
+\0
+
+[@ITEM 22 (EN) ]
+Queen: You came.\0
+
+[@ITEM 22 (L2) ]
+\0
+
+[@ITEM 22 (FR) ]
+Reine : Je vous attendais.\0
+
+[@ITEM 23 (L1) ]
+\0
+
+[@ITEM 23 (EN) ]
+Queen: Please remove yourselves.
+I have something to speak with this person about.\0
+
+[@ITEM 23 (L2) ]
+\0
+
+[@ITEM 23 (FR) ]
+Reine : Laissez-nous seuls. J'ai à discuter avec ce jeune
+homme.\0
+
+[@ITEM 24 (L1) ]
+\0
+
+[@ITEM 24 (EN) ]
+Servants: Certainly.\0
+
+[@ITEM 24 (L2) ]
+\0
+
+[@ITEM 24 (FR) ]
+Servante : Bien, Votre Majesté.\0
+
+[@ITEM 25 (L1) ]
+\0
+
+[@ITEM 25 (EN) ]
+Queen: Now, come closer, without reservation.\0
+
+[@ITEM 25 (L2) ]
+\0
+
+[@ITEM 25 (FR) ]
+Reine : Je vous en prie, approchez-vous.\0
+
+[@ITEM 26 (L1) ]
+\0
+
+[@ITEM 26 (EN) ]
+Queen: pft......\0
+
+[@ITEM 26 (L2) ]
+\0
+
+[@ITEM 26 (FR) ]
+Reine : Hi, hi, hi...\0
+
+[@ITEM 27 (L1) ]
+\0
+
+[@ITEM 27 (EN) ]
+Queen: Just kidding! You came for me, {Crono}!\0
+
+[@ITEM 27 (L2) ]
+\0
+
+[@ITEM 27 (FR) ]
+Reine : Je t'ai bien eu ! {Crono}, tu es venu !\0
+
+[@ITEM 28 (L1) ]
+\0
+
+[@ITEM 28 (EN) ]
+{Marle}: For some reason everyone calls me 'Leene'.\0
+
+[@ITEM 28 (L2) ]
+\0
+
+[@ITEM 28 (FR) ]
+{Marle} : Oui, c'est moi ! Mais ici, tout le monde
+m'appelle Lynne.\0
+
+[@ITEM 29 (L1) ]
+\0
+
+[@ITEM 29 (EN) ]
+{Marle}: But I'm glad.\0
+
+[@ITEM 29 (L2) ]
+\0
+
+[@ITEM 29 (FR) ]
+{Marle} : Je suis si contente de te voir !\0
+
+[@ITEM 30 (L1) ]
+\0
+
+[@ITEM 30 (EN) ]
+{Marle}: Even though we were only together for just a
+little while at the festival, you've come for me.\0
+
+[@ITEM 30 (L2) ]
+\0
+
+[@ITEM 30 (FR) ]
+{Marle} : Nous venons à peine de nous rencontrer,
+mais tu es venu me chercher.\0
+
+[@ITEM 31 (L1) ]
+\0
+
+[@ITEM 31 (EN) ]
+{Marle}: {Crono}......
+Thank you......\0
+
+[@ITEM 31 (L2) ]
+\0
+
+[@ITEM 31 (FR) ]
+{Marle} : {Crono}...{PRESS_CLEAR}
+Merci...\0
+
+[@ITEM 32 (L1) ]
+\0
+
+[@ITEM 32 (EN) ]
+{Marle}: Wh, what!?\0
+
+[@ITEM 32 (L2) ]
+\0
+
+[@ITEM 32 (FR) ]
+{Marle} : Qu'est-ce que...?!\0
+
+[@ITEM 33 (L1) ]
+\0
+
+[@ITEM 33 (EN) ]
+{Marle}: !!{PRESS_CLEAR}
+Wh, what is this?
+It's like my heart is going to pieces......\0
+
+[@ITEM 33 (L2) ]
+\0
+
+[@ITEM 33 (FR) ]
+{Marle} : !!{PRESS_CLEAR}
+Qu'est-ce qui m'arrive ?! J'ai l'impression que mon cœur
+se déchire !\0
+
+[@ITEM 34 (L1) ]
+\0
+
+[@ITEM 34 (EN) ]
+{Marle}: I, I'm scared!
+It's like I'm going to disappear......
+He, help me, {Crono}{56}\0
+
+[@ITEM 34 (L2) ]
+\0
+
+[@ITEM 34 (FR) ]
+{Marle} : J'ai peur ! Je suis en train de disparaître !
+Aide-moi, {Crono} !\0
+
+[@ITEM 35 (L1) ]
+\0
+
+[@ITEM 35 (EN) ]
+......{PRESS_CLEAR}
+Sheesh, those women love their gossip no matter
+when the era.\0
+
+[@ITEM 35 (L2) ]
+\0
+
+[@ITEM 35 (FR) ]
+...{PRESS_CLEAR}
+Les femmes ne changeront jamais. Ce sont toutes des
+commères...\0
+
+[@ITEM 36 (L1) ]
+\0
+
+[@ITEM 36 (EN) ]
+Hey, wasn't something weird
+about Queen Leene?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 36 (L2) ]
+\0
+
+[@ITEM 36 (FR) ]
+Dites, vous ne trouvez pas que la reine se comporte
+étrangement ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 37 (L1) ]
+\0
+
+[@ITEM 37 (EN) ]
+I knew it! There's something different about her from
+before that says "I'm not Leene".{PRESS_CLEAR}
+Oh! Keep this between us!\0
+
+[@ITEM 37 (L2) ]
+\0
+
+[@ITEM 37 (FR) ]
+Ah, vous aussi ! Elle n'arrête pas de dire que son nom
+n'est pas Lynne, et je la trouve différente depuis
+qu'elle est revenue.{PRESS_CLEAR}
+Euh, surtout ne le répétez pas !\0
+
+[@ITEM 38 (L1) ]
+\0
+
+[@ITEM 38 (EN) ]
+Oh. Never mind then.\0
+
+[@ITEM 38 (L2) ]
+\0
+
+[@ITEM 38 (FR) ]
+Ah bon...\0
+
+[@ITEM 39 (L1) ]
+\0
+
+[@ITEM 39 (EN) ]
+Oh my! Over already?\0
+
+[@ITEM 39 (L2) ]
+\0
+
+[@ITEM 39 (FR) ]
+Au fait, je vous ai trouvé bien familier avec la reine...\0
+
+[@ITEM 40 (L1) ]
+\0
+
+[@ITEM 40 (EN) ]
+......do anything funny to Queen Leene, did you?
+\t\t{SEL1}Of course not!{/SEL1}
+\t\t{SEL2}Well...yes.{/SEL2}\0
+
+[@ITEM 40 (L2) ]
+\0
+
+[@ITEM 40 (FR) ]
+Ne me dites pas que...
+       {SEL1}Bien sûr que non !{/SEL1}
+       {SEL2}Si...{/SEL2}\0
+
+[@ITEM 41 (L1) ]
+\0
+
+[@ITEM 41 (EN) ]
+Oh really......\0
+
+[@ITEM 41 (L2) ]
+\0
+
+[@ITEM 41 (FR) ]
+Hum, vraiment ?\0
+
+[@ITEM 42 (L1) ]
+\0
+
+[@ITEM 42 (EN) ]
+Oh my goodness, it would be awful if that came to light!
+I didn't hear a thing.\0
+
+[@ITEM 42 (L2) ]
+\0
+
+[@ITEM 42 (FR) ]
+Oh ! Si on venait à le savoir, ce serait terrible !
+Je ferai comme si je n'avais rien entendu !\0
+
+[@ITEM 43 (L1) ]
+\0
+
+[@ITEM 43 (EN) ]
+Go below if you're resting.\0
+
+[@ITEM 43 (L2) ]
+\0
+
+[@ITEM 43 (FR) ]
+Si vous voulez vous reposer, allez au sous-sol.\0
+
+[@ITEM 44 (L1) ]
+\0
+
+[@ITEM 44 (EN) ]
+The basement is the Knights' room.\0
+
+[@ITEM 44 (L2) ]
+\0
+
+[@ITEM 44 (FR) ]
+La salle des chevaliers est en bas.\0
+
+[@ITEM 45 (L1) ]
+\0
+
+[@ITEM 45 (EN) ]
+The mess hall's below here.\0
+
+[@ITEM 45 (L2) ]
+\0
+
+[@ITEM 45 (FR) ]
+La salle à manger est située au sous-sol.\0
+
+[@ITEM 46 (L1) ]
+\0
+
+[@ITEM 46 (EN) ]
+Careful you don't get yelled at by the Head Cook
+for loitering around.\0
+
+[@ITEM 46 (L2) ]
+\0
+
+[@ITEM 46 (FR) ]
+Tâchez de ne pas vous faire rabrouer par le cuisinier.
+Il est toujours débordé et de mauvais poil.\0
+
+[@ITEM 47 (L1) ]
+\0
+
+[@ITEM 47 (EN) ]
+This's the mess hall for us soldiers.
+You eat too before you go.\0
+
+[@ITEM 47 (L2) ]
+\0
+
+[@ITEM 47 (FR) ]
+Ici, c'est la salle à manger des soldats. Asseyez-vous
+et grignotez quelque chose, vous aussi.\0
+
+[@ITEM 48 (L1) ]
+\0
+
+[@ITEM 48 (EN) ]
+I'm gonna build up my energy and beat up Magus's
+army!\0
+
+[@ITEM 48 (L2) ]
+\0
+
+[@ITEM 48 (FR) ]
+Nous prenons des forces pour mieux écraser l'armée du
+Magistère !\0
+
+[@ITEM 49 (L1) ]
+\0
+
+[@ITEM 49 (EN) ]
+The grub the Head Cook makes is the best.
+About three stars I guess.\0
+
+[@ITEM 49 (L2) ]
+\0
+
+[@ITEM 49 (FR) ]
+La cuisine du chef est sans égale. Je lui donnerais trois
+étoiles.\0
+
+[@ITEM 50 (L1) ]
+\0
+
+[@ITEM 50 (EN) ]
+H......{PRESS_CLEAR}
+Hungry......\0
+
+[@ITEM 50 (L2) ]
+\0
+
+[@ITEM 50 (FR) ]
+Je...{PRESS_CLEAR}
+Je meurs... de faim...\0
+
+[@ITEM 51 (L1) ]
+\0
+
+[@ITEM 51 (EN) ]
+Wife: Here ya go, thanks for waiting!\0
+
+[@ITEM 51 (L2) ]
+\0
+
+[@ITEM 51 (FR) ]
+Femme du cuisinier : Voilà ! Désolée de vous avoir fait
+attendre !\0
+
+[@ITEM 52 (L1) ]
+\0
+
+[@ITEM 52 (EN) ]
+Soldier: YAHOO!\0
+
+[@ITEM 52 (L2) ]
+\0
+
+[@ITEM 52 (FR) ]
+Soldat : Youpi !\0
+
+[@ITEM 53 (L1) ]
+\0
+
+[@ITEM 53 (EN) ]
+Yum, yum!\0
+
+[@ITEM 53 (L2) ]
+\0
+
+[@ITEM 53 (FR) ]
+Miam !\0
+
+[@ITEM 54 (L1) ]
+\0
+
+[@ITEM 54 (EN) ]
+If you're eating, have a seat in the top left spot at
+the left-hand table.\0
+
+[@ITEM 54 (L2) ]
+\0
+
+[@ITEM 54 (FR) ]
+Si vous avez faim, asseyez-vous en haut à gauche.\0
+
+[@ITEM 55 (L1) ]
+\0
+
+[@ITEM 55 (EN) ]
+Aaah, busy! It's a war ground here too.\0
+
+[@ITEM 55 (L2) ]
+\0
+
+[@ITEM 55 (FR) ]
+Ah, je ne sais où donner de la tête ! Cette cuisine est
+un vrai champ de bataille !\0
+
+[@ITEM 56 (L1) ]
+\0
+
+[@ITEM 56 (EN) ]
+No amateurs in the kitchen!\0
+
+[@ITEM 56 (L2) ]
+\0
+
+[@ITEM 56 (FR) ]
+Qu'est-ce que vous venez faire dans ma cuisine ?!\0
+
+[@ITEM 57 (L1) ]
+\0
+
+[@ITEM 57 (EN) ]
+But what the heck's a crepe, what the Queen says
+she wants to eat?\0
+
+[@ITEM 57 (L2) ]
+\0
+
+[@ITEM 57 (FR) ]
+Mais que peuvent bien être ces « crêpes » que la reine
+veut manger ?\0
+
+[@ITEM 58 (L1) ]
+\0
+
+[@ITEM 58 (EN) ]
+Knight Captain: Isn't the food ready yet?\0
+
+[@ITEM 58 (L2) ]
+\0
+
+[@ITEM 58 (FR) ]
+Capitaine : Le dîner n'est pas encore prêt ?\0
+
+[@ITEM 59 (L1) ]
+\0
+
+[@ITEM 59 (EN) ]
+Waitress: Ah, Knight Captain!
+We're sorry......\0
+
+[@ITEM 59 (L2) ]
+\0
+
+[@ITEM 59 (FR) ]
+Servante : Ah, capitaine ! Je suis désolée...\0
+
+[@ITEM 60 (L1) ]
+\0
+
+[@ITEM 60 (EN) ]
+Knight Captain: We're risking our lives fighting.
+Hurry and bring it!\0
+
+[@ITEM 60 (L2) ]
+\0
+
+[@ITEM 60 (FR) ]
+Capitaine : Nous risquons nos vies à combattre !
+Dépêchez-vous de nous apporter notre dîner !\0
+
+[@ITEM 61 (L1) ]
+\0
+
+[@ITEM 61 (EN) ]
+Head Cook: Shaddup! The Knights ain't the only
+ones putting their lives on the line!\0
+
+[@ITEM 61 (L2) ]
+\0
+
+[@ITEM 61 (FR) ]
+Cuisinier : La ferme ! Il n'y a pas que les chevaliers qui
+risquent leur vie !\0
+
+[@ITEM 62 (L1) ]
+\0
+
+[@ITEM 62 (EN) ]
+Captain: Hmph, I haven't got the time to eat anything
+a coward made, but let my men have a good feeding.\0
+
+[@ITEM 62 (L2) ]
+\0
+
+[@ITEM 62 (FR) ]
+Capitaine : Pfft, je n'ai pas de temps à perdre à manger
+des plats préparés par un couard, mais nourrissez mes
+hommes comme il faut.\0
+
+[@ITEM 63 (L1) ]
+\0
+
+[@ITEM 63 (EN) ]
+Head Cook: Leave off me! I'd do it without being told\0
+
+[@ITEM 63 (L2) ]
+\0
+
+[@ITEM 63 (FR) ]
+Cuisinier : Fiche-moi la paix ! Je sais ce que j'ai à faire !\0
+
+[@ITEM 64 (L1) ]
+\0
+
+[@ITEM 64 (EN) ]
+That bastard, thinking you're the only damn ones
+fighting!\0
+
+[@ITEM 64 (L2) ]
+\0
+
+[@ITEM 64 (FR) ]
+Cet idiot pense qu'ils sont les seuls à combattre, lui et
+ses hommes !\0
+
+[@ITEM 65 (L1) ]
+\0
+
+[@ITEM 65 (EN) ]
+The Knight Captain is a strongly kind man.
+But it's always like this with the Head Cook.\0
+
+[@ITEM 65 (L2) ]
+\0
+
+[@ITEM 65 (FR) ]
+Le capitaine est vaillant et aimable, mais il se dispute
+tout le temps avec le chef cuisinier.\0
+
+[@ITEM 66 (L1) ]
+\0
+
+[@ITEM 66 (EN) ]
+The Knight Captain is trying his best in succeeding
+the previous knight captain, Cyrus-sama.\0
+
+[@ITEM 66 (L2) ]
+\0
+
+[@ITEM 66 (FR) ]
+Le capitaine fait de son mieux pour succéder à
+sire Cyrus, l'ancien capitaine des chevaliers.\0
+
+[@ITEM 67 (L1) ]
+\0
+
+[@ITEM 67 (EN) ]
+Those two are brothers, but they don't get along......\0
+
+[@ITEM 67 (L2) ]
+\0
+
+[@ITEM 67 (FR) ]
+Le capitaine et le chef cuisinier sont frères, mais ils ne
+s'entendent pas très bien...\0
+
+[@ITEM 68 (L1) ]
+\0
+
+[@ITEM 68 (EN) ]
+My husband chose this path since he hates people\0
+
+[@ITEM 68 (L2) ]
+\0
+
+[@ITEM 68 (FR) ]
+Mon mari a choisi cette voie parce qu'il déteste la
+violence.\0
+
+[@ITEM 69 (L1) ]
+\0
+
+[@ITEM 69 (EN) ]
+Zenan Bridge is our last line of defense.
+We must defend it unto death, no matter what!\0
+
+[@ITEM 69 (L2) ]
+\0
+
+[@ITEM 69 (FR) ]
+Le pont de Zénan est notre dernière ligne de défense.
+Nous devons le défendre à tout prix !\0
+
+[@ITEM 70 (L1) ]
+\0
+
+[@ITEM 70 (EN) ]
+So it's you they say helped the Queen outside.
+Talk to the maid if you're resting.\0
+
+[@ITEM 70 (L2) ]
+\0
+
+[@ITEM 70 (FR) ]
+Vous êtes celui qui a aidé Sa Majesté ? Si vous désirez
+vous reposer, adressez-vous à la servante.\0
+
+[@ITEM 71 (L1) ]
+\0
+
+[@ITEM 71 (EN) ]
+Will you be resting?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 71 (L2) ]
+\0
+
+[@ITEM 71 (FR) ]
+Voulez-vous vous reposer ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 72 (L1) ]
+\0
+
+[@ITEM 72 (EN) ]
+How is your awakening?\0
+
+[@ITEM 72 (L2) ]
+\0
+
+[@ITEM 72 (FR) ]
+Avez-vous bien dormi ?\0
+
+[@ITEM 73 (L1) ]
+\0
+
+[@ITEM 73 (EN) ]
+Ahh! If Cyrus-sama were here for us at
+times like this!\0
+
+[@ITEM 73 (L2) ]
+\0
+
+[@ITEM 73 (FR) ]
+Ah, si seulement sire Cyrus était ici dans une telle
+situation !\0
+
+[@ITEM 74 (L1) ]
+\0
+
+[@ITEM 74 (EN) ]
+You at least know his name too, right?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 74 (L2) ]
+\0
+
+[@ITEM 74 (FR) ]
+Vous avez entendu parler de lui, n'est-ce pas ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 75 (L1) ]
+\0
+
+[@ITEM 75 (EN) ]
+If only that man were here, I doubt such a thing as
+the Queen disappearing would have happened......\0
+
+[@ITEM 75 (L2) ]
+\0
+
+[@ITEM 75 (FR) ]
+S'il avait été ici, la reine n'aurait probablement jamais
+disparu...\0
+
+[@ITEM 76 (L1) ]
+\0
+
+[@ITEM 76 (EN) ]
+What, you don't know Cyrus-sama?!
+Where do you live to not know about that great a hero?\0
+
+[@ITEM 76 (L2) ]
+\0
+
+[@ITEM 76 (FR) ]
+Comment, vous ne connaissez pas sire Cyrus ?!
+D'où pouvez-vous bien venir pour ne pas connaître
+un héros d'une telle importance ?!\0
+
+[@ITEM 77 (L1) ]
+\0
+
+[@ITEM 77 (EN) ]
+Cyrus-sama is the man who was the Knight Captain.
+He was always saying that he himself would protect
+the King and Leene-sama......{PRESS_CLEAR}
+Close to ten years ago, he took a friend and left on
+a journey, and that's the last we've heard of him.\0
+
+[@ITEM 77 (L2) ]
+\0
+
+[@ITEM 77 (FR) ]
+Sire Cyrus était le capitaine des chevaliers.
+Il protégeait toujours lui-même le roi et la reine...{PRESS_CLEAR}
+Cependant, il y a près de dix ans, il a quitté le château
+avec un ami et personne ne l'a revu depuis.\0
+
+[@ITEM 78 (L1) ]
+\0
+
+[@ITEM 78 (EN) ]
+A monster called Yakra used to live in the forest
+region to the west, and no one would go near it.{PRESS_CLEAR}
+But since the abbey was built in that forest a little
+while back, the monster stopped appearing.
+That's divine godly protection for you. It's a
+welcome thing.\0
+
+[@ITEM 78 (L2) ]
+\0
+
+[@ITEM 78 (FR) ]
+Autrefois, un monstre appelé Yakra rôdait aux environs
+de la forêt de l'ouest et personne ne pouvait s'en
+approcher.{PRESS_CLEAR}
+Cependant, depuis qu'une abbaye y a été construite
+il y a quelque temps, on n'a plus revu le monstre.
+C'est grâce à la protection des dieux.\0
+
+[@ITEM 79 (L1) ]
+\0
+
+[@ITEM 79 (EN) ]
+Oh yes, I'm so glad the Queen's been found.
+Now we can give the war our undivided attention!\0
+
+[@ITEM 79 (L2) ]
+\0
+
+[@ITEM 79 (FR) ]
+Quel soulagement de savoir la reine saine et sauve !
+Nous allons maintenant pouvoir nous consacrer à la
+guerre.\0
+
+[@ITEM 80 (L1) ]
+\0
+
+[@ITEM 80 (EN) ]
+Oohh......\0
+
+[@ITEM 80 (L2) ]
+\0
+
+[@ITEM 80 (FR) ]
+Ooh...\0
+
+[@ITEM 81 (L1) ]
+\0
+
+[@ITEM 81 (EN) ]
+but that's all the more eerie.\0
+
+[@ITEM 81 (L2) ]
+\0
+
+[@ITEM 81 (FR) ]
+Il n'y a pas eu d'attaque de l'armée du Magistère depuis
+quelque temps, mais c'est d'autant plus inquiétant.\0
+
+[@ITEM 82 (L1) ]
+\0
+
+[@ITEM 82 (EN) ]
+Just between us, the chancellor's seemed really
+funny lately.
+Seems he slips out of the castle a lot......\0
+
+[@ITEM 82 (L2) ]
+\0
+
+[@ITEM 82 (FR) ]
+Entre vous et moi, il y a quelque chose d'étrange chez
+le chancelier, ces derniers temps. Il paraît qu'il sort
+souvent furtivement du château...\0
+
+[@ITEM 83 (L1) ]
+\0
+
+[@ITEM 83 (EN) ]
+Speaking of funny, I haven't seen Queen Leene's
+guard, that frog bastard, lately.{PRESS_CLEAR}
+I hear he was turned into a frog's form a while
+back by a curse, but do things like that happen?
+What if he was a spy for Magus's army?\0
+
+[@ITEM 83 (L2) ]
+\0
+
+[@ITEM 83 (FR) ]
+En parlant de choses bizarres, il y a longtemps qu'on
+n'a pas vu le garde du corps de la reine, cet homme
+à l'apparence d'une grenouille.{PRESS_CLEAR}
+On dit que c'est un mauvais sort qui l'a changé en
+batracien il y a des années, mais j'ai du mal à croire
+une histoire pareille. Il était peut-être un espion du
+Magistère...\0
+
+[@ITEM 84 (L1) ]
+\0
+
+[@ITEM 84 (EN) ]
+There are people who say things like the
+Chancellor's gotten funny, but I don't think so.{PRESS_CLEAR}
+The Chancellor is very devout, and it seems like
+every day that he goes to Manorial Abbey in the
+west to pray.\0
+
+[@ITEM 84 (L2) ]
+\0
+
+[@ITEM 84 (FR) ]
+Certains disent que le chancelier a perdu la tête,
+mais je ne suis pas de cet avis.{PRESS_CLEAR}
+Il est devenu très pieux et va prier chaque jour à
+l'abbaye de Manolia à l'ouest d'ici.\0
+
+[@ITEM 85 (L1) ]
+\0
+
+[@ITEM 85 (EN) ]
+'{Crono}!\0
+
+[@ITEM 85 (L2) ]
+\0
+
+[@ITEM 85 (FR) ]
+{Crono} !\0
+
+[@ITEM 86 (L1) ]
+\0
+
+[@ITEM 86 (EN) ]
+{Lucca}: haa, haa.... looks like you're safe!\0
+
+[@ITEM 86 (L2) ]
+\0
+
+[@ITEM 86 (FR) ]
+{Lucca} : Ouf, ouf... On dirait que tu n'as rien !
+Et la fille ?\0
+
+[@ITEM 87 (L1) ]
+\0
+
+[@ITEM 87 (EN) ]
+{Lucca}: What was that, she vanished!?{56}\0
+
+[@ITEM 87 (L2) ]
+\0
+
+[@ITEM 87 (FR) ]
+{Lucca} : Elle a disparu ?!\0
+
+[@ITEM 88 (L1) ]
+\0
+
+[@ITEM 88 (EN) ]
+{Lucca}: ......I was afraid of that.\0
+
+[@ITEM 88 (L2) ]
+\0
+
+[@ITEM 88 (FR) ]
+{Lucca} : ... J'avais donc raison.\0
+
+[@ITEM 89 (L1) ]
+\0
+
+[@ITEM 89 (EN) ]
+{Lucca}: When that girl disappeared, I thought I'd seen
+her face somewhere.\0
+
+[@ITEM 89 (L2) ]
+\0
+
+[@ITEM 89 (FR) ]
+{Lucca} : Je me disais bien que son visage m'était
+familier.\0
+
+[@ITEM 90 (L1) ]
+\0
+
+[@ITEM 90 (EN) ]
+{Lucca}: This IS the kingdom, but it looks like the
+kingdom of extremely long ago.\0
+
+[@ITEM 90 (L2) ]
+\0
+
+[@ITEM 90 (FR) ]
+{Lucca} : Cet endroit est bien notre royaume,
+mais c'est celui d'une époque lointaine.\0
+
+[@ITEM 91 (L1) ]
+\0
+
+[@ITEM 91 (EN) ]
+{Lucca}: That means that girl was mistaken for her own
+ancestor. Even in our era, that girl's a princess......\0
+
+[@ITEM 91 (L2) ]
+\0
+
+[@ITEM 91 (FR) ]
+{Lucca} : Ce qui veut dire qu'ils ont pensé à tort
+qu'elle était sa propre aïeule ! À notre époque,
+cette fille est une princesse...\0
+
+[@ITEM 92 (L1) ]
+\0
+
+[@ITEM 92 (EN) ]
+{Lucca}: She's Princess Marledia!\0
+
+[@ITEM 92 (L2) ]
+\0
+
+[@ITEM 92 (FR) ]
+{Lucca} : C'est la princesse Marledia !\0
+
+[@ITEM 93 (L1) ]
+\0
+
+[@ITEM 93 (EN) ]
+{Lucca}: Probably, something happened to this era's
+queen.
+That's why the very existence of that girl, her
+descendant......\0
+
+[@ITEM 93 (L2) ]
+\0
+
+[@ITEM 93 (FR) ]
+{Lucca} : Quelque chose est probablement arrivé à
+la reine de cette époque. C'est pourquoi l'existence
+même de cette fille, sa descendante, est en suspens...\0
+
+[@ITEM 94 (L1) ]
+\0
+
+[@ITEM 94 (EN) ]
+{Lucca}: In any case, we've got to search for the true\0
+
+[@ITEM 94 (L2) ]
+\0
+
+[@ITEM 94 (FR) ]
+{Lucca} : Quoi qu'il en soit, nous devons retrouver
+la vraie reine !\0
+
+[@ITEM 95 (L1) ]
+\0
+
+[@ITEM 95 (EN) ]
+King Guardia: I was worried about you, Leene.\0
+
+[@ITEM 95 (L2) ]
+\0
+
+[@ITEM 95 (FR) ]
+Roi de Gardia : J'étais inquiet, Lynne.\0
+
+[@ITEM 96 (L1) ]
+\0
+
+[@ITEM 96 (EN) ]
+{Frog}: Unable to protect Leene-sama to the
+end, I am without honor.\0
+
+[@ITEM 96 (L2) ]
+\0
+
+[@ITEM 96 (FR) ]
+{Frog} : J'ai manqué à mon devoir de protéger
+Sa Majesté. Je me suis couvert de honte.\0
+
+[@ITEM 97 (L1) ]
+\0
+
+[@ITEM 97 (EN) ]
+Leene: {Frog}!\0
+
+[@ITEM 97 (L2) ]
+\0
+
+[@ITEM 97 (FR) ]
+Lynne : {Frog} !\0
+
+[@ITEM 98 (L1) ]
+\0
+
+[@ITEM 98 (EN) ]
+Leene: I truly thank you very much for saving me.
+If you had come a little later, what would have
+become of me....?{PRESS_CLEAR}
+By the way, where is the girl they say was
+mistaken for me now?\0
+
+[@ITEM 98 (L2) ]
+\0
+
+[@ITEM 98 (FR) ]
+Lynne : Je vous remercie de m'avoir porté secours.{PRESS_CLEAR}
+Qui sait ce qu'il serait advenu si vous étiez arrivés
+quelques minutes plus tard...?{PRESS_CLEAR}
+Au fait, où est la jeune fille que l'on a prise pour moi ?\0
+
+[@ITEM 99 (L1) ]
+\0
+
+[@ITEM 99 (EN) ]
+{Lucca}: That's right!
+I'd completely forgotten about Princess
+Marledia!\0
+
+[@ITEM 99 (L2) ]
+\0
+
+[@ITEM 99 (FR) ]
+{Lucca} : Ah, oui ! J'avais complètement oublié la
+princesse Marledia !\0
+
+[@ITEM 100 (L1) ]
+\0
+
+[@ITEM 100 (EN) ]
+{Lucca}: Hey, {Crono}!
+Where did Marledia-sama disappear?
+Maybe there......\0
+
+[@ITEM 100 (L2) ]
+\0
+
+[@ITEM 100 (FR) ]
+{Lucca} : Dis, {Crono} ! À quel endroit la
+princesse Marledia a-t-elle disparu ? Elle y
+réapparaîtra peut-être !\0
+
+[@ITEM 101 (L1) ]
+\0
+
+[@ITEM 101 (EN) ]
+{Lucca}: Princess Marledia!\0
+
+[@ITEM 101 (L2) ]
+\0
+
+[@ITEM 101 (FR) ]
+{Lucca} : Votre Altesse !\0
+
+[@ITEM 102 (L1) ]
+\0
+
+[@ITEM 102 (EN) ]
+{Marle}: Wh, wha?\0
+
+[@ITEM 102 (L2) ]
+\0
+
+[@ITEM 102 (FR) ]
+{Marle} : Euh, hein ?\0
+
+[@ITEM 103 (L1) ]
+\0
+
+[@ITEM 103 (EN) ]
+{Marle}: {Crono}!\0
+
+[@ITEM 103 (L2) ]
+\0
+
+[@ITEM 103 (FR) ]
+{Marle} : {Crono} !\0
+
+[@ITEM 104 (L1) ]
+\0
+
+[@ITEM 104 (EN) ]
+{Marle}: I was scared......{PRESS_CLEAR}
+Even though I'm not conscious, knowing I'm in a
+cold place.{PRESS_CLEAR}
+I wonder if dying feels like that?\0
+
+[@ITEM 104 (L2) ]
+\0
+
+[@ITEM 104 (FR) ]
+{Marle} : J'ai eu si peur...{PRESS_CLEAR}
+Je n'étais pas consciente, mais je me sentais néanmoins
+prisonnière d'un endroit glacial.{PRESS_CLEAR}
+Je me demande si c'est ce qu'on ressent lorsqu'on
+meurt...\0
+
+[@ITEM 105 (L1) ]
+\0
+
+[@ITEM 105 (EN) ]
+{Lucca}: Princess Marledia-sama, may you be in
+good spirits......{56}\0
+
+[@ITEM 105 (L2) ]
+\0
+
+[@ITEM 105 (FR) ]
+{Lucca} : J'espère que vous vous portez bien,
+Votre Altesse...\0
+
+[@ITEM 106 (L1) ]
+\0
+
+[@ITEM 106 (EN) ]
+{Marle}: You came for me too!{PRESS_CLEAR}
+Marledia......?
+Huh!?\0
+
+[@ITEM 106 (L2) ]
+\0
+
+[@ITEM 106 (FR) ]
+{Marle} : Tu es venue, toi aussi ?
+« Votre Altesse »...?{PRESS_CLEAR}
+Euh ?!\0
+
+[@ITEM 107 (L1) ]
+\0
+
+[@ITEM 107 (EN) ]
+{Marle}: Looks like I've been found out......\0
+
+[@ITEM 107 (L2) ]
+\0
+
+[@ITEM 107 (FR) ]
+{Marle} : On dirait que je me suis trahie...\0
+
+[@ITEM 108 (L1) ]
+\0
+
+[@ITEM 108 (EN) ]
+{Marle}: Sorry, {Crono}.
+I didn't mean to trick you.\0
+
+[@ITEM 108 (L2) ]
+\0
+
+[@ITEM 108 (FR) ]
+{Marle} : Je suis désolée, {Crono}.
+Je n'avais pas l'intention de te tromper.\0
+
+[@ITEM 109 (L1) ]
+\0
+
+[@ITEM 109 (EN) ]
+{Marle}: I am Marledia.
+My father is King Guardia the 33rd......{PRESS_CLEAR}
+But even I wanted to wander around and look
+at the fair with a boy.
+If you had known that I was a princess......\0
+
+[@ITEM 109 (L2) ]
+\0
+
+[@ITEM 109 (FR) ]
+{Marle} : Je m'appelle Marledia. Mon père est le roi
+Gardia XXXIII...{PRESS_CLEAR}
+J'enviais les autres filles de pouvoir aller s'amuser à la
+foire en compagnie de garçons.\0
+
+[@ITEM 110 (L1) ]
+\0
+
+[@ITEM 110 (EN) ]
+{Marle}: {Crono}, you wouldn't have seen the festival with
+me, right?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 110 (L2) ]
+\0
+
+[@ITEM 110 (FR) ]
+{Marle} : Tu aurais refusé de m'accompagner si tu
+avais su qui je suis, n'est-ce pas ?
+       {SEL1}Probablement...{/SEL1}
+       {SEL2}Pas du tout !{/SEL2}\0
+
+[@ITEM 111 (L1) ]
+\0
+
+[@ITEM 111 (EN) ]
+{Marle}: See?
+And I like being called {Marle} better than Princess!\0
+
+[@ITEM 111 (L2) ]
+\0
+
+[@ITEM 111 (FR) ]
+{Marle} : Tu vois ? Et puis je préfère qu'on
+m'appelle « {Marle} » plutôt que « Votre
+Altesse » !\0
+
+[@ITEM 112 (L1) ]
+\0
+
+[@ITEM 112 (EN) ]
+{Marle}: That's just like you, {Crono}!
+We're friends!\0
+
+[@ITEM 112 (L2) ]
+\0
+
+[@ITEM 112 (FR) ]
+{Marle} : Tu es si gentil, {Crono} !
+Je suis heureuse d'avoir un ami comme toi !\0
+
+[@ITEM 113 (L1) ]
+\0
+
+[@ITEM 113 (EN) ]
+{Marle}: The real Queen came back safely too, right?
+Let's go home too, {Crono}!\0
+
+[@ITEM 113 (L2) ]
+\0
+
+[@ITEM 113 (FR) ]
+{Marle} : La vraie reine est saine et sauve, n'est-ce
+pas ? Nous devrions rentrer !\0
+
+[@ITEM 114 (L1) ]
+\0
+
+[@ITEM 114 (EN) ]
+Chancellor: That damn Yakra.
+Replacing me, kidnapping Leene-sama, and
+all that......{PRESS_CLEAR}
+This Guardia Kingdom must build a courthouse
+and prison to strictly judge that sort!\0
+
+[@ITEM 114 (L2) ]
+\0
+
+[@ITEM 114 (FR) ]
+Chancelier : Ce Yakra de malheur ! Comment a-t-il pu me
+remplacer et enlever Sa Majesté...?{PRESS_CLEAR}
+Notre royaume doit à tout prix construire un tribunal et
+une prison afin de juger ce genre de criminels !\0
+
+[@ITEM 115 (L1) ]
+\0
+
+[@ITEM 115 (EN) ]
+Oh, you really are like a living copy of Leene-sama!\0
+
+[@ITEM 115 (L2) ]
+\0
+
+[@ITEM 115 (FR) ]
+Oh, cette jeune fille est le portrait de Sa Majesté !\0
+
+[@ITEM 116 (L1) ]
+\0
+
+[@ITEM 116 (EN) ]
+King: I thank you, {Crono}-dono.
+However, who on earth, then, is the girl who
+was found in the back hills......?\0
+
+[@ITEM 116 (L2) ]
+\0
+
+[@ITEM 116 (FR) ]
+Je vous remercie, sire {Crono}. Cependant, qui est
+donc la jeune fille qui a été trouvée sur le mont de
+Truce ?\0
+
+[@ITEM 117 (L1) ]
+\0
+
+[@ITEM 117 (EN) ]
+King: Oh, so you were safe.
+Your appearance is certainly Leene's, but your
+substance is not at all......{PRESS_CLEAR}
+Never mind, I am indebted to you all.
+If something comes up, I will have the country
+assist you.\0
+
+[@ITEM 117 (L2) ]
+\0
+
+[@ITEM 117 (FR) ]
+Je suis heureux de vous voir saine et sauve.
+Vous ressemblez à Lynne, certes, mais votre
+personnalité est complètement différente...{PRESS_CLEAR}
+Quoi qu'il en soit, je vous suis tous redevable. Si un jour
+vous en avez besoin, je vous offrirai mon aide.\0
+
+[@ITEM 118 (L1) ]
+\0
+
+[@ITEM 118 (EN) ]
+{Marle}: You must be the real Leene!\0
+
+[@ITEM 118 (L2) ]
+\0
+
+[@ITEM 118 (FR) ]
+{Marle} : Alors, c'est vous, la vraie Lynne ?\0
+
+[@ITEM 119 (L1) ]
+\0
+
+[@ITEM 119 (EN) ]
+Leene: My, you really are as like me as two\0
+
+[@ITEM 119 (L2) ]
+\0
+
+[@ITEM 119 (FR) ]
+Lynne : C'est incroyable ! On pourrait nous prendre pour
+deux sœurs jumelles !\0
+
+[@ITEM 120 (L1) ]
+\0
+
+[@ITEM 120 (EN) ]
+{Marle}: If you don't get along well with the King,
+I'll get mad......{PRESS_CLEAR}
+I guess I can't either.\0
+
+[@ITEM 120 (L2) ]
+\0
+
+[@ITEM 120 (FR) ]
+{Marle} : J'espère que vous allez bien vous
+entendre tous les deux, sinon je vais me
+fâcher !{PRESS_CLEAR}
+Hum, je n'en serai peut-être pas capable...\0
+
+[@ITEM 121 (L1) ]
+\0
+
+[@ITEM 121 (EN) ]
+Leene: ??\0
+
+[@ITEM 121 (L2) ]
+\0
+
+[@ITEM 121 (FR) ]
+Lynne : Que veux-tu dire ?\0
+
+[@ITEM 122 (L1) ]
+\0
+
+[@ITEM 122 (EN) ]
+{Marle}: Never mind, anyway, may you live happily
+ever after!\0
+
+[@ITEM 122 (L2) ]
+\0
+
+[@ITEM 122 (FR) ]
+{Marle} : Euh... rien ! Je vous souhaite beaucoup de
+bonheur !\0
+
+[@ITEM 123 (L1) ]
+\0
+
+[@ITEM 123 (EN) ]
+For some reason or another, I can't think of
+you as strangers.\0
+
+[@ITEM 123 (L2) ]
+\0
+
+[@ITEM 123 (FR) ]
+C'est étrange, je ressens comme un lien indicible entre
+vous et moi...\0
+
+[@ITEM 124 (L1) ]
+\0
+
+[@ITEM 124 (EN) ]
+{Frog}: The Queen was exposed to danger because
+I was near......{PRESS_CLEAR}
+I'm leaving the castle.\0
+
+[@ITEM 124 (L2) ]
+\0
+
+[@ITEM 124 (FR) ]
+{Frog} : Ma présence a mis la reine en danger...{PRESS_CLEAR}
+Je vais quitter le château.\0
+
+[@ITEM 125 (L1) ]
+\0
+
+[@ITEM 125 (EN) ]
+{Marle}: Kyah!\0
+
+[@ITEM 125 (L2) ]
+\0
+
+[@ITEM 125 (FR) ]
+{Marle} : Aah !\0
+
+[@ITEM 126 (L1) ]
+\0
+
+[@ITEM 126 (EN) ]
+{Frog}: I see, you greatly resemble the Queen.\0
+
+[@ITEM 126 (L2) ]
+\0
+
+[@ITEM 126 (FR) ]
+{Frog} : Je vois. Tu ressembles vraiment à
+Sa Majesté.\0
+
+[@ITEM 127 (L1) ]
+\0
+
+[@ITEM 127 (EN) ]
+{Frog}: {Crono}, your swordsmanship had
+considerable promise.\0
+
+[@ITEM 127 (L2) ]
+\0
+
+[@ITEM 127 (FR) ]
+{Frog} : Tu as du potentiel à l'épée, {Crono}.\0
+
+[@ITEM 128 (L1) ]
+\0
+
+[@ITEM 128 (EN) ]
+{Lucca}: ......{PRESS_CLEAR}
+You're not bad either, Frog.\0
+
+[@ITEM 128 (L2) ]
+\0
+
+[@ITEM 128 (FR) ]
+{Lucca} : ...{PRESS_CLEAR}
+Tu n'étais pas mal non plus, {Frog}.\0
+
+[@ITEM 129 (L1) ]
+\0
+
+[@ITEM 129 (EN) ]
+King: Well come!
+We welcome you at any time.
+Hm? What's wrong?\0
+
+[@ITEM 129 (L2) ]
+\0
+
+[@ITEM 129 (FR) ]
+Roi de Gardia : Bienvenue ! Nous sommes toujours
+heureux de vous accueillir ! Hum ? Qu'y a-t-il ?\0
+
+[@ITEM 130 (L1) ]
+\0
+
+[@ITEM 130 (EN) ]
+{Marle}: Actually......\0
+
+[@ITEM 130 (L2) ]
+\0
+
+[@ITEM 130 (FR) ]
+{Marle} : À vrai dire...\0
+
+[@ITEM 131 (L1) ]
+\0
+
+[@ITEM 131 (EN) ]
+{Lucca}: Ah, well you see......\0
+
+[@ITEM 131 (L2) ]
+\0
+
+[@ITEM 131 (FR) ]
+{Lucca} : Eh bien, en fait...\0
+
+[@ITEM 132 (L1) ]
+\0
+
+[@ITEM 132 (EN) ]
+{Robo}: We HAVE a request......\0
+
+[@ITEM 132 (L2) ]
+\0
+
+[@ITEM 132 (FR) ]
+{Robo} : Nous voudrions vous demander une
+faveur...\0
+
+[@ITEM 133 (L1) ]
+\0
+
+[@ITEM 133 (EN) ]
+{Frog}: Most respectfully, we have a request......\0
+
+[@ITEM 133 (L2) ]
+\0
+
+[@ITEM 133 (FR) ]
+{Frog} : Votre Majesté, nous avons une faveur à
+vous demander...\0
+
+[@ITEM 134 (L1) ]
+\0
+
+[@ITEM 134 (EN) ]
+{Ayla}: {Ayla} have request.\0
+
+[@ITEM 134 (L2) ]
+\0
+
+[@ITEM 134 (FR) ]
+{Ayla} : {Ayla} vouloir demander faveur.\0
+
+[@ITEM 135 (L1) ]
+\0
+
+[@ITEM 135 (EN) ]
+King: I see, you want me to keep the large shell
+that's on that island safe unto future generations?\0
+
+[@ITEM 135 (L2) ]
+\0
+
+[@ITEM 135 (FR) ]
+Roi de Gardia : Je vois. Vous voulez que je garde
+l'énorme coquillage qui est sur cette île pour les
+générations futures ?\0
+
+[@ITEM 136 (L1) ]
+\0
+
+[@ITEM 136 (EN) ]
+Leene: This is their request.
+I implore you as well.\0
+
+[@ITEM 136 (L2) ]
+\0
+
+[@ITEM 136 (FR) ]
+Lynne : Je vous en prie, accédez à leur requête.\0
+
+[@ITEM 137 (L1) ]
+\0
+
+[@ITEM 137 (EN) ]
+King: Understood!
+I shall have that Rainbow-Colored Shell object
+moved to the castle and kept in a treasure
+storehouse as an heirloom for generations.\0
+
+[@ITEM 137 (L2) ]
+\0
+
+[@ITEM 137 (FR) ]
+Roi de Gardia : C'est entendu ! Je ferai transporter
+ce coquillage arc-en-ciel et je le garderai dans la
+trésorerie en tant que trésor de famille pour les
+générations à venir.\0
+
+[@ITEM 138 (L1) ]
+\0
+
+[@ITEM 138 (EN) ]
+Knight Captain!\0
+
+[@ITEM 138 (L2) ]
+\0
+
+[@ITEM 138 (FR) ]
+Capitaine !\0
+
+[@ITEM 139 (L1) ]
+\0
+
+[@ITEM 139 (EN) ]
+Knight Captain: Sir!\0
+
+[@ITEM 139 (L2) ]
+\0
+
+[@ITEM 139 (FR) ]
+Capitaine : Votre Majesté !\0
+
+[@ITEM 140 (L1) ]
+\0
+
+[@ITEM 140 (EN) ]
+King: Cross to Giant's Claw, and bring the
+huge shell, the Rainbow-Colored Shell, back
+to the castle, no matter what it takes!\0
+
+[@ITEM 140 (L2) ]
+\0
+
+[@ITEM 140 (FR) ]
+Roi de Gardia : Allez sur l'île de la griffe du géant et
+rapportez l'énorme coquillage arc-en-ciel au château
+par quelque moyen que ce soit !\0
+
+[@ITEM 141 (L1) ]
+\0
+
+[@ITEM 141 (EN) ]
+Knight Captain: Yes sir, right away!\0
+
+[@ITEM 141 (L2) ]
+\0
+
+[@ITEM 141 (FR) ]
+Capitaine : À vos ordres, Votre Majesté !\0
+
+[@ITEM 142 (L1) ]
+\0
+
+[@ITEM 142 (EN) ]
+{Marle}: Thanks, King! Leene!\0
+
+[@ITEM 142 (L2) ]
+\0
+
+[@ITEM 142 (FR) ]
+{Marle} : Merci, Votre Majesté ! Merci, Lynne !\0
+
+[@ITEM 143 (L1) ]
+\0
+
+[@ITEM 143 (EN) ]
+{Lucca}: Thank you!\0
+
+[@ITEM 143 (L2) ]
+\0
+
+[@ITEM 143 (FR) ]
+{Lucca} : Merci beaucoup !\0
+
+[@ITEM 144 (L1) ]
+\0
+
+[@ITEM 144 (EN) ]
+{Robo}: THANK YOU!\0
+
+[@ITEM 144 (L2) ]
+\0
+
+[@ITEM 144 (FR) ]
+{Robo} : Merci beaucoup !\0
+
+[@ITEM 145 (L1) ]
+\0
+
+[@ITEM 145 (EN) ]
+{Frog}: Thank you for doing this for such a
+person as myself.\0
+
+[@ITEM 145 (L2) ]
+\0
+
+[@ITEM 145 (FR) ]
+{Frog} : Je vous remercie bien bas.\0
+
+[@ITEM 146 (L1) ]
+\0
+
+[@ITEM 146 (EN) ]
+{Ayla}: You good guy!
+{Ayla} like!\0
+
+[@ITEM 146 (L2) ]
+\0
+
+[@ITEM 146 (FR) ]
+{Ayla} : Roi être gentil ! {Ayla} aimer roi !\0
+
+[@ITEM 147 (L1) ]
+\0
+
+[@ITEM 147 (EN) ]
+Soldier: Oh, it's you.\0
+
+[@ITEM 147 (L2) ]
+\0
+
+[@ITEM 147 (FR) ]
+Soldat : Oh, c'est vous.\0
+
+[@ITEM 148 (L1) ]
+\0
+
+[@ITEM 148 (EN) ]
+We were being pressed by Magus's army, but
+everything's fine now.
+For the Hero has appeared!\0
+
+[@ITEM 148 (L2) ]
+\0
+
+[@ITEM 148 (FR) ]
+L'armée du Magistère était sur le point de nous envahir,
+mais désormais, tout ira bien. Le héros est apparu !\0
+
+[@ITEM 149 (L1) ]
+\0
+
+[@ITEM 149 (EN) ]
+He just now went through here to see the King.\0
+
+[@ITEM 149 (L2) ]
+\0
+
+[@ITEM 149 (FR) ]
+Le héros ? Il est allé voir le roi.\0
+
+[@ITEM 150 (L1) ]
+\0
+
+[@ITEM 150 (EN) ]
+Chancellor: Ohh, {Crono}-dono!
+The legendary Hero has finally made his
+appearance!{PRESS_CLEAR}
+Just a short time ago, he visited here and went
+to see the king.\0
+
+[@ITEM 150 (L2) ]
+\0
+
+[@ITEM 150 (FR) ]
+Oh, sire {Crono} ! Le héros légendaire est enfin
+apparu !{PRESS_CLEAR}
+Il vient tout juste de passer par ici pour aller voir le roi.\0
+
+[@ITEM 151 (L1) ]
+\0
+
+[@ITEM 151 (EN) ]
+The King is bedridden in his room.\0
+
+[@ITEM 151 (L2) ]
+\0
+
+[@ITEM 151 (FR) ]
+Sa Majesté se repose dans sa chambre.\0
+
+[@ITEM 152 (L1) ]
+\0
+
+[@ITEM 152 (EN) ]
+Leene-sama, too, is in the King's room, looking\0
+
+[@ITEM 152 (L2) ]
+\0
+
+[@ITEM 152 (FR) ]
+La reine reste au chevet de Sa Majesté jour et nuit.\0
+
+[@ITEM 153 (L1) ]
+\0
+
+[@ITEM 153 (EN) ]
+How terrible! The king took up his sword and
+personally battled Magus's army earlier.
+Had we not received word that the legendary Hero
+had appeared, the king might have kept on
+without falling back, and fought to the death.\0
+
+[@ITEM 153 (L2) ]
+\0
+
+[@ITEM 153 (FR) ]
+Le roi a lui-même combattu contre l'armée du Magistère.{PRESS_CLEAR}
+S'il n'avait pas reçu la nouvelle de la venue du héros
+légendaire, il aurait peut-être continué de combattre
+ainsi jusqu'à son dernier souffle.\0
+
+[@ITEM 154 (L1) ]
+\0
+
+[@ITEM 154 (EN) ]
+I am ashamed of myself......{PRESS_CLEAR}
+I'm afraid that at first, not realizing that person
+was the Hero and thinking he was just a filthy
+brat, I turned him away.{PRESS_CLEAR}
+However, I was forgiven.
+What a generous personage.{56}
+It is as befits the Hero.\0
+
+[@ITEM 154 (L2) ]
+\0
+
+[@ITEM 154 (FR) ]
+Comme j'ai honte...{PRESS_CLEAR}
+Au début, je croyais qu'il n'était qu'un gamin malpropre,
+alors je lui ai refusé d'entrer. Je ne m'étais pas rendu
+compte qu'il était le héros...{PRESS_CLEAR}
+Cependant, il m'a pardonné. Sa générosité est digne du
+héros !\0
+
+[@ITEM 155 (L1) ]
+\0
+
+[@ITEM 155 (EN) ]
+At this rate, Leene-sama will collapse of
+exhaustion too.\0
+
+[@ITEM 155 (L2) ]
+\0
+
+[@ITEM 155 (FR) ]
+Si cela continue ainsi, la reine tombera aussi
+d'épuisement.\0
+
+[@ITEM 156 (L1) ]
+\0
+
+[@ITEM 156 (EN) ]
+King: Ohh, {Crono}.
+I wonder if I have grown old already......{PRESS_CLEAR}
+As long as we are unable to catch hold of any
+news of Cyrus, it is that boy who is our sole
+remaining hope......{PRESS_CLEAR}
+The boy headed for the southern continent,
+seeking the legendary sword that can beat {Magus}.\0
+
+[@ITEM 156 (L2) ]
+\0
+
+[@ITEM 156 (FR) ]
+Oh, {Crono}... Je crois que je me fais vieux...{PRESS_CLEAR}
+Nous n'avons aucune nouvelle de Cyrus, alors ce jeune
+homme qui porte la médaille est notre seul espoir...{PRESS_CLEAR}
+Il est parti sur le continent sud à la recherche de l'épée
+légendaire qui pourra vaincre {Magus}, le Magistère.\0
+
+[@ITEM 157 (L1) ]
+\0
+
+[@ITEM 157 (EN) ]
+Leene: Surely Cyrus sent that boy to us.\0
+
+[@ITEM 157 (L2) ]
+\0
+
+[@ITEM 157 (FR) ]
+C'est sans doute Cyrus qui nous a envoyé ce jeune
+homme.\0
+
+[@ITEM 158 (L1) ]
+\0
+
+[@ITEM 158 (EN) ]
+The Knight Captain is at Zenan Bridge.
+Below, it's full with the wounded.\0
+
+[@ITEM 158 (L2) ]
+\0
+
+[@ITEM 158 (FR) ]
+Le capitaine des chevaliers s'est dirigé vers le pont de
+Zénan. Les blessés récupèrent au sous-sol.\0
+
+[@ITEM 159 (L1) ]
+\0
+
+[@ITEM 159 (EN) ]
+Between the food sent to the front lines and
+trying to recover the king's strength, the Head
+Cook is very busy.\0
+
+[@ITEM 159 (L2) ]
+\0
+
+[@ITEM 159 (FR) ]
+Le chef cuisinier essaie d'envoyer des vivres au front
+tout en prenant soin du roi. Il n'a pas un moment de
+répit !\0
+
+[@ITEM 160 (L1) ]
+\0
+
+[@ITEM 160 (EN) ]
+I'm sorry, the beds are full......\0
+
+[@ITEM 160 (L2) ]
+\0
+
+[@ITEM 160 (FR) ]
+Je suis désolée, tous les lits sont occupés.\0
+
+[@ITEM 161 (L1) ]
+\0
+
+[@ITEM 161 (EN) ]
+Even though even the Knight Captain is at the
+front lines......\0
+
+[@ITEM 161 (L2) ]
+\0
+
+[@ITEM 161 (FR) ]
+J'ai honte d'être alité alors que le capitaine est sur le
+front...\0
+
+[@ITEM 162 (L1) ]
+\0
+
+[@ITEM 162 (EN) ]
+That damn Magus finally threw his three great
+generals into the battle.\0
+
+[@ITEM 162 (L2) ]
+\0
+
+[@ITEM 162 (FR) ]
+Le Magistère a finalement fait appel à ses trois fameux
+généraux...\0
+
+[@ITEM 163 (L1) ]
+\0
+
+[@ITEM 163 (EN) ]
+Food's about to hit bottom on the front lines too......\0
+
+[@ITEM 163 (L2) ]
+\0
+
+[@ITEM 163 (FR) ]
+Il n'y aura bientôt plus de vivres au front...\0
+
+[@ITEM 164 (L1) ]
+\0
+
+[@ITEM 164 (EN) ]
+A hero's appeared, or so they say......\0
+
+[@ITEM 164 (L2) ]
+\0
+
+[@ITEM 164 (FR) ]
+J'ai entendu dire que le héros était apparu...\0
+
+[@ITEM 165 (L1) ]
+\0
+
+[@ITEM 165 (EN) ]
+Oohh......\0
+
+[@ITEM 165 (L2) ]
+\0
+
+[@ITEM 165 (FR) ]
+Ooh...\0
+
+[@ITEM 166 (L1) ]
+\0
+
+[@ITEM 166 (EN) ]
+The King's doing all he can too.\0
+
+[@ITEM 166 (L2) ]
+\0
+
+[@ITEM 166 (FR) ]
+Sa Majesté tient bon elle aussi, alors courage !\0
+
+[@ITEM 167 (L1) ]
+\0
+
+[@ITEM 167 (EN) ]
+New wounded show up faster than the wounds\0
+
+[@ITEM 167 (L2) ]
+\0
+
+[@ITEM 167 (FR) ]
+Il nous arrive plus de blessés qu'on ne peut en traiter.\0
+
+[@ITEM 168 (L1) ]
+\0
+
+[@ITEM 168 (EN) ]
+Hey, HEY!!\0
+
+[@ITEM 168 (L2) ]
+\0
+
+[@ITEM 168 (FR) ]
+Voilà, voilà !!\0
+
+[@ITEM 169 (L1) ]
+\0
+
+[@ITEM 169 (EN) ]
+You there, will this do for the King's food?\0
+
+[@ITEM 169 (L2) ]
+\0
+
+[@ITEM 169 (FR) ]
+Chéri, tu crois que ce plat conviendra à Sa Majesté ?\0
+
+[@ITEM 170 (L1) ]
+\0
+
+[@ITEM 170 (EN) ]
+Head Cook, we must hurry with the food that\0
+
+[@ITEM 170 (L2) ]
+\0
+
+[@ITEM 170 (FR) ]
+Chef, nous devons nous dépêcher d'envoyer aussi des
+vivres au pont de Zénan !\0
+
+[@ITEM 171 (L1) ]
+\0
+
+[@ITEM 171 (EN) ]
+Head Cook: What? Big bro!?{PRESS_CLEAR}
+......\0
+
+[@ITEM 171 (L2) ]
+\0
+
+[@ITEM 171 (FR) ]
+Cuisinier : Quoi ? Mon frère ?!{PRESS_CLEAR}
+...\0
+
+[@ITEM 172 (L1) ]
+\0
+
+[@ITEM 172 (EN) ]
+Head Cook: Heh, that's what you bastards get for
+thinking it's just you protecting this country.\0
+
+[@ITEM 172 (L2) ]
+\0
+
+[@ITEM 172 (FR) ]
+Cuisinier : Pfft, voilà ce qui arrive à ceux qui croient
+pouvoir défendre le royaume à eux seuls !\0
+
+[@ITEM 173 (L1) ]
+\0
+
+[@ITEM 173 (EN) ]
+Wife: You!\0
+
+[@ITEM 173 (L2) ]
+\0
+
+[@ITEM 173 (FR) ]
+Femme du cuisinier : Ça suffit !\0
+
+[@ITEM 174 (L1) ]
+\0
+
+[@ITEM 174 (EN) ]
+Wife: Don't keep up this pointless stubborn thing
+with each other forever, aren't you a man?!\0
+
+[@ITEM 174 (L2) ]
+\0
+
+[@ITEM 174 (FR) ]
+Femme du cuisinier : Jusqu'à quand t'obstineras-tu à
+envenimer cette querelle ridicule ? Sois un homme !\0
+
+[@ITEM 175 (L1) ]
+\0
+
+[@ITEM 175 (EN) ]
+Head Cook: ......{PRESS_CLEAR}
+Shaddup! What do you know!\0
+
+[@ITEM 175 (L2) ]
+\0
+
+[@ITEM 175 (FR) ]
+Cuisinier : ...{PRESS_CLEAR}
+La ferme ! Tu ne sais pas de quoi tu parles !\0
+
+[@ITEM 176 (L1) ]
+\0
+
+[@ITEM 176 (EN) ]
+They're such idiots, men!\0
+
+[@ITEM 176 (L2) ]
+\0
+
+[@ITEM 176 (FR) ]
+Les hommes sont tous des idiots !\0
+
+[@ITEM 177 (L1) ]
+\0
+
+[@ITEM 177 (EN) ]
+He talks like that, but the Head Cook always
+worries about the Knight Captain.\0
+
+[@ITEM 177 (L2) ]
+\0
+
+[@ITEM 177 (FR) ]
+Quoi qu'il dise, le cuisinier s'inquiète toujours au sujet
+du capitaine.\0
+
+[@ITEM 178 (L1) ]
+\0
+
+[@ITEM 178 (EN) ]
+'Wait!\0
+
+[@ITEM 178 (L2) ]
+\0
+
+[@ITEM 178 (FR) ]
+Attendez !\0
+
+[@ITEM 179 (L1) ]
+\0
+
+[@ITEM 179 (EN) ]
+Head Cook: haa, haa......{PRESS_CLEAR}
+Take this with you!\0
+
+[@ITEM 179 (L2) ]
+\0
+
+[@ITEM 179 (FR) ]
+Cuisinier : Ouf, ouf...{PRESS_CLEAR}
+Apportez ceci !\0
+
+[@ITEM 180 (L1) ]
+\0
+
+[@ITEM 180 (EN) ]
+Head Cook: And, tell that idiot this for me:{PRESS_CLEAR}
+I ain't gonna let you not come back alive!\0
+
+[@ITEM 180 (L2) ]
+\0
+
+[@ITEM 180 (FR) ]
+Cuisinier : Et dites à cet imbécile...{PRESS_CLEAR}
+... que je ne lui pardonnerai pas s'il ne revient pas
+vivant !\0
+
+[@ITEM 181 (L1) ]
+\0
+
+[@ITEM 181 (EN) ]
+You can pass freely from now on.\0
+
+[@ITEM 181 (L2) ]
+\0
+
+[@ITEM 181 (FR) ]
+Vous pouvez désormais entrer au château quand vous
+voulez.\0
+
+[@ITEM 182 (L1) ]
+\0
+
+[@ITEM 182 (EN) ]
+You're really lucky, beating Yakra.\0
+
+[@ITEM 182 (L2) ]
+\0
+
+[@ITEM 182 (FR) ]
+Vous avez vraiment eu de la chance de vaincre
+Yakra !\0
+
+[@ITEM 183 (L1) ]
+\0
+
+[@ITEM 183 (EN) ]
+The King will be relieved too now.\0
+
+[@ITEM 183 (L2) ]
+\0
+
+[@ITEM 183 (FR) ]
+Sa Majesté peut maintenant être rassurée.\0
+
+[@ITEM 184 (L1) ]
+\0
+
+[@ITEM 184 (EN) ]
+The whole castle really is cheery when Leene-sama\0
+
+[@ITEM 184 (L2) ]
+\0
+
+[@ITEM 184 (FR) ]
+L'atmosphère au château est toujours plus gaie quand
+la reine Lynne est là.\0
+
+[@ITEM 185 (L1) ]
+\0
+
+[@ITEM 185 (EN) ]
+It's been a while since those two were both here.\0
+
+[@ITEM 185 (L2) ]
+\0
+
+[@ITEM 185 (FR) ]
+Il y a si longtemps que nous n'avions vu le roi et la reine
+ensemble !\0
+
+[@ITEM 186 (L1) ]
+\0
+
+[@ITEM 186 (EN) ]
+I guess she really wasn't Leene-sama.\0
+
+[@ITEM 186 (L2) ]
+\0
+
+[@ITEM 186 (FR) ]
+Alors, cette jeune fille n'était pas la reine Lynne.
+Je m'en doutais.\0
+
+[@ITEM 187 (L1) ]
+\0
+
+[@ITEM 187 (EN) ]
+That means the real Leene-sama was somewhere
+else after all.
+It's just like I figured.\0
+
+[@ITEM 187 (L2) ]
+\0
+
+[@ITEM 187 (FR) ]
+Cela veut dire que la vraie reine Lynne était ailleurs,
+comme je l'avais supposé.\0
+
+[@ITEM 188 (L1) ]
+\0
+
+[@ITEM 188 (EN) ]
+But I'm shocked that she really looks just like
+Leene-sama.\0
+
+[@ITEM 188 (L2) ]
+\0
+
+[@ITEM 188 (FR) ]
+Cette jeune fille et la reine se ressemblent vraiment
+comme deux gouttes d'eau. C'est surprenant !\0
+
+[@ITEM 189 (L1) ]
+\0
+
+[@ITEM 189 (EN) ]
+Hmm, the more I look the more she looks like
+Leene-sama!\0
+
+[@ITEM 189 (L2) ]
+\0
+
+[@ITEM 189 (FR) ]
+Hum, plus je regarde cette jeune fille, plus elle
+ressemble à la reine !\0
+
+[@ITEM 190 (L1) ]
+\0
+
+[@ITEM 190 (EN) ]
+You guys going home?
+I don't know how far you're going, but be careful
+on your way.\0
+
+[@ITEM 190 (L2) ]
+\0
+
+[@ITEM 190 (FR) ]
+Vous rentrez ? Je ne sais pas où vous allez, mais soyez
+prudents.\0
+
+[@ITEM 191 (L1) ]
+\0
+
+[@ITEM 191 (EN) ]
+Gotta make a feast for this!\0
+
+[@ITEM 191 (L2) ]
+\0
+
+[@ITEM 191 (FR) ]
+La vraie reine Lynne ? Alors, nous devons préparer un
+festin !\0
+
+[@ITEM 192 (L1) ]
+\0
+
+[@ITEM 192 (EN) ]
+You're saying she wasn't Leene-sama?{PRESS_CLEAR}
+Damn, and I went to all that trouble trying to
+make some crepe.{PRESS_CLEAR}
+It's soup with biscuits and liver in it, right?\0
+
+[@ITEM 192 (L2) ]
+\0
+
+[@ITEM 192 (FR) ]
+Cette jeune fille n'était pas la reine Lynne ?{PRESS_CLEAR}
+Et moi qui m'étais donné tant de mal pour lui préparer
+ces « crêpes » qu'elle me réclamait...{PRESS_CLEAR}
+Qu'est-ce que je vais faire de toute cette poudre de
+craie, maintenant ?\0
+
+[@ITEM 193 (L1) ]
+\0
+
+[@ITEM 193 (EN) ]
+Now the Commander can give his undivided
+attention to opposing Magus's army, too.\0
+
+[@ITEM 193 (L2) ]
+\0
+
+[@ITEM 193 (FR) ]
+Maintenant, notre capitaine pourra se concentrer sur la
+guerre contre l'armée du Magistère.\0
+
+[@ITEM 194 (L1) ]
+\0
+
+[@ITEM 194 (EN) ]
+Never imagined she wasn't Leene-sama.\0
+
+[@ITEM 194 (L2) ]
+\0
+
+[@ITEM 194 (FR) ]
+Je n'aurais jamais deviné que cette jeune fille n'était
+pas la reine Lynne.\0
+
+[@ITEM 195 (L1) ]
+\0
+
+[@ITEM 195 (EN) ]
+Leene-sama would never do such a thing as
+coming here to filch food before meals.\0
+
+[@ITEM 195 (L2) ]
+\0
+
+[@ITEM 195 (FR) ]
+Moi je trouvais ça étrange. La reine Lynne ne viendrait
+jamais ici manger en cachette.\0
+
+[@ITEM 196 (L1) ]
+\0
+
+[@ITEM 196 (EN) ]
+I see, in that abbey......
+That {Frog} guy did a fine job of carrying out his
+duty too.{PRESS_CLEAR}
+However, now that Magus's army has failed at the
+abduction of Leene-sama, they're getting serious.
+If only Cyrus were here in times like these......\0
+
+[@ITEM 196 (L2) ]
+\0
+
+[@ITEM 196 (FR) ]
+Ah bon, à l'abbaye...? Ce {Frog} s'est bien acquitté
+de ses fonctions.{PRESS_CLEAR}
+Cependant, puisque les forces du Magistère n'ont pas
+réussi à enlever la reine, elles passeront aux choses
+sérieuses. Si seulement sire Cyrus était avec nous
+dans un moment pareil...!\0
+
+[@ITEM 197 (L1) ]
+\0
+
+[@ITEM 197 (EN) ]
+All that's left is striking Magus's army!\0
+
+[@ITEM 197 (L2) ]
+\0
+
+[@ITEM 197 (FR) ]
+Il ne nous reste plus qu'à écraser l'armée du Magistère !\0
+
+[@ITEM 198 (L1) ]
+\0
+
+[@ITEM 198 (EN) ]
+So Yakra was a monster Magus's army sent too.\0
+
+[@ITEM 198 (L2) ]
+\0
+
+[@ITEM 198 (FR) ]
+Alors, Yakra était aussi à la solde de l'armée du
+Magistère ?\0
+
+[@ITEM 199 (L1) ]
+\0
+
+[@ITEM 199 (EN) ]
+Never imagined the abbey was a secret base for\0
+
+[@ITEM 199 (L2) ]
+\0
+
+[@ITEM 199 (FR) ]
+Quand je pense que l'abbaye était le repaire de
+monstres...!\0
+
+[@ITEM 200 (L1) ]
+\0
+
+[@ITEM 200 (EN) ]
+So Leene-sama's abduction was also the doing
+of Magus's army after all.\0
+
+[@ITEM 200 (L2) ]
+\0
+
+[@ITEM 200 (FR) ]
+C'était donc bien l'armée du Magistère qui avait enlevé la
+reine Lynne ?\0
+
+[@ITEM 201 (L1) ]
+\0
+
+[@ITEM 201 (EN) ]
+So that frog bastard had such bravery too.\0
+
+[@ITEM 201 (L2) ]
+\0
+
+[@ITEM 201 (FR) ]
+Qui aurait cru qu'un homme à l'apparence d'une
+grenouille pouvait être si courageux ?\0
+
+[@ITEM 202 (L1) ]
+\0
+
+[@ITEM 202 (EN) ]
+I dunno, he might have acted so as to seem
+like he's not a spy.\0
+
+[@ITEM 202 (L2) ]
+\0
+
+[@ITEM 202 (FR) ]
+Ça ne prouve en rien que cet homme à l'apparence
+d'une grenouille n'est pas un espion du Magistère.
+Il a peut-être fait ça pour ne pas éveiller les
+soupçons.\0
+
+[@ITEM 203 (L1) ]
+\0
+
+[@ITEM 203 (EN) ]
+A monster turning into the chancellor......
+The fake was better quality, though.\0
+
+[@ITEM 203 (L2) ]
+\0
+
+[@ITEM 203 (FR) ]
+Et dire qu'un monstre se faisait passer pour
+le chancelier... Aussi ironique que cela puisse
+paraître, il était plus distingué que le vrai.\0
+
+[@ITEM 204 (L1) ]
+\0
+
+[@ITEM 204 (EN) ]
+What will you have?
+\t\t{SEL1}Refreshing salad.{/SEL1}
+\t\t{SEL2}Power stew.{/SEL2}
+\t\t{SEL3}Spiced roast.{/SEL3}\0
+
+[@ITEM 204 (L2) ]
+\0
+
+[@ITEM 204 (FR) ]
+Que désirez-vous manger ?
+       {SEL1}Salade rafraîchissante{/SEL1}
+       {SEL2}Ragoût d'endurance{/SEL2}
+       {SEL3}Porcelet rôti{/SEL3}\0
+
+[@ITEM 205 (L1) ]
+\0
+
+[@ITEM 205 (EN) ]
+Just a minute.\0
+
+[@ITEM 205 (L2) ]
+\0
+
+[@ITEM 205 (FR) ]
+Je reviens tout de suite.\0
+
+[@ITEM 206 (L1) ]
+\0
+
+[@ITEM 206 (EN) ]
+Here, thanks for waiting!\0
+
+[@ITEM 206 (L2) ]
+\0
+
+[@ITEM 206 (FR) ]
+Voilà !\0
+
+[@ITEM 207 (L1) ]
+\0
+
+[@ITEM 207 (EN) ]
+{MSGWND}
+MP recovered!\0
+
+[@ITEM 207 (L2) ]
+\0
+
+[@ITEM 207 (FR) ]
+{MSGWND}
+Régénération des PM !\0
+
+[@ITEM 208 (L1) ]
+\0
+
+[@ITEM 208 (EN) ]
+{MSGWND}
+HP recovered!\0
+
+[@ITEM 208 (L2) ]
+\0
+
+[@ITEM 208 (FR) ]
+{MSGWND}
+Régénération des PV !\0
+
+[@ITEM 209 (L1) ]
+\0
+
+[@ITEM 209 (EN) ]
+{MSGWND}
+HP and MP recovered!\0
+
+[@ITEM 209 (L2) ]
+\0
+
+[@ITEM 209 (FR) ]
+{MSGWND}
+Régénération des PV et des PM !\0
+
+[@ITEM 210 (L1) ]
+\0
+
+[@ITEM 210 (EN) ]
+The head cook is strict, but he's a good person.\0
+
+[@ITEM 210 (L2) ]
+\0
+
+[@ITEM 210 (FR) ]
+Le cuisinier est strict, mais c'est quelqu'un de bien.\0
+
+[@ITEM 211 (L1) ]
+\0
+
+[@ITEM 211 (EN) ]
+Hmm, you saved Leene-sama......?\0
+
+[@ITEM 211 (L2) ]
+\0
+
+[@ITEM 211 (FR) ]
+Alors c'est vous qui avez secouru la reine ? Eh bien...\0
+
+[@ITEM 212 (L1) ]
+\0
+
+[@ITEM 212 (EN) ]
+I thought she ate a lot for Leene-sama.\0
+
+[@ITEM 212 (L2) ]
+\0
+
+[@ITEM 212 (FR) ]
+Je me disais aussi que la reine avait tout à coup un
+sacré appétit.\0
+
+[@ITEM 213 (L1) ]
+\0
+
+[@ITEM 213 (EN) ]
+The truth is those two are looking for a chance
+to make up.\0
+
+[@ITEM 213 (L2) ]
+\0
+
+[@ITEM 213 (FR) ]
+En vérité, le chef cuisinier et son frère cherchent
+l'occasion de se réconcilier.\0
+
+[@ITEM 214 (L1) ]
+\0
+
+[@ITEM 214 (EN) ]
+We've gotta build up the King's stamina!\0
+
+[@ITEM 214 (L2) ]
+\0
+
+[@ITEM 214 (FR) ]
+Nous devons redonner de l'énergie au roi !\0
+
+[@ITEM 215 (L1) ]
+\0
+
+[@ITEM 215 (EN) ]
+I'm sorry, but it's crowded and this isn't the
+time for this.\0
+
+[@ITEM 215 (L2) ]
+\0
+
+[@ITEM 215 (FR) ]
+Je suis désolée, nous sommes trop occupés en ce
+moment.\0
+
+[@ITEM 216 (L1) ]
+\0
+
+[@ITEM 216 (EN) ]
+What? Hyper Dried Meat?{PRESS_CLEAR}
+Sorry, but the ingredients......
+And it's too intense for the average person in the
+first place.\0
+
+[@ITEM 216 (L2) ]
+\0
+
+[@ITEM 216 (FR) ]
+Oh !{PRESS_CLEAR}
+Quoi ? Du jambon épicé ?{PRESS_CLEAR}
+Malheureusement, je n'ai pas les ingrédients...
+De toute façon, ma recette est un peu trop
+épicée pour le commun des mortels.\0
+
+[@ITEM 217 (L1) ]
+\0
+
+[@ITEM 217 (EN) ]
+King: Oh, so you're alive!{PRESS_CLEAR}
+We were saved thanks to you.
+Though a great many were sacrificed......{PRESS_CLEAR}
+Now, we, along with the Commander and
+Master of Kitchens, must restore this castle, no,
+restore Guardia Kingdom.
+We will help you if something comes up.\0
+
+[@ITEM 217 (L2) ]
+\0
+
+[@ITEM 217 (FR) ]
+Oh, vous êtes en vie !{PRESS_CLEAR}
+Beaucoup ont péri, mais sans votre aide, nous aurions
+été perdus...{PRESS_CLEAR}
+À partir de maintenant, le capitaine des chevaliers et le
+cuisinier devront travailler ensemble pour protéger le
+château, non, le royaume !{PRESS_CLEAR}
+Si un jour vous avez besoin de notre aide, nous vous
+prêterons main-forte.\0
+
+[@ITEM 218 (L1) ]
+\0
+
+[@ITEM 218 (EN) ]
+Leene: {Frog}!{PRESS_CLEAR}
+So you really were together with {Crono} and the
+others.{PRESS_CLEAR}
+You have done well.
+You need not hesitate to stay in this castle.\0
+
+[@ITEM 218 (L2) ]
+\0
+
+[@ITEM 218 (FR) ]
+{Frog} !{PRESS_CLEAR}
+Tu t'es donc joint à {Crono} et les autres ?{PRESS_CLEAR}
+Tu as accompli ta mission admirablement. Tu seras
+toujours le bienvenu au château.\0
+
+[@ITEM 219 (L1) ]
+\0
+
+[@ITEM 219 (EN) ]
+Chancellor: {Crono}-dono, my thanks extend unto
+the time of my grandchildren.\0
+
+[@ITEM 219 (L2) ]
+\0
+
+[@ITEM 219 (FR) ]
+Ma famille vous sera éternellement reconnaissante !\0
+
+[@ITEM 220 (L1) ]
+\0
+
+[@ITEM 220 (EN) ]
+Master of Kitchens: Whaaat, it's thanks to you guys.
+I just cooked.{PRESS_CLEAR}
+I'm thinking about some cooking to celebrate the
+victory over Magus's army{56}something gorgeous!\0
+
+[@ITEM 220 (L2) ]
+\0
+
+[@ITEM 220 (FR) ]
+Allons, allons ! C'est vous qui avez tout fait. Je me suis
+contenté de cuisiner.{PRESS_CLEAR}
+J'ai eu l'idée d'un nouveau plat pour célébrer notre
+victoire sur l'armée du Magistère. Il sera sensationnel !\0
+
+[@ITEM 221 (L1) ]
+\0
+
+[@ITEM 221 (EN) ]
+Commander: Our overcoming of Magus's army
+was thanks to our unity and, above all else, to
+you and the others.\0
+
+[@ITEM 221 (L2) ]
+\0
+
+[@ITEM 221 (FR) ]
+Nous avons vaincu l'armée du Magistère grâce à
+notre solidarité, mais surtout grâce à vous et vos
+compagnons, sire {Crono}.\0
+
+[@ITEM 222 (L1) ]
+\0
+
+[@ITEM 222 (EN) ]
+Commander: {Frog}, might you{56}?{PRESS_CLEAR}
+No, there's no mistaking it.
+I'm thinking about leaving the position of Commander to you.\0
+
+[@ITEM 222 (L2) ]
+\0
+
+[@ITEM 222 (FR) ]
+{Frog}, se pourrait-il que...{PRESS_CLEAR}
+Oui, j'en suis maintenant certain. Je voudrais que tu me
+succèdes en tant que capitaine des chevaliers.\0
+
+[@ITEM 223 (L1) ]
+\0
+
+[@ITEM 223 (EN) ]
+{Frog}: Forget it, it's not my style.\0
+
+[@ITEM 223 (L2) ]
+\0
+
+[@ITEM 223 (FR) ]
+{Frog} : C'est trop d'honneur. Je n'en ai pas
+l'étoffe.\0
+
+[@ITEM 224 (L1) ]
+\0
+
+[@ITEM 224 (EN) ]
+{Frog}: ......{PRESS_CLEAR}
+Your words are enough in themselves......\0
+
+[@ITEM 224 (L2) ]
+\0
+
+[@ITEM 224 (FR) ]
+{Frog} : ...{PRESS_CLEAR}
+Vos paroles me suffisent...\0
+
+[@ITEM 225 (L1) ]
+\0
+
+[@ITEM 225 (EN) ]
+Leene: How should I express my thanks to you all......?{PRESS_CLEAR}
+{Frog}!
+What happened to {Frog}?\0
+
+[@ITEM 225 (L2) ]
+\0
+
+[@ITEM 225 (FR) ]
+Comment pourrais-je vous remercier...?{PRESS_CLEAR}
+{Frog} !
+Où est {Frog} ?\0
+
+[@ITEM 226 (L1) ]
+\0
+
+[@ITEM 226 (EN) ]
+Hey, we've been waiting!
+Now, go to the King!\0
+
+[@ITEM 226 (L2) ]
+\0
+
+[@ITEM 226 (FR) ]
+Oh, nous vous attendions ! Allez voir le roi !\0
+
+[@ITEM 227 (L1) ]
+\0
+
+[@ITEM 227 (EN) ]
+You're seriously lucky......
+Beating {Magus} and all.\0
+
+[@ITEM 227 (L2) ]
+\0
+
+[@ITEM 227 (FR) ]
+Vous avez vraiment de la chance...{PRESS_CLEAR}
+Et dire que vous avez vaincu le Magistère !\0
+
+[@ITEM 228 (L1) ]
+\0
+
+[@ITEM 228 (EN) ]
+When I heard you hadn't come out of Magus Castle
+I thought for sure......\0
+
+[@ITEM 228 (L2) ]
+\0
+
+[@ITEM 228 (FR) ]
+J'ai craint le pire quand j'ai entendu dire que vous
+n'étiez pas ressortis du palais du Magistère...\0
+
+[@ITEM 229 (L1) ]
+\0
+
+[@ITEM 229 (EN) ]
+If Zenan Bridge had been beaten, this castle would
+probably have been wiped out too.\0
+
+[@ITEM 229 (L2) ]
+\0
+
+[@ITEM 229 (FR) ]
+Si nous avions été vaincus sur le pont de Zénan,
+l'ennemi aurait sans doute aussi envahi ce château.\0
+
+[@ITEM 230 (L1) ]
+\0
+
+[@ITEM 230 (EN) ]
+The wounded soldiers have all recovered too.\0
+
+[@ITEM 230 (L2) ]
+\0
+
+[@ITEM 230 (FR) ]
+Tous les soldats blessés ont récupéré.\0
+
+[@ITEM 231 (L1) ]
+\0
+
+[@ITEM 231 (EN) ]
+Look, look, everyone's healed now!\0
+
+[@ITEM 231 (L2) ]
+\0
+
+[@ITEM 231 (FR) ]
+Vous êtes encore là, vous ? Tous les autres ont déjà
+récupéré !\0
+
+[@ITEM 232 (L1) ]
+\0
+
+[@ITEM 232 (EN) ]
+Be......{PRESS_CLEAR}
+Be gentle......\0
+
+[@ITEM 232 (L2) ]
+\0
+
+[@ITEM 232 (FR) ]
+Snif...{PRESS_CLEAR}
+Je n'ai jamais vu une infirmière aussi sévère...\0
+
+[@ITEM 233 (L1) ]
+\0
+
+[@ITEM 233 (EN) ]
+You saved us at Zenan Bridge.\0
+
+[@ITEM 233 (L2) ]
+\0
+
+[@ITEM 233 (FR) ]
+Heureusement que vous étiez là, sur le pont de Zénan.\0
+
+[@ITEM 234 (L1) ]
+\0
+
+[@ITEM 234 (EN) ]
+Cyrus-sama is probably rejoicing somewhere too.\0
+
+[@ITEM 234 (L2) ]
+\0
+
+[@ITEM 234 (FR) ]
+Où qu'il soit, sire Cyrus est sans doute réjoui.\0
+
+[@ITEM 235 (L1) ]
+\0
+
+[@ITEM 235 (EN) ]
+My husband's in the middle of researching
+some amazing cooking he thought of.\0
+
+[@ITEM 235 (L2) ]
+\0
+
+[@ITEM 235 (FR) ]
+Mon mari est en train d'inventer un plat du tonnerre.\0
+
+[@ITEM 236 (L1) ]
+\0
+
+[@ITEM 236 (EN) ]
+It's too amazing, when's he gonna finish......?\0
+
+[@ITEM 236 (L2) ]
+\0
+
+[@ITEM 236 (FR) ]
+Cette recette est si exceptionnelle, qui sait quand il la
+terminera ?\0
+
+[@ITEM 237 (L1) ]
+\0
+
+[@ITEM 237 (EN) ]
+Gotta give amazing cooking an amazing name\0
+
+[@ITEM 237 (L2) ]
+\0
+
+[@ITEM 237 (FR) ]
+Un plat aussi délicieux aura bien entendu besoin d'un
+nom extraordinaire.\0
+
+[@ITEM 238 (L1) ]
+\0
+
+[@ITEM 238 (EN) ]
+The Commander and Head Cook have finally
+accepted each other.
+It looks like they're still embarrassed though.\0
+
+[@ITEM 238 (L2) ]
+\0
+
+[@ITEM 238 (FR) ]
+Le capitaine des chevaliers et le chef se sont enfin
+réconciliés ! On dirait qu'ils en sont encore un peu
+gênés...\0
+
+[@ITEM 239 (L1) ]
+\0
+
+[@ITEM 239 (EN) ]
+King: {Frog}, thank you for your efforts.
+Your achievements are exactly what are suited
+to the name of Knight.\0
+
+[@ITEM 239 (L2) ]
+\0
+
+[@ITEM 239 (FR) ]
+Bon travail, {Frog}. Tu es vraiment digne de porter
+le titre de chevalier.\0
+
+[@ITEM 240 (L1) ]
+\0
+
+[@ITEM 240 (EN) ]
+{Frog}: Your words are more than one such as I
+deserves......\0
+
+[@ITEM 240 (L2) ]
+\0
+
+[@ITEM 240 (FR) ]
+{Frog} : Sa Majesté est trop bonne...\0
+
+[@ITEM 241 (L1) ]
+\0
+
+[@ITEM 241 (EN) ]
+Head Cook: And, this is for you guys.\0
+
+[@ITEM 241 (L2) ]
+\0
+
+[@ITEM 241 (FR) ]
+Cuisinier : Et tenez, ça, c'est pour vous.\0
+
+[@ITEM 242 (L1) ]
+\0
+
+[@ITEM 242 (EN) ]
+{MSGWND}
+It's sealed with a mysterious power.\0
+
+[@ITEM 242 (L2) ]
+\0
+
+[@ITEM 242 (FR) ]
+{MSGWND}
+Un sceau magique en empêche l'ouverture...\0
+
+[@ITEM 243 (L1) ]
+\0
+
+[@ITEM 243 (EN) ]
+Something inside reacted to the pendant and
+began glowing. Remove the contents?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 243 (L2) ]
+\0
+
+[@ITEM 243 (FR) ]
+Il y a quelque chose à l'intérieur qui luit à l'approche du
+pendentif. Voulez-vous le prendre ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 244 (L1) ]
+\0
+
+[@ITEM 244 (EN) ]
+\0
+
+[@ITEM 244 (L2) ]
+\0
+
+[@ITEM 244 (FR) ]
+\0
+
+[@ITEM 245 (L1) ]
+\0
+
+[@ITEM 245 (EN) ]
+\0
+
+[@ITEM 245 (L2) ]
+\0
+
+[@ITEM 245 (FR) ]
+\0
+
+[@ITEM 246 (L1) ]
+\0
+
+[@ITEM 246 (EN) ]
+\0
+
+[@ITEM 246 (L2) ]
+\0
+
+[@ITEM 246 (FR) ]
+\0
+
+[@ITEM 247 (L1) ]
+\0
+
+[@ITEM 247 (EN) ]
+\0
+
+[@ITEM 247 (L2) ]
+\0
+
+[@ITEM 247 (FR) ]
+\0
+
+[@ITEM 248 (L1) ]
+\0
+
+[@ITEM 248 (EN) ]
+\0
+
+[@ITEM 248 (L2) ]
+\0
+
+[@ITEM 248 (FR) ]
+\0
+
+[@ITEM 249 (L1) ]
+\0
+
+[@ITEM 249 (EN) ]
+\0
+
+[@ITEM 249 (L2) ]
+\0
+
+[@ITEM 249 (FR) ]
+\0
+
+[@ITEM 250 (L1) ]
+\0
+
+[@ITEM 250 (EN) ]
+\0
+
+[@ITEM 250 (L2) ]
+\0
+
+[@ITEM 250 (FR) ]
+\0
+
+[@ITEM 251 (L1) ]
+\0
+
+[@ITEM 251 (EN) ]
+\0
+
+[@ITEM 251 (L2) ]
+\0
+
+[@ITEM 251 (FR) ]
+\0
+
+[@ITEM 252 (L1) ]
+\0
+
+[@ITEM 252 (EN) ]
+\0
+
+[@ITEM 252 (L2) ]
+\0
+
+[@ITEM 252 (FR) ]
+\0
+
+[@ITEM 253 (L1) ]
+\0
+
+[@ITEM 253 (EN) ]
+\0
+
+[@ITEM 253 (L2) ]
+\0
+
+[@ITEM 253 (FR) ]
+\0
+
+[@ITEM 254 (L1) ]
+\0
+
+[@ITEM 254 (EN) ]
+\0
+
+[@ITEM 254 (L2) ]
+\0
+
+[@ITEM 254 (FR) ]
+\0
+
+[@ITEM 255 (L1) ]
+\0
+
+[@ITEM 255 (EN) ]
+\0
+
+[@ITEM 255 (L2) ]
+\0
+
+[@ITEM 255 (FR) ]
+\0
+

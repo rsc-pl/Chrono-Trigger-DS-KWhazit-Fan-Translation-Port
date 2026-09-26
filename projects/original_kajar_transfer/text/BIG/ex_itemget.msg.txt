@@ -1,0 +1,5074 @@
+[@ex_itemget.msg]
+
+[@ITEM 0 (L1) ]
+\0
+
+[@ITEM 0 (EN) ]
+\0
+
+[@ITEM 0 (L2) ]
+\0
+
+[@ITEM 0 (FR) ]
+\0
+
+[@ITEM 1 (L1) ]
+\0
+
+[@ITEM 1 (EN) ]
+Starting equipment:
+   {Crono}\0
+
+[@ITEM 1 (L2) ]
+\0
+
+[@ITEM 1 (FR) ]
+Équipement de base :
+Chrono\0
+
+[@ITEM 2 (L1) ]
+\0
+
+[@ITEM 2 (EN) ]
+Shops:
+   Leene Square, etc.\0
+
+[@ITEM 2 (L2) ]
+\0
+
+[@ITEM 2 (FR) ]
+Magasin :
+Place de Lynne, etc.\0
+
+[@ITEM 3 (L1) ]
+\0
+
+[@ITEM 3 (EN) ]
+Shops:
+   Truce, etc.
+Chest:
+   Manoria Abbey\0
+
+[@ITEM 3 (L2) ]
+\0
+
+[@ITEM 3 (FR) ]
+Magasin :
+Truce (Présent), etc.
+Coffre :
+Abbaye de Manolia\0
+
+[@ITEM 4 (L1) ]
+\0
+
+[@ITEM 4 (EN) ]
+Shop:
+   Leene Square
+Chests:
+   Guardia Jail
+   #16 Ruins\0
+
+[@ITEM 4 (L2) ]
+\0
+
+[@ITEM 4 (FR) ]
+Magasin :
+Place de Lynne
+Coffre :
+Prison
+Ruines n° 16\0
+
+[@ITEM 5 (L1) ]
+\0
+
+[@ITEM 5 (EN) ]
+Shops:
+   Truce, etc.\0
+
+[@ITEM 5 (L2) ]
+\0
+
+[@ITEM 5 (FR) ]
+Magasin :
+Truce (Présent), etc.\0
+
+[@ITEM 6 (L1) ]
+\0
+
+[@ITEM 6 (EN) ]
+Trade:
+   Ioka Village Hut\0
+
+[@ITEM 6 (L2) ]
+\0
+
+[@ITEM 6 (FR) ]
+Troc :
+Tente d'Ioka\0
+
+[@ITEM 7 (L1) ]
+\0
+
+[@ITEM 7 (EN) ]
+\0
+
+[@ITEM 7 (L2) ]
+\0
+
+[@ITEM 7 (FR) ]
+\0
+
+[@ITEM 8 (L1) ]
+\0
+
+[@ITEM 8 (EN) ]
+Trade:
+   Ioka Village Hut
+Charm:
+   Dodecadadda\0
+
+[@ITEM 8 (L2) ]
+\0
+
+[@ITEM 8 (FR) ]
+Troc :
+Tente d'Ioka
+Séduction :
+Mégasaure\0
+
+[@ITEM 9 (L1) ]
+\0
+
+[@ITEM 9 (EN) ]
+Shops:
+   Algetty, etc.\0
+
+[@ITEM 9 (L2) ]
+\0
+
+[@ITEM 9 (FR) ]
+Magasin :
+Alguetti, etc.\0
+
+[@ITEM 10 (L1) ]
+\0
+
+[@ITEM 10 (EN) ]
+Shop:
+   Kajarl
+Charm:
+   Bomber Bird\0
+
+[@ITEM 10 (L2) ]
+\0
+
+[@ITEM 10 (FR) ]
+Magasin :
+Kajar
+Séduction :
+Diablo-commando\0
+
+[@ITEM 11 (L1) ]
+\0
+
+[@ITEM 11 (EN) ]
+Shop:
+   Surviving Village
+Chest:
+   Ocean Floor Temple Vimanam\0
+
+[@ITEM 11 (L2) ]
+\0
+
+[@ITEM 11 (FR) ]
+Magasin :
+Village des survivants
+Coffre :
+Sanctuaire sous-marin\0
+
+[@ITEM 12 (L1) ]
+\0
+
+[@ITEM 12 (EN) ]
+Chest:
+   Death Mountain\0
+
+[@ITEM 12 (L2) ]
+\0
+
+[@ITEM 12 (FR) ]
+Coffre :
+Mont des défunts\0
+
+[@ITEM 13 (L1) ]
+\0
+
+[@ITEM 13 (EN) ]
+Sealed chest:
+   Northern Ruins\0
+
+[@ITEM 13 (L2) ]
+\0
+
+[@ITEM 13 (FR) ]
+Coffre scellé :
+Château en ruine\0
+
+[@ITEM 14 (L1) ]
+\0
+
+[@ITEM 14 (EN) ]
+Sealed chest:
+   Northern Ruins
+   (Post-upgrade)\0
+
+[@ITEM 14 (L2) ]
+\0
+
+[@ITEM 14 (FR) ]
+Coffre scellé :
+Château en ruine
+(après avoir refusé de
+l'ouvrir dans le passé)\0
+
+[@ITEM 15 (L1) ]
+\0
+
+[@ITEM 15 (EN) ]
+Chests:
+   Underground Waterway Ruins
+   Factory Ruins\0
+
+[@ITEM 15 (L2) ]
+\0
+
+[@ITEM 15 (FR) ]
+Coffre :
+Ancien égout
+Usine désaffectée\0
+
+[@ITEM 16 (L1) ]
+\0
+
+[@ITEM 16 (EN) ]
+Event:
+   Soysaw Defeated\0
+
+[@ITEM 16 (L2) ]
+\0
+
+[@ITEM 16 (FR) ]
+Événement :
+Après le combat
+contre Soja\0
+
+[@ITEM 17 (L1) ]
+\0
+
+[@ITEM 17 (EN) ]
+Starting equipment:
+   {Marle}\0
+
+[@ITEM 17 (L2) ]
+\0
+
+[@ITEM 17 (FR) ]
+Équipement de base :
+Marle\0
+
+[@ITEM 18 (L1) ]
+\0
+
+[@ITEM 18 (EN) ]
+Shops:
+   Truce, etc.\0
+
+[@ITEM 18 (L2) ]
+\0
+
+[@ITEM 18 (FR) ]
+Magasin :
+Truce (Présent), etc.\0
+
+[@ITEM 19 (L1) ]
+\0
+
+[@ITEM 19 (EN) ]
+Chest:
+   #16 Ruins\0
+
+[@ITEM 19 (L2) ]
+\0
+
+[@ITEM 19 (FR) ]
+Coffre :
+Ruines n° 16\0
+
+[@ITEM 20 (L1) ]
+\0
+
+[@ITEM 20 (EN) ]
+Shops:
+   Truce, etc.
+Chest:
+   Factory Ruins\0
+
+[@ITEM 20 (L2) ]
+\0
+
+[@ITEM 20 (FR) ]
+Magasin :
+Truce (Présent), etc.
+Coffre :
+Usine désaffectée\0
+
+[@ITEM 21 (L1) ]
+\0
+
+[@ITEM 21 (EN) ]
+Trade:
+   Ioka Village Hut\0
+
+[@ITEM 21 (L2) ]
+\0
+
+[@ITEM 21 (FR) ]
+Troc :
+Tente d'Ioka\0
+
+[@ITEM 22 (L1) ]
+\0
+
+[@ITEM 22 (EN) ]
+Trade:
+   Ioka Village Hut
+Charm:
+   Rafflesia\0
+
+[@ITEM 22 (L2) ]
+\0
+
+[@ITEM 22 (FR) ]
+Troc :
+Tente d'Ioka
+Séduction :
+Rafflésie\0
+
+[@ITEM 23 (L1) ]
+\0
+
+[@ITEM 23 (EN) ]
+Shop:
+   Algetty\0
+
+[@ITEM 23 (L2) ]
+\0
+
+[@ITEM 23 (FR) ]
+Magasin :
+Alguetti\0
+
+[@ITEM 24 (L1) ]
+\0
+
+[@ITEM 24 (EN) ]
+Shop:
+   Surviving Village
+Chest:
+   Ocean Floor Temple Vimanam\0
+
+[@ITEM 24 (L2) ]
+\0
+
+[@ITEM 24 (FR) ]
+Magasin :
+Village des survivants
+Coffre :
+Sanctuaire sous-marin\0
+
+[@ITEM 25 (L1) ]
+\0
+
+[@ITEM 25 (EN) ]
+Sealed chest:
+   Northern Ruins
+   (Post-upgrade)\0
+
+[@ITEM 25 (L2) ]
+\0
+
+[@ITEM 25 (FR) ]
+Coffre scellé :
+Château en ruine
+(après avoir refusé de
+l'ouvrir dans le passé)\0
+
+[@ITEM 26 (L1) ]
+\0
+
+[@ITEM 26 (EN) ]
+Sealed chest:
+   Northern Ruins\0
+
+[@ITEM 26 (L2) ]
+\0
+
+[@ITEM 26 (FR) ]
+Coffre scellé :
+Château en ruine\0
+
+[@ITEM 27 (L1) ]
+\0
+
+[@ITEM 27 (EN) ]
+\0
+
+[@ITEM 27 (L2) ]
+\0
+
+[@ITEM 27 (FR) ]
+\0
+
+[@ITEM 28 (L1) ]
+\0
+
+[@ITEM 28 (EN) ]
+\0
+
+[@ITEM 28 (L2) ]
+\0
+
+[@ITEM 28 (FR) ]
+\0
+
+[@ITEM 29 (L1) ]
+\0
+
+[@ITEM 29 (EN) ]
+\0
+
+[@ITEM 29 (L2) ]
+\0
+
+[@ITEM 29 (FR) ]
+\0
+
+[@ITEM 30 (L1) ]
+\0
+
+[@ITEM 30 (EN) ]
+\0
+
+[@ITEM 30 (L2) ]
+\0
+
+[@ITEM 30 (FR) ]
+\0
+
+[@ITEM 31 (L1) ]
+\0
+
+[@ITEM 31 (EN) ]
+Starting equipment:
+   {Lucca}\0
+
+[@ITEM 31 (L2) ]
+\0
+
+[@ITEM 31 (FR) ]
+Équipement de base :
+Lucca\0
+
+[@ITEM 32 (L1) ]
+\0
+
+[@ITEM 32 (EN) ]
+Shops:
+   Truce, etc.\0
+
+[@ITEM 32 (L2) ]
+\0
+
+[@ITEM 32 (FR) ]
+Magasin :
+Truce (Moyen-Âge), etc.\0
+
+[@ITEM 33 (L1) ]
+\0
+
+[@ITEM 33 (EN) ]
+Shops:
+   Tran Dome, etc.\0
+
+[@ITEM 33 (L2) ]
+\0
+
+[@ITEM 33 (FR) ]
+Magasin :
+Dôme de Trann, etc.\0
+
+[@ITEM 34 (L1) ]
+\0
+
+[@ITEM 34 (EN) ]
+\0
+
+[@ITEM 34 (L2) ]
+\0
+
+[@ITEM 34 (FR) ]
+\0
+
+[@ITEM 35 (L1) ]
+\0
+
+[@ITEM 35 (EN) ]
+Shops:
+   Truce, etc.
+Chest:
+   Factory Ruins\0
+
+[@ITEM 35 (L2) ]
+\0
+
+[@ITEM 35 (FR) ]
+Magasin :
+Truce (Moyen-Âge), etc.
+Coffre :
+Usine désaffectée\0
+
+[@ITEM 36 (L1) ]
+\0
+
+[@ITEM 36 (EN) ]
+Trade:
+   Ioka Village Hut\0
+
+[@ITEM 36 (L2) ]
+\0
+
+[@ITEM 36 (FR) ]
+Troc :
+Tente d'Ioka\0
+
+[@ITEM 37 (L1) ]
+\0
+
+[@ITEM 37 (EN) ]
+Trade:
+   Ioka Village Hut
+Charm:
+   Aecyto Weevil\0
+
+[@ITEM 37 (L2) ]
+\0
+
+[@ITEM 37 (FR) ]
+Troc :
+Tente d'Ioka
+Séduction :
+Coprophage\0
+
+[@ITEM 38 (L1) ]
+\0
+
+[@ITEM 38 (EN) ]
+Shop:
+   Algetty\0
+
+[@ITEM 38 (L2) ]
+\0
+
+[@ITEM 38 (FR) ]
+Magasin :
+Alguetti\0
+
+[@ITEM 39 (L1) ]
+\0
+
+[@ITEM 39 (EN) ]
+Shop:
+   Surviving Village
+Chest:
+   Ocean Floor Temple Vimanam\0
+
+[@ITEM 39 (L2) ]
+\0
+
+[@ITEM 39 (FR) ]
+Magasin :
+Village des survivants
+Coffre :
+Sanctuaire sous-marin\0
+
+[@ITEM 40 (L1) ]
+\0
+
+[@ITEM 40 (EN) ]
+Event:
+   {Lucca}'s House\0
+
+[@ITEM 40 (L2) ]
+\0
+
+[@ITEM 40 (FR) ]
+Événement :
+Maison de Lucca\0
+
+[@ITEM 41 (L1) ]
+\0
+
+[@ITEM 41 (EN) ]
+\0
+
+[@ITEM 41 (L2) ]
+\0
+
+[@ITEM 41 (FR) ]
+\0
+
+[@ITEM 42 (L1) ]
+\0
+
+[@ITEM 42 (EN) ]
+\0
+
+[@ITEM 42 (L2) ]
+\0
+
+[@ITEM 42 (FR) ]
+\0
+
+[@ITEM 43 (L1) ]
+\0
+
+[@ITEM 43 (EN) ]
+\0
+
+[@ITEM 43 (L2) ]
+\0
+
+[@ITEM 43 (FR) ]
+\0
+
+[@ITEM 44 (L1) ]
+\0
+
+[@ITEM 44 (EN) ]
+\0
+
+[@ITEM 44 (L2) ]
+\0
+
+[@ITEM 44 (FR) ]
+\0
+
+[@ITEM 45 (L1) ]
+\0
+
+[@ITEM 45 (EN) ]
+\0
+
+[@ITEM 45 (L2) ]
+\0
+
+[@ITEM 45 (FR) ]
+\0
+
+[@ITEM 46 (L1) ]
+\0
+
+[@ITEM 46 (EN) ]
+Starting equipment:
+   {Robo}\0
+
+[@ITEM 46 (L2) ]
+\0
+
+[@ITEM 46 (FR) ]
+Équipement de base :
+RoBo\0
+
+[@ITEM 47 (L1) ]
+\0
+
+[@ITEM 47 (EN) ]
+Shops:
+   Bosch's Hut, etc.
+Chest:
+   Factory Ruins\0
+
+[@ITEM 47 (L2) ]
+\0
+
+[@ITEM 47 (FR) ]
+Magasin :
+Demeure de Bosch, etc.
+Coffre :
+Usine désaffectée\0
+
+[@ITEM 48 (L1) ]
+\0
+
+[@ITEM 48 (EN) ]
+Trade:
+   Denadoro Mountains\0
+
+[@ITEM 48 (L2) ]
+\0
+
+[@ITEM 48 (FR) ]
+Coffre :
+Monts Dénadoro\0
+
+[@ITEM 49 (L1) ]
+\0
+
+[@ITEM 49 (EN) ]
+Trade:
+   Ioka Village Hut\0
+
+[@ITEM 49 (L2) ]
+\0
+
+[@ITEM 49 (FR) ]
+Troc :
+Tente d'Ioka\0
+
+[@ITEM 50 (L1) ]
+\0
+
+[@ITEM 50 (EN) ]
+Chest:
+   Magus Castle\0
+
+[@ITEM 50 (L2) ]
+\0
+
+[@ITEM 50 (FR) ]
+Coffre :
+Palais du Magistère\0
+
+[@ITEM 51 (L1) ]
+\0
+
+[@ITEM 51 (EN) ]
+Trade:
+   Ioka Village Hut
+Charm:
+   Dinoman\0
+
+[@ITEM 51 (L2) ]
+\0
+
+[@ITEM 51 (FR) ]
+Troc :
+Tente d'Ioka
+Séduction :
+Saurien\0
+
+[@ITEM 52 (L1) ]
+\0
+
+[@ITEM 52 (EN) ]
+Shop:
+   Algetty\0
+
+[@ITEM 52 (L2) ]
+\0
+
+[@ITEM 52 (FR) ]
+Magasin :
+Alguetti\0
+
+[@ITEM 53 (L1) ]
+\0
+
+[@ITEM 53 (EN) ]
+Shop:
+   Kajarl
+Charm:
+   Monk Gargoyle\0
+
+[@ITEM 53 (L2) ]
+\0
+
+[@ITEM 53 (FR) ]
+Magasin :
+Kajar
+Séduction :
+Gargouille\0
+
+[@ITEM 54 (L1) ]
+\0
+
+[@ITEM 54 (EN) ]
+Shop:
+   Surviving Village
+Chest:
+   Ocean Floor Temple Vimanam\0
+
+[@ITEM 54 (L2) ]
+\0
+
+[@ITEM 54 (FR) ]
+Magasin :
+Village des survivants
+Coffre :
+Sanctuaire sous-marin\0
+
+[@ITEM 55 (L1) ]
+\0
+
+[@ITEM 55 (EN) ]
+Chest:
+   Death Mountain\0
+
+[@ITEM 55 (L2) ]
+\0
+
+[@ITEM 55 (FR) ]
+Coffre :
+Mont des défunts\0
+
+[@ITEM 56 (L1) ]
+\0
+
+[@ITEM 56 (EN) ]
+Event:
+   Genocidome\0
+
+[@ITEM 56 (L2) ]
+\0
+
+[@ITEM 56 (FR) ]
+Événement :
+Dôme de Génos\0
+
+[@ITEM 57 (L1) ]
+\0
+
+[@ITEM 57 (EN) ]
+Event:
+   Genocidome\0
+
+[@ITEM 57 (L2) ]
+\0
+
+[@ITEM 57 (FR) ]
+Événement :
+Dôme de Génos\0
+
+[@ITEM 58 (L1) ]
+\0
+
+[@ITEM 58 (EN) ]
+\0
+
+[@ITEM 58 (L2) ]
+\0
+
+[@ITEM 58 (FR) ]
+\0
+
+[@ITEM 59 (L1) ]
+\0
+
+[@ITEM 59 (EN) ]
+Starting equipment:
+   {Frog}\0
+
+[@ITEM 59 (L2) ]
+\0
+
+[@ITEM 59 (FR) ]
+Équipement de base :
+{Frog}\0
+
+[@ITEM 60 (L1) ]
+\0
+
+[@ITEM 60 (EN) ]
+Manoria Abbey\0
+
+[@ITEM 60 (L2) ]
+\0
+
+[@ITEM 60 (FR) ]
+Coffre :
+Abbaye de Manolia\0
+
+[@ITEM 61 (L1) ]
+\0
+
+[@ITEM 61 (EN) ]
+Event:
+   Demon Cavern\0
+
+[@ITEM 61 (L2) ]
+\0
+
+[@ITEM 61 (FR) ]
+Événement :
+Grotte des mystiques\0
+
+[@ITEM 62 (L1) ]
+\0
+
+[@ITEM 62 (EN) ]
+Shop:
+   Algetty\0
+
+[@ITEM 62 (L2) ]
+\0
+
+[@ITEM 62 (FR) ]
+Magasin :
+Alguetti\0
+
+[@ITEM 63 (L1) ]
+\0
+
+[@ITEM 63 (EN) ]
+Chest:
+   Ocean Floor Temple Vimanam
+Shop:
+   Kajarl\0
+
+[@ITEM 63 (L2) ]
+\0
+
+[@ITEM 63 (FR) ]
+Coffre :
+Sanctuaire sous-marin
+Magasin :
+Kajar\0
+
+[@ITEM 64 (L1) ]
+\0
+
+[@ITEM 64 (EN) ]
+Shop:
+   Surviving Village
+Chest:
+   Ocean Floor Temple Vimanam\0
+
+[@ITEM 64 (L2) ]
+\0
+
+[@ITEM 64 (FR) ]
+Magasin :
+Village des survivants
+Coffre :
+Sanctuaire sous-marin\0
+
+[@ITEM 65 (L1) ]
+\0
+
+[@ITEM 65 (EN) ]
+Chest:
+   Death Mountain\0
+
+[@ITEM 65 (L2) ]
+\0
+
+[@ITEM 65 (FR) ]
+Coffre :
+Mont des défunts\0
+
+[@ITEM 66 (L1) ]
+\0
+
+[@ITEM 66 (EN) ]
+Event:
+   Northern Ruins\0
+
+[@ITEM 66 (L2) ]
+\0
+
+[@ITEM 66 (FR) ]
+Événement :
+Château en ruine\0
+
+[@ITEM 67 (L1) ]
+\0
+
+[@ITEM 67 (EN) ]
+Chest:
+   Ocean Floor Temple Vimanam\0
+
+[@ITEM 67 (L2) ]
+\0
+
+[@ITEM 67 (FR) ]
+Coffre :
+Sanctuaire sous-marin\0
+
+[@ITEM 68 (L1) ]
+\0
+
+[@ITEM 68 (EN) ]
+{Ayla}:
+   LV 1-23\0
+
+[@ITEM 68 (L2) ]
+\0
+
+[@ITEM 68 (FR) ]
+Niveaux 1 à 23 :
+Ayla\0
+
+[@ITEM 69 (L1) ]
+\0
+
+[@ITEM 69 (EN) ]
+{Ayla}:
+   LV 24-47\0
+
+[@ITEM 69 (L2) ]
+\0
+
+[@ITEM 69 (FR) ]
+Niveaux 24 à 47 :
+Ayla\0
+
+[@ITEM 70 (L1) ]
+\0
+
+[@ITEM 70 (EN) ]
+{Ayla}:
+   LV 48-71\0
+
+[@ITEM 70 (L2) ]
+\0
+
+[@ITEM 70 (FR) ]
+Niveaux 48 à 71 :
+Ayla\0
+
+[@ITEM 71 (L1) ]
+\0
+
+[@ITEM 71 (EN) ]
+{Ayla}:
+   LV 72-95\0
+
+[@ITEM 71 (L2) ]
+\0
+
+[@ITEM 71 (FR) ]
+Niveaux 72 à 95 :
+Ayla\0
+
+[@ITEM 72 (L1) ]
+\0
+
+[@ITEM 72 (EN) ]
+{Ayla}:
+   LV 96+\0
+
+[@ITEM 72 (L2) ]
+\0
+
+[@ITEM 72 (FR) ]
+Niveaux 96 et plus :
+Ayla\0
+
+[@ITEM 73 (L1) ]
+\0
+
+[@ITEM 73 (EN) ]
+\0
+
+[@ITEM 73 (L2) ]
+\0
+
+[@ITEM 73 (FR) ]
+\0
+
+[@ITEM 74 (L1) ]
+\0
+
+[@ITEM 74 (EN) ]
+\0
+
+[@ITEM 74 (L2) ]
+\0
+
+[@ITEM 74 (FR) ]
+\0
+
+[@ITEM 75 (L1) ]
+\0
+
+[@ITEM 75 (EN) ]
+Starting equipment:
+   {Magus}\0
+
+[@ITEM 75 (L2) ]
+\0
+
+[@ITEM 75 (FR) ]
+Équipement de base :
+Magus\0
+
+[@ITEM 76 (L1) ]
+\0
+
+[@ITEM 76 (EN) ]
+Shop:
+   Surviving Village\0
+
+[@ITEM 76 (L2) ]
+\0
+
+[@ITEM 76 (FR) ]
+Magasin :
+Village des survivants\0
+
+[@ITEM 77 (L1) ]
+\0
+
+[@ITEM 77 (EN) ]
+Chest:
+   Death Mountain\0
+
+[@ITEM 77 (L2) ]
+\0
+
+[@ITEM 77 (FR) ]
+Coffre :
+Mont des défunts\0
+
+[@ITEM 78 (L1) ]
+\0
+
+[@ITEM 78 (EN) ]
+Chest:
+   Vinnegar's Manor\0
+
+[@ITEM 78 (L2) ]
+\0
+
+[@ITEM 78 (FR) ]
+Coffre :
+Manoir de Vinnie\0
+
+[@ITEM 79 (L1) ]
+\0
+
+[@ITEM 79 (EN) ]
+Charm:
+   Nu\0
+
+[@ITEM 79 (L2) ]
+\0
+
+[@ITEM 79 (FR) ]
+Séduction :
+Gnu\0
+
+[@ITEM 80 (L1) ]
+\0
+
+[@ITEM 80 (EN) ]
+Event:
+   Denadoro Mountains\0
+
+[@ITEM 80 (L2) ]
+\0
+
+[@ITEM 80 (FR) ]
+Événement :
+Monts Dénadoro\0
+
+[@ITEM 81 (L1) ]
+\0
+
+[@ITEM 81 (EN) ]
+Event:
+   Frog Monster's Woods\0
+
+[@ITEM 81 (L2) ]
+\0
+
+[@ITEM 81 (FR) ]
+Événement :
+Forêt aux grenouilles\0
+
+[@ITEM 82 (L1) ]
+\0
+
+[@ITEM 82 (EN) ]
+Event:
+   Bosch's Hut\0
+
+[@ITEM 82 (L2) ]
+\0
+
+[@ITEM 82 (FR) ]
+Événement :
+Demeure de Bosch\0
+
+[@ITEM 83 (L1) ]
+\0
+
+[@ITEM 83 (EN) ]
+Event:
+   Northern Forest Historic Ruins\0
+
+[@ITEM 83 (L2) ]
+\0
+
+[@ITEM 83 (FR) ]
+Événement :
+Ruines sylvestres\0
+
+[@ITEM 84 (L1) ]
+\0
+
+[@ITEM 84 (EN) ]
+Charm: Super Soysaw\0
+
+[@ITEM 84 (L2) ]
+\0
+
+[@ITEM 84 (FR) ]
+Séduction :
+Super Soja\0
+
+[@ITEM 85 (L1) ]
+\0
+
+[@ITEM 85 (EN) ]
+Event:
+   Guardia Castle
+   (Present)\0
+
+[@ITEM 85 (L2) ]
+\0
+
+[@ITEM 85 (FR) ]
+Événement :
+Château de Gardia
+(Présent)\0
+
+[@ITEM 86 (L1) ]
+\0
+
+[@ITEM 86 (EN) ]
+Dummy\0
+
+[@ITEM 86 (L2) ]
+\0
+
+[@ITEM 86 (FR) ]
+Factice\0
+
+[@ITEM 87 (L1) ]
+\0
+
+[@ITEM 87 (EN) ]
+Dummy\0
+
+[@ITEM 87 (L2) ]
+\0
+
+[@ITEM 87 (FR) ]
+Factice\0
+
+[@ITEM 88 (L1) ]
+\0
+
+[@ITEM 88 (EN) ]
+Dummy\0
+
+[@ITEM 88 (L2) ]
+\0
+
+[@ITEM 88 (FR) ]
+Factice\0
+
+[@ITEM 89 (L1) ]
+\0
+
+[@ITEM 89 (EN) ]
+Dummy\0
+
+[@ITEM 89 (L2) ]
+\0
+
+[@ITEM 89 (FR) ]
+Factice\0
+
+[@ITEM 90 (L1) ]
+\0
+
+[@ITEM 90 (EN) ]
+Event:
+   Lost Sanctum\0
+
+[@ITEM 90 (L2) ]
+\0
+
+[@ITEM 90 (FR) ]
+Événement :
+Sanctuaire oublié\0
+
+[@ITEM 91 (L1) ]
+\0
+
+[@ITEM 91 (EN) ]
+Chest:
+   Lost Sanctum\0
+
+[@ITEM 91 (L2) ]
+\0
+
+[@ITEM 91 (FR) ]
+Coffre :
+Sanctuaire oublié\0
+
+[@ITEM 92 (L1) ]
+\0
+
+[@ITEM 92 (EN) ]
+Chest:
+   Lost Sanctum\0
+
+[@ITEM 92 (L2) ]
+\0
+
+[@ITEM 92 (FR) ]
+Coffre :
+Sanctuaire oublié\0
+
+[@ITEM 93 (L1) ]
+\0
+
+[@ITEM 93 (EN) ]
+Chest:
+   Lost Sanctum\0
+
+[@ITEM 93 (L2) ]
+\0
+
+[@ITEM 93 (FR) ]
+Coffre :
+Sanctuaire oublié\0
+
+[@ITEM 94 (L1) ]
+\0
+
+[@ITEM 94 (EN) ]
+Event:
+   Lost Sanctum\0
+
+[@ITEM 94 (L2) ]
+\0
+
+[@ITEM 94 (FR) ]
+Événement :
+Sanctuaire oublié\0
+
+[@ITEM 95 (L1) ]
+\0
+
+[@ITEM 95 (EN) ]
+Event:
+   Lost Sanctum\0
+
+[@ITEM 95 (L2) ]
+\0
+
+[@ITEM 95 (FR) ]
+Événement :
+Sanctuaire oublié\0
+
+[@ITEM 96 (L1) ]
+\0
+
+[@ITEM 96 (EN) ]
+Completion bonus:
+   Time's Eclipse\0
+
+[@ITEM 96 (L2) ]
+\0
+
+[@ITEM 96 (FR) ]
+Événement :
+Ténèbres du temps\0
+
+[@ITEM 97 (L1) ]
+\0
+
+[@ITEM 97 (EN) ]
+Chest:
+   Dimensional Vortex\0
+
+[@ITEM 97 (L2) ]
+\0
+
+[@ITEM 97 (FR) ]
+Coffre :
+Vortex dimensionnel\0
+
+[@ITEM 98 (L1) ]
+\0
+
+[@ITEM 98 (EN) ]
+Chest:
+   Dimensional Vortex\0
+
+[@ITEM 98 (L2) ]
+\0
+
+[@ITEM 98 (FR) ]
+Coffre :
+Vortex dimensionnel\0
+
+[@ITEM 99 (L1) ]
+\0
+
+[@ITEM 99 (EN) ]
+Chest:
+   Dimensional Vortex\0
+
+[@ITEM 99 (L2) ]
+\0
+
+[@ITEM 99 (FR) ]
+Coffre :
+Vortex dimensionnel\0
+
+[@ITEM 100 (L1) ]
+\0
+
+[@ITEM 100 (EN) ]
+Chest:
+   Dimensional Vortex\0
+
+[@ITEM 100 (L2) ]
+\0
+
+[@ITEM 100 (FR) ]
+Coffre :
+Vortex dimensionnel\0
+
+[@ITEM 101 (L1) ]
+\0
+
+[@ITEM 101 (EN) ]
+Dummy\0
+
+[@ITEM 101 (L2) ]
+\0
+
+[@ITEM 101 (FR) ]
+Factice\0
+
+[@ITEM 102 (L1) ]
+\0
+
+[@ITEM 102 (EN) ]
+Dummy\0
+
+[@ITEM 102 (L2) ]
+\0
+
+[@ITEM 102 (FR) ]
+Factice\0
+
+[@ITEM 103 (L1) ]
+\0
+
+[@ITEM 103 (EN) ]
+Dummy\0
+
+[@ITEM 103 (L2) ]
+\0
+
+[@ITEM 103 (FR) ]
+Factice\0
+
+[@ITEM 104 (L1) ]
+\0
+
+[@ITEM 104 (EN) ]
+Dummy\0
+
+[@ITEM 104 (L2) ]
+\0
+
+[@ITEM 104 (FR) ]
+Factice\0
+
+[@ITEM 105 (L1) ]
+\0
+
+[@ITEM 105 (EN) ]
+Dummy\0
+
+[@ITEM 105 (L2) ]
+\0
+
+[@ITEM 105 (FR) ]
+Factice\0
+
+[@ITEM 106 (L1) ]
+\0
+
+[@ITEM 106 (EN) ]
+Dummy\0
+
+[@ITEM 106 (L2) ]
+\0
+
+[@ITEM 106 (FR) ]
+Factice\0
+
+[@ITEM 107 (L1) ]
+\0
+
+[@ITEM 107 (EN) ]
+Dummy\0
+
+[@ITEM 107 (L2) ]
+\0
+
+[@ITEM 107 (FR) ]
+Factice\0
+
+[@ITEM 108 (L1) ]
+\0
+
+[@ITEM 108 (EN) ]
+Dummy\0
+
+[@ITEM 108 (L2) ]
+\0
+
+[@ITEM 108 (FR) ]
+Factice\0
+
+[@ITEM 109 (L1) ]
+\0
+
+[@ITEM 109 (EN) ]
+Dummy\0
+
+[@ITEM 109 (L2) ]
+\0
+
+[@ITEM 109 (FR) ]
+Factice\0
+
+[@ITEM 110 (L1) ]
+\0
+
+[@ITEM 110 (EN) ]
+Dummy\0
+
+[@ITEM 110 (L2) ]
+\0
+
+[@ITEM 110 (FR) ]
+Factice\0
+
+[@ITEM 111 (L1) ]
+\0
+
+[@ITEM 111 (EN) ]
+\0
+
+[@ITEM 111 (L2) ]
+\0
+
+[@ITEM 111 (FR) ]
+\0
+
+[@ITEM 112 (L1) ]
+\0
+
+[@ITEM 112 (EN) ]
+Starting equipment:
+   {Crono}
+   {Marle}\0
+
+[@ITEM 112 (L2) ]
+\0
+
+[@ITEM 112 (FR) ]
+Équipement de base :
+Chrono
+Marle\0
+
+[@ITEM 113 (L1) ]
+\0
+
+[@ITEM 113 (EN) ]
+Starting equipment:
+   {Lucca}
+Shops:
+   Truce, etc.\0
+
+[@ITEM 113 (L2) ]
+\0
+
+[@ITEM 113 (FR) ]
+Équipement de base :
+Lucca
+Magasin :
+Truce (Moyen-Âge), etc.\0
+
+[@ITEM 114 (L1) ]
+\0
+
+[@ITEM 114 (EN) ]
+Starting equipment:
+   {Frog}
+Shops:
+   Porre, etc.
+Chests:
+   Guardia Jail, etc.\0
+
+[@ITEM 114 (L2) ]
+\0
+
+[@ITEM 114 (FR) ]
+Équipement de base :
+Gren
+Magasin :
+Palpori (Présent), etc.
+Coffre :
+Prison, etc.\0
+
+[@ITEM 115 (L1) ]
+\0
+
+[@ITEM 115 (EN) ]
+Shop:
+   Truce
+Chest:
+   Manoria Abbey\0
+
+[@ITEM 115 (L2) ]
+\0
+
+[@ITEM 115 (FR) ]
+Magasin :
+Truce (Présent)
+Coffre :
+Abbaye de Manolia\0
+
+[@ITEM 116 (L1) ]
+\0
+
+[@ITEM 116 (EN) ]
+Shops:
+   Tran Dome, etc.\0
+
+[@ITEM 116 (L2) ]
+\0
+
+[@ITEM 116 (FR) ]
+Magasin :
+Dôme de Trann, etc.\0
+
+[@ITEM 117 (L1) ]
+\0
+
+[@ITEM 117 (EN) ]
+Starting equipment:
+   {Robo}
+Shops:
+   Truce, etc.
+Chest:
+   Factory Ruins\0
+
+[@ITEM 117 (L2) ]
+\0
+
+[@ITEM 117 (FR) ]
+Équipement de base :
+RoBo
+Magasin :
+Truce (Présent), etc.
+Coffre :
+Usine désaffectée\0
+
+[@ITEM 118 (L1) ]
+\0
+
+[@ITEM 118 (EN) ]
+Shops:
+   Porre, etc.
+Chest:
+   Denadoro Mountains\0
+
+[@ITEM 118 (L2) ]
+\0
+
+[@ITEM 118 (FR) ]
+Magasin :
+Palpori (Moyen-Âge), etc.
+Coffre :
+Monts Dénadoro\0
+
+[@ITEM 119 (L1) ]
+\0
+
+[@ITEM 119 (EN) ]
+Starting equipment:
+   {Ayla}
+Trade:
+   Ioka Village Hut
+Chest:
+   Dinomen Hideout\0
+
+[@ITEM 119 (L2) ]
+\0
+
+[@ITEM 119 (FR) ]
+Équipement de base :
+Ayla
+Troc :
+Tente d'Ioka
+Coffre :
+Antre des sauriens\0
+
+[@ITEM 120 (L1) ]
+\0
+
+[@ITEM 120 (EN) ]
+Chest:
+   Magus Castle\0
+
+[@ITEM 120 (L2) ]
+\0
+
+[@ITEM 120 (FR) ]
+Coffre :
+Palais du Magistère\0
+
+[@ITEM 121 (L1) ]
+\0
+
+[@ITEM 121 (EN) ]
+Chest:
+   Magus Castle\0
+
+[@ITEM 121 (L2) ]
+\0
+
+[@ITEM 121 (FR) ]
+Coffre :
+Palais du Magistère\0
+
+[@ITEM 122 (L1) ]
+\0
+
+[@ITEM 122 (EN) ]
+Chests:
+   Pteran Nest, etc.\0
+
+[@ITEM 122 (L2) ]
+\0
+
+[@ITEM 122 (FR) ]
+Coffre :
+Nid des ptéranodons, etc.\0
+
+[@ITEM 123 (L1) ]
+\0
+
+[@ITEM 123 (EN) ]
+Shops:
+   Medina, etc.
+Sealed chest:
+   Aris Dome\0
+
+[@ITEM 123 (L2) ]
+\0
+
+[@ITEM 123 (FR) ]
+Magasin :
+Médina, etc.
+Coffre scellé :
+Dôme d'Arris\0
+
+[@ITEM 124 (L1) ]
+\0
+
+[@ITEM 124 (EN) ]
+Shops:
+   Algetty, etc.\0
+
+[@ITEM 124 (L2) ]
+\0
+
+[@ITEM 124 (FR) ]
+Magasin :
+Alguetti, etc.\0
+
+[@ITEM 125 (L1) ]
+\0
+
+[@ITEM 125 (EN) ]
+Shop:
+   Kajarl
+Chest:
+   Grief Mountain\0
+
+[@ITEM 125 (L2) ]
+\0
+
+[@ITEM 125 (FR) ]
+Magasin :
+Kajar
+Coffre :
+Mont du tourment\0
+
+[@ITEM 126 (L1) ]
+\0
+
+[@ITEM 126 (EN) ]
+Shop:
+   Surviving Village
+Chests:
+   Ocean Floor Temple Vimanam, etc.\0
+
+[@ITEM 126 (L2) ]
+\0
+
+[@ITEM 126 (FR) ]
+Magasin :
+Village des survivants
+Coffre :
+Sanctuaire
+sous-marin, etc.\0
+
+[@ITEM 127 (L1) ]
+\0
+
+[@ITEM 127 (EN) ]
+Chests:
+   Black Dream, etc.\0
+
+[@ITEM 127 (L2) ]
+\0
+
+[@ITEM 127 (FR) ]
+Coffre :
+Songe obscur, etc.\0
+
+[@ITEM 128 (L1) ]
+\0
+
+[@ITEM 128 (EN) ]
+Chest:
+   Black Dream, etc.
+Sealed chest:
+   Northern Ruins
+Event:
+   Lost Sanctum
+Charm:
+   Fangbeast\0
+
+[@ITEM 128 (L2) ]
+\0
+
+[@ITEM 128 (FR) ]
+Coffre :
+Songe obscur, etc.
+Coffre scellé :
+Château en ruine
+Événement :
+Sanctuaire oublié
+Séduction :
+Dodu\0
+
+[@ITEM 129 (L1) ]
+\0
+
+[@ITEM 129 (EN) ]
+Event:
+   Guardia Castle
+   (Present)
+Charm:
+   Zeal (Right Hand)\0
+
+[@ITEM 129 (L2) ]
+\0
+
+[@ITEM 129 (FR) ]
+Événement :
+Château de Gardia
+(Présent)
+Séduction :
+Zhyle (bras droit)\0
+
+[@ITEM 130 (L1) ]
+\0
+
+[@ITEM 130 (EN) ]
+Sealed chest:
+   Northern Ruins
+   (Post-upgrade)\0
+
+[@ITEM 130 (L2) ]
+\0
+
+[@ITEM 130 (FR) ]
+Coffre scellé :
+Château en ruine
+(après avoir refusé de
+l'ouvrir dans le passé)\0
+
+[@ITEM 131 (L1) ]
+\0
+
+[@ITEM 131 (EN) ]
+Trade:
+   Ioka Village Hut\0
+
+[@ITEM 131 (L2) ]
+\0
+
+[@ITEM 131 (FR) ]
+Troc :
+Tente d'Ioka\0
+
+[@ITEM 132 (L1) ]
+\0
+
+[@ITEM 132 (EN) ]
+Starting equipment:
+   {Magus}\0
+
+[@ITEM 132 (L2) ]
+\0
+
+[@ITEM 132 (FR) ]
+Équipement de base :
+Magus\0
+
+[@ITEM 133 (L1) ]
+\0
+
+[@ITEM 133 (EN) ]
+Chest:
+   Vinnegar's Manor\0
+
+[@ITEM 133 (L2) ]
+\0
+
+[@ITEM 133 (FR) ]
+Coffre :
+Manoir de Vinnie\0
+
+[@ITEM 134 (L1) ]
+\0
+
+[@ITEM 134 (EN) ]
+Sealed chest:
+   Mayor's Manor
+   (Post-upgrade)
+Charm:
+   Yakra the 13th\0
+
+[@ITEM 134 (L2) ]
+\0
+
+[@ITEM 134 (FR) ]
+Coffre scellé :
+Résidence du maire
+(après avoir refusé de
+l'ouvrir dans le passé)
+Séduction :
+Yakra XIII\0
+
+[@ITEM 135 (L1) ]
+\0
+
+[@ITEM 135 (EN) ]
+Sealed chest:
+   Mayor's Manor
+   (Post-upgrade)
+Charm:
+   Son of the Sun\0
+
+[@ITEM 135 (L2) ]
+\0
+
+[@ITEM 135 (FR) ]
+Coffre scellé :
+Résidence du maire
+(après avoir refusé de
+l'ouvrir dans le passé)
+Séduction :
+Fils du soleil\0
+
+[@ITEM 136 (L1) ]
+\0
+
+[@ITEM 136 (EN) ]
+Sealed chest:
+   Truce Town Inn
+   (Post-upgrade)
+Charm:
+   Mother Brain\0
+
+[@ITEM 136 (L2) ]
+\0
+
+[@ITEM 136 (FR) ]
+Coffre scellé :
+Auberge de Truce
+(Présent)
+(après avoir refusé de
+l'ouvrir dans le passé)
+Séduction :
+Cerveau mère\0
+
+[@ITEM 137 (L1) ]
+\0
+
+[@ITEM 137 (EN) ]
+Sealed chest:
+   Guardia Castle
+   (Present,
+   Post-upgrade)
+Charm:
+   Rust Tyrano\0
+
+[@ITEM 137 (L2) ]
+\0
+
+[@ITEM 137 (FR) ]
+Coffre scellé :
+Château de Gardia
+(Présent)
+(après avoir refusé de
+l'ouvrir dans le passé)
+Séduction :
+Tyrannosaure noir\0
+
+[@ITEM 138 (L1) ]
+\0
+
+[@ITEM 138 (EN) ]
+Sealed chests:
+   Porre Chief's House
+   Mayor's Manor\0
+
+[@ITEM 138 (L2) ]
+\0
+
+[@ITEM 138 (FR) ]
+Coffre scellé :
+Maison du maire de Palpori
+Résidence du maire\0
+
+[@ITEM 139 (L1) ]
+\0
+
+[@ITEM 139 (EN) ]
+Sealed chests:
+   Porre Chief's House
+   Mayor's Manor\0
+
+[@ITEM 139 (L2) ]
+\0
+
+[@ITEM 139 (FR) ]
+Coffre scellé :
+Maison du maire de Palpori
+Résidence du maire\0
+
+[@ITEM 140 (L1) ]
+\0
+
+[@ITEM 140 (EN) ]
+Sealed chest:
+   Truce Village Inn\0
+
+[@ITEM 140 (L2) ]
+\0
+
+[@ITEM 140 (FR) ]
+Coffre scellé :
+Auberge de Truce\0
+
+[@ITEM 141 (L1) ]
+\0
+
+[@ITEM 141 (EN) ]
+Sealed chest:
+   Guardia Castle\0
+
+[@ITEM 141 (L2) ]
+\0
+
+[@ITEM 141 (FR) ]
+Coffre scellé :
+Château de Gardia\0
+
+[@ITEM 142 (L1) ]
+\0
+
+[@ITEM 142 (EN) ]
+Event:
+   {Lucca}'s House\0
+
+[@ITEM 142 (L2) ]
+\0
+
+[@ITEM 142 (FR) ]
+Événement :
+Maison de Lucca\0
+
+[@ITEM 143 (L1) ]
+\0
+
+[@ITEM 143 (EN) ]
+Event:
+   {Lucca}'s House\0
+
+[@ITEM 143 (L2) ]
+\0
+
+[@ITEM 143 (FR) ]
+Événement :
+Maison de Lucca\0
+
+[@ITEM 144 (L1) ]
+\0
+
+[@ITEM 144 (EN) ]
+Shop:
+   Lost Sanctum
+Chest:
+   Lost Sanctum\0
+
+[@ITEM 144 (L2) ]
+\0
+
+[@ITEM 144 (FR) ]
+Magasin :
+Sanctuaire oublié
+Coffre :
+Sanctuaire oublié\0
+
+[@ITEM 145 (L1) ]
+\0
+
+[@ITEM 145 (EN) ]
+Shop:
+   Lost Sanctum
+Chest:
+   Lost Sanctum\0
+
+[@ITEM 145 (L2) ]
+\0
+
+[@ITEM 145 (FR) ]
+Magasin :
+Sanctuaire oublié
+Coffre :
+Sanctuaire oublié\0
+
+[@ITEM 146 (L1) ]
+\0
+
+[@ITEM 146 (EN) ]
+Event:
+   Lost Sanctum\0
+
+[@ITEM 146 (L2) ]
+\0
+
+[@ITEM 146 (FR) ]
+Événement :
+Sanctuaire oublié\0
+
+[@ITEM 147 (L1) ]
+\0
+
+[@ITEM 147 (EN) ]
+Chest:
+   Dimensional Vortex\0
+
+[@ITEM 147 (L2) ]
+\0
+
+[@ITEM 147 (FR) ]
+Coffre :
+Vortex dimensionnel\0
+
+[@ITEM 148 (L1) ]
+\0
+
+[@ITEM 148 (EN) ]
+Chest:
+   Dimensional Vortex\0
+
+[@ITEM 148 (L2) ]
+\0
+
+[@ITEM 148 (FR) ]
+Coffre :
+Vortex dimensionnel\0
+
+[@ITEM 149 (L1) ]
+\0
+
+[@ITEM 149 (EN) ]
+Event:
+   Lost Sanctum\0
+
+[@ITEM 149 (L2) ]
+\0
+
+[@ITEM 149 (FR) ]
+Événement :
+Sanctuaire oublié\0
+
+[@ITEM 150 (L1) ]
+\0
+
+[@ITEM 150 (EN) ]
+Chest:
+   Dimensional Vortex\0
+
+[@ITEM 150 (L2) ]
+\0
+
+[@ITEM 150 (FR) ]
+Coffre :
+Vortex dimensionnel\0
+
+[@ITEM 151 (L1) ]
+\0
+
+[@ITEM 151 (EN) ]
+Dummy\0
+
+[@ITEM 151 (L2) ]
+\0
+
+[@ITEM 151 (FR) ]
+Factice\0
+
+[@ITEM 152 (L1) ]
+\0
+
+[@ITEM 152 (EN) ]
+Dummy\0
+
+[@ITEM 152 (L2) ]
+\0
+
+[@ITEM 152 (FR) ]
+Factice\0
+
+[@ITEM 153 (L1) ]
+\0
+
+[@ITEM 153 (EN) ]
+Dummy\0
+
+[@ITEM 153 (L2) ]
+\0
+
+[@ITEM 153 (FR) ]
+Factice\0
+
+[@ITEM 154 (L1) ]
+\0
+
+[@ITEM 154 (EN) ]
+Dummy\0
+
+[@ITEM 154 (L2) ]
+\0
+
+[@ITEM 154 (FR) ]
+Factice\0
+
+[@ITEM 155 (L1) ]
+\0
+
+[@ITEM 155 (EN) ]
+Dummy\0
+
+[@ITEM 155 (L2) ]
+\0
+
+[@ITEM 155 (FR) ]
+Factice\0
+
+[@ITEM 156 (L1) ]
+\0
+
+[@ITEM 156 (EN) ]
+Dummy\0
+
+[@ITEM 156 (L2) ]
+\0
+
+[@ITEM 156 (FR) ]
+Factice\0
+
+[@ITEM 157 (L1) ]
+\0
+
+[@ITEM 157 (EN) ]
+Dummy\0
+
+[@ITEM 157 (L2) ]
+\0
+
+[@ITEM 157 (FR) ]
+Factice\0
+
+[@ITEM 158 (L1) ]
+\0
+
+[@ITEM 158 (EN) ]
+Dummy\0
+
+[@ITEM 158 (L2) ]
+\0
+
+[@ITEM 158 (FR) ]
+Factice\0
+
+[@ITEM 159 (L1) ]
+\0
+
+[@ITEM 159 (EN) ]
+Dummy\0
+
+[@ITEM 159 (L2) ]
+\0
+
+[@ITEM 159 (FR) ]
+Factice\0
+
+[@ITEM 160 (L1) ]
+\0
+
+[@ITEM 160 (EN) ]
+Dummy\0
+
+[@ITEM 160 (L2) ]
+\0
+
+[@ITEM 160 (FR) ]
+Factice\0
+
+[@ITEM 161 (L1) ]
+\0
+
+[@ITEM 161 (EN) ]
+\0
+
+[@ITEM 161 (L2) ]
+\0
+
+[@ITEM 161 (FR) ]
+\0
+
+[@ITEM 162 (L1) ]
+\0
+
+[@ITEM 162 (EN) ]
+Starting equipment:
+   {Crono}
+   {Marle}
+   {Lucca}\0
+
+[@ITEM 162 (L2) ]
+\0
+
+[@ITEM 162 (FR) ]
+Équipement de base :
+Chrono
+Marle
+Lucca\0
+
+[@ITEM 163 (L1) ]
+\0
+
+[@ITEM 163 (EN) ]
+Starting equipment:
+   {Frog}
+Shops:
+   Leene Square, etc.\0
+
+[@ITEM 163 (L2) ]
+\0
+
+[@ITEM 163 (FR) ]
+Équipement de base :
+Gren
+Magasin :
+Place de Lynne, etc.\0
+
+[@ITEM 164 (L1) ]
+\0
+
+[@ITEM 164 (EN) ]
+Shops:
+   Tran Dome, etc.\0
+
+[@ITEM 164 (L2) ]
+\0
+
+[@ITEM 164 (FR) ]
+Magasin :
+Dôme de Trann, etc.\0
+
+[@ITEM 165 (L1) ]
+\0
+
+[@ITEM 165 (EN) ]
+Shop:
+   Porre\0
+
+[@ITEM 165 (L2) ]
+\0
+
+[@ITEM 165 (FR) ]
+Magasin :
+Palpori (Moyen-Âge)\0
+
+[@ITEM 166 (L1) ]
+\0
+
+[@ITEM 166 (EN) ]
+Event:
+   Zenan Bridge
+   (Middle Ages)
+Chest:
+   Denadoro Mountains\0
+
+[@ITEM 166 (L2) ]
+\0
+
+[@ITEM 166 (FR) ]
+Événement :
+Pont de Zénan
+(Moyen-Âge)
+Coffre :
+Monts Dénadoro\0
+
+[@ITEM 167 (L1) ]
+\0
+
+[@ITEM 167 (EN) ]
+Starting equipment:
+   {Ayla}
+Trade:
+   Ioka Village Hut
+Chest:
+   Dinomen Hideout\0
+
+[@ITEM 167 (L2) ]
+\0
+
+[@ITEM 167 (FR) ]
+Équipement de base :
+Ayla
+Troc :
+Tente d'Ioka
+Coffre :
+Antre des sauriens\0
+
+[@ITEM 168 (L1) ]
+\0
+
+[@ITEM 168 (EN) ]
+Chest:
+   Tyran Castle\0
+
+[@ITEM 168 (L2) ]
+\0
+
+[@ITEM 168 (FR) ]
+Coffre :
+Fort Tyrannos\0
+
+[@ITEM 169 (L1) ]
+\0
+
+[@ITEM 169 (EN) ]
+Shops:
+   Algetty, etc.\0
+
+[@ITEM 169 (L2) ]
+\0
+
+[@ITEM 169 (FR) ]
+Magasin :
+Alguetti, etc.\0
+
+[@ITEM 170 (L1) ]
+\0
+
+[@ITEM 170 (EN) ]
+Shop:
+   Kajarl
+Chest:
+   Grief Mountain\0
+
+[@ITEM 170 (L2) ]
+\0
+
+[@ITEM 170 (FR) ]
+Magasin :
+Kajar
+Coffre :
+Mont du tourment\0
+
+[@ITEM 171 (L1) ]
+\0
+
+[@ITEM 171 (EN) ]
+Shop:
+   Surviving Village
+Chest:
+   Ocean Floor Temple Vimanam, etc.\0
+
+[@ITEM 171 (L2) ]
+\0
+
+[@ITEM 171 (FR) ]
+Magasin :
+Village des survivants
+Coffre :
+Sanctuaire
+sous-marin, etc.\0
+
+[@ITEM 172 (L1) ]
+\0
+
+[@ITEM 172 (EN) ]
+Event:
+   Guardia Castle
+   (Present)
+Charm:
+   Zeal (Left Hand)\0
+
+[@ITEM 172 (L2) ]
+\0
+
+[@ITEM 172 (FR) ]
+Événement :
+Château de Gardia
+(Présent)
+Séduction :
+Zhyle (bras gauche)\0
+
+[@ITEM 173 (L1) ]
+\0
+
+[@ITEM 173 (EN) ]
+Starting equipment:
+   {Magus}\0
+
+[@ITEM 173 (L2) ]
+\0
+
+[@ITEM 173 (FR) ]
+Équipement de base :
+Magus\0
+
+[@ITEM 174 (L1) ]
+\0
+
+[@ITEM 174 (EN) ]
+Chest:
+   Death Mountain\0
+
+[@ITEM 174 (L2) ]
+\0
+
+[@ITEM 174 (FR) ]
+Coffre :
+Mont des défunts\0
+
+[@ITEM 175 (L1) ]
+\0
+
+[@ITEM 175 (EN) ]
+Chest:
+   Vinnegar's Manor\0
+
+[@ITEM 175 (L2) ]
+\0
+
+[@ITEM 175 (FR) ]
+Coffre :
+Manoir de Vinnie\0
+
+[@ITEM 176 (L1) ]
+\0
+
+[@ITEM 176 (EN) ]
+Event:
+   Northern Forest Historic Ruins
+Charm:
+   Elder Lavos Spawn
+   (Shell)\0
+
+[@ITEM 176 (L2) ]
+\0
+
+[@ITEM 176 (FR) ]
+Événement :
+Ruines sylvestres
+Séduction :
+Pupe de Lavos (carapace)\0
+
+[@ITEM 177 (L1) ]
+\0
+
+[@ITEM 177 (EN) ]
+Event:
+   {Lucca}'s House\0
+
+[@ITEM 177 (L2) ]
+\0
+
+[@ITEM 177 (FR) ]
+Événement :
+Maison de Lucca\0
+
+[@ITEM 178 (L1) ]
+\0
+
+[@ITEM 178 (EN) ]
+Shop:
+   Fiona Temple
+Chest:
+   Vinnegar's Manor, etc.\0
+
+[@ITEM 178 (L2) ]
+\0
+
+[@ITEM 178 (FR) ]
+Magasin :
+Sanctuaire de Fiona
+Coffre :
+Manoir de Vinnie, etc.\0
+
+[@ITEM 179 (L1) ]
+\0
+
+[@ITEM 179 (EN) ]
+Shop:
+   Fiona Temple
+Chest:
+   Subterranean Desert, etc.\0
+
+[@ITEM 179 (L2) ]
+\0
+
+[@ITEM 179 (FR) ]
+Magasin :
+Sanctuaire de Fiona
+Coffre :
+Désert souterrain, etc.\0
+
+[@ITEM 180 (L1) ]
+\0
+
+[@ITEM 180 (EN) ]
+Shop:
+   Fiona Temple
+Chest:
+   Grief Mountain\0
+
+[@ITEM 180 (L2) ]
+\0
+
+[@ITEM 180 (FR) ]
+Magasin :
+Sanctuaire de Fiona
+Coffre :
+Mont du tourment\0
+
+[@ITEM 181 (L1) ]
+\0
+
+[@ITEM 181 (EN) ]
+Shop:
+   Fiona Temple
+Chests:
+   Black Dream, etc.
+Charm:
+   Mega Mutant
+   (Lower Body)\0
+
+[@ITEM 181 (L2) ]
+\0
+
+[@ITEM 181 (FR) ]
+Magasin :
+Sanctuaire de Fiona
+Coffre :
+Songe obscur, etc.
+Séduction :
+Mégamutant (bas)\0
+
+[@ITEM 182 (L1) ]
+\0
+
+[@ITEM 182 (EN) ]
+Charm: Great Vinnegar\0
+
+[@ITEM 182 (L2) ]
+\0
+
+[@ITEM 182 (FR) ]
+Séduction :
+Vinnie le Grand\0
+
+[@ITEM 183 (L1) ]
+\0
+
+[@ITEM 183 (EN) ]
+Chest:
+   Black Dream
+Charm:
+   Elder Lavos Spawn
+   (Mouth)\0
+
+[@ITEM 183 (L2) ]
+\0
+
+[@ITEM 183 (FR) ]
+Coffre :
+Songe obscur
+Séduction :
+Pupe de Lavos (gueule)\0
+
+[@ITEM 184 (L1) ]
+\0
+
+[@ITEM 184 (EN) ]
+Chest:
+   Lost Sanctum
+Charm:
+   Mudbeast\0
+
+[@ITEM 184 (L2) ]
+\0
+
+[@ITEM 184 (FR) ]
+Coffre :
+Sanctuaire oublié
+Séduction :
+Terraphage\0
+
+[@ITEM 185 (L1) ]
+\0
+
+[@ITEM 185 (EN) ]
+Chest:
+   Lost Sanctum
+Charm:
+   Blue Mudbeast\0
+
+[@ITEM 185 (L2) ]
+\0
+
+[@ITEM 185 (FR) ]
+Coffre :
+Sanctuaire oublié
+Séduction :
+Terraphage bleu\0
+
+[@ITEM 186 (L1) ]
+\0
+
+[@ITEM 186 (EN) ]
+Shop:
+   Lost Sanctum
+Chest:
+   Lost Sanctum\0
+
+[@ITEM 186 (L2) ]
+\0
+
+[@ITEM 186 (FR) ]
+Magasin :
+Sanctuaire oublié
+Coffre :
+Sanctuaire oublié\0
+
+[@ITEM 187 (L1) ]
+\0
+
+[@ITEM 187 (EN) ]
+Shop:
+   Lost Sanctum
+Chest:
+   Lost Sanctum\0
+
+[@ITEM 187 (L2) ]
+\0
+
+[@ITEM 187 (FR) ]
+Magasin :
+Sanctuaire oublié
+Coffre :
+Sanctuaire oublié\0
+
+[@ITEM 188 (L1) ]
+\0
+
+[@ITEM 188 (EN) ]
+Chest:
+   Dimensional Vortex\0
+
+[@ITEM 188 (L2) ]
+\0
+
+[@ITEM 188 (FR) ]
+Coffre :
+Vortex dimensionnel\0
+
+[@ITEM 189 (L1) ]
+\0
+
+[@ITEM 189 (EN) ]
+Chest:
+   Dimensional Vortex\0
+
+[@ITEM 189 (L2) ]
+\0
+
+[@ITEM 189 (FR) ]
+Coffre :
+Vortex dimensionnel\0
+
+[@ITEM 190 (L1) ]
+\0
+
+[@ITEM 190 (EN) ]
+Dummy\0
+
+[@ITEM 190 (L2) ]
+\0
+
+[@ITEM 190 (FR) ]
+Factice\0
+
+[@ITEM 191 (L1) ]
+\0
+
+[@ITEM 191 (EN) ]
+Dummy\0
+
+[@ITEM 191 (L2) ]
+\0
+
+[@ITEM 191 (FR) ]
+Factice\0
+
+[@ITEM 192 (L1) ]
+\0
+
+[@ITEM 192 (EN) ]
+Dummy\0
+
+[@ITEM 192 (L2) ]
+\0
+
+[@ITEM 192 (FR) ]
+Factice\0
+
+[@ITEM 193 (L1) ]
+\0
+
+[@ITEM 193 (EN) ]
+Dummy\0
+
+[@ITEM 193 (L2) ]
+\0
+
+[@ITEM 193 (FR) ]
+Factice\0
+
+[@ITEM 194 (L1) ]
+\0
+
+[@ITEM 194 (EN) ]
+Dummy\0
+
+[@ITEM 194 (L2) ]
+\0
+
+[@ITEM 194 (FR) ]
+Factice\0
+
+[@ITEM 195 (L1) ]
+\0
+
+[@ITEM 195 (EN) ]
+Dummy\0
+
+[@ITEM 195 (L2) ]
+\0
+
+[@ITEM 195 (FR) ]
+Factice\0
+
+[@ITEM 196 (L1) ]
+\0
+
+[@ITEM 196 (EN) ]
+Dummy\0
+
+[@ITEM 196 (L2) ]
+\0
+
+[@ITEM 196 (FR) ]
+Factice\0
+
+[@ITEM 197 (L1) ]
+\0
+
+[@ITEM 197 (EN) ]
+Dummy\0
+
+[@ITEM 197 (L2) ]
+\0
+
+[@ITEM 197 (FR) ]
+Factice\0
+
+[@ITEM 198 (L1) ]
+\0
+
+[@ITEM 198 (EN) ]
+Dummy\0
+
+[@ITEM 198 (L2) ]
+\0
+
+[@ITEM 198 (FR) ]
+Factice\0
+
+[@ITEM 199 (L1) ]
+\0
+
+[@ITEM 199 (EN) ]
+Dummy\0
+
+[@ITEM 199 (L2) ]
+\0
+
+[@ITEM 199 (FR) ]
+Factice\0
+
+[@ITEM 200 (L1) ]
+\0
+
+[@ITEM 200 (EN) ]
+\0
+
+[@ITEM 200 (L2) ]
+\0
+
+[@ITEM 200 (FR) ]
+\0
+
+[@ITEM 201 (L1) ]
+\0
+
+[@ITEM 201 (EN) ]
+Starting equipment:
+   {Crono}\0
+
+[@ITEM 201 (L2) ]
+\0
+
+[@ITEM 201 (FR) ]
+Équipement de base :
+Chrono\0
+
+[@ITEM 202 (L1) ]
+\0
+
+[@ITEM 202 (EN) ]
+Starting equipment:
+   {Marle}\0
+
+[@ITEM 202 (L2) ]
+\0
+
+[@ITEM 202 (FR) ]
+Équipement de base :
+Marle\0
+
+[@ITEM 203 (L1) ]
+\0
+
+[@ITEM 203 (EN) ]
+Starting equipment:
+   {Frog}
+Chest:
+   Truce Village Back Hills\0
+
+[@ITEM 203 (L2) ]
+\0
+
+[@ITEM 203 (FR) ]
+Équipement de base :
+Gren
+Coffre :
+Mont Truce\0
+
+[@ITEM 204 (L1) ]
+\0
+
+[@ITEM 204 (EN) ]
+Starting equipment:
+   {Robo}
+Chest:
+   Manoria Abbey\0
+
+[@ITEM 204 (L2) ]
+\0
+
+[@ITEM 204 (FR) ]
+Équipement de base :
+RoBo
+Coffre :
+Abbaye de Manolia\0
+
+[@ITEM 205 (L1) ]
+\0
+
+[@ITEM 205 (EN) ]
+Chest:
+   Hekeran's Cave, etc.\0
+
+[@ITEM 205 (L2) ]
+\0
+
+[@ITEM 205 (FR) ]
+Coffre :
+Grottes d'Héclan, etc.\0
+
+[@ITEM 206 (L1) ]
+\0
+
+[@ITEM 206 (EN) ]
+Starting equipment:
+   {Magus}
+Event:
+   Northern Cape\0
+
+[@ITEM 206 (L2) ]
+\0
+
+[@ITEM 206 (FR) ]
+Équipement de base :
+Magus
+Événement :
+Cap nord\0
+
+[@ITEM 207 (L1) ]
+\0
+
+[@ITEM 207 (EN) ]
+Chests:
+   Hekeran's Cave, etc.\0
+
+[@ITEM 207 (L2) ]
+\0
+
+[@ITEM 207 (FR) ]
+Coffre :
+Grottes d'Héclan, etc.\0
+
+[@ITEM 208 (L1) ]
+\0
+
+[@ITEM 208 (EN) ]
+Aris Dome\0
+
+[@ITEM 208 (L2) ]
+\0
+
+[@ITEM 208 (FR) ]
+Coffre :
+Dôme d'Arris\0
+
+[@ITEM 209 (L1) ]
+\0
+
+[@ITEM 209 (EN) ]
+Sealed chest:
+   Guardia Forest
+   (Present)\0
+
+[@ITEM 209 (L2) ]
+\0
+
+[@ITEM 209 (FR) ]
+Coffre scellé :
+Forêt de Gardia (Présent)\0
+
+[@ITEM 210 (L1) ]
+\0
+
+[@ITEM 210 (EN) ]
+Chests:
+   Demon Cavern, etc.\0
+
+[@ITEM 210 (L2) ]
+\0
+
+[@ITEM 210 (FR) ]
+Coffre :
+Grotte des mystiques,
+etc.\0
+
+[@ITEM 211 (L1) ]
+\0
+
+[@ITEM 211 (EN) ]
+Chests:
+   Hekeran's Cave, etc.
+Charm:
+   Giga Mutant
+   (Upper Body)\0
+
+[@ITEM 211 (L2) ]
+\0
+
+[@ITEM 211 (FR) ]
+Coffre :
+Grottes d'Héclan, etc.
+Séduction :
+Gigamutant (haut)\0
+
+[@ITEM 212 (L1) ]
+\0
+
+[@ITEM 212 (EN) ]
+Chest:
+   Denadoro Mountains\0
+
+[@ITEM 212 (L2) ]
+\0
+
+[@ITEM 212 (FR) ]
+Coffre :
+Monts Dénadoro\0
+
+[@ITEM 213 (L1) ]
+\0
+
+[@ITEM 213 (EN) ]
+Chest:
+   Aris Dome
+Charm:
+   Ruin Golem\0
+
+[@ITEM 213 (L2) ]
+\0
+
+[@ITEM 213 (FR) ]
+Coffre :
+Dôme d'Arris
+Séduction :
+Golem des ruines\0
+
+[@ITEM 214 (L1) ]
+\0
+
+[@ITEM 214 (EN) ]
+Chest:
+   Denadoro Mountains\0
+
+[@ITEM 214 (L2) ]
+\0
+
+[@ITEM 214 (FR) ]
+Coffre :
+Monts Dénadoro\0
+
+[@ITEM 215 (L1) ]
+\0
+
+[@ITEM 215 (EN) ]
+Sealed chest:
+   Tran Dome
+Charm:
+   Mini Ahriman\0
+
+[@ITEM 215 (L2) ]
+\0
+
+[@ITEM 215 (FR) ]
+Coffre scellé :
+Dôme de Trann
+Séduction :
+Ahrimini\0
+
+[@ITEM 216 (L1) ]
+\0
+
+[@ITEM 216 (EN) ]
+Starting equipment:
+   {Lucca}\0
+
+[@ITEM 216 (L2) ]
+\0
+
+[@ITEM 216 (FR) ]
+Équipement de base :
+Lucca\0
+
+[@ITEM 217 (L1) ]
+\0
+
+[@ITEM 217 (EN) ]
+Sealed chest:
+   Tran Dome\0
+
+[@ITEM 217 (L2) ]
+\0
+
+[@ITEM 217 (FR) ]
+Coffre scellé :
+Dôme de Trann\0
+
+[@ITEM 218 (L1) ]
+\0
+
+[@ITEM 218 (EN) ]
+Chest:
+   Underground Waterway Ruins\0
+
+[@ITEM 218 (L2) ]
+\0
+
+[@ITEM 218 (FR) ]
+Coffre :
+Ancien égout\0
+
+[@ITEM 219 (L1) ]
+\0
+
+[@ITEM 219 (EN) ]
+Chest:
+   Giant's Claw\0
+
+[@ITEM 219 (L2) ]
+\0
+
+[@ITEM 219 (FR) ]
+Coffre :
+Griffe du géant\0
+
+[@ITEM 220 (L1) ]
+\0
+
+[@ITEM 220 (EN) ]
+Event:
+   Hunting Forest
+Charm:
+   Nizbel
+   Nizbel R\0
+
+[@ITEM 220 (L2) ]
+\0
+
+[@ITEM 220 (FR) ]
+Événement :
+Terrain de chasse
+Séduction :
+Nizbel
+Nizbel II\0
+
+[@ITEM 221 (L1) ]
+\0
+
+[@ITEM 221 (EN) ]
+Sealed chest:
+   Bango Dome\0
+
+[@ITEM 221 (L2) ]
+\0
+
+[@ITEM 221 (FR) ]
+Coffre scellé :
+Dôme de Bangor\0
+
+[@ITEM 222 (L1) ]
+\0
+
+[@ITEM 222 (EN) ]
+Event:
+   Fiona Temple\0
+
+[@ITEM 222 (L2) ]
+\0
+
+[@ITEM 222 (FR) ]
+Événement :
+Sanctuaire de Fiona\0
+
+[@ITEM 223 (L1) ]
+\0
+
+[@ITEM 223 (EN) ]
+Chests:
+   #16 Ruins, etc.\0
+
+[@ITEM 223 (L2) ]
+\0
+
+[@ITEM 223 (FR) ]
+Coffre :
+Ruines n° 16, etc.\0
+
+[@ITEM 224 (L1) ]
+\0
+
+[@ITEM 224 (EN) ]
+Starting equipment:
+   {Ayla}\0
+
+[@ITEM 224 (L2) ]
+\0
+
+[@ITEM 224 (FR) ]
+Équipement de base :
+Ayla\0
+
+[@ITEM 225 (L1) ]
+\0
+
+[@ITEM 225 (EN) ]
+Chests:
+   Manoria Abbey, etc.\0
+
+[@ITEM 225 (L2) ]
+\0
+
+[@ITEM 225 (FR) ]
+Coffre :
+Abbaye de Manolia, etc.\0
+
+[@ITEM 226 (L1) ]
+\0
+
+[@ITEM 226 (EN) ]
+Event:
+   Kajarl\0
+
+[@ITEM 226 (L2) ]
+\0
+
+[@ITEM 226 (FR) ]
+Événement :
+Kajar\0
+
+[@ITEM 227 (L1) ]
+\0
+
+[@ITEM 227 (EN) ]
+Chest:
+   Giant's Claw\0
+
+[@ITEM 227 (L2) ]
+\0
+
+[@ITEM 227 (FR) ]
+Coffre :
+Griffe du géant\0
+
+[@ITEM 228 (L1) ]
+\0
+
+[@ITEM 228 (EN) ]
+Event:
+   Laruba Village's Burnt Remains\0
+
+[@ITEM 228 (L2) ]
+\0
+
+[@ITEM 228 (FR) ]
+Événement :
+Ruines de Laruba\0
+
+[@ITEM 229 (L1) ]
+\0
+
+[@ITEM 229 (EN) ]
+Chest:
+   Black Dream\0
+
+[@ITEM 229 (L2) ]
+\0
+
+[@ITEM 229 (FR) ]
+Coffre :
+Songe obscur\0
+
+[@ITEM 230 (L1) ]
+\0
+
+[@ITEM 230 (EN) ]
+Event:
+   Denadoro Mountains\0
+
+[@ITEM 230 (L2) ]
+\0
+
+[@ITEM 230 (FR) ]
+Événement :
+Monts Dénadoro\0
+
+[@ITEM 231 (L1) ]
+\0
+
+[@ITEM 231 (EN) ]
+Event:
+   Tarta's House\0
+
+[@ITEM 231 (L2) ]
+\0
+
+[@ITEM 231 (FR) ]
+Événement :
+Maison de Tarta\0
+
+[@ITEM 232 (L1) ]
+\0
+
+[@ITEM 232 (EN) ]
+Chest:
+   Subterranean Desert
+Charm:
+   Tera Mutant
+   (Upper Body)\0
+
+[@ITEM 232 (L2) ]
+\0
+
+[@ITEM 232 (FR) ]
+Coffre :
+Désert souterrain
+Séduction :
+Téramutant (haut)\0
+
+[@ITEM 233 (L1) ]
+\0
+
+[@ITEM 233 (EN) ]
+Charm: Super Mayonnay\0
+
+[@ITEM 233 (L2) ]
+\0
+
+[@ITEM 233 (FR) ]
+Séduction :
+Super Mayo\0
+
+[@ITEM 234 (L1) ]
+\0
+
+[@ITEM 234 (EN) ]
+Chest:
+   Black Dream\0
+
+[@ITEM 234 (L2) ]
+\0
+
+[@ITEM 234 (FR) ]
+Coffre :
+Songe obscur\0
+
+[@ITEM 235 (L1) ]
+\0
+
+[@ITEM 235 (EN) ]
+Chest:
+   Black Dream
+Charm:
+   Tera Mutant
+   (Lower Body)\0
+
+[@ITEM 235 (L2) ]
+\0
+
+[@ITEM 235 (FR) ]
+Coffre :
+Songe obscur
+Séduction :
+Téramutant (bas)\0
+
+[@ITEM 236 (L1) ]
+\0
+
+[@ITEM 236 (EN) ]
+\0
+
+[@ITEM 236 (L2) ]
+\0
+
+[@ITEM 236 (FR) ]
+\0
+
+[@ITEM 237 (L1) ]
+\0
+
+[@ITEM 237 (EN) ]
+\0
+
+[@ITEM 237 (L2) ]
+\0
+
+[@ITEM 237 (FR) ]
+\0
+
+[@ITEM 238 (L1) ]
+\0
+
+[@ITEM 238 (EN) ]
+Event:
+   {Lucca}'s House\0
+
+[@ITEM 238 (L2) ]
+\0
+
+[@ITEM 238 (FR) ]
+Événement :
+Maison de Lucca\0
+
+[@ITEM 239 (L1) ]
+\0
+
+[@ITEM 239 (EN) ]
+Event:
+   Guardia Castle
+   (Present)\0
+
+[@ITEM 239 (L2) ]
+\0
+
+[@ITEM 239 (FR) ]
+Événement :
+Château de Gardia
+(Présent)\0
+
+[@ITEM 240 (L1) ]
+\0
+
+[@ITEM 240 (EN) ]
+Event:
+   Lost Sanctum\0
+
+[@ITEM 240 (L2) ]
+\0
+
+[@ITEM 240 (FR) ]
+Événement :
+Sanctuaire oublié\0
+
+[@ITEM 241 (L1) ]
+\0
+
+[@ITEM 241 (EN) ]
+Event:
+   Lost Sanctum\0
+
+[@ITEM 241 (L2) ]
+\0
+
+[@ITEM 241 (FR) ]
+Événement :
+Sanctuaire oublié\0
+
+[@ITEM 242 (L1) ]
+\0
+
+[@ITEM 242 (EN) ]
+Event:
+   Lost Sanctum\0
+
+[@ITEM 242 (L2) ]
+\0
+
+[@ITEM 242 (FR) ]
+Événement :
+Sanctuaire oublié\0
+
+[@ITEM 243 (L1) ]
+\0
+
+[@ITEM 243 (EN) ]
+Event:
+   Arena of the Ages\0
+
+[@ITEM 243 (L2) ]
+\0
+
+[@ITEM 243 (FR) ]
+Événement :
+Arène\0
+
+[@ITEM 244 (L1) ]
+\0
+
+[@ITEM 244 (EN) ]
+Event:
+   Arena of the Ages\0
+
+[@ITEM 244 (L2) ]
+\0
+
+[@ITEM 244 (FR) ]
+Événement :
+Arène\0
+
+[@ITEM 245 (L1) ]
+\0
+
+[@ITEM 245 (EN) ]
+Event:
+   Arena of the Ages\0
+
+[@ITEM 245 (L2) ]
+\0
+
+[@ITEM 245 (FR) ]
+Événement :
+Arène\0
+
+[@ITEM 246 (L1) ]
+\0
+
+[@ITEM 246 (EN) ]
+Event:
+   Arena of the Ages\0
+
+[@ITEM 246 (L2) ]
+\0
+
+[@ITEM 246 (FR) ]
+Événement :
+Arène\0
+
+[@ITEM 247 (L1) ]
+\0
+
+[@ITEM 247 (EN) ]
+Event:
+   Arena of the Ages\0
+
+[@ITEM 247 (L2) ]
+\0
+
+[@ITEM 247 (FR) ]
+Événement :
+Arène\0
+
+[@ITEM 248 (L1) ]
+\0
+
+[@ITEM 248 (EN) ]
+Event:
+   Arena of the Ages\0
+
+[@ITEM 248 (L2) ]
+\0
+
+[@ITEM 248 (FR) ]
+Événement :
+Arène\0
+
+[@ITEM 249 (L1) ]
+\0
+
+[@ITEM 249 (EN) ]
+Dummy\0
+
+[@ITEM 249 (L2) ]
+\0
+
+[@ITEM 249 (FR) ]
+Factice\0
+
+[@ITEM 250 (L1) ]
+\0
+
+[@ITEM 250 (EN) ]
+Dummy\0
+
+[@ITEM 250 (L2) ]
+\0
+
+[@ITEM 250 (FR) ]
+Factice\0
+
+[@ITEM 251 (L1) ]
+\0
+
+[@ITEM 251 (EN) ]
+Dummy\0
+
+[@ITEM 251 (L2) ]
+\0
+
+[@ITEM 251 (FR) ]
+Factice\0
+
+[@ITEM 252 (L1) ]
+\0
+
+[@ITEM 252 (EN) ]
+Dummy\0
+
+[@ITEM 252 (L2) ]
+\0
+
+[@ITEM 252 (FR) ]
+Factice\0
+
+[@ITEM 253 (L1) ]
+\0
+
+[@ITEM 253 (EN) ]
+Dummy\0
+
+[@ITEM 253 (L2) ]
+\0
+
+[@ITEM 253 (FR) ]
+Factice\0
+
+[@ITEM 254 (L1) ]
+\0
+
+[@ITEM 254 (EN) ]
+Dummy\0
+
+[@ITEM 254 (L2) ]
+\0
+
+[@ITEM 254 (FR) ]
+Factice\0
+
+[@ITEM 255 (L1) ]
+\0
+
+[@ITEM 255 (EN) ]
+Dummy\0
+
+[@ITEM 255 (L2) ]
+\0
+
+[@ITEM 255 (FR) ]
+Factice\0
+
+[@ITEM 256 (L1) ]
+\0
+
+[@ITEM 256 (EN) ]
+Dummy\0
+
+[@ITEM 256 (L2) ]
+\0
+
+[@ITEM 256 (FR) ]
+Factice\0
+
+[@ITEM 257 (L1) ]
+\0
+
+[@ITEM 257 (EN) ]
+Dummy\0
+
+[@ITEM 257 (L2) ]
+\0
+
+[@ITEM 257 (FR) ]
+Factice\0
+
+[@ITEM 258 (L1) ]
+\0
+
+[@ITEM 258 (EN) ]
+Dummy\0
+
+[@ITEM 258 (L2) ]
+\0
+
+[@ITEM 258 (FR) ]
+Factice\0
+
+[@ITEM 259 (L1) ]
+\0
+
+[@ITEM 259 (EN) ]
+\0
+
+[@ITEM 259 (L2) ]
+\0
+
+[@ITEM 259 (FR) ]
+\0
+
+[@ITEM 260 (L1) ]
+\0
+
+[@ITEM 260 (EN) ]
+Shops:
+   Leene Square, etc.
+Chests:
+   Manoria Abbey, etc.
+Won:
+   Amanita, etc.\0
+
+[@ITEM 260 (L2) ]
+\0
+
+[@ITEM 260 (FR) ]
+Magasin :
+Place de Lynne, etc.
+Coffre :
+Abbaye de Manolia, etc.
+Butin :
+Amanite, etc.\0
+
+[@ITEM 261 (L1) ]
+\0
+
+[@ITEM 261 (EN) ]
+Shops:
+   Tran Dome, etc.
+Chests:
+   Guardia Jail, etc.
+Won:
+   Boundillo, etc.
+Charm:
+   Edible Frog\0
+
+[@ITEM 261 (L2) ]
+\0
+
+[@ITEM 261 (FR) ]
+Magasin :
+Dôme de Trann, etc.
+Coffre :
+Prison, etc.
+Butin :
+Roulemaboul, etc.
+Séduction :
+Grenouille\0
+
+[@ITEM 262 (L1) ]
+\0
+
+[@ITEM 262 (EN) ]
+Shops:
+   Kajarl, etc.
+Chests:
+   Dinomen Hideout, etc.
+Charm:
+   Mutant, etc.\0
+
+[@ITEM 262 (L2) ]
+\0
+
+[@ITEM 262 (FR) ]
+Magasin :
+Kajar, etc.
+Coffre :
+Antre des sauriens, etc.
+Séduction :
+Mutant, etc.\0
+
+[@ITEM 263 (L1) ]
+\0
+
+[@ITEM 263 (EN) ]
+Shops:
+   Kajarl, etc.
+Chests:
+   Guardia Jail, etc.
+Won:
+   Gaoler, etc.
+Charm:
+   Dondrago, etc.\0
+
+[@ITEM 263 (L2) ]
+\0
+
+[@ITEM 263 (FR) ]
+Magasin :
+Kajar, etc.
+Coffre :
+Prison, etc.
+Butin :
+Ghia, etc.
+Séduction :
+Nérée des sables, etc.\0
+
+[@ITEM 264 (L1) ]
+\0
+
+[@ITEM 264 (EN) ]
+Shops:
+   Surviving Village, etc.
+Chests:
+   Manoria Abbey, etc.
+Won:
+   Sorcerer, etc.
+Charm:
+   Ruin Stalker, etc.\0
+
+[@ITEM 264 (L2) ]
+\0
+
+[@ITEM 264 (FR) ]
+Magasin :
+Vill. des survivants, etc.
+Coffre :
+Abbaye de Manolia, etc.
+Butin :
+Sorcier, etc.
+Séduction :
+Pieuvre des ruines, etc.\0
+
+[@ITEM 265 (L1) ]
+\0
+
+[@ITEM 265 (EN) ]
+Shop:
+   Black Dream
+Chests:
+   Subterranean Desert, etc.
+Won:
+   Ghost Knight, etc.
+Charm:
+   Macabre\0
+
+[@ITEM 265 (L2) ]
+\0
+
+[@ITEM 265 (FR) ]
+Magasin :
+Songe obscur
+Coffre :
+Désert souterrain, etc.
+Butin :
+Chevalier fantôme, etc.
+Séduction :
+Macchabée\0
+
+[@ITEM 266 (L1) ]
+\0
+
+[@ITEM 266 (EN) ]
+Shop:
+   Lost Sanctum
+Chests:
+   Guardia Castle
+   (Present), etc.
+Won:
+   Fangbeast, etc.\0
+
+[@ITEM 266 (L2) ]
+\0
+
+[@ITEM 266 (FR) ]
+Magasin :
+Sanctuaire oublié
+Coffre :
+Château de Gardia
+(Présent), etc.
+Butin :
+Dodu, etc.\0
+
+[@ITEM 267 (L1) ]
+\0
+
+[@ITEM 267 (EN) ]
+Shop:
+   Black Dream
+Chest:
+   Northern Ruins
+Won:
+   Great Goro, etc.
+Charm:
+   Ghost Knight, etc.\0
+
+[@ITEM 267 (L2) ]
+\0
+
+[@ITEM 267 (FR) ]
+Magasin :
+Songe obscur
+Coffre :
+Château en ruine, etc.
+Butin : Goro, etc.
+Séduction :
+Chevalier fantôme, etc.\0
+
+[@ITEM 268 (L1) ]
+\0
+
+[@ITEM 268 (EN) ]
+Shop:
+   Lost Sanctum
+Chests:
+   Guardia Castle
+   (Present), etc.
+Won:
+   Yakra the 13th, etc.\0
+
+[@ITEM 268 (L2) ]
+\0
+
+[@ITEM 268 (FR) ]
+Magasin :
+Sanctuaire oublié
+Coffre :
+Château de Gardia
+(Présent), etc.
+Butin :
+Yakra XIII, etc.\0
+
+[@ITEM 269 (L1) ]
+\0
+
+[@ITEM 269 (EN) ]
+Shops:
+   Leene Square, etc.
+Chests:
+   Manoria Abbey, etc.
+Won:
+   Bell, etc.\0
+
+[@ITEM 269 (L2) ]
+\0
+
+[@ITEM 269 (FR) ]
+Magasin :
+Place de Lynne, etc.
+Coffre :
+Abbaye de Manolia, etc.
+Butin :
+Coucou à cloche, etc.\0
+
+[@ITEM 270 (L1) ]
+\0
+
+[@ITEM 270 (EN) ]
+Shops:
+   Leene Square, etc.
+Chests:
+   Manoria Abbey, etc.
+Won:
+   Viper, etc.
+Charm:
+   Cave Bat, etc.\0
+
+[@ITEM 270 (L2) ]
+\0
+
+[@ITEM 270 (FR) ]
+Magasin :
+Place de Lynne, etc.
+Coffre :
+Abbaye de Manolia, etc.
+Butin :
+Vipère, etc.
+Séduction :
+Noctule, etc.\0
+
+[@ITEM 271 (L1) ]
+\0
+
+[@ITEM 271 (EN) ]
+Shops:
+   Leene Square, etc.
+Chests:
+   Manoria Abbey, etc.
+Event:
+   Guardia Forest
+   (Middle Ages)\0
+
+[@ITEM 271 (L2) ]
+\0
+
+[@ITEM 271 (FR) ]
+Magasin :
+Place de Lynne, etc.
+Coffre :
+Abbaye de Manolia, etc.
+Événement :
+Forêt de Gardia
+(Moyen-Âge)\0
+
+[@ITEM 272 (L1) ]
+\0
+
+[@ITEM 272 (EN) ]
+Event:
+   Sandorino Village Inn
+Charm:
+   Gonzales, etc.\0
+
+[@ITEM 272 (L2) ]
+\0
+
+[@ITEM 272 (FR) ]
+Événement :
+Auberge de San Dorino
+Séduction :
+Gonzales, etc.\0
+
+[@ITEM 273 (L1) ]
+\0
+
+[@ITEM 273 (EN) ]
+Chests:
+   Magus Castle, etc.
+Won:
+   Vilepillar, etc.
+Charm:
+   Volcanite, etc.\0
+
+[@ITEM 273 (L2) ]
+\0
+
+[@ITEM 273 (FR) ]
+Coffre :
+Palais du Magistère, etc.
+Butin :
+Ralcargot, etc.
+Séduction :
+Volcan, etc.\0
+
+[@ITEM 274 (L1) ]
+\0
+
+[@ITEM 274 (EN) ]
+Shop:
+   Lost Sanctum
+Chests:
+   Magus Castle, etc.
+Won:
+   Version 4.0, etc.
+Charm:
+   Freelancer, etc.\0
+
+[@ITEM 274 (L2) ]
+\0
+
+[@ITEM 274 (FR) ]
+Magasin :
+Sanctuaire oublié
+Coffre :
+Palais du Magistère, etc.
+Butin :
+Modèle 4.0, etc.
+Séduction :
+Mercenaire, etc.\0
+
+[@ITEM 275 (L1) ]
+\0
+
+[@ITEM 275 (EN) ]
+Shop:
+   Lost Sanctum
+Chests:
+   Grief Mountain, etc.
+Won:
+   Deverminator EX, etc.
+Charm:
+   Hammer Ogan, etc.\0
+
+[@ITEM 275 (L2) ]
+\0
+
+[@ITEM 275 (FR) ]
+Magasin :
+Sanctuaire oublié
+Coffre :
+Mont du tourment, etc.
+Butin :
+Débogueur +, etc.
+Séduction :
+Ogan marteleur, etc.\0
+
+[@ITEM 276 (L1) ]
+\0
+
+[@ITEM 276 (EN) ]
+Found:
+   Guardia Forest, etc.
+Charm:
+   Blubber Hulk, etc.\0
+
+[@ITEM 276 (L2) ]
+\0
+
+[@ITEM 276 (FR) ]
+Objet trouvé :
+Forêt de Gardia, etc.
+Séduction :
+Bête ventrue, etc.\0
+
+[@ITEM 277 (L1) ]
+\0
+
+[@ITEM 277 (EN) ]
+Found:
+   Sandrino Chief's House, etc.
+Charm:
+   Azarla, etc.\0
+
+[@ITEM 277 (L2) ]
+\0
+
+[@ITEM 277 (FR) ]
+Objet trouvé :
+Maison de San Dorino, etc.
+Séduction :
+Azara, etc.\0
+
+[@ITEM 278 (L1) ]
+\0
+
+[@ITEM 278 (EN) ]
+Found:
+   Denadoro Mountains, etc.
+Charm:
+   Mud-Eater Tamer, etc.\0
+
+[@ITEM 278 (L2) ]
+\0
+
+[@ITEM 278 (FR) ]
+Objet trouvé :
+Monts Dénadoro, etc.
+Séduction :
+Terra-diablotin, etc.\0
+
+[@ITEM 279 (L1) ]
+\0
+
+[@ITEM 279 (EN) ]
+Shop:
+   Arena of the Ages\0
+
+[@ITEM 279 (L2) ]
+\0
+
+[@ITEM 279 (FR) ]
+Magasin :
+Arène\0
+
+[@ITEM 280 (L1) ]
+\0
+
+[@ITEM 280 (EN) ]
+Shop:
+   Arena of the Ages\0
+
+[@ITEM 280 (L2) ]
+\0
+
+[@ITEM 280 (FR) ]
+Magasin :
+Arène\0
+
+[@ITEM 281 (L1) ]
+\0
+
+[@ITEM 281 (EN) ]
+Shop:
+   Arena of the Ages\0
+
+[@ITEM 281 (L2) ]
+\0
+
+[@ITEM 281 (FR) ]
+Magasin :
+Arène\0
+
+[@ITEM 282 (L1) ]
+\0
+
+[@ITEM 282 (EN) ]
+Shop:
+   Arena of the Ages\0
+
+[@ITEM 282 (L2) ]
+\0
+
+[@ITEM 282 (FR) ]
+Magasin :
+Arène\0
+
+[@ITEM 283 (L1) ]
+\0
+
+[@ITEM 283 (EN) ]
+Shop:
+   Arena of the Ages\0
+
+[@ITEM 283 (L2) ]
+\0
+
+[@ITEM 283 (FR) ]
+Magasin :
+Arène\0
+
+[@ITEM 284 (L1) ]
+\0
+
+[@ITEM 284 (EN) ]
+Shop:
+   Arena of the Ages\0
+
+[@ITEM 284 (L2) ]
+\0
+
+[@ITEM 284 (FR) ]
+Magasin :
+Arène\0
+
+[@ITEM 285 (L1) ]
+\0
+
+[@ITEM 285 (EN) ]
+Shop:
+   Arena of the Ages\0
+
+[@ITEM 285 (L2) ]
+\0
+
+[@ITEM 285 (FR) ]
+Magasin :
+Arène\0
+
+[@ITEM 286 (L1) ]
+\0
+
+[@ITEM 286 (EN) ]
+Shop:
+   Arena of the Ages\0
+
+[@ITEM 286 (L2) ]
+\0
+
+[@ITEM 286 (FR) ]
+Magasin :
+Arène\0
+
+[@ITEM 287 (L1) ]
+\0
+
+[@ITEM 287 (EN) ]
+Event:
+   Lost Sanctum\0
+
+[@ITEM 287 (L2) ]
+\0
+
+[@ITEM 287 (FR) ]
+Événement :
+Sanctuaire oublié\0
+
+[@ITEM 288 (L1) ]
+\0
+
+[@ITEM 288 (EN) ]
+Event:
+   Lost Sanctum\0
+
+[@ITEM 288 (L2) ]
+\0
+
+[@ITEM 288 (FR) ]
+Événement :
+Sanctuaire oublié\0
+
+[@ITEM 289 (L1) ]
+\0
+
+[@ITEM 289 (EN) ]
+Event:
+   Lost Sanctum\0
+
+[@ITEM 289 (L2) ]
+\0
+
+[@ITEM 289 (FR) ]
+Événement :
+Sanctuaire oublié\0
+
+[@ITEM 290 (L1) ]
+\0
+
+[@ITEM 290 (EN) ]
+Event:
+   Lost Sanctum\0
+
+[@ITEM 290 (L2) ]
+\0
+
+[@ITEM 290 (FR) ]
+Événement :
+Sanctuaire oublié\0
+
+[@ITEM 291 (L1) ]
+\0
+
+[@ITEM 291 (EN) ]
+Event:
+   Lost Sanctum\0
+
+[@ITEM 291 (L2) ]
+\0
+
+[@ITEM 291 (FR) ]
+Événement :
+Sanctuaire oublié\0
+
+[@ITEM 292 (L1) ]
+\0
+
+[@ITEM 292 (EN) ]
+\0
+
+[@ITEM 292 (L2) ]
+\0
+
+[@ITEM 292 (FR) ]
+\0
+
+[@ITEM 293 (L1) ]
+\0
+
+[@ITEM 293 (EN) ]
+Won:
+   Dinoman, etc.\0
+
+[@ITEM 293 (L2) ]
+\0
+
+[@ITEM 293 (FR) ]
+Butin :
+Saurien, etc.\0
+
+[@ITEM 294 (L1) ]
+\0
+
+[@ITEM 294 (EN) ]
+Won:
+   Bao Bao, etc.\0
+
+[@ITEM 294 (L2) ]
+\0
+
+[@ITEM 294 (FR) ]
+Butin :
+Baobao, etc.\0
+
+[@ITEM 295 (L1) ]
+\0
+
+[@ITEM 295 (EN) ]
+Won:
+   Crested Sprinter, etc.\0
+
+[@ITEM 295 (L2) ]
+\0
+
+[@ITEM 295 (FR) ]
+Butin :
+Coureur à crête, etc.\0
+
+[@ITEM 296 (L1) ]
+\0
+
+[@ITEM 296 (EN) ]
+Won:
+   Ho-ho, etc.\0
+
+[@ITEM 296 (L2) ]
+\0
+
+[@ITEM 296 (FR) ]
+Butin :
+Ouhbouh doré, etc.\0
+
+[@ITEM 297 (L1) ]
+\0
+
+[@ITEM 297 (EN) ]
+Event:
+   Aris Dome\0
+
+[@ITEM 297 (L2) ]
+\0
+
+[@ITEM 297 (FR) ]
+Événement :
+Dôme d'Arris\0
+
+[@ITEM 298 (L1) ]
+\0
+
+[@ITEM 298 (EN) ]
+Event:
+   Aris Dome\0
+
+[@ITEM 298 (L2) ]
+\0
+
+[@ITEM 298 (FR) ]
+Événement :
+Dôme d'Arris\0
+
+[@ITEM 299 (L1) ]
+\0
+
+[@ITEM 299 (EN) ]
+Event:
+   Leene Square\0
+
+[@ITEM 299 (L2) ]
+\0
+
+[@ITEM 299 (FR) ]
+Événement :
+Place de Lynne\0
+
+[@ITEM 300 (L1) ]
+\0
+
+[@ITEM 300 (EN) ]
+Event:
+   Leene Square\0
+
+[@ITEM 300 (L2) ]
+\0
+
+[@ITEM 300 (FR) ]
+Événement :
+Place de Lynne\0
+
+[@ITEM 301 (L1) ]
+\0
+
+[@ITEM 301 (EN) ]
+Event:
+   Guardia Castle
+   (Present)\0
+
+[@ITEM 301 (L2) ]
+\0
+
+[@ITEM 301 (FR) ]
+Événement :
+Château de Gardia
+(Présent)\0
+
+[@ITEM 302 (L1) ]
+\0
+
+[@ITEM 302 (EN) ]
+Event:
+   The Farthest Reaches of Time\0
+
+[@ITEM 302 (L2) ]
+\0
+
+[@ITEM 302 (FR) ]
+Événement :
+Fin des temps\0
+
+[@ITEM 303 (L1) ]
+\0
+
+[@ITEM 303 (EN) ]
+Event:
+   Choras Residence\0
+
+[@ITEM 303 (L2) ]
+\0
+
+[@ITEM 303 (FR) ]
+Événement :
+Maison de Choras
+(Présent)\0
+
+[@ITEM 304 (L1) ]
+\0
+
+[@ITEM 304 (EN) ]
+Event:
+   Guardia Castle
+   (Middle Ages)
+   Snail Shop\0
+
+[@ITEM 304 (L2) ]
+\0
+
+[@ITEM 304 (FR) ]
+Événement :
+Château de Gardia
+(Moyen-Âge)
+Café de la conque\0
+
+[@ITEM 305 (L1) ]
+\0
+
+[@ITEM 305 (EN) ]
+Event:
+   Ioka Village\0
+
+[@ITEM 305 (L2) ]
+\0
+
+[@ITEM 305 (FR) ]
+Événement :
+Ioka\0
+
+[@ITEM 306 (L1) ]
+\0
+
+[@ITEM 306 (EN) ]
+Chest:
+   #32 Ruins\0
+
+[@ITEM 306 (L2) ]
+\0
+
+[@ITEM 306 (FR) ]
+Coffre :
+Ruines n° 32\0
+
+[@ITEM 307 (L1) ]
+\0
+
+[@ITEM 307 (EN) ]
+Event:
+   Sun Temple\0
+
+[@ITEM 307 (L2) ]
+\0
+
+[@ITEM 307 (FR) ]
+Événement :
+Temple du soleil\0
+
+[@ITEM 308 (L1) ]
+\0
+
+[@ITEM 308 (EN) ]
+Event:
+   Sun Shrine\0
+
+[@ITEM 308 (L2) ]
+\0
+
+[@ITEM 308 (FR) ]
+Événement :
+Berceau de la lumière\0
+
+[@ITEM 309 (L1) ]
+\0
+
+[@ITEM 309 (EN) ]
+Event:
+   Algetty\0
+
+[@ITEM 309 (L2) ]
+\0
+
+[@ITEM 309 (FR) ]
+Événement :
+Alguetti\0
+
+[@ITEM 310 (L1) ]
+\0
+
+[@ITEM 310 (EN) ]
+Event:
+   Guardia Castle
+   (Present)\0
+
+[@ITEM 310 (L2) ]
+\0
+
+[@ITEM 310 (FR) ]
+Événement :
+Château de Gardia
+(Présent)\0
+
+[@ITEM 311 (L1) ]
+\0
+
+[@ITEM 311 (EN) ]
+Event:
+   Leene Square\0
+
+[@ITEM 311 (L2) ]
+\0
+
+[@ITEM 311 (FR) ]
+Événement :
+Place de Lynne\0
+
+[@ITEM 312 (L1) ]
+\0
+
+[@ITEM 312 (EN) ]
+Event:
+   Choras Tavern\0
+
+[@ITEM 312 (L2) ]
+\0
+
+[@ITEM 312 (FR) ]
+Événement :
+Taverne de Choras\0
+
+[@ITEM 313 (L1) ]
+\0
+
+[@ITEM 313 (EN) ]
+Won:
+   Rainy\0
+
+[@ITEM 313 (L2) ]
+\0
+
+[@ITEM 313 (FR) ]
+Butin :
+Flaque\0
+
+[@ITEM 314 (L1) ]
+\0
+
+[@ITEM 314 (EN) ]
+Won:
+   Prehistoric Frog\0
+
+[@ITEM 314 (L2) ]
+\0
+
+[@ITEM 314 (FR) ]
+Butin :
+Archéobatracien\0
+
+[@ITEM 315 (L1) ]
+\0
+
+[@ITEM 315 (EN) ]
+Won:
+   Prehistoric Frog\0
+
+[@ITEM 315 (L2) ]
+\0
+
+[@ITEM 315 (FR) ]
+Butin :
+Archéobatracien\0
+
+[@ITEM 316 (L1) ]
+\0
+
+[@ITEM 316 (EN) ]
+Won:
+   Ion Cloud, etc.\0
+
+[@ITEM 316 (L2) ]
+\0
+
+[@ITEM 316 (FR) ]
+Butin :
+Flaque, etc.\0
+
+[@ITEM 317 (L1) ]
+\0
+
+[@ITEM 317 (EN) ]
+Event:
+   Lost Sanctum\0
+
+[@ITEM 317 (L2) ]
+\0
+
+[@ITEM 317 (FR) ]
+Événement :
+Sanctuaire oublié\0
+
+[@ITEM 318 (L1) ]
+\0
+
+[@ITEM 318 (EN) ]
+Event:
+   Lost Sanctum\0
+
+[@ITEM 318 (L2) ]
+\0
+
+[@ITEM 318 (FR) ]
+Événement :
+Sanctuaire oublié\0
+
+[@ITEM 319 (L1) ]
+\0
+
+[@ITEM 319 (EN) ]
+Event:
+   Lost Sanctum\0
+
+[@ITEM 319 (L2) ]
+\0
+
+[@ITEM 319 (FR) ]
+Événement :
+Sanctuaire oublié\0
+
+[@ITEM 320 (L1) ]
+\0
+
+[@ITEM 320 (EN) ]
+Event:
+   Lost Sanctum\0
+
+[@ITEM 320 (L2) ]
+\0
+
+[@ITEM 320 (FR) ]
+Événement :
+Sanctuaire oublié\0
+
+[@ITEM 321 (L1) ]
+\0
+
+[@ITEM 321 (EN) ]
+Event:
+   Lost Sanctum\0
+
+[@ITEM 321 (L2) ]
+\0
+
+[@ITEM 321 (FR) ]
+Événement :
+Sanctuaire oublié\0
+
+[@ITEM 322 (L1) ]
+\0
+
+[@ITEM 322 (EN) ]
+Event:
+   Lost Sanctum\0
+
+[@ITEM 322 (L2) ]
+\0
+
+[@ITEM 322 (FR) ]
+Événement :
+Sanctuaire oublié\0
+
+[@ITEM 323 (L1) ]
+\0
+
+[@ITEM 323 (EN) ]
+Event:
+   Lost Sanctum\0
+
+[@ITEM 323 (L2) ]
+\0
+
+[@ITEM 323 (FR) ]
+Événement :
+Sanctuaire oublié\0
+
+[@ITEM 324 (L1) ]
+\0
+
+[@ITEM 324 (EN) ]
+Chest:
+   Lost Sanctum\0
+
+[@ITEM 324 (L2) ]
+\0
+
+[@ITEM 324 (FR) ]
+Coffre :
+Sanctuaire oublié\0
+
+[@ITEM 325 (L1) ]
+\0
+
+[@ITEM 325 (EN) ]
+Event:
+   Lost Sanctum\0
+
+[@ITEM 325 (L2) ]
+\0
+
+[@ITEM 325 (FR) ]
+Événement :
+Sanctuaire oublié\0
+
+[@ITEM 326 (L1) ]
+\0
+
+[@ITEM 326 (EN) ]
+Event:
+   Lost Sanctum\0
+
+[@ITEM 326 (L2) ]
+\0
+
+[@ITEM 326 (FR) ]
+Événement :
+Sanctuaire oublié\0
+
+[@ITEM 327 (L1) ]
+\0
+
+[@ITEM 327 (EN) ]
+Chest:
+   Lost Sanctum\0
+
+[@ITEM 327 (L2) ]
+\0
+
+[@ITEM 327 (FR) ]
+Coffre :
+Sanctuaire oublié\0
+
+[@ITEM 328 (L1) ]
+\0
+
+[@ITEM 328 (EN) ]
+Won:
+   Wonder Rock\0
+
+[@ITEM 328 (L2) ]
+\0
+
+[@ITEM 328 (FR) ]
+Butin :
+Rocher miraculeux\0
+
+[@ITEM 329 (L1) ]
+\0
+
+[@ITEM 329 (EN) ]
+Dummy\0
+
+[@ITEM 329 (L2) ]
+\0
+
+[@ITEM 329 (FR) ]
+Factice\0
+
+[@ITEM 330 (L1) ]
+\0
+
+[@ITEM 330 (EN) ]
+Dummy\0
+
+[@ITEM 330 (L2) ]
+\0
+
+[@ITEM 330 (FR) ]
+Factice\0
+
+[@ITEM 331 (L1) ]
+\0
+
+[@ITEM 331 (EN) ]
+Dummy\0
+
+[@ITEM 331 (L2) ]
+\0
+
+[@ITEM 331 (FR) ]
+Factice\0
+
+[@ITEM 332 (L1) ]
+\0
+
+[@ITEM 332 (EN) ]
+Dummy\0
+
+[@ITEM 332 (L2) ]
+\0
+
+[@ITEM 332 (FR) ]
+Factice\0
+
+[@ITEM 333 (L1) ]
+\0
+
+[@ITEM 333 (EN) ]
+Dummy\0
+
+[@ITEM 333 (L2) ]
+\0
+
+[@ITEM 333 (FR) ]
+Factice\0
+
+[@ITEM 334 (L1) ]
+\0
+
+[@ITEM 334 (EN) ]
+Dummy\0
+
+[@ITEM 334 (L2) ]
+\0
+
+[@ITEM 334 (FR) ]
+Factice\0
+
+[@ITEM 335 (L1) ]
+\0
+
+[@ITEM 335 (EN) ]
+Dummy\0
+
+[@ITEM 335 (L2) ]
+\0
+
+[@ITEM 335 (FR) ]
+Factice\0
+
+[@ITEM 336 (L1) ]
+\0
+
+[@ITEM 336 (EN) ]
+Dummy\0
+
+[@ITEM 336 (L2) ]
+\0
+
+[@ITEM 336 (FR) ]
+Factice\0
+

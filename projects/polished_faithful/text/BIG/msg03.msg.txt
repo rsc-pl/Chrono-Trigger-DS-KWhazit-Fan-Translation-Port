@@ -1,0 +1,3729 @@
+[@msg03.msg]
+
+[@ITEM 0 (L1) ]
+\0
+
+[@ITEM 0 (EN) ]
+This is the Queen's palace.
+The heart of our Zeal Kingdom...
+Which means, in other words, it is surely the heart
+of the universe.{PRESS_CLEAR}\0
+
+[@ITEM 0 (L2) ]
+\0
+
+[@ITEM 0 (FR) ]
+Bienvenue au palais royal, le cœur du royaume de
+Zhyle...{PRESS_CLEAR}
+Autrement dit, bienvenue au centre de l'univers !\0
+
+[@ITEM 1 (L1) ]
+\0
+
+[@ITEM 1 (EN) ]
+The Queen has descended to the Ocean Floor
+Temple... During that time, none can enter here.\0
+
+[@ITEM 1 (L2) ]
+\0
+
+[@ITEM 1 (FR) ]
+Personne ne peut passer pendant que la reine est au
+sanctuaire sous-marin.\0
+
+[@ITEM 2 (L1) ]
+\0
+
+[@ITEM 2 (EN) ]
+This sealed door will not open from outside.
+Not unless you have a powerful key to break the
+arts, such as Sara-sama's pendant.\0
+
+[@ITEM 2 (L2) ]
+\0
+
+[@ITEM 2 (FR) ]
+Il est impossible d'ouvrir cette porte scellée de
+l'extérieur à moins d'avoir une clef puissante
+pour rompre le sort, comme le pendentif de
+mademoiselle Sarah.\0
+
+[@ITEM 3 (L1) ]
+\0
+
+[@ITEM 3 (EN) ]
+Oh, that pendant{56}?
+It looks just like Sara-sama's.
+I have heard that whenever Sara-sama prays
+to the Demonic Vessel, her pendant emits a
+mysterious radiance...{PRESS_CLEAR}\0
+
+[@ITEM 3 (L2) ]
+\0
+
+[@ITEM 3 (FR) ]
+Oh, ce pendentif... Il ressemble beaucoup à celui de
+mademoiselle Sarah.{PRESS_CLEAR}
+J'ai entendu dire que ce dernier émet une lueur
+mystérieuse quand mademoiselle Sarah communie
+avec le réceptacle sacré.\0
+
+[@ITEM 4 (L1) ]
+\0
+
+[@ITEM 4 (EN) ]
+Oh my, you look extremely unusual.
+Have you come from quite far away?
+You should use the recovery spring
+to heal your travel fatigue.{PRESS_CLEAR}\0
+
+[@ITEM 4 (L2) ]
+\0
+
+[@ITEM 4 (FR) ]
+Oh, comme vous portez d'étranges vêtements !
+Vous devez venir de très loin.{PRESS_CLEAR}
+Récupérez donc de la fatigue du voyage grâce à cette
+source régénératrice.\0
+
+[@ITEM 5 (L1) ]
+\0
+
+[@ITEM 5 (EN) ]
+Do you like green things, traveling persons?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 5 (L2) ]
+\0
+
+[@ITEM 5 (FR) ]
+Aimez-vous les plantes, voyageurs ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 6 (L1) ]
+\0
+
+[@ITEM 6 (EN) ]
+Then you're the same as the Queen...\0
+
+[@ITEM 6 (L2) ]
+\0
+
+[@ITEM 6 (FR) ]
+Je vois... Vous êtes comme la reine.\0
+
+[@ITEM 7 (L1) ]
+\0
+
+[@ITEM 7 (EN) ]
+Well! I also like them very much!
+But the Queen said to burn this sapling
+that I received from the Philosopher of Life...
+And yet the Philosopher said that it is a mysterious
+sapling with the power to protect greenery...{PRESS_CLEAR}{PRESS_CLEAR}\0
+
+[@ITEM 7 (L2) ]
+\0
+
+[@ITEM 7 (FR) ]
+Oh, je les adore, moi aussi !{PRESS_CLEAR}
+Cependant, la reine m'a ordonné de brûler ce jeune
+arbre que m'a donné le sage de la vie...{PRESS_CLEAR}
+Ce dernier m'a pourtant dit que l'arbre avait l'étrange
+pouvoir de protéger la végétation...\0
+
+[@ITEM 8 (L1) ]
+\0
+
+[@ITEM 8 (EN) ]
+Ahh, what should I do?
+		{SEL1}Burn it{/SEL1}
+		{SEL2}Plant it somewhere secretly{/SEL2}\0
+
+[@ITEM 8 (L2) ]
+\0
+
+[@ITEM 8 (FR) ]
+Que devrais-je faire ?
+       {SEL1}Le brûler !{/SEL1}
+       {SEL2}Le planter quelque part{SEL5}
+       {/SEL5}en secret...{/SEL2}\0
+
+[@ITEM 9 (L1) ]
+\0
+
+[@ITEM 9 (EN) ]
+I see...
+The Queen did order it, so it can't be helped...\0
+
+[@ITEM 9 (L2) ]
+\0
+
+[@ITEM 9 (FR) ]
+Bien... Après tout, si c'est l'ordre de la reine...\0
+
+[@ITEM 10 (L1) ]
+\0
+
+[@ITEM 10 (EN) ]
+You're right!
+Even on the Queen's orders, burning what I
+received from the Philosopher...
+Understood.
+I will plant this sapling with care somewhere.
+It may someday be of use to someone
+who protects greenery.{PRESS_CLEAR}\0
+
+[@ITEM 10 (L2) ]
+\0
+
+[@ITEM 10 (FR) ]
+Vous avez raison ! Même si la reine me l'ordonne, je ne
+peux pas brûler quelque chose que m'a donné le sage
+de la vie...{PRESS_CLEAR}
+Je vais planter ce jeune arbre quelque part et en
+prendre grand soin.{PRESS_CLEAR}
+Il sera peut-être utile un jour à quelqu'un qui voudra
+protéger l'environnement.\0
+
+[@ITEM 11 (L1) ]
+\0
+
+[@ITEM 11 (EN) ]
+If I can be reborn, I want to live on the earth
+along with greenery......\0
+
+[@ITEM 11 (L2) ]
+\0
+
+[@ITEM 11 (FR) ]
+Dans ma prochaine vie, j'aimerais vivre sur la terre en
+harmonie avec la nature...\0
+
+[@ITEM 12 (L1) ]
+\0
+
+[@ITEM 12 (EN) ]
+The Queen's children, Sara-sama and Jyaki-sama,
+truly are close as siblings.
+If only Jyaki-sama would open his heart
+a little more to others besides Sara-sama...{PRESS_CLEAR}\0
+
+[@ITEM 12 (L2) ]
+\0
+
+[@ITEM 12 (FR) ]
+Les deux enfants de la reine, mademoiselle Sarah et
+Janus, s'entendent très bien ensemble.{PRESS_CLEAR}
+Si seulement Janus pouvait ouvrir son cœur à d'autres
+personnes que mademoiselle Sarah...\0
+
+[@ITEM 13 (L1) ]
+\0
+
+[@ITEM 13 (EN) ]
+Did you know this, travelers?
+They say the Philosopher of Reason,
+Gasch-sama, has secret rooms in Enhasa and Kajal.\0
+
+[@ITEM 13 (L2) ]
+\0
+
+[@ITEM 13 (FR) ]
+Le saviez-vous, voyageurs ? On dit que Gasch, le sage
+de la raison, a des salles secrètes à Enhassa et Kajar.\0
+
+[@ITEM 14 (L1) ]
+\0
+
+[@ITEM 14 (EN) ]
+Previously, the Queen's right-hand man Dalton-sama
+managed the entire Ocean Floor Temple project,
+but now the traveling prophet is advancing the plans.
+You'll have to make sure not to get near
+Dalton-sama for a while.
+He's furious.{PRESS_CLEAR}\0
+
+[@ITEM 14 (L2) ]
+\0
+
+[@ITEM 14 (FR) ]
+Auparavant, Dalton, le bras droit de la reine, était
+en charge du projet du sanctuaire sous-marin,
+mais maintenant, le prophète errant l'a remplacé.{PRESS_CLEAR}
+Dalton est de très mauvaise humeur, alors vous feriez
+mieux de l'éviter pendant quelque temps.\0
+
+[@ITEM 15 (L1) ]
+\0
+
+[@ITEM 15 (EN) ]
+That man wandered into the palace a little
+while ago and earned the Queen's trust with
+his reliable predictions.
+Nobody knows where that guy came from.
+He's not one of us People of the Light, and of
+course he couldn't be one of the People of the Earth...
+Hmm...{PRESS_CLEAR}\0
+
+[@ITEM 15 (L2) ]
+\0
+
+[@ITEM 15 (FR) ]
+Ce prophète est arrivé au palais il y a peu de temps et a
+acquis la confiance de la reine par des prédictions qui
+se sont avérées justes.{PRESS_CLEAR}
+Personne ne sait d'où il vient. Il n'est pas un illuminé
+comme nous et il va sans dire qu'il n'est pas un terrien
+non plus... Hum...\0
+
+[@ITEM 16 (L1) ]
+\0
+
+[@ITEM 16 (EN) ]
+When we complete the Ocean Floor Temple,
+our Zeal Kingdom will be enveloped in eternal
+light...
+There, there will no longer be fear or sorrow.
+Only endless tranquility awaits us.{PRESS_CLEAR}\0
+
+[@ITEM 16 (L2) ]
+\0
+
+[@ITEM 16 (FR) ]
+Quand le sanctuaire sous-marin sera terminé, le
+royaume de Zhyle sera enveloppé par la lumière
+éternelle...{PRESS_CLEAR}
+Il n'y aura plus de peur ni de tristesse. Seule la sérénité
+sans fin nous attend.\0
+
+[@ITEM 17 (L1) ]
+\0
+
+[@ITEM 17 (EN) ]
+The source of our great energy sleeps deep in
+the ocean floor.
+As its exact position has been confirmed, the
+current Ocean Floor Temple construction project
+has been put into practice.\0
+
+[@ITEM 17 (L2) ]
+\0
+
+[@ITEM 17 (FR) ]
+Une source d'énergie énorme sommeille tout au fond de
+l'océan.{PRESS_CLEAR}
+Avec la découverte de son emplacement exact, nous
+avons enfin pu réaliser le projet de construire le
+sanctuaire sous-marin.\0
+
+[@ITEM 18 (L1) ]
+\0
+
+[@ITEM 18 (EN) ]
+I've heard that the entrance to the Ocean Floor
+Temple is in the Queen's hall.
+The temple is incomplete as yet, though.\0
+
+[@ITEM 18 (L2) ]
+\0
+
+[@ITEM 18 (FR) ]
+On dit que l'entrée du sanctuaire sous-marin, qui n'est
+pas encore terminé, est située dans la salle d'audience
+de la reine.\0
+
+[@ITEM 19 (L1) ]
+\0
+
+[@ITEM 19 (EN) ]
+Surely the Queen has borne suffering and sorrow
+by herself that she can tell no one of, don't you
+think?
+When you gain something great, the loss too is
+great...
+The Zeal of today exists thanks to that...{PRESS_CLEAR}\0
+
+[@ITEM 19 (L2) ]
+\0
+
+[@ITEM 19 (FR) ]
+La reine a sûrement enduré seule un chagrin et une
+douleur indicibles.{PRESS_CLEAR}
+Le prix à payer pour l'acquisition d'un grand pouvoir est
+souvent très élevé. C'est au sacrifice de la reine que
+nous devons ce que le royaume est devenu aujourd'hui.\0
+
+[@ITEM 20 (L1) ]
+\0
+
+[@ITEM 20 (EN) ]
+That traveling prophet is the real thing.
+His predictions are dead-on, every last one.
+It's just like he already knows what's going to
+happen after this...
+It's uncanny.{PRESS_CLEAR}\0
+
+[@ITEM 20 (L2) ]
+\0
+
+[@ITEM 20 (FR) ]
+Ce prophète errant peut vraiment prédire l'avenir !
+Ses prédictions sont toujours justes !{PRESS_CLEAR}
+C'est comme s'il savait d'avance ce qui allait arriver...
+C'est un peu troublant.\0
+
+[@ITEM 21 (L1) ]
+\0
+
+[@ITEM 21 (EN) ]
+It's said that the Philosopher of Time Hasch-sama
+is quietly continuing to research time on a small
+island somewhere.
+He's making the "Egg of Time", or something...
+However, it has been many years now since
+anyone has seen him...{PRESS_CLEAR}\0
+
+[@ITEM 21 (L2) ]
+\0
+
+[@ITEM 21 (FR) ]
+On raconte que Hasch, le sage du temps, continue ses
+recherches dans la solitude, sur une petite île, quelque
+part.{PRESS_CLEAR}
+Il serait en train de fabriquer un « œuf de temps », ou
+quelque chose du genre... Personne ne l'a vu depuis
+plusieurs années...\0
+
+[@ITEM 22 (L1) ]
+\0
+
+[@ITEM 22 (EN) ]
+The whereabouts of the Philosopher of Reason
+Gasch-sama, who designed the Blackbird and
+Ocean Floor Palace, are also unknown.
+To think that the three Philosophers who guided
+Zeal Kingdom would all disappear on us...{PRESS_CLEAR}\0
+
+[@ITEM 22 (L2) ]
+\0
+
+[@ITEM 22 (FR) ]
+On ne sait pas non plus où est passé Gasch, le sage
+de la raison, celui qui a conçu le Cygne noir et le
+sanctuaire sous-marin.{PRESS_CLEAR}
+Qui aurait cru que les trois sages qui ont guidé le
+royaume de Zhyle se cacheraient tous...?\0
+
+[@ITEM 23 (L1) ]
+\0
+
+[@ITEM 23 (EN) ]
+Born of dreams, returning to dreams......
+Beings such as that exist as well.
+At times, human prayers and desires borrow
+the power of Lavos-sama and materialize.{PRESS_CLEAR}\0
+
+[@ITEM 23 (L2) ]
+\0
+
+[@ITEM 23 (FR) ]
+Il y a aussi des créatures qui naissent de rêves et y
+retourneront un jour...{PRESS_CLEAR}
+Parfois, les souhaits et les désirs des gens peuvent
+devenir réalité par le biais du pouvoir de Lavos.\0
+
+[@ITEM 24 (L1) ]
+\0
+
+[@ITEM 24 (EN) ]
+If you want to know about the Demonic Vessel or
+the Ocean Floor Palace, the Three Philosophers or the
+Queen are the best ones to ask.
+But, just between us, there's no telling how the
+Queen would respond as she is now...{PRESS_CLEAR}\0
+
+[@ITEM 24 (L2) ]
+\0
+
+[@ITEM 24 (FR) ]
+Si vous voulez en savoir plus au sujet du réceptacle
+sacré ou du sanctuaire sous-marin, vous devriez vous
+adresser aux trois sages ou à la reine.{PRESS_CLEAR}
+Mais entre vous et moi, je ne sais pas quelles sortes de
+réponses la reine vous donnerait actuellement...\0
+
+[@ITEM 25 (L1) ]
+\0
+
+[@ITEM 25 (EN) ]
+Listen well. The earth is alive.
+Over long periods of time, it gradually moves{56}
+Plains to mountains... mountains to oceans...
+After many thousands, tens of thousands of years
+pass, ways may be found to places where none can
+now approach, such as the sealed northern shrine.{PRESS_CLEAR}\0
+
+[@ITEM 25 (L2) ]
+\0
+
+[@ITEM 25 (FR) ]
+Écoutez bien, la planète est vivante. Au cours des
+millénaires, elle se transforme lentement... Les plaines
+deviennent des montagnes... Les montagnes deviennent
+des océans...{PRESS_CLEAR}
+Après des dizaines de milliers d'années, il serait
+probablement possible d'atteindre des endroits qui
+sont actuellement inaccessibles, tel que le sanctuaire
+du nord ou le berceau de la lumière.\0
+
+[@ITEM 26 (L1) ]
+\0
+
+[@ITEM 26 (EN) ]
+Gran nii-chan, I wanna become the wind......\0
+
+[@ITEM 26 (L2) ]
+\0
+
+[@ITEM 26 (FR) ]
+Je veux devenir le vent, Gran !\0
+
+[@ITEM 27 (L1) ]
+\0
+
+[@ITEM 27 (EN) ]
+Yeah, you'll be able to.
+Someday, for sure{56}\0
+
+[@ITEM 27 (L2) ]
+\0
+
+[@ITEM 27 (FR) ]
+Tu le seras un jour, j'en suis certain, frérot...\0
+
+[@ITEM 28 (L1) ]
+\0
+
+[@ITEM 28 (EN) ]
+Doreen nee-chan went to play in Enharsa again.\0
+
+[@ITEM 28 (L2) ]
+\0
+
+[@ITEM 28 (FR) ]
+Notre sœur Dorinne est encore partie s'amuser à
+Enhassa.\0
+
+[@ITEM 29 (L1) ]
+\0
+
+[@ITEM 29 (EN) ]
+'Cause nee-chan likes dreams.\0
+
+[@ITEM 29 (L2) ]
+\0
+
+[@ITEM 29 (FR) ]
+Oui... C'est parce qu'elle aime les rêves.\0
+
+[@ITEM 30 (L1) ]
+\0
+
+[@ITEM 30 (EN) ]
+I like the wind better.
+Whooshwhoooosh!\0
+
+[@ITEM 30 (L2) ]
+\0
+
+[@ITEM 30 (FR) ]
+Moi, je préfère le vent !
+Ouuuuh !\0
+
+[@ITEM 31 (L1) ]
+\0
+
+[@ITEM 31 (EN) ]
+Wonder what he's doing, old man Philosopher of
+Life{56}
+Hasn't been around lately...
+Sheesh, humans...\0
+
+[@ITEM 31 (L2) ]
+\0
+
+[@ITEM 31 (FR) ]
+Je me demande ce que fabrique le vieux sage de la vie...
+Il y a longtemps qu'on ne l'a pas vu. Pfft, ces humains...\0
+
+[@ITEM 32 (L1) ]
+\0
+
+[@ITEM 32 (EN) ]
+My back......
+Scratch for a bit?
+		{SEL1}Scratch{/SEL1}
+		{SEL2}No way!{/SEL2}\0
+
+[@ITEM 32 (L2) ]
+\0
+
+[@ITEM 32 (FR) ]
+Pourriez-vous...
+Pourriez-vous me gratter le dos ?
+       {SEL1}Accepter{/SEL1}
+       {SEL2}Refuser{/SEL2}\0
+
+[@ITEM 33 (L1) ]
+\0
+
+[@ITEM 33 (EN) ]
+...{PRESS_CLEAR}
+Stingy...\0
+
+[@ITEM 33 (L2) ]
+\0
+
+[@ITEM 33 (FR) ]
+...{PRESS_CLEAR}
+Vous êtes méchants...\0
+
+[@ITEM 34 (L1) ]
+\0
+
+[@ITEM 34 (EN) ]
+Yaay, yippie.\0
+
+[@ITEM 34 (L2) ]
+\0
+
+[@ITEM 34 (FR) ]
+Ouah, youpi !\0
+
+[@ITEM 35 (L1) ]
+\0
+
+[@ITEM 35 (EN) ]
+Yeah...
+There, there...
+Haooh...!{PRESS_CLEAR}\0
+
+[@ITEM 35 (L2) ]
+\0
+
+[@ITEM 35 (FR) ]
+Oui...
+Là, là...{PRESS_CLEAR}
+Aah...!\0
+
+[@ITEM 36 (L1) ]
+\0
+
+[@ITEM 36 (EN) ]
+Phew...
+Thanks...\0
+
+[@ITEM 36 (L2) ]
+\0
+
+[@ITEM 36 (FR) ]
+Ouf...
+Merci...\0
+
+[@ITEM 37 (L1) ]
+\0
+
+[@ITEM 37 (EN) ]
+{MSGWND}
+Discovered the Nu's scratch point!\0
+
+[@ITEM 37 (L2) ]
+\0
+
+[@ITEM 37 (FR) ]
+{MSGWND}
+Vous avez découvert le point sensible du gnu !\0
+
+[@ITEM 38 (L1) ]
+\0
+
+[@ITEM 38 (EN) ]
+Oh, that pendant you're carrying...
+It looks much like Sara-sama's.
+But it doesn't have a mystic radiance like
+Sara-sama's pendant does.{PRESS_CLEAR}\0
+
+[@ITEM 38 (L2) ]
+\0
+
+[@ITEM 38 (FR) ]
+Oh, ce pendentif que vous portez...{PRESS_CLEAR}
+Il ressemble beaucoup à celui de mademoiselle
+Sarah.{PRESS_CLEAR}
+Cependant, il n'en a pas l'éclat mystérieux.\0
+
+[@ITEM 39 (L1) ]
+\0
+
+[@ITEM 39 (EN) ]
+They say Sara-sama's pendant was made from
+the same red stone as the Demonic Vessel.
+I've heard that when Sara-sama takes the pendant
+in hand and prays to the Demonic Vessel, it gives
+off a mysterious radiance.{PRESS_CLEAR}\0
+
+[@ITEM 39 (L2) ]
+\0
+
+[@ITEM 39 (FR) ]
+On dit que le pendentif de mademoiselle Sarah a été
+fabriqué à partir de la même pierre rouge que celle
+qui a été utilisée pour créer le réceptacle sacré.{PRESS_CLEAR}
+Quand mademoiselle Sarah communie avec ce dernier,
+son pendentif émet une lueur étrange.\0
+
+[@ITEM 40 (L1) ]
+\0
+
+[@ITEM 40 (EN) ]
+Beyond here is the hall of the "Demonic Vessel".
+Hmm, it's brimming with incredible spirit.
+That's Lavos Energy for you!\0
+
+[@ITEM 40 (L2) ]
+\0
+
+[@ITEM 40 (FR) ]
+La salle du réceptacle sacré est un peu plus loin.
+Oh, une aura formidable s'en dégage... Celle de
+l'énergie de Lavos !\0
+
+[@ITEM 41 (L1) ]
+\0
+
+[@ITEM 41 (EN) ]
+Beyond here is the hall of the Demonic Vessel,
+but I can't feel that brimming spirit anymore...\0
+
+[@ITEM 41 (L2) ]
+\0
+
+[@ITEM 41 (FR) ]
+La salle du réceptacle sacré est un peu plus loin,
+mais je ne sens plus cette incroyable aura...\0
+
+[@ITEM 42 (L1) ]
+\0
+
+[@ITEM 42 (EN) ]
+Have you also come to see
+the Demonic Vessel?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 42 (L2) ]
+\0
+
+[@ITEM 42 (FR) ]
+Êtes-vous venus admirer le réceptacle sacré,
+vous aussi ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 43 (L1) ]
+\0
+
+[@ITEM 43 (EN) ]
+I knew it!
+Waves of the great Lavos-sama's power are
+resonating outward.
+Aah, my eyes are clouding...\0
+
+[@ITEM 43 (L2) ]
+\0
+
+[@ITEM 43 (FR) ]
+Je m'en doutais ! L'écho du pouvoir de Lavos, le
+glorieux, résonne ! Ah, j'en ai les larmes aux yeux...\0
+
+[@ITEM 44 (L1) ]
+\0
+
+[@ITEM 44 (EN) ]
+I knew it!
+But it's most unfortunate.
+The Demonic Vessel is no longer here.
+My eyes are clouding......\0
+
+[@ITEM 44 (L2) ]
+\0
+
+[@ITEM 44 (FR) ]
+Je m'en doutais ! Malheureusement, le réceptacle sacré
+n'est plus ici. Ah, j'en ai les larmes aux yeux...\0
+
+[@ITEM 45 (L1) ]
+\0
+
+[@ITEM 45 (EN) ]
+What...? No, you have to feel them.
+Lavos-sama's vibrations...
+The ultimate eye-clouder!\0
+
+[@ITEM 45 (L2) ]
+\0
+
+[@ITEM 45 (FR) ]
+Oh non...! Vous devez absolument faire vous-mêmes
+l'expérience de l'écho de Lavos ! C'est si émouvant !\0
+
+[@ITEM 46 (L1) ]
+\0
+
+[@ITEM 46 (EN) ]
+Aah... but I can no longer feel it.
+That ultimate eye-clouder...!\0
+
+[@ITEM 46 (L2) ]
+\0
+
+[@ITEM 46 (FR) ]
+Ah... Je ne ressens plus cette énergie si émouvante...\0
+
+[@ITEM 47 (L1) ]
+\0
+
+[@ITEM 47 (EN) ]
+That prophet's spirit is filled with hatred and
+sorrow...
+At this rate, he'll destroy himself
+eventually.
+Taking even what he loves along with him...{PRESS_CLEAR}\0
+
+[@ITEM 47 (L2) ]
+\0
+
+[@ITEM 47 (FR) ]
+L'aura du prophète est remplie de haine et de chagrin...{PRESS_CLEAR}
+S'il continue ainsi, il se détruira lui-même et entraînera
+aussi avec lui ceux qui lui sont chers...\0
+
+[@ITEM 48 (L1) ]
+\0
+
+[@ITEM 48 (EN) ]
+This leads to the Demonic Vessel's hall...\0
+
+[@ITEM 48 (L2) ]
+\0
+
+[@ITEM 48 (FR) ]
+Ce corridor mène à la salle du réceptacle sacré...\0
+
+[@ITEM 49 (L1) ]
+\0
+
+[@ITEM 49 (EN) ]
+This leads to the Queen's hall...\0
+
+[@ITEM 49 (L2) ]
+\0
+
+[@ITEM 49 (FR) ]
+Ce corridor mène à la salle d'audience de la reine...\0
+
+[@ITEM 50 (L1) ]
+\0
+
+[@ITEM 50 (EN) ]
+This leads to the bedrooms...\0
+
+[@ITEM 50 (L2) ]
+\0
+
+[@ITEM 50 (FR) ]
+Ce corridor mène aux chambres à coucher...\0
+
+[@ITEM 51 (L1) ]
+\0
+
+[@ITEM 51 (EN) ]
+This is the source of Zeal's power.
+The "Demonic Vessel" draws out and amplifies
+Lavos-sama's infinite energy.{56}\0
+
+[@ITEM 51 (L2) ]
+\0
+
+[@ITEM 51 (FR) ]
+Voici la véritable source du pouvoir de Zhyle :
+le réceptacle sacré qui extrait et amplifie
+l'énergie infinie de Lavos.\0
+
+[@ITEM 52 (L1) ]
+\0
+
+[@ITEM 52 (EN) ]
+Oh, that pendant...?
+It looks just like Sara-sama's.
+When she prays to the Demonic Vessel,
+that pendant gives off a mysterious radiance.
+It's just as though it's exchanging secret words
+with the Demonic Vessel.{PRESS_CLEAR}{PRESS_CLEAR}\0
+
+[@ITEM 52 (L2) ]
+\0
+
+[@ITEM 52 (FR) ]
+Oh, ce pendentif... Il ressemble beaucoup à celui de
+mademoiselle Sarah.{PRESS_CLEAR}
+Il émet une lueur mystérieuse quand mademoiselle Sarah
+communie avec le réceptacle sacré.{PRESS_CLEAR}
+C'est comme s'ils se parlaient dans un langage secret.\0
+
+[@ITEM 53 (L1) ]
+\0
+
+[@ITEM 53 (EN) ]
+The Three Philosophers brought forth this Demonic
+Vessel from the red stone passed down in the royal
+family.
+The Philosopher of Life, who was the leader of
+the project, researched various things
+concerning Lavos-sama.
+And then{56}{PRESS_CLEAR}\0
+
+[@ITEM 53 (L2) ]
+\0
+
+[@ITEM 53 (FR) ]
+Les trois sages ont fabriqué le réceptacle sacré
+à partir d'une pierre rouge transmise depuis des
+générations dans la famille royale.{PRESS_CLEAR}
+Le sage de la vie, qui était en charge du projet,
+a beaucoup étudié Lavos. Et ensuite...\0
+
+[@ITEM 54 (L1) ]
+\0
+
+[@ITEM 54 (EN) ]
+To control the Demonic Vessel, you need strong
+enough magical power to be able to regulate the
+energy it draws out.
+Now, the only one outside of the Three Philosophers
+who can handle the Demonic Vessel is Sara-sama.{PRESS_CLEAR}\0
+
+[@ITEM 54 (L2) ]
+\0
+
+[@ITEM 54 (FR) ]
+Il faut posséder des pouvoirs magiques puissants afin
+de maîtriser l'énergie qu'extrait le réceptacle sacré.{PRESS_CLEAR}
+À part les trois sages, seule mademoiselle Sarah peut
+actuellement le manœuvrer.\0
+
+[@ITEM 55 (L1) ]
+\0
+
+[@ITEM 55 (EN) ]
+Since the Demonic Vessel was completed, the
+Queen has become cold, like a different person.
+Just between you and me, rumor has it that not
+just the People of the Earth, but also the People of
+the Light are mercilessly eliminated if they oppose
+the Queen{56}{56}{56}{PRESS_CLEAR}\0
+
+[@ITEM 55 (L2) ]
+\0
+
+[@ITEM 55 (FR) ]
+Depuis la création du réceptacle sacré, la reine est
+devenue froide, comme si elle était une personne
+différente.{PRESS_CLEAR}
+Entre vous et moi, les rumeurs racontent que non
+seulement les terriens, mais aussi les illuminés sont
+exécutés s'ils s'opposent à ses plans...\0
+
+[@ITEM 56 (L1) ]
+\0
+
+[@ITEM 56 (EN) ]
+Ever since one of the Philosophers, the Philosopher
+of Life, opposed the Queen's plans, he hasn't been
+seen...
+You don't suppose that...\0
+
+[@ITEM 56 (L2) ]
+\0
+
+[@ITEM 56 (FR) ]
+On n'a plus revu le sage de la vie depuis qu'il s'est
+opposé aux plans de la reine. Vous ne pensez pas
+que...?\0
+
+[@ITEM 57 (L1) ]
+\0
+
+[@ITEM 57 (EN) ]
+If we move the Demonic Vessel to the Ocean
+Floor Palace, we can get more powerful energy
+from Lavos-sama.
+Our final desire as People of the Light, to never
+age or die, is no dream!
+Oh, great Queen!
+Our Zeal Kingdom is eternal!!{PRESS_CLEAR}\0
+
+[@ITEM 57 (L2) ]
+\0
+
+[@ITEM 57 (FR) ]
+En transférant le réceptacle sacré dans le sanctuaire
+sous-marin, nous pourrons obtenir encore plus
+d'énergie du grand Lavos.{PRESS_CLEAR}
+Notre rêve ultime d'immortalité deviendra réalité !{PRESS_CLEAR}
+Ô reine glorieuse ! Le royaume de Zhyle sera éternel !!\0
+
+[@ITEM 58 (L1) ]
+\0
+
+[@ITEM 58 (EN) ]
+Oh, that radiance...!?
+That is without a doubt what the Philosophers made
+for Sara-sama!!
+How did you...!?{PRESS_CLEAR}\0
+
+[@ITEM 58 (L2) ]
+\0
+
+[@ITEM 58 (FR) ]
+Oh, cet éclat...?!{PRESS_CLEAR}
+Il n'y a pas de doute, c'est le pendentif que les
+sages ont fabriqué pour mademoiselle Sarah !
+Comment êtes-vous entrés en sa possession ?!\0
+
+[@ITEM 59 (L1) ]
+\0
+
+[@ITEM 59 (EN) ]
+Oh my, that radiance...!
+Is that Sara-sama's pendant?\0
+
+[@ITEM 59 (L2) ]
+\0
+
+[@ITEM 59 (FR) ]
+Cet éclat...! Serait-ce le pendentif de mademoiselle
+Sarah ?\0
+
+[@ITEM 60 (L1) ]
+\0
+
+[@ITEM 60 (EN) ]
+{Marle}: Huh?
+It really won't open.\0
+
+[@ITEM 60 (L2) ]
+\0
+
+[@ITEM 60 (FR) ]
+{Marle} : Oh ? Elle ne veut vraiment pas s'ouvrir.\0
+
+[@ITEM 61 (L1) ]
+\0
+
+[@ITEM 61 (EN) ]
+{Ayla}: Mysterious. Why?\0
+
+[@ITEM 61 (L2) ]
+\0
+
+[@ITEM 61 (FR) ]
+{Ayla} : Porte être étrange. Pourquoi pas s'ouvrir ?\0
+
+[@ITEM 62 (L1) ]
+\0
+
+[@ITEM 62 (EN) ]
+{Robo}: It IS a door with a powerful defense
+system.\0
+
+[@ITEM 62 (L2) ]
+\0
+
+[@ITEM 62 (FR) ]
+{Robo} : Cette porte possède un puissant
+mécanisme de défense.\0
+
+[@ITEM 63 (L1) ]
+\0
+
+[@ITEM 63 (EN) ]
+{Lucca}: Hmmm...
+I wonder if there isn't something about that
+pendant after all...\0
+
+[@ITEM 63 (L2) ]
+\0
+
+[@ITEM 63 (FR) ]
+{Lucca} : Hum... Je m'en doutais. Il y a quelque chose
+au sujet de ce pendentif...\0
+
+[@ITEM 64 (L1) ]
+\0
+
+[@ITEM 64 (EN) ]
+{Frog}: Damn it, to think we can't do a thing
+against a mere door like this...\0
+
+[@ITEM 64 (L2) ]
+\0
+
+[@ITEM 64 (FR) ]
+{Frog} : Malédiction ! Ce n'est qu'une simple porte
+et nous n'arrivons même pas à l'ouvrir.\0
+
+[@ITEM 65 (L1) ]
+\0
+
+[@ITEM 65 (EN) ]
+{Marle}: Yaaay, it opened, it opened!\0
+
+[@ITEM 65 (L2) ]
+\0
+
+[@ITEM 65 (FR) ]
+{Marle} : Hourra ! La porte s'est ouverte !\0
+
+[@ITEM 66 (L1) ]
+\0
+
+[@ITEM 66 (EN) ]
+{Lucca}: Heh, heh, heh...
+You can't halt the advance of science with the
+likes of this caliber of shield!\0
+
+[@ITEM 66 (L2) ]
+\0
+
+[@ITEM 66 (FR) ]
+{Lucca} : Hé, hé, hé... Un tel mécanisme de défense
+ne saurait arrêter le progrès de la science !\0
+
+[@ITEM 67 (L1) ]
+\0
+
+[@ITEM 67 (EN) ]
+{Robo}: It is surely the "Philosopher's Stone".
+{Marle}'s pendant.\0
+
+[@ITEM 67 (L2) ]
+\0
+
+[@ITEM 67 (FR) ]
+{Robo} : Le pendentif de {Marle} est vraiment
+celui qu'ont créé les sages.\0
+
+[@ITEM 68 (L1) ]
+\0
+
+[@ITEM 68 (EN) ]
+{Frog}: Now then, will an ogre appear, or will a
+snake appear?\0
+
+[@ITEM 68 (L2) ]
+\0
+
+[@ITEM 68 (FR) ]
+{Frog} : Qu'est-ce qui nous attend derrière cette
+porte ?\0
+
+[@ITEM 69 (L1) ]
+\0
+
+[@ITEM 69 (EN) ]
+{Ayla}: {Ayla} go!
+Go full power, {Crono}!!\0
+
+[@ITEM 69 (L2) ]
+\0
+
+[@ITEM 69 (FR) ]
+{Ayla} : {Ayla} continuer ! Toujours
+continuer, {Crono} !\0
+
+[@ITEM 70 (L1) ]
+\0
+
+[@ITEM 70 (EN) ]
+'Ane-ue!\0
+
+[@ITEM 70 (L2) ]
+\0
+
+[@ITEM 70 (FR) ]
+Sarah !\0
+
+[@ITEM 71 (L1) ]
+\0
+
+[@ITEM 71 (EN) ]
+'Oh, welcome back.
+Is something wrong, Jyaki?\0
+
+[@ITEM 71 (L2) ]
+\0
+
+[@ITEM 71 (FR) ]
+Ah, tu es rentré. Qu'y a-t-il, Janus ?\0
+
+[@ITEM 72 (L1) ]
+\0
+
+[@ITEM 72 (EN) ]
+Jyaki: The black wind......\0
+
+[@ITEM 72 (L2) ]
+\0
+
+[@ITEM 72 (FR) ]
+Janus : Le vent sombre...\0
+
+[@ITEM 73 (L1) ]
+\0
+
+[@ITEM 73 (EN) ]
+Sara: You feel it, the ominous spirit...?
+It's going to be fine. You don't need to worry.\0
+
+[@ITEM 73 (L2) ]
+\0
+
+[@ITEM 73 (FR) ]
+Sarah : Tu la sens, n'est-ce pas ? Cette aura funeste...?
+Tout ira bien, tu n'as pas à t'inquiéter.\0
+
+[@ITEM 74 (L1) ]
+\0
+
+[@ITEM 74 (EN) ]
+Sara: Here, take this.\0
+
+[@ITEM 74 (L2) ]
+\0
+
+[@ITEM 74 (FR) ]
+Sarah : Tiens, prends ça.\0
+
+[@ITEM 75 (L1) ]
+\0
+
+[@ITEM 75 (EN) ]
+Jyaki: This......?\0
+
+[@ITEM 75 (L2) ]
+\0
+
+[@ITEM 75 (FR) ]
+Janus : Qu'est-ce que c'est ?\0
+
+[@ITEM 76 (L1) ]
+\0
+
+[@ITEM 76 (EN) ]
+Sara: It's a charm.
+My prayers are held in it to protect you, just in
+case.
+I wish that I could always stay by your side...
+But Mother's plans...{PRESS_CLEAR}\0
+
+[@ITEM 76 (L2) ]
+\0
+
+[@ITEM 76 (FR) ]
+Sarah : Une amulette qui renferme mes prières.
+Si le pire venait à se produire, elle te protégera.{PRESS_CLEAR}
+J'aimerais pouvoir toujours demeurer à tes côtés...
+Cependant, les plans de notre mère...\0
+
+[@ITEM 77 (L1) ]
+\0
+
+[@ITEM 77 (EN) ]
+Jyaki: That bitch isn't our mother!
+The appearance is mother's, but she's something
+different on the inside......\0
+
+[@ITEM 77 (L2) ]
+\0
+
+[@ITEM 77 (FR) ]
+Janus : Cette femme n'est pas notre mère ! Elle en a
+l'apparence, mais à l'intérieur, ce n'est pas elle...\0
+
+[@ITEM 78 (L1) ]
+\0
+
+[@ITEM 78 (EN) ]
+Sara: ...
+And yet, for me...
+I'm sorry, Jyaki...{PRESS_CLEAR}\0
+
+[@ITEM 78 (L2) ]
+\0
+
+[@ITEM 78 (FR) ]
+Sarah : ...{PRESS_CLEAR}
+Toutefois, je... Je suis désolée, Janus...\0
+
+[@ITEM 79 (L1) ]
+\0
+
+[@ITEM 79 (EN) ]
+Please excuse me, Sara-sama.\0
+
+[@ITEM 79 (L2) ]
+\0
+
+[@ITEM 79 (FR) ]
+Pardonnez-moi, Votre Altesse.\0
+
+[@ITEM 80 (L1) ]
+\0
+
+[@ITEM 80 (EN) ]
+The Queen calls.
+She would like to have you descend
+to the Ocean Floor Temple immediately.\0
+
+[@ITEM 80 (L2) ]
+\0
+
+[@ITEM 80 (FR) ]
+La reine vous mande. Votre présence est requise
+immédiatement dans le sanctuaire sous-marin.\0
+
+[@ITEM 81 (L1) ]
+\0
+
+[@ITEM 81 (EN) ]
+Sara: ...Understood.\0
+
+[@ITEM 81 (L2) ]
+\0
+
+[@ITEM 81 (FR) ]
+Sarah : ...
+Entendu.\0
+
+[@ITEM 82 (L1) ]
+\0
+
+[@ITEM 82 (EN) ]
+Sara: Well then, Jyaki...
+I'll be back later...\0
+
+[@ITEM 82 (L2) ]
+\0
+
+[@ITEM 82 (FR) ]
+Sarah : Au revoir, Janus...\0
+
+[@ITEM 83 (L1) ]
+\0
+
+[@ITEM 83 (EN) ]
+Sara: Oh...
+You are...?\0
+
+[@ITEM 83 (L2) ]
+\0
+
+[@ITEM 83 (FR) ]
+Sarah : Oh... Qui sont ces gens...?\0
+
+[@ITEM 84 (L1) ]
+\0
+
+[@ITEM 84 (EN) ]
+Sara-sama, please hurry.
+If we are late, then the Queen will{56}\0
+
+[@ITEM 84 (L2) ]
+\0
+
+[@ITEM 84 (FR) ]
+Dépêchez-vous, Votre Altesse. Si vous êtes en retard,
+la reine me punira...\0
+
+[@ITEM 85 (L1) ]
+\0
+
+[@ITEM 85 (EN) ]
+Sara: Yes. I'm sorry.\0
+
+[@ITEM 85 (L2) ]
+\0
+
+[@ITEM 85 (FR) ]
+Sarah : Oui, pardonnez-moi.\0
+
+[@ITEM 86 (L1) ]
+\0
+
+[@ITEM 86 (EN) ]
+Jyaki: ...
+Go away.\0
+
+[@ITEM 86 (L2) ]
+\0
+
+[@ITEM 86 (FR) ]
+Janus : ...
+Allez-vous-en.\0
+
+[@ITEM 87 (L1) ]
+\0
+
+[@ITEM 87 (EN) ]
+Jyaki: Alfador won't get attached to anyone but me.\0
+
+[@ITEM 87 (L2) ]
+\0
+
+[@ITEM 87 (FR) ]
+Janus : Inutile. Alphard n'aime que moi.\0
+
+[@ITEM 88 (L1) ]
+\0
+
+[@ITEM 88 (EN) ]
+Prophet: !?\0
+
+[@ITEM 88 (L2) ]
+\0
+
+[@ITEM 88 (FR) ]
+Prophète : ?!\0
+
+[@ITEM 89 (L1) ]
+\0
+
+[@ITEM 89 (EN) ]
+Dalton: Oh, you guys......?\0
+
+[@ITEM 89 (L2) ]
+\0
+
+[@ITEM 89 (FR) ]
+Dalton : Oh, c'est vous...\0
+
+[@ITEM 90 (L1) ]
+\0
+
+[@ITEM 90 (EN) ]
+Queen: Who are you!?
+How did you get in here?\0
+
+[@ITEM 90 (L2) ]
+\0
+
+[@ITEM 90 (FR) ]
+Reine : Qui êtes-vous ?! Comment êtes-vous parvenus
+jusqu'ici ?\0
+
+[@ITEM 91 (L1) ]
+\0
+
+[@ITEM 91 (EN) ]
+Prophet: Queen...
+These people are those I warned you of
+who will bring about catastrophe...\0
+
+[@ITEM 91 (L2) ]
+\0
+
+[@ITEM 91 (FR) ]
+Prophète : Votre Majesté... Ce sont ceux contre qui
+je vous avais mise en garde, ceux qui apportent le
+malheur...\0
+
+[@ITEM 92 (L1) ]
+\0
+
+[@ITEM 92 (EN) ]
+Queen: What!? Foreigners!
+Do you too mean to oppose me, Zeal, as
+the Philosophers did!?\0
+
+[@ITEM 92 (L2) ]
+\0
+
+[@ITEM 92 (FR) ]
+Reine : Comment ?! Étrangers ! Vous oseriez me défier
+comme l'ont fait les sages ?!\0
+
+[@ITEM 93 (L1) ]
+\0
+
+[@ITEM 93 (EN) ]
+Queen: Foolish lot!
+Dalton, seize them!\0
+
+[@ITEM 93 (L2) ]
+\0
+
+[@ITEM 93 (FR) ]
+Reine : Pauvres fous ! Dalton, capture-les !\0
+
+[@ITEM 94 (L1) ]
+\0
+
+[@ITEM 94 (EN) ]
+Dalton: Yes, ma'am!
+Certainly...\0
+
+[@ITEM 94 (L2) ]
+\0
+
+[@ITEM 94 (FR) ]
+Dalton : À vos ordres, Votre Majesté !\0
+
+[@ITEM 95 (L1) ]
+\0
+
+[@ITEM 95 (EN) ]
+Dalton: Golem!\0
+
+[@ITEM 95 (L2) ]
+\0
+
+[@ITEM 95 (FR) ]
+Dalton : Golem !\0
+
+[@ITEM 96 (L1) ]
+\0
+
+[@ITEM 96 (EN) ]
+Dalton: My golem......!\0
+
+[@ITEM 96 (L2) ]
+\0
+
+[@ITEM 96 (FR) ]
+Dalton : Mon golem...! Vous me le paierez !\0
+
+[@ITEM 97 (L1) ]
+\0
+
+[@ITEM 97 (EN) ]
+Queen: Heh, heh, heh{56}
+Relax, I won't kill you right away...
+I'll let you taste every sorrow, suffering...
+and terror.
+May you thoroughly regret opposing my
+plans.
+Heh, heh, heh...
+Ah, ha, ha...!{PRESS_CLEAR}{PRESS_CLEAR}\0
+
+[@ITEM 97 (L2) ]
+\0
+
+[@ITEM 97 (FR) ]
+Reine : Ha, ha, ha, ha... Rassurez-vous, je ne vous
+éliminerai pas tout de suite...{PRESS_CLEAR}
+Je vais d'abord vous faire goûter la tristesse,
+la souffrance et la terreur ! Vous regretterez
+amèrement de vous être opposés à mes plans.{PRESS_CLEAR}
+Ho, ho, ho, ho...
+Mouah, ha, ha, ha...!\0
+
+[@ITEM 98 (L1) ]
+\0
+
+[@ITEM 98 (EN) ]
+Jyaki: Hmph, idiots...
+Ane-ue, what are you intending to do?\0
+
+[@ITEM 98 (L2) ]
+\0
+
+[@ITEM 98 (FR) ]
+Janus : Pfft, ils ne sont que des idiots...
+Que comptes-tu faire, Sarah ?\0
+
+[@ITEM 99 (L1) ]
+\0
+
+[@ITEM 99 (EN) ]
+Sara: I shall assist these people.\0
+
+[@ITEM 99 (L2) ]
+\0
+
+[@ITEM 99 (FR) ]
+Sarah : Je vais leur porter secours.\0
+
+[@ITEM 100 (L1) ]
+\0
+
+[@ITEM 100 (EN) ]
+Jyaki: I think it's pointless, though...
+Besides, if you do something like letting them
+escape, you'll...\0
+
+[@ITEM 100 (L2) ]
+\0
+
+[@ITEM 100 (FR) ]
+Janus : Ça ne servirait à rien... Et puis, si tu les laisses
+s'échapper, tu seras punie.\0
+
+[@ITEM 101 (L1) ]
+\0
+
+[@ITEM 101 (EN) ]
+Sara: It's all right, I...
+Besides, these people might help the
+Philosophers...{PRESS_CLEAR}\0
+
+[@ITEM 101 (L2) ]
+\0
+
+[@ITEM 101 (FR) ]
+Sarah : Ne t'inquiète pas.{PRESS_CLEAR}
+D'ailleurs, ces gens pourraient aider le sage...\0
+
+[@ITEM 102 (L1) ]
+\0
+
+[@ITEM 102 (EN) ]
+Jyaki: Ane-ue...\0
+
+[@ITEM 102 (L2) ]
+\0
+
+[@ITEM 102 (FR) ]
+Janus : Sarah...\0
+
+[@ITEM 103 (L1) ]
+\0
+
+[@ITEM 103 (EN) ]
+Sara: Are you all right?
+Now, please hurry and escape from the palace.
+And then, if there is anything you can do, I would
+like you to save the Philosopher of Life{56}{PRESS_CLEAR}\0
+
+[@ITEM 103 (L2) ]
+\0
+
+[@ITEM 103 (FR) ]
+Sarah : Vous n'avez rien ? Vite, enfuyez-vous du palais.{PRESS_CLEAR}
+Ensuite, si vous en êtes capables, aidez le sage de la
+vie, je vous en supplie...\0
+
+[@ITEM 104 (L1) ]
+\0
+
+[@ITEM 104 (EN) ]
+Sara: The Philosopher of Life was imprisoned on
+Grief Mountain for opposing the plans...
+Please, the Philosopher...{PRESS_CLEAR}\0
+
+[@ITEM 104 (L2) ]
+\0
+
+[@ITEM 104 (FR) ]
+Sarah : Il a été emprisonné sur le mont du tourment
+parce qu'il s'opposait aux plans de la reine...{PRESS_CLEAR}
+S'il vous plaît, sauvez-le...\0
+
+[@ITEM 105 (L1) ]
+\0
+
+[@ITEM 105 (EN) ]
+'I won't let you do so......\0
+
+[@ITEM 105 (L2) ]
+\0
+
+[@ITEM 105 (FR) ]
+Je ne vous laisserai pas faire...\0
+
+[@ITEM 106 (L1) ]
+\0
+
+[@ITEM 106 (EN) ]
+Prophet: I won't let you hinder me any further...
+I'll have you disappear right here.\0
+
+[@ITEM 106 (L2) ]
+\0
+
+[@ITEM 106 (FR) ]
+Prophète : Je ne peux pas vous permettre de me faire
+obstacle plus longtemps... Je vous éliminerai ici !\0
+
+[@ITEM 107 (L1) ]
+\0
+
+[@ITEM 107 (EN) ]
+Sara: You must not!\0
+
+[@ITEM 107 (L2) ]
+\0
+
+[@ITEM 107 (FR) ]
+Sarah : Non !\0
+
+[@ITEM 108 (L1) ]
+\0
+
+[@ITEM 108 (EN) ]
+Prophet: ...!\0
+
+[@ITEM 108 (L2) ]
+\0
+
+[@ITEM 108 (FR) ]
+Prophète : ...!\0
+
+[@ITEM 109 (L1) ]
+\0
+
+[@ITEM 109 (EN) ]
+Jyaki: Stop!\0
+
+[@ITEM 109 (L2) ]
+\0
+
+[@ITEM 109 (FR) ]
+Janus : Arrêtez !\0
+
+[@ITEM 110 (L1) ]
+\0
+
+[@ITEM 110 (EN) ]
+Prophet: ...Hm.
+Very well, I'll spare their lives.
+In exchange, I will have you assist me.
+Sara...{PRESS_CLEAR}\0
+
+[@ITEM 110 (L2) ]
+\0
+
+[@ITEM 110 (FR) ]
+Prophète : ... Hum.
+Bien, je leur laisserai la vie sauve.{PRESS_CLEAR}
+Mais en échange, tu vas m'aider, Sarah...\0
+
+[@ITEM 111 (L1) ]
+\0
+
+[@ITEM 111 (EN) ]
+Prophet: Now, will you tell me how you all
+were brought to this era...?\0
+
+[@ITEM 111 (L2) ]
+\0
+
+[@ITEM 111 (FR) ]
+Prophète : Maintenant, vous allez me dire comment vous
+êtes arrivés à cette époque...\0
+
+[@ITEM 112 (L1) ]
+\0
+
+[@ITEM 112 (EN) ]
+The Demonic Vessel was transferred to the
+Ocean Floor Temple.
+Finally, the time has come when we will obtain
+true Lavos energy.\0
+
+[@ITEM 112 (L2) ]
+\0
+
+[@ITEM 112 (FR) ]
+Le réceptacle sacré a été transféré dans le sanctuaire
+sous-marin. Nous allons enfin obtenir l'énergie véritable
+de Lavos.\0
+
+[@ITEM 113 (L1) ]
+\0
+
+[@ITEM 113 (EN) ]
+The Ocean Floor Temple has been completed.
+Oh, eternal time now begins for us of Zeal!!\0
+
+[@ITEM 113 (L2) ]
+\0
+
+[@ITEM 113 (FR) ]
+Le sanctuaire sous-marin est terminé !
+C'est l'avènement de l'ère éternelle de Zhyle !\0
+
+[@ITEM 114 (L1) ]
+\0
+
+[@ITEM 114 (EN) ]
+Our Zeal Kingdom is enveloped in eternal
+light...{PRESS_CLEAR}
+Here, there is no longer fear or sorrow.
+Only endless tranquility awaits us.\0
+
+[@ITEM 114 (L2) ]
+\0
+
+[@ITEM 114 (FR) ]
+Le royaume de Zhyle sera enveloppé par la lumière
+éternelle...{PRESS_CLEAR}
+Il n'y aura plus ni peur ni tristesse, seule une sérénité
+sans fin.\0
+
+[@ITEM 115 (L1) ]
+\0
+
+[@ITEM 115 (EN) ]
+The Queen took Sara-sama with her and
+descended to the Ocean Floor Temple.{PRESS_CLEAR}
+Finally, we People of the Light will obtain
+eternal life.\0
+
+[@ITEM 115 (L2) ]
+\0
+
+[@ITEM 115 (FR) ]
+Sa Majesté est descendue dans le sanctuaire
+sous-marin accompagnée de mademoiselle Sarah.{PRESS_CLEAR}
+Nous allons enfin obtenir la vie éternelle.\0
+
+[@ITEM 116 (L1) ]
+\0
+
+[@ITEM 116 (EN) ]
+I've heard that the entrance to the Ocean Floor
+Temple is in the Queen's hall.{PRESS_CLEAR}
+One day all will be able to see the radiant new
+Demonic Vessel.\0
+
+[@ITEM 116 (L2) ]
+\0
+
+[@ITEM 116 (FR) ]
+On dit que l'entrée du sanctuaire sous-marin est située
+dans la salle d'audience de la reine.{PRESS_CLEAR}
+Bientôt, tous pourront admirer l'éclat étincelant du
+nouveau réceptacle sacré !\0
+
+[@ITEM 117 (L1) ]
+\0
+
+[@ITEM 117 (EN) ]
+Dalton: Jeez, that prophet bastard went in. How come
+I'm on lookout in a place like this...?\0
+
+[@ITEM 117 (L2) ]
+\0
+
+[@ITEM 117 (FR) ]
+Dalton : Pfft, pourquoi quelqu'un comme moi doit-il servir
+de sentinelle alors que ce prophète de malheur est à
+l'intérieur ?\0
+
+[@ITEM 118 (L1) ]
+\0
+
+[@ITEM 118 (EN) ]
+Dalton: Hmph, you bastards came......\0
+
+[@ITEM 118 (L2) ]
+\0
+
+[@ITEM 118 (FR) ]
+Dalton : Oh, vous voilà donc...\0
+
+[@ITEM 119 (L1) ]
+\0
+
+[@ITEM 119 (EN) ]
+Dalton: I let that prophet bastard go, thinking he'll
+slip up somehow...
+But I've no further use for you guys either.\0
+
+[@ITEM 119 (L2) ]
+\0
+
+[@ITEM 119 (FR) ]
+Dalton : J'ai laissé le prophète agir à sa guise, pensant
+qu'il se trahirait, d'une façon ou d'une autre... Vous ne
+m'êtes plus d'aucune utilité, vous non plus.\0
+
+[@ITEM 120 (L1) ]
+\0
+
+[@ITEM 120 (EN) ]
+Dalton: Take it like a man and dieee!\0
+
+[@ITEM 120 (L2) ]
+\0
+
+[@ITEM 120 (FR) ]
+Dalton : Acceptez votre défaite avec fierté !\0
+
+[@ITEM 121 (L1) ]
+\0
+
+[@ITEM 121 (EN) ]
+Dalton: N-no way...!
+I'm going to get the power of eternity.
+As if I'd just lie down and get beaten now!\0
+
+[@ITEM 121 (L2) ]
+\0
+
+[@ITEM 121 (FR) ]
+Dalton : Non...! Je vais obtenir le pouvoir de l'éternité !
+Je ne peux pas me faire battre si près du but !\0
+
+[@ITEM 122 (L1) ]
+\0
+
+[@ITEM 122 (EN) ]
+Leon: A black spirit is swelling......
+Something scary is waking up.\0
+
+[@ITEM 122 (L2) ]
+\0
+
+[@ITEM 122 (FR) ]
+Léon : L'aura sombre grandit... Une créature terrifiante
+s'éveille.\0
+
+[@ITEM 123 (L1) ]
+\0
+
+[@ITEM 123 (EN) ]
+Queen: Now, Sara, raise the Demonic Vessel's
+power to its limit.\0
+
+[@ITEM 123 (L2) ]
+\0
+
+[@ITEM 123 (FR) ]
+Reine : Allez, Sarah. Augmente la puissance du
+réceptacle sacré jusqu'à sa limite !\0
+
+[@ITEM 124 (L1) ]
+\0
+
+[@ITEM 124 (EN) ]
+Sara: ......\0
+
+[@ITEM 124 (L2) ]
+\0
+
+[@ITEM 124 (FR) ]
+Sarah : ...\0
+
+[@ITEM 125 (L1) ]
+\0
+
+[@ITEM 125 (EN) ]
+Queen: You won't obey me!?\0
+
+[@ITEM 125 (L2) ]
+\0
+
+[@ITEM 125 (FR) ]
+Reine : Sarah ! Désobéirais-tu à mes ordres ?!\0
+
+[@ITEM 126 (L1) ]
+\0
+
+[@ITEM 126 (EN) ]
+Sara: Understood, Mother...\0
+
+[@ITEM 126 (L2) ]
+\0
+
+[@ITEM 126 (FR) ]
+Sarah : Non, mère...\0
+
+[@ITEM 127 (L1) ]
+\0
+
+[@ITEM 127 (EN) ]
+Prophet: ...\0
+
+[@ITEM 127 (L2) ]
+\0
+
+[@ITEM 127 (FR) ]
+Prophète : ...\0
+
+[@ITEM 128 (L1) ]
+\0
+
+[@ITEM 128 (EN) ]
+Queen: Ohhh... such a dazzling radiance!
+Lavos-sama's magnificent power!!\0
+
+[@ITEM 128 (L2) ]
+\0
+
+[@ITEM 128 (FR) ]
+Reine : Oh... Quel éclat éblouissant ! Le merveilleux
+pouvoir du grand Lavos !\0
+
+[@ITEM 129 (L1) ]
+\0
+
+[@ITEM 129 (EN) ]
+Sara: Ugh...\0
+
+[@ITEM 129 (L2) ]
+\0
+
+[@ITEM 129 (FR) ]
+Sarah : Ooh...\0
+
+[@ITEM 130 (L1) ]
+\0
+
+[@ITEM 130 (EN) ]
+Prophet: ...\0
+
+[@ITEM 130 (L2) ]
+\0
+
+[@ITEM 130 (FR) ]
+Prophète : ...\0
+
+[@ITEM 131 (L1) ]
+\0
+
+[@ITEM 131 (EN) ]
+Queen: Ahhh, I feel it... I feel it!
+The pulse of eternal life...!!
+Ku, ku, ku...!\0
+
+[@ITEM 131 (L2) ]
+\0
+
+[@ITEM 131 (FR) ]
+Reine : Ah, je les sens... Je les sens ! Les pulsations de
+la vie éternelle...! Ha, ha, ha, ha !\0
+
+[@ITEM 132 (L1) ]
+\0
+
+[@ITEM 132 (EN) ]
+Sara: Th-this swirl of black spirit...!?\0
+
+[@ITEM 132 (L2) ]
+\0
+
+[@ITEM 132 (FR) ]
+Sarah : L'aura sombre se déchaîne ! Aaah !\0
+
+[@ITEM 133 (L1) ]
+\0
+
+[@ITEM 133 (EN) ]
+Prophet: ...!!\0
+
+[@ITEM 133 (L2) ]
+\0
+
+[@ITEM 133 (FR) ]
+Prophète : ...!\0
+
+[@ITEM 134 (L1) ]
+\0
+
+[@ITEM 134 (EN) ]
+Th, the Demonic Vessel looks......!!
+Queen, any more than this is dangerous!\0
+
+[@ITEM 134 (L2) ]
+\0
+
+[@ITEM 134 (FR) ]
+Le réceptacle sacré...! Votre Majesté, c'est trop
+dangereux !\0
+
+[@ITEM 135 (L1) ]
+\0
+
+[@ITEM 135 (EN) ]
+Sara: Mother......!!\0
+
+[@ITEM 135 (L2) ]
+\0
+
+[@ITEM 135 (FR) ]
+Sarah : Mère...!\0
+
+[@ITEM 136 (L1) ]
+\0
+
+[@ITEM 136 (EN) ]
+Queen: Continue, Sara!
+Just a little more...{PRESS_CLEAR}
+I will obtain eternal life!
+Our Zeal Kingdom will be engulfed in the light
+of the gods!\0
+
+[@ITEM 136 (L2) ]
+\0
+
+[@ITEM 136 (FR) ]
+Reine : Continue, Sarah ! Nous y sommes presque...{PRESS_CLEAR}
+J'obtiendrai la vie éternelle ! La lumière divine
+enveloppera le royaume de Zhyle !\0
+
+[@ITEM 137 (L1) ]
+\0
+
+[@ITEM 137 (EN) ]
+Queen: Ku, ku, ku...
+Ah, ha, ha, ha...!!\0
+
+[@ITEM 137 (L2) ]
+\0
+
+[@ITEM 137 (FR) ]
+Reine : Ha, ha, ha, ha, ha...
+Mouah, ha, ha, ha, ha...!\0
+
+[@ITEM 138 (L1) ]
+\0
+
+[@ITEM 138 (EN) ]
+This is the Demonic Vessel's shrine......{PRESS_CLEAR}
+If you're turning back, now's the time, nuu......\0
+
+[@ITEM 138 (L2) ]
+\0
+
+[@ITEM 138 (FR) ]
+Ceci est l'autel du réceptacle sacré...{PRESS_CLEAR}
+Il est encore temps de faire demi-tour, gnu...\0
+
+[@ITEM 139 (L1) ]
+\0
+
+[@ITEM 139 (EN) ]
+{Marle}: Sara! We've come to save you!
+Let's get out of here!\0
+
+[@ITEM 139 (L2) ]
+\0
+
+[@ITEM 139 (FR) ]
+{Marle} : Sarah ! Nous sommes venus te sauver !
+Fuyons cet endroit !\0
+
+[@ITEM 140 (L1) ]
+\0
+
+[@ITEM 140 (EN) ]
+{Lucca}: It looks like we've made it in time!{PRESS_CLEAR}
+It's kind of a shame, but we're going to have
+you stop that machine!\0
+
+[@ITEM 140 (L2) ]
+\0
+
+[@ITEM 140 (FR) ]
+{Lucca} : On dirait que nous sommes arrivés à
+temps ! C'est un peu dommage, mais je vais
+arrêter cette machine !\0
+
+[@ITEM 141 (L1) ]
+\0
+
+[@ITEM 141 (EN) ]
+{Robo}: Staggering gravity waves!?
+I can feel a dimensional fluctuation!\0
+
+[@ITEM 141 (L2) ]
+\0
+
+[@ITEM 141 (FR) ]
+{Robo} : Cette onde gravitationnelle est
+surpuissante ! Je détecte une fluctuation
+dimensionnelle !\0
+
+[@ITEM 142 (L1) ]
+\0
+
+[@ITEM 142 (EN) ]
+{Frog}: We won't let you meddle with Lavos any
+further, Queen!\0
+
+[@ITEM 142 (L2) ]
+\0
+
+[@ITEM 142 (FR) ]
+{Frog} : Nous ne vous laisserons pas jouer avec
+Lavos, Votre Majesté !\0
+
+[@ITEM 143 (L1) ]
+\0
+
+[@ITEM 143 (EN) ]
+{Ayla}: {Ayla} came!
+Where strong one!?\0
+
+[@ITEM 143 (L2) ]
+\0
+
+[@ITEM 143 (FR) ]
+{Ayla} : {Ayla} venir ! Où être méchant fort ?!\0
+
+[@ITEM 144 (L1) ]
+\0
+
+[@ITEM 144 (EN) ]
+Sara: You people are......!{56}\0
+
+[@ITEM 144 (L2) ]
+\0
+
+[@ITEM 144 (FR) ]
+Sarah : Vous...!\0
+
+[@ITEM 145 (L1) ]
+\0
+
+[@ITEM 145 (EN) ]
+Sara: Kyaah!!\0
+
+[@ITEM 145 (L2) ]
+\0
+
+[@ITEM 145 (FR) ]
+Sarah : Aaaaaah !\0
+
+[@ITEM 146 (L1) ]
+\0
+
+[@ITEM 146 (EN) ]
+Prophet: Sara!\0
+
+[@ITEM 146 (L2) ]
+\0
+
+[@ITEM 146 (FR) ]
+Prophète : Sarah !\0
+
+[@ITEM 147 (L1) ]
+\0
+
+[@ITEM 147 (EN) ]
+Queen: What are you doing, Sara!
+Do your job and control it!\0
+
+[@ITEM 147 (L2) ]
+\0
+
+[@ITEM 147 (FR) ]
+Reine : Mais qu'est-ce que tu fais, Sarah ?! Ne peux-tu
+pas contrôler la machine comme il faut ?\0
+
+[@ITEM 148 (L1) ]
+\0
+
+[@ITEM 148 (EN) ]
+{Marle}: {Crono}......!
+The red knife!\0
+
+[@ITEM 148 (L2) ]
+\0
+
+[@ITEM 148 (FR) ]
+{Marle} : {Crono}...! Le couteau écarlate !\0
+
+[@ITEM 149 (L1) ]
+\0
+
+[@ITEM 149 (EN) ]
+{Lucca}: Come on, {Crono}!
+If you don't hurry, this is gonna be bad...!\0
+
+[@ITEM 149 (L2) ]
+\0
+
+[@ITEM 149 (FR) ]
+{Lucca} : Vas-y, {Crono} ! Si tu ne te dépêches
+pas, nous serons dans de beaux draps !\0
+
+[@ITEM 150 (L1) ]
+\0
+
+[@ITEM 150 (EN) ]
+{Robo}: We must make the Demonic Vessel
+halt with the knife entrusted to us by
+Bosch-san...!\0
+
+[@ITEM 150 (L2) ]
+\0
+
+[@ITEM 150 (FR) ]
+{Robo} : Nous devons arrêter le réceptacle sacré
+avec le couteau que Bosch nous a donné !\0
+
+[@ITEM 151 (L1) ]
+\0
+
+[@ITEM 151 (EN) ]
+{Frog}: The old man's knife, {Crono}!
+Stop the Demonic Vessel!!\0
+
+[@ITEM 151 (L2) ]
+\0
+
+[@ITEM 151 (FR) ]
+{Frog} : Le couteau de Bosch, {Crono} !
+Arrête le réceptacle sacré !!\0
+
+[@ITEM 152 (L1) ]
+\0
+
+[@ITEM 152 (EN) ]
+{Ayla}: {Crono}!
+Red knife!!{Crono}\0
+
+[@ITEM 152 (L2) ]
+\0
+
+[@ITEM 152 (FR) ]
+{Ayla} : {Crono} ! Couteau écarlate !\0
+
+[@ITEM 153 (L1) ]
+\0
+
+[@ITEM 153 (EN) ]
+Gran: All right, here we go, Leon!\0
+
+[@ITEM 153 (L2) ]
+\0
+
+[@ITEM 153 (FR) ]
+Gran : Allons-y, Léon !\0
+
+[@ITEM 154 (L1) ]
+\0
+
+[@ITEM 154 (EN) ]
+Leon: Yeah, Gran nii-chan!\0
+
+[@ITEM 154 (L2) ]
+\0
+
+[@ITEM 154 (FR) ]
+Léon : D'accord, Gran !\0
+
+[@ITEM 155 (L1) ]
+\0
+
+[@ITEM 155 (EN) ]
+{Frog}: Th-that's...
+The Grandleon!?\0
+
+[@ITEM 155 (L2) ]
+\0
+
+[@ITEM 155 (FR) ]
+{Frog} : C'est... Grandléon ?!\0
+
+[@ITEM 156 (L1) ]
+\0
+
+[@ITEM 156 (EN) ]
+{Lucca}: The knife turned into a sword with the
+Demonic Vessel's energy...!?\0
+
+[@ITEM 156 (L2) ]
+\0
+
+[@ITEM 156 (FR) ]
+{Lucca} : L'énergie du réceptacle sacré a
+transformé le couteau en épée ?!\0
+
+[@ITEM 157 (L1) ]
+\0
+
+[@ITEM 157 (EN) ]
+{Marle}: H-huh...?
+It turned into the Grandleon!?\0
+
+[@ITEM 157 (L2) ]
+\0
+
+[@ITEM 157 (FR) ]
+{Marle} : C'est...? Il est devenu Grandléon ?!\0
+
+[@ITEM 158 (L1) ]
+\0
+
+[@ITEM 158 (EN) ]
+{Robo}: The knife absorbed the Demonic
+Vessel's power and became a sword!?\0
+
+[@ITEM 158 (L2) ]
+\0
+
+[@ITEM 158 (FR) ]
+{Robo} : Le couteau a absorbé l'énergie du
+réceptacle sacré et est devenu une épée ?!\0
+
+[@ITEM 159 (L1) ]
+\0
+
+[@ITEM 159 (EN) ]
+Queen: Th, the Demonic Vessel!?\0
+
+[@ITEM 159 (L2) ]
+\0
+
+[@ITEM 159 (FR) ]
+Reine : Le... Le réceptacle sacré ?!\0
+
+[@ITEM 160 (L1) ]
+\0
+
+[@ITEM 160 (EN) ]
+Prophet: It's coming......!\0
+
+[@ITEM 160 (L2) ]
+\0
+
+[@ITEM 160 (FR) ]
+Prophète : Il approche...!\0
+
+[@ITEM 161 (L1) ]
+\0
+
+[@ITEM 161 (EN) ]
+Sara: N... no...!!
+You can't fully suppress this power with just that
+sword...!!\0
+
+[@ITEM 161 (L2) ]
+\0
+
+[@ITEM 161 (FR) ]
+Sarah : Non...! Cette épée à elle seule ne saurait contenir
+cette force...!\0
+
+[@ITEM 162 (L1) ]
+\0
+
+[@ITEM 162 (EN) ]
+'How long have I waited impatiently...?
+For this moment to come!!\0
+
+[@ITEM 162 (L2) ]
+\0
+
+[@ITEM 162 (FR) ]
+J'ai attendu ce moment depuis si longtemps !\0
+
+[@ITEM 163 (L1) ]
+\0
+
+[@ITEM 163 (EN) ]
+{Magus}: It's been a while, Lavos......\0
+
+[@ITEM 163 (L2) ]
+\0
+
+[@ITEM 163 (FR) ]
+{Magus} : Nous nous retrouvons enfin, Lavos...\0
+
+[@ITEM 164 (L1) ]
+\0
+
+[@ITEM 164 (EN) ]
+{Magus}: On that far-off day, I swore...
+To crush you with my own hand...!
+Even if it comes to losing everything for that
+sake...!!{PRESS_CLEAR}
+Finally, the time to fulfill that oath has come.
+Die, Lavos!!\0
+
+[@ITEM 164 (L2) ]
+\0
+
+[@ITEM 164 (FR) ]
+{Magus} : En ce jour lointain, j'ai juré que je
+t'écraserais de mes propres mains !{PRESS_CLEAR}
+Même si je devais tout perdre pour y arriver !{PRESS_CLEAR}
+Le moment est enfin venu de respecter mon serment.
+Meurs, Lavos !!\0
+
+[@ITEM 165 (L1) ]
+\0
+
+[@ITEM 165 (EN) ]
+'Is that possible for you, I wonder......?\0
+
+[@ITEM 165 (L2) ]
+\0
+
+[@ITEM 165 (FR) ]
+Crois-tu vraiment en être capable ?\0
+
+[@ITEM 166 (L1) ]
+\0
+
+[@ITEM 166 (EN) ]
+Queen: Hmph, damn false prophet...
+Let's make you into Lavos-sama's prey too.\0
+
+[@ITEM 166 (L2) ]
+\0
+
+[@ITEM 166 (FR) ]
+Reine : Imposteur... Tu seras toi aussi la proie du grand
+Lavos.\0
+
+[@ITEM 167 (L1) ]
+\0
+
+[@ITEM 167 (EN) ]
+Sara: Mother, please stop already!
+This power will bring people nothing but
+calamity!
+Any more than this...!!{PRESS_CLEAR}\0
+
+[@ITEM 167 (L2) ]
+\0
+
+[@ITEM 167 (FR) ]
+Sarah : Mère, arrêtez !{PRESS_CLEAR}
+Ce pouvoir n'apporte que des malheurs ! Je ne veux
+plus...\0
+
+[@ITEM 168 (L1) ]
+\0
+
+[@ITEM 168 (EN) ]
+Queen: Out of my way, Sara!{PRESS_CLEAR}
+Lavos-sama's great life force is breathing
+within me...
+You too are part of that.{PRESS_CLEAR}
+You can't change fate anymore!
+If you mean to hinder me, I'll go as far as to
+eliminate you!\0
+
+[@ITEM 168 (L2) ]
+\0
+
+[@ITEM 168 (FR) ]
+Reine : Écarte-toi, Sarah ! La glorieuse force vitale du
+grand Lavos respire en moi... Tu en fais aussi partie.{PRESS_CLEAR}
+Tu ne peux plus changer le destin ! Si tu comptes me
+faire obstacle, je t'éliminerai comme les autres !\0
+
+[@ITEM 169 (L1) ]
+\0
+
+[@ITEM 169 (EN) ]
+'Uwah!\0
+
+[@ITEM 169 (L2) ]
+\0
+
+[@ITEM 169 (FR) ]
+Ooh !\0
+
+[@ITEM 170 (L1) ]
+\0
+
+[@ITEM 170 (EN) ]
+'Kyah!\0
+
+[@ITEM 170 (L2) ]
+\0
+
+[@ITEM 170 (FR) ]
+Aah !\0
+
+[@ITEM 171 (L1) ]
+\0
+
+[@ITEM 171 (EN) ]
+Sara: Kyaah!\0
+
+[@ITEM 171 (L2) ]
+\0
+
+[@ITEM 171 (FR) ]
+Sarah : Aaaaaah !\0
+
+[@ITEM 172 (L1) ]
+\0
+
+[@ITEM 172 (EN) ]
+{Magus}: Damn...!\0
+
+[@ITEM 172 (L2) ]
+\0
+
+[@ITEM 172 (FR) ]
+{Magus} : Non...!\0
+
+[@ITEM 173 (L1) ]
+\0
+
+[@ITEM 173 (EN) ]
+Queen: Here we go, Prophet!
+May you realize Lavos-sama's power!!\0
+
+[@ITEM 173 (L2) ]
+\0
+
+[@ITEM 173 (FR) ]
+Reine : Viens, prophète ! Découvre le pouvoir du grand
+Lavos !\0
+
+[@ITEM 174 (L1) ]
+\0
+
+[@ITEM 174 (EN) ]
+{Magus}: Kh...!\0
+
+[@ITEM 174 (L2) ]
+\0
+
+[@ITEM 174 (FR) ]
+{Magus} : Ah...!\0
+
+[@ITEM 175 (L1) ]
+\0
+
+[@ITEM 175 (EN) ]
+{Magus}: Ugh...!!
+M-my magical power...
+It's being sucked away...!?\0
+
+[@ITEM 175 (L2) ]
+\0
+
+[@ITEM 175 (FR) ]
+{Magus} : Non... Ma magie... Elle se fait drainer...?!\0
+
+[@ITEM 176 (L1) ]
+\0
+
+[@ITEM 176 (EN) ]
+{Magus}: Ugh...!
+I... I won't be beaten...!{PRESS_CLEAR}
+Lavos, I lived alone in the midst of
+darkness to beat you!!\0
+
+[@ITEM 176 (L2) ]
+\0
+
+[@ITEM 176 (FR) ]
+{Magus} : Ngaaah... Tu ne me vaincras pas...!{PRESS_CLEAR}
+J'ai vécu seul dans les ténèbres afin de t'abattre,
+Lavos !\0
+
+[@ITEM 177 (L1) ]
+\0
+
+[@ITEM 177 (EN) ]
+{Magus}: Take this, Lavos!!
+Uooooh...!!{PRESS_CLEAR}\0
+
+[@ITEM 177 (L2) ]
+\0
+
+[@ITEM 177 (FR) ]
+{Magus} : Prends ça !{PRESS_CLEAR}
+Raaah...!\0
+
+[@ITEM 178 (L1) ]
+\0
+
+[@ITEM 178 (EN) ]
+{Magus}: It-it can't be...!?
+It has no effect!?
+Gwaaah!!{PRESS_CLEAR}\0
+
+[@ITEM 178 (L2) ]
+\0
+
+[@ITEM 178 (FR) ]
+{Magus} : Comment...?! Ça n'a aucun effet ?!{PRESS_CLEAR}
+Aaah !\0
+
+[@ITEM 179 (L1) ]
+\0
+
+[@ITEM 179 (EN) ]
+Queen: Damn fool...!
+The likes of your tiny powers are worthless
+against Lavos-sama!\0
+
+[@ITEM 179 (L2) ]
+\0
+
+[@ITEM 179 (FR) ]
+Reine : Espèce d'idiot ! Un pouvoir aussi infime que
+le tien ne saurait faire ombrage à la gloire du grand
+Lavos !\0
+
+[@ITEM 180 (L1) ]
+\0
+
+[@ITEM 180 (EN) ]
+Queen: A gift from me.
+May you receive eternal life!
+Having become one with Lavos-sama!{PRESS_CLEAR}
+Ku, ku, ku...!
+Haa, ha, ha!!\0
+
+[@ITEM 180 (L2) ]
+\0
+
+[@ITEM 180 (FR) ]
+Reine : Je t'offre un cadeau. Reçois la vie éternelle... en
+ne faisant qu'un avec le grand Lavos !{PRESS_CLEAR}
+Ho, ho, ho, ho...!
+Ha, ha, ha, ha, ha !\0
+
+[@ITEM 181 (L1) ]
+\0
+
+[@ITEM 181 (EN) ]
+{Marle}: You can move? {Crono}...
+P-please, Sara-san...!\0
+
+[@ITEM 181 (L2) ]
+\0
+
+[@ITEM 181 (FR) ]
+{Marle} : Peux-tu bouger, {Crono}...?
+S'il te plaît, aide Sarah...!\0
+
+[@ITEM 182 (L1) ]
+\0
+
+[@ITEM 182 (EN) ]
+{Lucca}: A-are you okay?
+If this keeps up, everyone...
+Uh...!\0
+
+[@ITEM 182 (L2) ]
+\0
+
+[@ITEM 182 (FR) ]
+{Lucca} : Ça... va ? Si ça continue ainsi, nous serons
+tous... Ah...!\0
+
+[@ITEM 183 (L1) ]
+\0
+
+[@ITEM 183 (EN) ]
+{Frog}: M-{Magus}...!
+There's no way I can let you be done in by
+someone else...!\0
+
+[@ITEM 183 (L2) ]
+\0
+
+[@ITEM 183 (FR) ]
+{Frog} : {Magus}...! Il n'est pas question que je
+laisse quelqu'un d'autre te vaincre...!\0
+
+[@ITEM 184 (L1) ]
+\0
+
+[@ITEM 184 (EN) ]
+{Ayla}: C-can stand? {Crono}...
+{Ayla} hate lose!{Ayla}{Crono}\0
+
+[@ITEM 184 (L2) ]
+\0
+
+[@ITEM 184 (FR) ]
+{Ayla} : {Crono} pouvoir se lever...?
+{Ayla} détester perdre !\0
+
+[@ITEM 185 (L1) ]
+\0
+
+[@ITEM 185 (EN) ]
+{Robo}: The dimensional fluctuation is
+becoming greater...!
+At this rate...!\0
+
+[@ITEM 185 (L2) ]
+\0
+
+[@ITEM 185 (FR) ]
+{Robo} : La fluctuation dimensionnelle grandit...!
+Il faut faire quelque chose !\0
+
+[@ITEM 186 (L1) ]
+\0
+
+[@ITEM 186 (EN) ]
+{Marle}: {Crono}...
+Sara-san...!
+If this keeps up, it'll be too terrible...!\0
+
+[@ITEM 186 (L2) ]
+\0
+
+[@ITEM 186 (FR) ]
+{Marle} : {Crono}... Si ça continue,
+Sarah...\0
+
+[@ITEM 187 (L1) ]
+\0
+
+[@ITEM 187 (EN) ]
+{Frog}: Kh...!
+Wait... {Magus}...!!\0
+
+[@ITEM 187 (L2) ]
+\0
+
+[@ITEM 187 (FR) ]
+{Frog} : Ah...! Attends... {Magus}...!\0
+
+[@ITEM 188 (L1) ]
+\0
+
+[@ITEM 188 (EN) ]
+{Lucca}: In-in such a situation, my science...
+As if I can just let it be beaten...\0
+
+[@ITEM 188 (L2) ]
+\0
+
+[@ITEM 188 (FR) ]
+{Lucca} : Non... La science ne peut pas perdre...
+Pas maintenant...\0
+
+[@ITEM 189 (L1) ]
+\0
+
+[@ITEM 189 (EN) ]
+{Robo}: If that energy is introduced to a body, I
+fear it will be disintegrated all the way to
+atoms!\0
+
+[@ITEM 189 (L2) ]
+\0
+
+[@ITEM 189 (FR) ]
+{Robo} : Si nous nous faisons absorber par
+ce champ d'énergie, nous serons désintégrés
+jusqu'au dernier atome !\0
+
+[@ITEM 190 (L1) ]
+\0
+
+[@ITEM 190 (EN) ]
+{Ayla}: Kh...!
+{Ayla} not lose!
+Battle starts from here...!{Ayla}\0
+
+[@ITEM 190 (L2) ]
+\0
+
+[@ITEM 190 (FR) ]
+{Ayla} : Gniii...! {Ayla} pas perdre !
+Bataille commencer maintenant...!\0
+
+[@ITEM 191 (L1) ]
+\0
+
+[@ITEM 191 (EN) ]
+Sara: P-please run away...
+{Crono}...!
+Against that being, human power...{Crono}\0
+
+[@ITEM 191 (L2) ]
+\0
+
+[@ITEM 191 (FR) ]
+Sarah : Fuis... {Crono}... Je t'en supplie...!
+Combattre une telle entité est peine perdue...\0
+
+[@ITEM 192 (L1) ]
+\0
+
+[@ITEM 192 (EN) ]
+Queen: {Crono}, was it...?
+Why don't you turn tail and flee, as Sara says?{PRESS_CLEAR}
+Don't you value your life?
+Ku, ku, ku...
+Haa, ha, ha...!\0
+
+[@ITEM 192 (L2) ]
+\0
+
+[@ITEM 192 (FR) ]
+Reine : {Crono}, c'est ça ? Pourquoi ne t'enfuis-tu
+pas la queue entre les jambes, comme te le suggère
+Sarah ?{PRESS_CLEAR}
+Ne tiens-tu pas à la vie ?
+Ho, ho, ho, ho...
+Ha, ha, ha, ha, ha...!\0
+
+[@ITEM 193 (L1) ]
+\0
+
+[@ITEM 193 (EN) ]
+{Magus}: Sa... Sara...
+Is she all right...!?\0
+
+[@ITEM 193 (L2) ]
+\0
+
+[@ITEM 193 (FR) ]
+{Magus} : Sa... Sarah... Est-elle saine et sauve...?!\0
+
+[@ITEM 194 (L1) ]
+\0
+
+[@ITEM 194 (EN) ]
+Queen: Oh, you mean to fight?
+What can you do?
+With that wounded body, all by yourself, you
+mean to challenge Lavos-sama?{PRESS_CLEAR}\0
+
+[@ITEM 194 (L2) ]
+\0
+
+[@ITEM 194 (FR) ]
+Reine : Oh, tu veux te battre ? Qu'espères-tu
+accomplir ?{PRESS_CLEAR}
+Tu comptes défier le grand Lavos seul et blessé ?\0
+
+[@ITEM 195 (L1) ]
+\0
+
+[@ITEM 195 (EN) ]
+Queen: Ku, ku, ku...
+Die, you damn worm!
+Behold Lavos-sama's power!\0
+
+[@ITEM 195 (L2) ]
+\0
+
+[@ITEM 195 (FR) ]
+Reine : Ho, ho, ho, ho... Meurs, misérable vermine !
+Admire la puissance du grand Lavos !\0
+
+[@ITEM 196 (L1) ]
+\0
+
+[@ITEM 196 (EN) ]
+{Marle}: {Crono}!!\0
+
+[@ITEM 196 (L2) ]
+\0
+
+[@ITEM 196 (FR) ]
+{Marle} : {Crono} !!\0
+
+[@ITEM 197 (L1) ]
+\0
+
+[@ITEM 197 (EN) ]
+{Lucca}: {Crono}, you can't!!\0
+
+[@ITEM 197 (L2) ]
+\0
+
+[@ITEM 197 (FR) ]
+{Lucca} : Non, {Crono} !\0
+
+[@ITEM 198 (L1) ]
+\0
+
+[@ITEM 198 (EN) ]
+{Robo}: {Crono}!\0
+
+[@ITEM 198 (L2) ]
+\0
+
+[@ITEM 198 (FR) ]
+{Robo} : {Crono} !\0
+
+[@ITEM 199 (L1) ]
+\0
+
+[@ITEM 199 (EN) ]
+{Frog}: You can't...!!\0
+
+[@ITEM 199 (L2) ]
+\0
+
+[@ITEM 199 (FR) ]
+{Frog} : Non...! {Crono} !\0
+
+[@ITEM 200 (L1) ]
+\0
+
+[@ITEM 200 (EN) ]
+{Ayla}: !!\0
+
+[@ITEM 200 (L2) ]
+\0
+
+[@ITEM 200 (FR) ]
+{Ayla} : {Crono} !!\0
+
+[@ITEM 201 (L1) ]
+\0
+
+[@ITEM 201 (EN) ]
+{Magus}: Lavos!!\0
+
+[@ITEM 201 (L2) ]
+\0
+
+[@ITEM 201 (FR) ]
+{Magus} : Lavos !!\0
+
+[@ITEM 202 (L1) ]
+\0
+
+[@ITEM 202 (EN) ]
+'{Crono}......!?{WAIT}08{/WAIT}{CLOSE}\0
+
+[@ITEM 202 (L2) ]
+\0
+
+[@ITEM 202 (FR) ]
+{Crono}...?!{WAIT}08{/WAIT}{CLOSE}\0
+
+[@ITEM 203 (L1) ]
+\0
+
+[@ITEM 203 (EN) ]
+Cronooo...!!{WAIT}07{/WAIT}{CLOSE}\0
+
+[@ITEM 203 (L2) ]
+\0
+
+[@ITEM 203 (FR) ]
+{Crono}...!{WAIT}07{/WAIT}{CLOSE}\0
+
+[@ITEM 204 (L1) ]
+\0
+
+[@ITEM 204 (EN) ]
+{Marle}: {Crono}...?
+Where's {Crono}...!?{PRESS_CLEAR}
+Nooo...!!\0
+
+[@ITEM 204 (L2) ]
+\0
+
+[@ITEM 204 (FR) ]
+{Marle} : {Crono}...? Où est {Crono}...?!{PRESS_CLEAR}
+Noooon...!!\0
+
+[@ITEM 205 (L1) ]
+\0
+
+[@ITEM 205 (EN) ]
+{Lucca}: {Crono}...!!
+Even though I was there...!\0
+
+[@ITEM 205 (L2) ]
+\0
+
+[@ITEM 205 (FR) ]
+{Lucca} : {Crono}...!! Je n'ai rien pu faire...\0
+
+[@ITEM 206 (L1) ]
+\0
+
+[@ITEM 206 (EN) ]
+{Robo}: The temple... is collapsing!{PRESS_CLEAR}
+We must make escaping from here our
+first priority...!\0
+
+[@ITEM 206 (L2) ]
+\0
+
+[@ITEM 206 (FR) ]
+{Robo} : Le sanctuaire s'écroule !{PRESS_CLEAR}
+Notre priorité est de nous enfuir de cet endroit !\0
+
+[@ITEM 207 (L1) ]
+\0
+
+[@ITEM 207 (EN) ]
+{Frog}: Kh...!{PRESS_CLEAR}
+Anyhow, for now, think only of getting out of
+here alive!
+This temple won't hold!\0
+
+[@ITEM 207 (L2) ]
+\0
+
+[@ITEM 207 (FR) ]
+{Frog} : Aah...!{PRESS_CLEAR}
+Pour l'instant, nous devons plutôt penser à sortir d'ici
+vivants ! Le sanctuaire ne tiendra pas longtemps !\0
+
+[@ITEM 208 (L1) ]
+\0
+
+[@ITEM 208 (EN) ]
+{Ayla}: Here ocean bottom!!
+What do!?\0
+
+[@ITEM 208 (L2) ]
+\0
+
+[@ITEM 208 (FR) ]
+{Ayla} : Ici être fond de l'océan ! Quoi faire ?!\0
+
+[@ITEM 209 (L1) ]
+\0
+
+[@ITEM 209 (EN) ]
+{Magus}: Does this mean that with my power, I
+can't win against it...!?
+Lavos...!!\0
+
+[@ITEM 209 (L2) ]
+\0
+
+[@ITEM 209 (FR) ]
+{Magus} : Cela veut-il dire que je ne peux pas
+vaincre Lavos...?!\0
+
+[@ITEM 210 (L1) ]
+\0
+
+[@ITEM 210 (EN) ]
+Sara: If I strain the last of my pendant's power,
+I can probably at least transfer all of you to the
+surface.\0
+
+[@ITEM 210 (L2) ]
+\0
+
+[@ITEM 210 (FR) ]
+Sarah : Si j'utilise tout ce qui reste de la puissance
+de mon pendentif, je devrais pouvoir au moins vous
+téléporter en lieu sûr.\0
+
+[@ITEM 211 (L1) ]
+\0
+
+[@ITEM 211 (EN) ]
+Sara: Though I don't expect them to be forgiven...{PRESS_CLEAR}
+Please, my mother,
+This country...
+Don't hate them...\0
+
+[@ITEM 211 (L2) ]
+\0
+
+[@ITEM 211 (FR) ]
+Sarah : Je sais que ce qu'elle a fait est impardonnable...{PRESS_CLEAR}
+Mais je vous en prie, n'en veuillez pas à ma mère...
+N'haïssez pas notre royaume...\0
+
+[@ITEM 212 (L1) ]
+\0
+
+[@ITEM 212 (EN) ]
+Sara: I'm sorry{56}!{PRESS_CLEAR}
+Now, to the surface......!\0
+
+[@ITEM 212 (L2) ]
+\0
+
+[@ITEM 212 (FR) ]
+Sarah : Je suis désolée...!{PRESS_CLEAR}
+Et maintenant, vers la surface...!\0
+
+[@ITEM 213 (L1) ]
+\0
+
+[@ITEM 213 (EN) ]
+{Magus}: ...!\0
+
+[@ITEM 213 (L2) ]
+\0
+
+[@ITEM 213 (FR) ]
+{Magus} : ...!\0
+
+[@ITEM 214 (L1) ]
+\0
+
+[@ITEM 214 (EN) ]
+Sara: ...{WAIT}04{/WAIT}
+{Crono}...{WAIT}08{/WAIT}{CLOSE}\0
+
+[@ITEM 214 (L2) ]
+\0
+
+[@ITEM 214 (FR) ]
+Sarah : ...{WAIT}04{/WAIT}
+{Crono}...{WAIT}08{/WAIT}{CLOSE}\0
+
+[@ITEM 215 (L1) ]
+\0
+
+[@ITEM 215 (EN) ]
+{Marle}: {Crono}...!!\0
+
+[@ITEM 215 (L2) ]
+\0
+
+[@ITEM 215 (FR) ]
+{Marle} : {Crono}...!\0
+
+[@ITEM 216 (L1) ]
+\0
+
+[@ITEM 216 (EN) ]
+{Lucca}: The Chrono Trigger...
+The egg of time...!{PRESS_CLEAR}
+Our past selves!?
+We were really taken back{56}
+To that instant...!\0
+
+[@ITEM 216 (L2) ]
+\0
+
+[@ITEM 216 (FR) ]
+{Lucca} : Le Chrono Trigger... L'œuf de temps...!{PRESS_CLEAR}
+C'est nous, dans le passé ?! Nous avons vraiment réussi
+à retourner en arrière ! À cet instant précis...!\0
+
+[@ITEM 217 (L1) ]
+\0
+
+[@ITEM 217 (EN) ]
+{Robo}: It seems that time is stopped except
+for ours!\0
+
+[@ITEM 217 (L2) ]
+\0
+
+[@ITEM 217 (FR) ]
+{Robo} : Il semble que le temps s'est arrêté, sauf
+pour nous !\0
+
+[@ITEM 218 (L1) ]
+\0
+
+[@ITEM 218 (EN) ]
+{Magus}: A time freeze...?
+To think it's actually possible...\0
+
+[@ITEM 218 (L2) ]
+\0
+
+[@ITEM 218 (FR) ]
+{Magus} : Le temps est figé...? C'est donc vraiment
+possible...\0
+
+[@ITEM 219 (L1) ]
+\0
+
+[@ITEM 219 (EN) ]
+{Frog}: Everyone seems like stone statues.\0
+
+[@ITEM 219 (L2) ]
+\0
+
+[@ITEM 219 (FR) ]
+{Frog} : On dirait des statues de pierre.
+Ça me fait froid dans le dos...\0
+
+[@ITEM 220 (L1) ]
+\0
+
+[@ITEM 220 (EN) ]
+{Ayla}: Only {Ayla} can move?\0
+
+[@ITEM 220 (L2) ]
+\0
+
+[@ITEM 220 (FR) ]
+{Ayla} : Nous seulement pouvoir bouger ?\0
+
+[@ITEM 221 (L1) ]
+\0
+
+[@ITEM 221 (EN) ]
+Well then, substitute dopple-kun for
+{Crono}, and...\0
+
+[@ITEM 221 (L2) ]
+\0
+
+[@ITEM 221 (FR) ]
+Alors, en mettant la poupée clone à la place de
+{Crono}...\0
+
+[@ITEM 222 (L1) ]
+\0
+
+[@ITEM 222 (EN) ]
+{Marle}: {Crono}......?{PRESS_CLEAR}
+{Crono}......!!
+You're alive, right, {Crono}!?\0
+
+[@ITEM 222 (L2) ]
+\0
+
+[@ITEM 222 (FR) ]
+{Marle} : {Crono}...?{PRESS_CLEAR}
+C'est {Crono}...! Tu es en vie, n'est-ce pas,
+{Crono} ?!\0
+
+[@ITEM 223 (L1) ]
+\0
+
+[@ITEM 223 (EN) ]
+{Lucca}: Come on, let's hurry, everyone!\0
+
+[@ITEM 223 (L2) ]
+\0
+
+[@ITEM 223 (FR) ]
+{Lucca} : Dépêchons-nous !\0
+
+[@ITEM 224 (L1) ]
+\0
+
+[@ITEM 224 (EN) ]
+{Robo}: Ahh, thank goodness...!
+{Crono}, it is wonderful that you are safe!{Crono}\0
+
+[@ITEM 224 (L2) ]
+\0
+
+[@ITEM 224 (FR) ]
+{Robo} : Ah, quel soulagement ! Je suis heureux de
+voir que tu es sain et sauf, {Crono} !\0
+
+[@ITEM 225 (L1) ]
+\0
+
+[@ITEM 225 (EN) ]
+{Frog}: This place gives me the creeps.
+Let's pull back quickly.\0
+
+[@ITEM 225 (L2) ]
+\0
+
+[@ITEM 225 (FR) ]
+{Frog} : Cet endroit me donne la chair de poule,
+si j'ose dire. Rentrons sans plus tarder.\0
+
+[@ITEM 226 (L1) ]
+\0
+
+[@ITEM 226 (EN) ]
+{Ayla}: Quick!
+Take {Crono} along!!{Crono}\0
+
+[@ITEM 226 (L2) ]
+\0
+
+[@ITEM 226 (FR) ]
+{Ayla} : Vite ! Emmener {Crono} !\0
+
+[@ITEM 227 (L1) ]
+\0
+
+[@ITEM 227 (EN) ]
+{Magus}: Leave the touching reunion for later!
+If our business is done, we're going back.\0
+
+[@ITEM 227 (L2) ]
+\0
+
+[@ITEM 227 (FR) ]
+{Magus} : Gardez vos retrouvailles touchantes pour
+plus tard ! Si nous avons terminé, rentrons.\0
+
+[@ITEM 228 (L1) ]
+\0
+
+[@ITEM 228 (EN) ]
+{Magus}: ...\0
+
+[@ITEM 228 (L2) ]
+\0
+
+[@ITEM 228 (FR) ]
+{Magus} : ...\0
+
+[@ITEM 229 (L1) ]
+\0
+
+[@ITEM 229 (EN) ]
+{Magus}: Pitiful...
+Unable to change even a single thing in the
+end...{PRESS_CLEAR}\0
+
+[@ITEM 229 (L2) ]
+\0
+
+[@ITEM 229 (FR) ]
+{Magus} : Pitoyable... J'ai été incapable de changer
+quoi que ce soit en fin de compte...\0
+
+[@ITEM 230 (L1) ]
+\0
+
+[@ITEM 230 (EN) ]
+{MSGWND}
+Obtained {ITEM}!\0
+
+[@ITEM 230 (L2) ]
+\0
+
+[@ITEM 230 (FR) ]
+{MSGWND}
+Obtenu : {ITEM} !\0
+
+[@ITEM 231 (L1) ]
+\0
+
+[@ITEM 231 (EN) ]
+{MSGWND}
+Obtained {ITEM}!\0
+
+[@ITEM 231 (L2) ]
+\0
+
+[@ITEM 231 (FR) ]
+{MSGWND}
+Trouvé : {ITEM} !\0
+
+[@ITEM 232 (L1) ]
+\0
+
+[@ITEM 232 (EN) ]
+Queen: How's this, Bosch?
+As you can see, the Demonic Vessel is complete.
+It seems that your worries were just
+needless anxiety, yes?{PRESS_CLEAR}\0
+
+[@ITEM 232 (L2) ]
+\0
+
+[@ITEM 232 (FR) ]
+Reine : Alors, Bosch ? Comme tu peux le voir, le
+réceptacle sacré est parfait.{PRESS_CLEAR}
+Il semblerait que vous vous inquiétiez pour rien, toi et
+tes compagnons.\0
+
+[@ITEM 233 (L1) ]
+\0
+
+[@ITEM 233 (EN) ]
+Queen: Philosopher of Reason Gasch.\0
+
+[@ITEM 233 (L2) ]
+\0
+
+[@ITEM 233 (FR) ]
+Reine : Gasch, le sage de la raison.\0
+
+[@ITEM 234 (L1) ]
+\0
+
+[@ITEM 234 (EN) ]
+Queen: And Philosopher of Time Hasch.\0
+
+[@ITEM 234 (L2) ]
+\0
+
+[@ITEM 234 (FR) ]
+Reine : Ainsi que Hasch, le sage du temps.\0
+
+[@ITEM 235 (L1) ]
+\0
+
+[@ITEM 235 (EN) ]
+Queen: Foolish Philosophers.
+Take a good look with your own eyes.
+The awakening of the great Lavos-sama!
+The beginning of my kingdom's glory!{PRESS_CLEAR}\0
+
+[@ITEM 235 (L2) ]
+\0
+
+[@ITEM 235 (FR) ]
+Reine : Observez bien, sages insensés !{PRESS_CLEAR}
+Voici le réveil du grand Lavos ! L'ère de gloire de notre
+royaume commence maintenant !\0
+
+[@ITEM 236 (L1) ]
+\0
+
+[@ITEM 236 (EN) ]
+Hasch: Mhh...!
+This dimensional distortion...!?
+Gasch: Was it impossible after all!?
+Controlling this power with human ability...!{PRESS_CLEAR}\0
+
+[@ITEM 236 (L2) ]
+\0
+
+[@ITEM 236 (FR) ]
+Hasch : Oh...! Une distorsion dimensionnelle...?!{PRESS_CLEAR}
+Gasch : Nous avions donc raison ! Il est impossible pour
+l'Homme de maîtriser ce pouvoir !\0
+
+[@ITEM 237 (L1) ]
+\0
+
+[@ITEM 237 (EN) ]
+Bosch: No good...!
+At this rate, we'll be swallowed into its
+dimensional swirl!!\0
+
+[@ITEM 237 (L2) ]
+\0
+
+[@ITEM 237 (FR) ]
+Bosch : Non...! Nous allons être engloutis par ce
+tourbillon dimensionnel !\0
+
+[@ITEM 238 (L1) ]
+\0
+
+[@ITEM 238 (EN) ]
+'Ane-ue...!!\0
+
+[@ITEM 238 (L2) ]
+\0
+
+[@ITEM 238 (FR) ]
+Sarah...!\0
+
+[@ITEM 239 (L1) ]
+\0
+
+[@ITEM 239 (EN) ]
+Sara: You mustn't, Jyaki!\0
+
+[@ITEM 239 (L2) ]
+\0
+
+[@ITEM 239 (FR) ]
+Sarah : Non, Janus ! N'approche pas !\0
+
+[@ITEM 240 (L1) ]
+\0
+
+[@ITEM 240 (EN) ]
+Jyaki: B-but...!?\0
+
+[@ITEM 240 (L2) ]
+\0
+
+[@ITEM 240 (FR) ]
+Janus : Mais...?!\0
+
+[@ITEM 241 (L1) ]
+\0
+
+[@ITEM 241 (EN) ]
+Bosch: Th-this is...!{56}!\0
+
+[@ITEM 241 (L2) ]
+\0
+
+[@ITEM 241 (FR) ]
+Bosch : Mais c'est...!\0
+
+[@ITEM 242 (L1) ]
+\0
+
+[@ITEM 242 (EN) ]
+Hasch: It can't be, a Timegate!?\0
+
+[@ITEM 242 (L2) ]
+\0
+
+[@ITEM 242 (FR) ]
+Hasch : Impossible ! Un portail temporel ?!\0
+
+[@ITEM 243 (L1) ]
+\0
+
+[@ITEM 243 (EN) ]
+Gasch: Damn...!!\0
+
+[@ITEM 243 (L2) ]
+\0
+
+[@ITEM 243 (FR) ]
+Gasch : Oh non...!\0
+
+[@ITEM 244 (L1) ]
+\0
+
+[@ITEM 244 (EN) ]
+Sara: Philosophers......!?\0
+
+[@ITEM 244 (L2) ]
+\0
+
+[@ITEM 244 (FR) ]
+Sarah : Gasch...?!\0
+
+[@ITEM 245 (L1) ]
+\0
+
+[@ITEM 245 (EN) ]
+Jyaki: A... Ane-ue!{56}!\0
+
+[@ITEM 245 (L2) ]
+\0
+
+[@ITEM 245 (FR) ]
+Janus : Sa... Sarah !\0
+
+[@ITEM 246 (L1) ]
+\0
+
+[@ITEM 246 (EN) ]
+Sara: Jyaki!?\0
+
+[@ITEM 246 (L2) ]
+\0
+
+[@ITEM 246 (FR) ]
+Sarah : Janus ?!\0
+
+[@ITEM 247 (L1) ]
+\0
+
+[@ITEM 247 (EN) ]
+\0
+
+[@ITEM 247 (L2) ]
+\0
+
+[@ITEM 247 (FR) ]
+\0
+
+[@ITEM 248 (L1) ]
+\0
+
+[@ITEM 248 (EN) ]
+\0
+
+[@ITEM 248 (L2) ]
+\0
+
+[@ITEM 248 (FR) ]
+\0
+
+[@ITEM 249 (L1) ]
+\0
+
+[@ITEM 249 (EN) ]
+\0
+
+[@ITEM 249 (L2) ]
+\0
+
+[@ITEM 249 (FR) ]
+\0
+
+[@ITEM 250 (L1) ]
+\0
+
+[@ITEM 250 (EN) ]
+\0
+
+[@ITEM 250 (L2) ]
+\0
+
+[@ITEM 250 (FR) ]
+\0
+
+[@ITEM 251 (L1) ]
+\0
+
+[@ITEM 251 (EN) ]
+\0
+
+[@ITEM 251 (L2) ]
+\0
+
+[@ITEM 251 (FR) ]
+\0
+
+[@ITEM 252 (L1) ]
+\0
+
+[@ITEM 252 (EN) ]
+\0
+
+[@ITEM 252 (L2) ]
+\0
+
+[@ITEM 252 (FR) ]
+\0
+
+[@ITEM 253 (L1) ]
+\0
+
+[@ITEM 253 (EN) ]
+\0
+
+[@ITEM 253 (L2) ]
+\0
+
+[@ITEM 253 (FR) ]
+\0
+
+[@ITEM 254 (L1) ]
+\0
+
+[@ITEM 254 (EN) ]
+\0
+
+[@ITEM 254 (L2) ]
+\0
+
+[@ITEM 254 (FR) ]
+\0
+
+[@ITEM 255 (L1) ]
+\0
+
+[@ITEM 255 (EN) ]
+\0
+
+[@ITEM 255 (L2) ]
+\0
+
+[@ITEM 255 (FR) ]
+\0
+

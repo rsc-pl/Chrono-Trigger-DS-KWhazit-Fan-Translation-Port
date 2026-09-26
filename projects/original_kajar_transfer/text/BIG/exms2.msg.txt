@@ -1,0 +1,3707 @@
+[@exms2.msg]
+
+[@ITEM 0 (L1) ]
+\0
+
+[@ITEM 0 (EN) ]
+{MSGWND}
+Obtained {ITEM}!\0
+
+[@ITEM 0 (L2) ]
+\0
+
+[@ITEM 0 (FR) ]
+{MSGWND}
+Obtenu : {ITEM} !\0
+
+[@ITEM 1 (L1) ]
+\0
+
+[@ITEM 1 (EN) ]
+{Magus}: Their numbers are too great.
+We must withdraw for now.\0
+
+[@ITEM 1 (L2) ]
+\0
+
+[@ITEM 1 (FR) ]
+{Magus} : Cet endroit fourmille de monstres.
+... Rentrons.\0
+
+[@ITEM 2 (L1) ]
+\0
+
+[@ITEM 2 (EN) ]
+{Ayla}: Many, many monster!
+{Ayla} fight here, lose!
+No good.\0
+
+[@ITEM 2 (L2) ]
+\0
+
+[@ITEM 2 (FR) ]
+{Ayla} : Trop de monstres. Dangereux de
+combattre ici. Rentrer !\0
+
+[@ITEM 3 (L1) ]
+\0
+
+[@ITEM 3 (EN) ]
+{Robo}: Our odds against these numbers are
+unfavorable. It would be inadvisable to fight here.
+We should return.\0
+
+[@ITEM 3 (L2) ]
+\0
+
+[@ITEM 3 (FR) ]
+{Robo} : Il y a énormément de monstres.
+Retirons-nous.\0
+
+[@ITEM 4 (L1) ]
+\0
+
+[@ITEM 4 (EN) ]
+{Frog}: This place is overrun with monsters.
+We must go back, at least for now.\0
+
+[@ITEM 4 (L2) ]
+\0
+
+[@ITEM 4 (FR) ]
+{Frog} : Cet endroit fourmille de monstres.
+Rebroussons chemin.\0
+
+[@ITEM 5 (L1) ]
+\0
+
+[@ITEM 5 (EN) ]
+{Lucca}: Eek, look at all those monsters!
+We'd better head back!\0
+
+[@ITEM 5 (L2) ]
+\0
+
+[@ITEM 5 (FR) ]
+{Lucca} : Ah ! Il y a des monstres partout !
+Rentrons immédiatement !\0
+
+[@ITEM 6 (L1) ]
+\0
+
+[@ITEM 6 (EN) ]
+{Frog}: What's the matter?
+Has something startled you?\0
+
+[@ITEM 6 (L2) ]
+\0
+
+[@ITEM 6 (FR) ]
+{Frog} : Quoi ? Qu'y a-t-il de si surprenant ?\0
+
+[@ITEM 7 (L1) ]
+\0
+
+[@ITEM 7 (EN) ]
+{Robo}: Have we startled you?\0
+
+[@ITEM 7 (L2) ]
+\0
+
+[@ITEM 7 (FR) ]
+{Robo} : Nous vous avons fait peur ?\0
+
+[@ITEM 8 (L1) ]
+\0
+
+[@ITEM 8 (EN) ]
+{Ayla}: Why you scared?\0
+
+[@ITEM 8 (L2) ]
+\0
+
+[@ITEM 8 (FR) ]
+{Ayla} : Quoi ? Pourquoi être surpris ?\0
+
+[@ITEM 9 (L1) ]
+\0
+
+[@ITEM 9 (EN) ]
+{Magus}: Have you something to say?\0
+
+[@ITEM 9 (L2) ]
+\0
+
+[@ITEM 9 (FR) ]
+{Magus} : Vous me voulez quelque chose ?\0
+
+[@ITEM 10 (L1) ]
+\0
+
+[@ITEM 10 (EN) ]
+{Marle}: What's wrong?
+Why are you so scared?\0
+
+[@ITEM 10 (L2) ]
+\0
+
+[@ITEM 10 (FR) ]
+{Marle} : Qu'y a-t-il ? Pourquoi êtes-vous aussi
+surpris...?\0
+
+[@ITEM 11 (L1) ]
+\0
+
+[@ITEM 11 (EN) ]
+T-talking apes!
+Hairless, talking apes!\0
+
+[@ITEM 11 (L2) ]
+\0
+
+[@ITEM 11 (FR) ]
+Des... Des primates qui parlent ! Il y a des primates qui
+parlent !!\0
+
+[@ITEM 12 (L1) ]
+\0
+
+[@ITEM 12 (EN) ]
+RUN FOR YOUR LIVES!\0
+
+[@ITEM 12 (L2) ]
+\0
+
+[@ITEM 12 (FR) ]
+Aaah ! Fuyons !!\0
+
+[@ITEM 13 (L1) ]
+\0
+
+[@ITEM 13 (EN) ]
+Voice: Wait!\0
+
+[@ITEM 13 (L2) ]
+\0
+
+[@ITEM 13 (FR) ]
+Attendez !\0
+
+[@ITEM 14 (L1) ]
+\0
+
+[@ITEM 14 (EN) ]
+Are you truly talking apes?\0
+
+[@ITEM 14 (L2) ]
+\0
+
+[@ITEM 14 (FR) ]
+Êtes-vous vraiment des primates qui parlent ?\0
+
+[@ITEM 15 (L1) ]
+\0
+
+[@ITEM 15 (EN) ]
+{Lucca}: We're not apes!
+We're humans! HU-MANS!
+Got it?\0
+
+[@ITEM 15 (L2) ]
+\0
+
+[@ITEM 15 (FR) ]
+{Lucca} : Quoi, des primates ?! Nous sommes des
+humains ! HU-MAINS ! Pas des primates !\0
+
+[@ITEM 16 (L1) ]
+\0
+
+[@ITEM 16 (EN) ]
+{Marle}: You're a rude one, aren't you?
+No, we're not apes! We're humans.\0
+
+[@ITEM 16 (L2) ]
+\0
+
+[@ITEM 16 (FR) ]
+{Marle} : Comme vous êtes impolis ! Nous ne sommes
+pas des primates, nous sommes des humains !\0
+
+[@ITEM 17 (L1) ]
+\0
+
+[@ITEM 17 (EN) ]
+{Magus}: And if we are?\0
+
+[@ITEM 17 (L2) ]
+\0
+
+[@ITEM 17 (FR) ]
+{Magus} : Qu'est-ce que vous dites...?!\0
+
+[@ITEM 18 (L1) ]
+\0
+
+[@ITEM 18 (EN) ]
+{Ayla}: Why say ape?
+{Ayla} person.
+No ape!\0
+
+[@ITEM 18 (L2) ]
+\0
+
+[@ITEM 18 (FR) ]
+{Ayla} : Primates ! Primates ! Agaçant !
+{Ayla} être humaine, pas primate.\0
+
+[@ITEM 19 (L1) ]
+\0
+
+[@ITEM 19 (EN) ]
+{Robo}: While technically the case, human is a
+more precise and far preferable descriptor.
+I am a robot made by humans.\0
+
+[@ITEM 19 (L2) ]
+\0
+
+[@ITEM 19 (FR) ]
+{Robo} : En termes plus précis, ils sont des êtres
+humains, et non des primates. Pour ma part, je suis
+un androïde fabriqué par un membre de leur espèce.\0
+
+[@ITEM 20 (L1) ]
+\0
+
+[@ITEM 20 (EN) ]
+I see...
+So, the legend was true after all.\0
+
+[@ITEM 20 (L2) ]
+\0
+
+[@ITEM 20 (FR) ]
+Alors la légende disait donc vrai...\0
+
+[@ITEM 21 (L1) ]
+\0
+
+[@ITEM 21 (EN) ]
+What do you mean, Elder?\0
+
+[@ITEM 21 (L2) ]
+\0
+
+[@ITEM 21 (FR) ]
+Quelle légende, ancien ?\0
+
+[@ITEM 22 (L1) ]
+\0
+
+[@ITEM 22 (EN) ]
+It is a most ancient legend.{PRESS_CLEAR}
+Long ago, hordes of vicious monsters preyed upon our
+village, threatening to destroy our people entirely.
+But just when hope was lost, the most unusual of
+heroes appeared.\0
+
+[@ITEM 22 (L2) ]
+\0
+
+[@ITEM 22 (FR) ]
+Il s'agit d'une légende transmise dans notre village
+depuis les temps immémoriaux...{PRESS_CLEAR}
+Il y a de cela très, très longtemps, des monstres ont
+attaqué le village, menaçant d'exterminer nos ancêtres.{PRESS_CLEAR}
+Alors que tous croyaient que la situation était sans
+espoir sont apparus...\0
+
+[@ITEM 23 (L1) ]
+\0
+
+[@ITEM 23 (EN) ]
+Talking apes!?\0
+
+[@ITEM 23 (L2) ]
+\0
+
+[@ITEM 23 (FR) ]
+Les primates qui parlent ?!\0
+
+[@ITEM 24 (L1) ]
+\0
+
+[@ITEM 24 (EN) ]
+None other.
+And in no time at all, they drove the
+monsters away and saved the village.\0
+
+[@ITEM 24 (L2) ]
+\0
+
+[@ITEM 24 (FR) ]
+C'est exact. On raconte que ces primates ont éliminé les
+monstres en un clin d'œil et sauvé le village.\0
+
+[@ITEM 25 (L1) ]
+\0
+
+[@ITEM 25 (EN) ]
+So...these apes are the heroes from the legend?\0
+
+[@ITEM 25 (L2) ]
+\0
+
+[@ITEM 25 (FR) ]
+Alors, ces gens seraient les primates héroïques
+d'antan ?\0
+
+[@ITEM 26 (L1) ]
+\0
+
+[@ITEM 26 (EN) ]
+It ought to be so.\0
+
+[@ITEM 26 (L2) ]
+\0
+
+[@ITEM 26 (FR) ]
+Cela est fort probable.\0
+
+[@ITEM 27 (L1) ]
+\0
+
+[@ITEM 27 (EN) ]
+Pardon me for being so forward, but might we contract
+your assistance?\0
+
+[@ITEM 27 (L2) ]
+\0
+
+[@ITEM 27 (FR) ]
+Que diriez-vous de faire un pacte avec nous ?\0
+
+[@ITEM 28 (L1) ]
+\0
+
+[@ITEM 28 (EN) ]
+{HERO1}: Contract?\0
+
+[@ITEM 28 (L2) ]
+\0
+
+[@ITEM 28 (FR) ]
+{HERO1} : Un pacte ?\0
+
+[@ITEM 29 (L1) ]
+\0
+
+[@ITEM 29 (EN) ]
+{HERO2}: Contract?\0
+
+[@ITEM 29 (L2) ]
+\0
+
+[@ITEM 29 (FR) ]
+{HERO2} : Un pacte ?\0
+
+[@ITEM 30 (L1) ]
+\0
+
+[@ITEM 30 (EN) ]
+I would propose a contract by which we would reward
+you for your aid on certain tasks and errands which we
+cannot do ourselves.{PRESS_CLEAR}
+If you've the strength you seem to have, I think you'd
+find it a profitable proposition. What do you say?\0
+
+[@ITEM 30 (L2) ]
+\0
+
+[@ITEM 30 (FR) ]
+Oui, en échange de vos services, nous vous donnerons
+des récompenses.{PRESS_CLEAR}
+Si vous êtes capables, je crois que c'est une bonne
+affaire... Qu'en dites-vous ?\0
+
+[@ITEM 31 (L1) ]
+\0
+
+[@ITEM 31 (EN) ]
+Agree to help the reptites?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 31 (L2) ]
+\0
+
+[@ITEM 31 (FR) ]
+Voulez-vous faire un pacte avec les sauriens ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 32 (L1) ]
+\0
+
+[@ITEM 32 (EN) ]
+Are you certain?
+We've rich rewards to offer you.\0
+
+[@ITEM 32 (L2) ]
+\0
+
+[@ITEM 32 (FR) ]
+Vraiment ? Nous avons pourtant des récompenses
+intéressantes à vous offrir...\0
+
+[@ITEM 33 (L1) ]
+\0
+
+[@ITEM 33 (EN) ]
+Then we are agreed!
+And if it's not too sudden, I've a task for you already.{PRESS_CLEAR}
+The monsters in the wood beyond have been growing
+in number as of late. Would you vanquish them for us,
+brave heroes?\0
+
+[@ITEM 33 (L2) ]
+\0
+
+[@ITEM 33 (FR) ]
+Le pacte est conclu. Alors, sans plus tarder...{PRESS_CLEAR}
+Pourriez-vous éliminer les monstres qui se sont
+multipliés dans la forêt ? Nous comptons sur vous,
+primates héroïques !\0
+
+[@ITEM 34 (L1) ]
+\0
+
+[@ITEM 34 (EN) ]
+{Ayla}: What mean vanquish?
+Mean eat?\0
+
+[@ITEM 34 (L2) ]
+\0
+
+[@ITEM 34 (FR) ]
+{Ayla} : Avant, {Ayla} être chef d'Ioka !
+Maintenant, {Ayla} être héroïne !\0
+
+[@ITEM 35 (L1) ]
+\0
+
+[@ITEM 35 (EN) ]
+{Magus}: {Magus}, a hero...
+A droll thought.\0
+
+[@ITEM 35 (L2) ]
+\0
+
+[@ITEM 35 (FR) ]
+{Magus} : Le Magistère, un héros...?
+Ha ! Quelle ironie...\0
+
+[@ITEM 36 (L1) ]
+\0
+
+[@ITEM 36 (EN) ]
+{Marle}: I'm a hero? All right!
+I always wanted to be one!\0
+
+[@ITEM 36 (L2) ]
+\0
+
+[@ITEM 36 (FR) ]
+{Marle} : Une héroïne, moi ? Hourra ! J'ai toujours
+voulu en être une !\0
+
+[@ITEM 37 (L1) ]
+\0
+
+[@ITEM 37 (EN) ]
+{Lucca}: Brave hero...
+I could get used to that!\0
+
+[@ITEM 37 (L2) ]
+\0
+
+[@ITEM 37 (FR) ]
+{Lucca} : Une héroïne ? C'est plutôt cool !\0
+
+[@ITEM 38 (L1) ]
+\0
+
+[@ITEM 38 (EN) ]
+{Frog}: Hero, you say? I wonder...
+Do my deeds measure up to yours, Cyrus?\0
+
+[@ITEM 38 (L2) ]
+\0
+
+[@ITEM 38 (FR) ]
+{Frog} : Un héros ? Cyrus... Aurais-je maintenant
+l'étoffe d'un héros comme toi ?\0
+
+[@ITEM 39 (L1) ]
+\0
+
+[@ITEM 39 (EN) ]
+{Robo}: We have vanquished the monsters as
+promised, Elder, sir.\0
+
+[@ITEM 39 (L2) ]
+\0
+
+[@ITEM 39 (FR) ]
+{Robo} : Tel que promis, nous avons éliminé les
+monstres, ancien.\0
+
+[@ITEM 40 (L1) ]
+\0
+
+[@ITEM 40 (EN) ]
+{Frog}: Those monsters will trouble you no more.\0
+
+[@ITEM 40 (L2) ]
+\0
+
+[@ITEM 40 (FR) ]
+{Frog} : Nous nous sommes débarrassés des
+monstres.\0
+
+[@ITEM 41 (L1) ]
+\0
+
+[@ITEM 41 (EN) ]
+{Lucca}: Problem solved!
+We took care of them all.\0
+
+[@ITEM 41 (L2) ]
+\0
+
+[@ITEM 41 (FR) ]
+{Lucca} : Nous nous sommes débarrassés de tous
+les monstres, ancien !\0
+
+[@ITEM 42 (L1) ]
+\0
+
+[@ITEM 42 (EN) ]
+{Marle}: We got rid of all the monsters!\0
+
+[@ITEM 42 (L2) ]
+\0
+
+[@ITEM 42 (FR) ]
+{Marle} : Nous nous sommes débarrassés de tous
+les monstres, ancien !\0
+
+[@ITEM 43 (L1) ]
+\0
+
+[@ITEM 43 (EN) ]
+{Magus}: It is done.\0
+
+[@ITEM 43 (L2) ]
+\0
+
+[@ITEM 43 (FR) ]
+{Magus} : Nous nous sommes débarrassés des
+monstres...\0
+
+[@ITEM 44 (L1) ]
+\0
+
+[@ITEM 44 (EN) ]
+You slew all of them?
+Heroes, indeed!{PRESS_CLEAR}
+Please, take this as your reward.\0
+
+[@ITEM 44 (L2) ]
+\0
+
+[@ITEM 44 (FR) ]
+Oh ? Voilà qui est digne de votre réputation !{PRESS_CLEAR}
+Voici votre récompense.\0
+
+[@ITEM 45 (L1) ]
+\0
+
+[@ITEM 45 (EN) ]
+{MSGWND}
+Obtained 5 Megalixirs!\0
+
+[@ITEM 45 (L2) ]
+\0
+
+[@ITEM 45 (FR) ]
+{MSGWND}
+Vous obtenez cinq ultra-élixirs !\0
+
+[@ITEM 46 (L1) ]
+\0
+
+[@ITEM 46 (EN) ]
+I'm sure we'll have other tasks to request of you in
+the days to come. I hope we can count on your aid!\0
+
+[@ITEM 46 (L2) ]
+\0
+
+[@ITEM 46 (FR) ]
+Nous aurons d'autres faveurs à vous demander plus
+tard. Nous comptons sur vous !\0
+
+[@ITEM 47 (L1) ]
+\0
+
+[@ITEM 47 (EN) ]
+*pant* *wheeze* *gasp*
+H-heroes!
+Thank goodness you're here!{PRESS_CLEAR}
+I've just come from across the new bridge.
+Thought I'd see what lay beyond the mountains.
+Well, I saw it{56}a huge, eerie tower!{PRESS_CLEAR}
+There wasn't a soul around the place, but I got
+the feeling there was something frightening inside.
+Gave me the creeps. I ran all the way back here!\0
+
+[@ITEM 47 (L2) ]
+\0
+
+[@ITEM 47 (FR) ]
+Ouf, ouf... Vous tombez pile !{PRESS_CLEAR}
+Je suis allé au-delà de la montagne de l'autre côté du
+nouveau pont, mais une haute tour sinistre s'y dresse.{PRESS_CLEAR}
+Il n'y avait personne aux alentours, mais j'ai eu des
+frissons rien qu'à la regarder. J'ai pris peur, alors je
+me suis enfui.\0
+
+[@ITEM 48 (L1) ]
+\0
+
+[@ITEM 48 (EN) ]
+Elder: A tower, you say?\0
+
+[@ITEM 48 (L2) ]
+\0
+
+[@ITEM 48 (FR) ]
+Comment ? Une tour, tu dis ?\0
+
+[@ITEM 49 (L1) ]
+\0
+
+[@ITEM 49 (EN) ]
+Elder?
+Do you know something of it?\0
+
+[@ITEM 49 (L2) ]
+\0
+
+[@ITEM 49 (FR) ]
+Ancien ? Qu'y a-t-il ?\0
+
+[@ITEM 50 (L1) ]
+\0
+
+[@ITEM 50 (EN) ]
+The old legends speak of a high tower on whose
+summit the Heavenly Idols perch, watching over
+our village.{PRESS_CLEAR}
+The Heavenly Idols are our guardians, you see.
+They are harbingers of hope, and protectors of
+peace.{PRESS_CLEAR}
+If there is a tower so near to the village, then it
+is almost certainly the one. And if you felt an
+impure presence there, something may be amiss.\0
+
+[@ITEM 50 (L2) ]
+\0
+
+[@ITEM 50 (FR) ]
+Une légende raconte que des déités tutélaires veillent
+sur notre village du haut d'une tour. Elles sont censées
+nous apporter la paix et l'espoir.{PRESS_CLEAR}
+Si cette tour est située près du village, ce doit être
+celle dont parle la légende. Toutefois, puisqu'elle a
+une apparence sinistre, il est peut-être arrivé quelque
+chose d'anormal.\0
+
+[@ITEM 51 (L1) ]
+\0
+
+[@ITEM 51 (EN) ]
+Oh brave heroes, would it be too much trouble for you
+to go and investigate?\0
+
+[@ITEM 51 (L2) ]
+\0
+
+[@ITEM 51 (FR) ]
+Pourriez-vous faire l'investigation de la tour ?\0
+
+[@ITEM 52 (L1) ]
+\0
+
+[@ITEM 52 (EN) ]
+{Marle}: Of course not!
+We'll let you know what we find.\0
+
+[@ITEM 52 (L2) ]
+\0
+
+[@ITEM 52 (FR) ]
+{Marle} : Entendu. Allons voir ça de plus près.\0
+
+[@ITEM 53 (L1) ]
+\0
+
+[@ITEM 53 (EN) ]
+{Lucca}: A creepy old tower, huh?
+All right, I suppose brave heroes can't
+be afraid of a little something like that.\0
+
+[@ITEM 53 (L2) ]
+\0
+
+[@ITEM 53 (FR) ]
+{Lucca} : Entendu. Une tour sinistre...?
+Ça me fait un peu peur.\0
+
+[@ITEM 54 (L1) ]
+\0
+
+[@ITEM 54 (EN) ]
+{Frog}: Not at all.
+Let us go and have a look.\0
+
+[@ITEM 54 (L2) ]
+\0
+
+[@ITEM 54 (FR) ]
+{Frog} : C'est entendu. Allons l'examiner.\0
+
+[@ITEM 55 (L1) ]
+\0
+
+[@ITEM 55 (EN) ]
+{Robo}: You wish for us to investigate the tower,
+correct? Understood.\0
+
+[@ITEM 55 (L2) ]
+\0
+
+[@ITEM 55 (FR) ]
+{Robo} : L'investigation de la tour ?
+C'est entendu.\0
+
+[@ITEM 56 (L1) ]
+\0
+
+[@ITEM 56 (EN) ]
+{Ayla}: Go tower.
+{Ayla} understand.\0
+
+[@ITEM 56 (L2) ]
+\0
+
+[@ITEM 56 (FR) ]
+{Ayla} : {Ayla} examiner tour ?
+{Ayla} comprendre.\0
+
+[@ITEM 57 (L1) ]
+\0
+
+[@ITEM 57 (EN) ]
+My thanks.
+I'll be waiting to hear what you find.\0
+
+[@ITEM 57 (L2) ]
+\0
+
+[@ITEM 57 (FR) ]
+Je compte sur vous.\0
+
+[@ITEM 58 (L1) ]
+\0
+
+[@ITEM 58 (EN) ]
+Everyone!
+Our heroes have returned!\0
+
+[@ITEM 58 (L2) ]
+\0
+
+[@ITEM 58 (FR) ]
+Hé, tout le monde ! Les primates sont de retour !\0
+
+[@ITEM 59 (L1) ]
+\0
+
+[@ITEM 59 (EN) ]
+And?
+What news of the tower?\0
+
+[@ITEM 59 (L2) ]
+\0
+
+[@ITEM 59 (FR) ]
+Oh, vous revoilà ! Alors, et la tour ?\0
+
+[@ITEM 60 (L1) ]
+\0
+
+[@ITEM 60 (EN) ]
+{Magus}: It was infested with spirits of the dead,
+but they have been sent to the great beyond.\0
+
+[@ITEM 60 (L2) ]
+\0
+
+[@ITEM 60 (FR) ]
+{Magus} : Des fantômes s'y étaient installés, mais
+nous nous en sommes débarrassés. Il ne devrait
+plus y avoir de problème.\0
+
+[@ITEM 61 (L1) ]
+\0
+
+[@ITEM 61 (EN) ]
+{Ayla}: Strong enemy. Many strong enemy.
+But {Ayla} beat! Now okay!\0
+
+[@ITEM 61 (L2) ]
+\0
+
+[@ITEM 61 (FR) ]
+{Ayla} : Beaucoup de fantômes coriaces dans tour,
+mais nous vaincre fantômes. Plus de problème !\0
+
+[@ITEM 62 (L1) ]
+\0
+
+[@ITEM 62 (EN) ]
+{Robo}: The tower was full of ghosts, but we have
+eliminated them.\0
+
+[@ITEM 62 (L2) ]
+\0
+
+[@ITEM 62 (FR) ]
+{Robo} : Il y avait beaucoup de fantômes, mais
+nous les avons vaincus. Il n'y a plus rien à
+craindre.\0
+
+[@ITEM 63 (L1) ]
+\0
+
+[@ITEM 63 (EN) ]
+{Frog}: A great many ghosts haunted its halls.
+But they dwell there no more.\0
+
+[@ITEM 63 (L2) ]
+\0
+
+[@ITEM 63 (FR) ]
+{Frog} : Elle était hantée, mais nous nous sommes
+débarrassés des fantômes. Il n'y a plus rien à
+craindre pour le moment.\0
+
+[@ITEM 64 (L1) ]
+\0
+
+[@ITEM 64 (EN) ]
+{Lucca}: It really was a creepy place.
+There were ghosts everywhere!
+But we chased them all away.\0
+
+[@ITEM 64 (L2) ]
+\0
+
+[@ITEM 64 (FR) ]
+{Lucca} : Elle était remplie de fantômes ! J'en ai eu la
+chair de poule... Cependant, nous les avons chassés,
+alors il n'y a plus rien à craindre a priori.\0
+
+[@ITEM 65 (L1) ]
+\0
+
+[@ITEM 65 (EN) ]
+Then you have our thanks.
+Did you happen to spy our Heavenly Idols?\0
+
+[@ITEM 65 (L2) ]
+\0
+
+[@ITEM 65 (FR) ]
+Je vois. Bon travail. Au fait, avez-vous trouvé les
+déités tutélaires ?\0
+
+[@ITEM 66 (L1) ]
+\0
+
+[@ITEM 66 (EN) ]
+{Frog}: Yes, they stood upon the highest floor.
+They were too heavy to move, but they were
+quite striking.\0
+
+[@ITEM 66 (L2) ]
+\0
+
+[@ITEM 66 (FR) ]
+{Frog} : Elles étaient au sommet de la tour.
+Elles sont lourdes, alors nous les avons
+laissées là-bas... Ce sont de magnifiques
+statues.\0
+
+[@ITEM 67 (L1) ]
+\0
+
+[@ITEM 67 (EN) ]
+{Robo}: We found objects on the uppermost floor
+which we believe to be your idols. Their weight made
+them impossible to move, but you will be surprised
+by their appearance.\0
+
+[@ITEM 67 (L2) ]
+\0
+
+[@ITEM 67 (FR) ]
+{Robo} : Nous avons découvert des statues qui
+pourraient être vos déités tutélaires au sommet
+de la tour.{PRESS_CLEAR}
+Elles sont lourdes, alors nous les avons laissées là-bas,
+mais... si vous allez les voir, vous serez étonnés.\0
+
+[@ITEM 68 (L1) ]
+\0
+
+[@ITEM 68 (EN) ]
+{Magus}: They rest upon the tower's highest floor.
+I do not know by whose hand they were crafted,
+but the workmanship is impeccable.\0
+
+[@ITEM 68 (L2) ]
+\0
+
+[@ITEM 68 (FR) ]
+{Magus} : Nous les avons laissées au sommet de la
+tour. Je ne sais pas qui a sculpté ces statues,
+mais ils sont doués.\0
+
+[@ITEM 69 (L1) ]
+\0
+
+[@ITEM 69 (EN) ]
+{Marle}: Yes, they were at the top of the tower,
+just like you said. They were too heavy to carry back,
+but I think you'll be surprised when you see them!\0
+
+[@ITEM 69 (L2) ]
+\0
+
+[@ITEM 69 (FR) ]
+{Marle} : Elles sont au sommet de la tour. Elles sont
+lourdes, alors nous les avons laissées là-bas, mais...
+si vous allez les voir, vous risquez d'être étonnés.\0
+
+[@ITEM 70 (L1) ]
+\0
+
+[@ITEM 70 (EN) ]
+{Lucca}: Oh, those stone statues?
+Yeah, they were at the top of the tower.
+They were too heavy to budge, but you're
+in for a surprise when you see them!\0
+
+[@ITEM 70 (L2) ]
+\0
+
+[@ITEM 70 (FR) ]
+{Lucca} : Ah, les statues ? Elles étaient au sommet
+de la tour. Elles étaient lourdes, alors nous les avons
+laissées là-bas, mais... si vous allez les voir, vous
+serez surpris.\0
+
+[@ITEM 71 (L1) ]
+\0
+
+[@ITEM 71 (EN) ]
+So, they truly were there after all.
+You've earned our gratitude once again, brave heroes.{PRESS_CLEAR}
+This is a thank-you of sorts, from the village to our
+champions. I hope it serves you well.\0
+
+[@ITEM 71 (L2) ]
+\0
+
+[@ITEM 71 (FR) ]
+Alors, les déités existent vraiment...
+Comment pourrais-je vous remercier...?{PRESS_CLEAR}
+Voici un témoignage de notre reconnaissance.
+Veuillez l'accepter.\0
+
+[@ITEM 72 (L1) ]
+\0
+
+[@ITEM 72 (EN) ]
+{MSGWND}
+Obtained Champion's Badge!\0
+
+[@ITEM 72 (L2) ]
+\0
+
+[@ITEM 72 (FR) ]
+{MSGWND}
+Vous obtenez l'emblème du preux !\0
+
+[@ITEM 73 (L1) ]
+\0
+
+[@ITEM 73 (EN) ]
+Oh, what brings you up here?
+This is our village sanctuary, but entry is forbidden.\0
+
+[@ITEM 73 (L2) ]
+\0
+
+[@ITEM 73 (FR) ]
+Oh, qu'y a-t-il ? L'autel du village est situé derrière moi.
+Actuellement, personne ne peut y accéder.\0
+
+[@ITEM 74 (L1) ]
+\0
+
+[@ITEM 74 (EN) ]
+You want to enter the sanctuary?
+Well, you are our heroes...
+But there are customs to be obeyed.{PRESS_CLEAR}
+Entrance is forbidden without the blessed Reptmark.
+Would you be kind enough to fetch it from the northern
+wood first?{PRESS_CLEAR}
+If you retrieve the crest, I will allow you inside.\0
+
+[@ITEM 74 (L2) ]
+\0
+
+[@ITEM 74 (FR) ]
+Vous voulez pénétrer dans la salle de l'autel ? C'est bien
+parce que c'est vous qui le demandez...{PRESS_CLEAR}
+Selon la coutume du village, il vous faudra l'emblème
+saurien pour y accéder. Vous devriez pouvoir le trouver
+dans la forêt du nord. Si vous me le rapportez, je vous
+laisserai passer.\0
+
+[@ITEM 75 (L1) ]
+\0
+
+[@ITEM 75 (EN) ]
+Yes, yes, this is it!
+Very well, then, into the sanctuary!\0
+
+[@ITEM 75 (L2) ]
+\0
+
+[@ITEM 75 (FR) ]
+Oh, vous l'avez trouvé ! Eh bien, entrez.\0
+
+[@ITEM 76 (L1) ]
+\0
+
+[@ITEM 76 (EN) ]
+I'll be waiting to hear what you find in the tower.\0
+
+[@ITEM 76 (L2) ]
+\0
+
+[@ITEM 76 (FR) ]
+Allez faire l'investigation de la tour.\0
+
+[@ITEM 77 (L1) ]
+\0
+
+[@ITEM 77 (EN) ]
+I'd love to go and see the Idols with my own eyes,
+but I fear the years have begun to catch up with me.\0
+
+[@ITEM 77 (L2) ]
+\0
+
+[@ITEM 77 (FR) ]
+J'aimerais bien aller admirer les déités tutélaires, mais
+mes vieux os m'en empêchent...\0
+
+[@ITEM 78 (L1) ]
+\0
+
+[@ITEM 78 (EN) ]
+I've been thinking of taking a walk in the mountains.
+You should go, too!\0
+
+[@ITEM 78 (L2) ]
+\0
+
+[@ITEM 78 (FR) ]
+Je pensais aller me promener dans la montagne.
+Vous devriez y aller, vous aussi !\0
+
+[@ITEM 79 (L1) ]
+\0
+
+[@ITEM 79 (EN) ]
+I have a favor to ask.{PRESS_CLEAR}
+There is a strange character at the base of the
+mountain to the southeast. When I spoke to him, he
+told me he'd been waiting there for a "strong person"
+all alone for a long, long time.{PRESS_CLEAR}
+He looks so lonely, and I think you might be able to
+help him. Please, won't you try and do something?\0
+
+[@ITEM 79 (L2) ]
+\0
+
+[@ITEM 79 (FR) ]
+J'ai une faveur à vous demander. Au pied de la montagne
+au sud-est, il y a une créature étrange.{PRESS_CLEAR}
+Elle est toujours seule et dit qu'elle attend des gens
+forts.{PRESS_CLEAR}
+Vous devriez correspondre à ses critères. Je vous en
+prie, aidez cette créature à l'air solitaire.\0
+
+[@ITEM 80 (L1) ]
+\0
+
+[@ITEM 80 (EN) ]
+Please, won't you go to the mountain in the southeast
+and try to do something for that poor, lonely thing?\0
+
+[@ITEM 80 (L2) ]
+\0
+
+[@ITEM 80 (FR) ]
+Je vous en prie, aidez cette créature à l'air solitaire.
+Elle devrait se trouver au pied de la montagne au
+sud-est d'ici.\0
+
+[@ITEM 81 (L1) ]
+\0
+
+[@ITEM 81 (EN) ]
+You befriended him?
+Oh, I knew I was right to ask you!{PRESS_CLEAR}
+Let me give you this for going out of your way to help
+him.\0
+
+[@ITEM 81 (L2) ]
+\0
+
+[@ITEM 81 (FR) ]
+Vous étiez bien les gens forts qu'attendait cette
+créature ? Je m'en doutais !{PRESS_CLEAR}
+Je veux vous offrir ceci en guise de remerciement.\0
+
+[@ITEM 82 (L1) ]
+\0
+
+[@ITEM 82 (EN) ]
+Oh, I...I have one more request.
+Would you, um, take this to him for me?{PRESS_CLEAR}
+Let him eat it if he gets hungry.
+It will give him his energy back.\0
+
+[@ITEM 82 (L2) ]
+\0
+
+[@ITEM 82 (FR) ]
+Euh... Puis-je vous demander une autre faveur ?
+S'il vous plaît, apportez ceci à la créature !{PRESS_CLEAR}
+C'est un panier garni qui donne beaucoup d'énergie.
+Donnez-le-lui quand elle aura l'estomac vide.\0
+
+[@ITEM 83 (L1) ]
+\0
+
+[@ITEM 83 (EN) ]
+{MSGWND}
+Obtained Hearty Lunch!\0
+
+[@ITEM 83 (L2) ]
+\0
+
+[@ITEM 83 (FR) ]
+{MSGWND}
+Vous obtenez le panier garni !\0
+
+[@ITEM 84 (L1) ]
+\0
+
+[@ITEM 84 (EN) ]
+Thank you very much.
+I hope I can be his friend someday, too.\0
+
+[@ITEM 84 (L2) ]
+\0
+
+[@ITEM 84 (FR) ]
+J'aimerais tant un jour devenir l'ami de cette créature,
+moi aussi...\0
+
+[@ITEM 85 (L1) ]
+\0
+
+[@ITEM 85 (EN) ]
+To think we would end up living together!
+This is a dream come true!\0
+
+[@ITEM 85 (L2) ]
+\0
+
+[@ITEM 85 (FR) ]
+Je n'aurais jamais espéré vivre avec lui. J'ai l'impression
+d'être dans un rêve !\0
+
+[@ITEM 86 (L1) ]
+\0
+
+[@ITEM 86 (EN) ]
+He's opened up a shop, you know.
+Me? I'm gathering goods for him to sell.\0
+
+[@ITEM 86 (L2) ]
+\0
+
+[@ITEM 86 (FR) ]
+Il a ouvert un magasin. Et moi ? Je lui fournis des
+marchandises.\0
+
+[@ITEM 87 (L1) ]
+\0
+
+[@ITEM 87 (EN) ]
+Were I as strong as you, I'd become an explorer.
+But I'm not, so I have to make do with exploring
+close to home.\0
+
+[@ITEM 87 (L2) ]
+\0
+
+[@ITEM 87 (FR) ]
+Je veux devenir un explorateur. Malheureusement, je
+suis plutôt faible, alors je dois me contenter d'explorer
+les alentours. Je vous envie...\0
+
+[@ITEM 88 (L1) ]
+\0
+
+[@ITEM 88 (EN) ]
+I noticed the golden tree in the Millennia Wood was
+gone when I went exploring not long ago. Cut down
+by ogans, no doubt. They're always felling trees to
+craft those hammers of theirs.\0
+
+[@ITEM 88 (L2) ]
+\0
+
+[@ITEM 88 (FR) ]
+En m'aventurant dans la forêt du nord récemment,
+j'ai découvert que l'arbre doré avait disparu. C'est
+probablement l'œuvre des ogans.{PRESS_CLEAR}
+Les ogans excellent dans la fabrication de maillets à
+partir de troncs d'arbres.\0
+
+[@ITEM 89 (L1) ]
+\0
+
+[@ITEM 89 (EN) ]
+Looking for some metal, you say?{PRESS_CLEAR}
+I once hid a lump of steel in a box within the cave
+to the west. It was too heavy for me to carry all
+the way back here. I can't promise it's still there,
+but it's worth a look.\0
+
+[@ITEM 89 (L2) ]
+\0
+
+[@ITEM 89 (FR) ]
+Vous cherchez du métal ? Dans un passage à l'ouest du
+grand marécage, j'ai caché autrefois dans un coffre un
+morceau d'acier que je n'arrivais pas à transporter.{PRESS_CLEAR}
+Il y est peut-être encore actuellement.\0
+
+[@ITEM 90 (L1) ]
+\0
+
+[@ITEM 90 (EN) ]
+I had a wonderful time exploring around the bridge.
+Next time I've a mind to climb that tower!\0
+
+[@ITEM 90 (L2) ]
+\0
+
+[@ITEM 90 (FR) ]
+Je me suis bien amusé à explorer le pont !
+Il y a longtemps que je n'avais pas eu
+autant de frissons... La prochaine fois,
+j'irai explorer la tour.\0
+
+[@ITEM 91 (L1) ]
+\0
+
+[@ITEM 91 (EN) ]
+If you ever happen to find some lumicite, would you
+bring it to me? I'll craft you some fine armor from it.
+I've been a smith for a great many years.\0
+
+[@ITEM 91 (L2) ]
+\0
+
+[@ITEM 91 (FR) ]
+Je viens d'une famille de forgerons. Si vous trouvez un
+lumilithe, pourriez-vous me l'apporter ? Je pourrais en
+faire une protection formidable !\0
+
+[@ITEM 92 (L1) ]
+\0
+
+[@ITEM 92 (EN) ]
+Oh, you found some lumicite!
+Well then, allow me to get to work!\0
+
+[@ITEM 92 (L2) ]
+\0
+
+[@ITEM 92 (FR) ]
+Oh, oui c'est ça ! Je vais me mettre au travail tout de
+suite !\0
+
+[@ITEM 93 (L1) ]
+\0
+
+[@ITEM 93 (EN) ]
+It's finished!
+And fine work, if I may say.\0
+
+[@ITEM 93 (L2) ]
+\0
+
+[@ITEM 93 (FR) ]
+J'ai terminé ! C'est un chef-d'œuvre !\0
+
+[@ITEM 94 (L1) ]
+\0
+
+[@ITEM 94 (EN) ]
+{MSGWND}
+Obtained Elemental Aegis!\0
+
+[@ITEM 94 (L2) ]
+\0
+
+[@ITEM 94 (FR) ]
+{MSGWND}
+Vous obtenez une cotte élémentaire !\0
+
+[@ITEM 95 (L1) ]
+\0
+
+[@ITEM 95 (EN) ]
+That neighbor of mine loves to build things{56}almost as
+much as he loves to tell me about it. Hasn't he anyone
+else to bother all day?\0
+
+[@ITEM 95 (L2) ]
+\0
+
+[@ITEM 95 (FR) ]
+Mes voisins adorent fabriquer toutes sortes de choses.
+Ils ne parlent que de ça. Qu'ils aillent embêter quelqu'un
+d'autre !\0
+
+[@ITEM 96 (L1) ]
+\0
+
+[@ITEM 96 (EN) ]
+My neighbor has been working on building that bridge,
+but lately he hasn't even been coming home.{PRESS_CLEAR}
+I don't suppose you could go and make sure he's all
+right, could you? It's not like him at all to be gone
+this long. He always used to return at night.\0
+
+[@ITEM 96 (L2) ]
+\0
+
+[@ITEM 96 (FR) ]
+Mon voisin qui est allé construire un pont n'est pas
+encore revenu.{PRESS_CLEAR}
+D'habitude, il revient pourtant tous les jours...
+Pourriez-vous aller voir ce qu'il en est ?\0
+
+[@ITEM 97 (L1) ]
+\0
+
+[@ITEM 97 (EN) ]
+He may have always prattled on a bit much, but still...
+It's lonely without him around.{PRESS_CLEAR}
+He's building his bridge on Mount Emerald, east
+through the southern glade. Please, go and make
+sure he's all right.\0
+
+[@ITEM 97 (L2) ]
+\0
+
+[@ITEM 97 (FR) ]
+Même si mon voisin m'embête, je me sens un peu seul
+depuis qu'il est parti si soudainement.{PRESS_CLEAR}
+Je parie qu'il est en train de construire un pont quelque
+part sur le mont verdoyant à l'est de la clairière.
+Je vous en prie, allez voir ce qui lui est arrivé.\0
+
+[@ITEM 98 (L1) ]
+\0
+
+[@ITEM 98 (EN) ]
+Oh, thank goodness! You're all right!
+You had me worried.\0
+
+[@ITEM 98 (L2) ]
+\0
+
+[@ITEM 98 (FR) ]
+Ah, vous n'avez rien ! J'étais inquiet, vous savez !\0
+
+[@ITEM 99 (L1) ]
+\0
+
+[@ITEM 99 (EN) ]
+Forgive me.
+But thanks to these fine folks, I'm alive and well.
+And what's more, I've completed the bridge!\0
+
+[@ITEM 99 (L2) ]
+\0
+
+[@ITEM 99 (FR) ]
+Je suis désolé de vous avoir causé du souci.
+Les primates m'ont sauvé la vie et m'ont aidé
+à réaliser mon rêve !\0
+
+[@ITEM 100 (L1) ]
+\0
+
+[@ITEM 100 (EN) ]
+Oh, that's wonderful!\0
+
+[@ITEM 100 (L2) ]
+\0
+
+[@ITEM 100 (FR) ]
+Quelle bonne nouvelle ! Et tout ça, grâce aux primates
+héroïques !\0
+
+[@ITEM 101 (L1) ]
+\0
+
+[@ITEM 101 (EN) ]
+That it is.
+Thank you for everything, brave heroes!\0
+
+[@ITEM 101 (L2) ]
+\0
+
+[@ITEM 101 (FR) ]
+Oui ! Je leur suis très reconnaissant !\0
+
+[@ITEM 102 (L1) ]
+\0
+
+[@ITEM 102 (EN) ]
+Oh, you've come, too!
+Is something the matter?\0
+
+[@ITEM 102 (L2) ]
+\0
+
+[@ITEM 102 (FR) ]
+Oh ? C'est le gnu ! Qu'y a-t-il ?\0
+
+[@ITEM 103 (L1) ]
+\0
+
+[@ITEM 103 (EN) ]
+I was alone on mountain.
+But there are people here.
+So I come here.\0
+
+[@ITEM 103 (L2) ]
+\0
+
+[@ITEM 103 (FR) ]
+Sur la montagne, je suis seul, mais ici, il y a des gens,
+alors je suis venu.\0
+
+[@ITEM 104 (L1) ]
+\0
+
+[@ITEM 104 (EN) ]
+Oh? Well, ours is a humble village, but you're more than
+welcome here. We're in your debt!\0
+
+[@ITEM 104 (L2) ]
+\0
+
+[@ITEM 104 (FR) ]
+Oh ? Notre village n'est pas particulièrement attrayant,
+mais tu y es le bienvenu ! On te doit bien ça.\0
+
+[@ITEM 105 (L1) ]
+\0
+
+[@ITEM 105 (EN) ]
+Um, excuse me.
+I...\0
+
+[@ITEM 105 (L2) ]
+\0
+
+[@ITEM 105 (FR) ]
+Euh... Je...\0
+
+[@ITEM 106 (L1) ]
+\0
+
+[@ITEM 106 (EN) ]
+I liked your food.\0
+
+[@ITEM 106 (L2) ]
+\0
+
+[@ITEM 106 (FR) ]
+Le panier garni était délicieux.\0
+
+[@ITEM 107 (L1) ]
+\0
+
+[@ITEM 107 (EN) ]
+Oh...thank you!
+And you finally came to see me.\0
+
+[@ITEM 107 (L2) ]
+\0
+
+[@ITEM 107 (FR) ]
+C'est vrai ? Ça me fait plaisir ! Tu es enfin venu...\0
+
+[@ITEM 108 (L1) ]
+\0
+
+[@ITEM 108 (EN) ]
+Yep.\0
+
+[@ITEM 108 (L2) ]
+\0
+
+[@ITEM 108 (FR) ]
+Oui.\0
+
+[@ITEM 109 (L1) ]
+\0
+
+[@ITEM 109 (EN) ]
+Do you...do you want to live with me?\0
+
+[@ITEM 109 (L2) ]
+\0
+
+[@ITEM 109 (FR) ]
+Veux-tu habiter avec moi ?\0
+
+[@ITEM 110 (L1) ]
+\0
+
+[@ITEM 110 (EN) ]
+All right.\0
+
+[@ITEM 110 (L2) ]
+\0
+
+[@ITEM 110 (FR) ]
+D'accord.\0
+
+[@ITEM 111 (L1) ]
+\0
+
+[@ITEM 111 (EN) ]
+Truly? Oh, we'll be the best of friends!
+Follow me!\0
+
+[@ITEM 111 (L2) ]
+\0
+
+[@ITEM 111 (FR) ]
+Hourra ! Nous serons les meilleurs amis du monde !
+Allons ensemble à la maison !\0
+
+[@ITEM 112 (L1) ]
+\0
+
+[@ITEM 112 (EN) ]
+Seems he's made himself a new friend.\0
+
+[@ITEM 112 (L2) ]
+\0
+
+[@ITEM 112 (FR) ]
+On dirait que le gnu s'est lui aussi fait un nouvel ami.\0
+
+[@ITEM 113 (L1) ]
+\0
+
+[@ITEM 113 (EN) ]
+What a wonderful day for the village!\0
+
+[@ITEM 113 (L2) ]
+\0
+
+[@ITEM 113 (FR) ]
+Tout est bien qui finit bien !\0
+
+[@ITEM 114 (L1) ]
+\0
+
+[@ITEM 114 (EN) ]
+I don't know how to thank you properly, but I hope
+this will be a start. It isn't much, but I'd like you to
+have it.\0
+
+[@ITEM 114 (L2) ]
+\0
+
+[@ITEM 114 (FR) ]
+Je ne sais pas comment vous remercier, mais j'espère
+que ceci vous sera utile. Tenez !\0
+
+[@ITEM 115 (L1) ]
+\0
+
+[@ITEM 115 (EN) ]
+{MSGWND}
+Obtained Saurian Leathers!\0
+
+[@ITEM 115 (L2) ]
+\0
+
+[@ITEM 115 (FR) ]
+{MSGWND}
+Vous obtenez une peau de dinosaure !\0
+
+[@ITEM 116 (L1) ]
+\0
+
+[@ITEM 116 (EN) ]
+It's good to have things back to normal again.
+But when I think of the endless stories I'll have
+to endure, I sometimes wonder if it's truly for
+the best.\0
+
+[@ITEM 116 (L2) ]
+\0
+
+[@ITEM 116 (FR) ]
+C'est bien que tout soit rentré dans l'ordre. Cependant,
+je dois de nouveau endurer ses histoires... J'en ressors
+toujours perdant.\0
+
+[@ITEM 117 (L1) ]
+\0
+
+[@ITEM 117 (EN) ]
+I want to build something that will last for future
+generations to use. Like a ladder! Incredible, aren't
+they{56}ladders? I always wonder who built them, and
+when.\0
+
+[@ITEM 117 (L2) ]
+\0
+
+[@ITEM 117 (FR) ]
+J'aimerais fabriquer quelque chose de solide qui durera
+longtemps.{PRESS_CLEAR}
+Prenez les échelles, par exemple ! Formidables !
+Je me demande par qui et quand elles ont été
+fabriquées...\0
+
+[@ITEM 118 (L1) ]
+\0
+
+[@ITEM 118 (EN) ]
+Is that the Prismastone?{PRESS_CLEAR}
+Now there's something that's stood the test of time!
+If you could somehow hold that up next to the same
+stone from millions of years ago, I doubt you could
+even tell which was which!\0
+
+[@ITEM 118 (L2) ]
+\0
+
+[@ITEM 118 (FR) ]
+La pierre irisée ? Cette pierre magnifique qui date d'il y
+a très longtemps, c'est ça ? Je parie qu'elle a toujours
+la même apparence, même après toutes ces années.\0
+
+[@ITEM 119 (L1) ]
+\0
+
+[@ITEM 119 (EN) ]
+You'll need sturdy vines to make a sturdy ladder.
+You ought to be able to find some growing in a
+thicket down in the southern glade.\0
+
+[@ITEM 119 (L2) ]
+\0
+
+[@ITEM 119 (FR) ]
+Pour fabriquer une échelle, il faudrait du lierre
+résistant. Vous devriez pouvoir en trouver dans
+les fourrés de la clairière au sud d'ici.\0
+
+[@ITEM 120 (L1) ]
+\0
+
+[@ITEM 120 (EN) ]
+I've decided to make it my goal to protect that
+wondrous new bridge. I'll see that it outlives us all!\0
+
+[@ITEM 120 (L2) ]
+\0
+
+[@ITEM 120 (FR) ]
+Vous savez ce pont qui a récemment été construit ?
+Eh bien, j'ai décidé de le protéger et de l'entretenir.
+Je ferai en sorte qu'il dure très longtemps !\0
+
+[@ITEM 121 (L1) ]
+\0
+
+[@ITEM 121 (EN) ]
+It's been my lifelong dream to build a great bridge to
+span the mountains.{PRESS_CLEAR}
+Unfortunately, I've had no luck acquiring the tools
+I'd need for such a task.\0
+
+[@ITEM 121 (L2) ]
+\0
+
+[@ITEM 121 (FR) ]
+Mon rêve serait de construire un pont énorme entre
+deux montagnes.{PRESS_CLEAR}
+Cependant, pour ce faire, il me faudrait des matériaux
+que je n'arrive pas à me procurer...\0
+
+[@ITEM 122 (L1) ]
+\0
+
+[@ITEM 122 (EN) ]
+If you happen to come across anything you
+think I could use, would you bring it to me?
+It would be enormously helpful.\0
+
+[@ITEM 122 (L2) ]
+\0
+
+[@ITEM 122 (FR) ]
+Si jamais vous trouvez ce dont j'ai besoin,
+pourriez-vous me l'apporter ? Je compte
+sur vous !\0
+
+[@ITEM 123 (L1) ]
+\0
+
+[@ITEM 123 (EN) ]
+Ah, that godwood should do quite nicely for the lumber!\0
+
+[@ITEM 123 (L2) ]
+\0
+
+[@ITEM 123 (FR) ]
+Hum ? Ce bois divin pourra me servir !\0
+
+[@ITEM 124 (L1) ]
+\0
+
+[@ITEM 124 (EN) ]
+Oh, I ought to be able to use that steel ingot for the
+metal I need!\0
+
+[@ITEM 124 (L2) ]
+\0
+
+[@ITEM 124 (FR) ]
+Oh, ce morceau d'acier me sera utile !\0
+
+[@ITEM 125 (L1) ]
+\0
+
+[@ITEM 125 (EN) ]
+Dear me! That Golden Hammer is glorious!
+That should serve splendidly.\0
+
+[@ITEM 125 (L2) ]
+\0
+
+[@ITEM 125 (FR) ]
+Ah ! Je pourrais utiliser ce maillet doré !\0
+
+[@ITEM 126 (L1) ]
+\0
+
+[@ITEM 126 (EN) ]
+My thanks! With all this, I should be able to make the
+bridge of my dreams a reality.{PRESS_CLEAR}
+Here, take this as a token of my gratitude.\0
+
+[@ITEM 126 (L2) ]
+\0
+
+[@ITEM 126 (FR) ]
+Je vous remercie ! Je crois que je vais désormais
+pouvoir réaliser mon rêve de construire ce pont !{PRESS_CLEAR}
+Acceptez ceci en guise de remerciement.\0
+
+[@ITEM 127 (L1) ]
+\0
+
+[@ITEM 127 (EN) ]
+{MSGWND}
+Obtained Haste Helm!\0
+
+[@ITEM 127 (L2) ]
+\0
+
+[@ITEM 127 (FR) ]
+{MSGWND}
+Vous obtenez un armet de célérité !\0
+
+[@ITEM 128 (L1) ]
+\0
+
+[@ITEM 128 (EN) ]
+Well, then, off to the mountains I go!\0
+
+[@ITEM 128 (L2) ]
+\0
+
+[@ITEM 128 (FR) ]
+Et maintenant, je vais sans plus tarder aller sur la
+montagne !\0
+
+[@ITEM 129 (L1) ]
+\0
+
+[@ITEM 129 (EN) ]
+The bridge is complete!
+My dream has come true.
+Thank you so much!\0
+
+[@ITEM 129 (L2) ]
+\0
+
+[@ITEM 129 (FR) ]
+J'ai construit le pont de mes rêves grâce à vous, merci !\0
+
+[@ITEM 130 (L1) ]
+\0
+
+[@ITEM 130 (EN) ]
+How have you been? If you have the chance, go
+and take a stroll along the bridge sometime!\0
+
+[@ITEM 130 (L2) ]
+\0
+
+[@ITEM 130 (FR) ]
+Comment allez-vous ? Si le cœur vous en dit, n'hésitez
+pas à emprunter de nouveau ce long pont.\0
+
+[@ITEM 131 (L1) ]
+\0
+
+[@ITEM 131 (EN) ]
+Will you stay for the night?
+You'll feel much better.\0
+
+[@ITEM 131 (L2) ]
+\0
+
+[@ITEM 131 (FR) ]
+Voulez-vous passer la nuit ici ? Votre fatigue
+disparaîtra !\0
+
+[@ITEM 132 (L1) ]
+\0
+
+[@ITEM 132 (EN) ]
+I help everyone.\0
+
+[@ITEM 132 (L2) ]
+\0
+
+[@ITEM 132 (FR) ]
+Je vous donnerai un coup de main.\0
+
+[@ITEM 133 (L1) ]
+\0
+
+[@ITEM 133 (EN) ]
+I have store now.
+Look at my stuff.\0
+
+[@ITEM 133 (L2) ]
+\0
+
+[@ITEM 133 (FR) ]
+J'ai ouvert un magasin. Regardez.\0
+
+[@ITEM 134 (L1) ]
+\0
+
+[@ITEM 134 (EN) ]
+I have good stuff.
+Look at my stuff.\0
+
+[@ITEM 134 (L2) ]
+\0
+
+[@ITEM 134 (FR) ]
+J'ai beaucoup de marchandises intéressantes.
+Regardez.\0
+
+[@ITEM 135 (L1) ]
+\0
+
+[@ITEM 135 (EN) ]
+Set the Prismastone here?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 135 (L2) ]
+\0
+
+[@ITEM 135 (FR) ]
+Voulez-vous placer la pierre irisée ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 136 (L1) ]
+\0
+
+[@ITEM 136 (EN) ]
+Take the Prismastone?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 136 (L2) ]
+\0
+
+[@ITEM 136 (FR) ]
+Voulez-vous prendre la pierre irisée ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 137 (L1) ]
+\0
+
+[@ITEM 137 (EN) ]
+{Ayla}: No shiny tree!
+{Ayla} grow! Why no here?\0
+
+[@ITEM 137 (L2) ]
+\0
+
+[@ITEM 137 (FR) ]
+{Ayla} : Arbre brillant disparu ! Nous prendre soin
+d'arbre ici. Pourquoi être disparu ?\0
+
+[@ITEM 138 (L1) ]
+\0
+
+[@ITEM 138 (EN) ]
+{Robo}: How peculiar.
+The golden tree we were growing is no longer here.\0
+
+[@ITEM 138 (L2) ]
+\0
+
+[@ITEM 138 (FR) ]
+{Robo} : C'est étrange. L'arbre doré qui devait
+pousser ici a disparu.\0
+
+[@ITEM 139 (L1) ]
+\0
+
+[@ITEM 139 (EN) ]
+{Frog}: Odd...
+What's become of our golden tree?
+Should it not be here?\0
+
+[@ITEM 139 (L2) ]
+\0
+
+[@ITEM 139 (FR) ]
+{Frog} : Étrange ! Qu'est-il arrivé à l'arbre doré ?
+N'est-il pas censé être ici ?\0
+
+[@ITEM 140 (L1) ]
+\0
+
+[@ITEM 140 (EN) ]
+{Lucca}: Oh no!
+The golden tree's gone!
+What do you suppose happened to it?\0
+
+[@ITEM 140 (L2) ]
+\0
+
+[@ITEM 140 (FR) ]
+{Lucca} : Oh, l'arbre doré a disparu ! Il était
+pourtant censé être ici. Je me demande ce
+qui lui est arrivé...\0
+
+[@ITEM 141 (L1) ]
+\0
+
+[@ITEM 141 (EN) ]
+{Marle}: What happened to our golden tree?
+You don't suppose it died, do you?\0
+
+[@ITEM 141 (L2) ]
+\0
+
+[@ITEM 141 (FR) ]
+{Marle} : L'arbre doré a disparu ! Que lui est-il
+arrivé ? Nous en avons pourtant pris soin.
+Aurait-il péri ?\0
+
+[@ITEM 142 (L1) ]
+\0
+
+[@ITEM 142 (EN) ]
+{Frog}: Look!
+The Golden Hammer!\0
+
+[@ITEM 142 (L2) ]
+\0
+
+[@ITEM 142 (FR) ]
+{Frog} : Regardez ! Ce monstre a un maillet doré !\0
+
+[@ITEM 143 (L1) ]
+\0
+
+[@ITEM 143 (EN) ]
+{Robo}: Over there!
+That is the Golden Hammer!\0
+
+[@ITEM 143 (L2) ]
+\0
+
+[@ITEM 143 (FR) ]
+{Robo} : Regardez ! Ce monstre a un maillet doré !\0
+
+[@ITEM 144 (L1) ]
+\0
+
+[@ITEM 144 (EN) ]
+{Ayla}: Look!
+Gold Hammer!\0
+
+[@ITEM 144 (L2) ]
+\0
+
+[@ITEM 144 (FR) ]
+{Ayla} : Regarder ! Monstre avoir maillet doré !\0
+
+[@ITEM 145 (L1) ]
+\0
+
+[@ITEM 145 (EN) ]
+{Marle}: Look, look!
+It's the Golden Hammer!\0
+
+[@ITEM 145 (L2) ]
+\0
+
+[@ITEM 145 (FR) ]
+{Marle} : Oh, regardez ! Ce monstre a un maillet
+doré !\0
+
+[@ITEM 146 (L1) ]
+\0
+
+[@ITEM 146 (EN) ]
+{Lucca}: Hey, is that the Golden Hammer!?\0
+
+[@ITEM 146 (L2) ]
+\0
+
+[@ITEM 146 (FR) ]
+{Lucca} : Un instant... N'est-ce pas un maillet doré
+dans la main de ce monstre ?!\0
+
+[@ITEM 147 (L1) ]
+\0
+
+[@ITEM 147 (EN) ]
+{Lucca}: H, hold on, what the!\0
+
+[@ITEM 147 (L2) ]
+\0
+
+[@ITEM 147 (FR) ]
+{Lucca} : Hé, attends un peu !\0
+
+[@ITEM 148 (L1) ]
+\0
+
+[@ITEM 148 (EN) ]
+{Marle}: Wait!\0
+
+[@ITEM 148 (L2) ]
+\0
+
+[@ITEM 148 (FR) ]
+{Marle} : Ah ! Attends !\0
+
+[@ITEM 149 (L1) ]
+\0
+
+[@ITEM 149 (EN) ]
+{Ayla}: Stop! No run!\0
+
+[@ITEM 149 (L2) ]
+\0
+
+[@ITEM 149 (FR) ]
+{Ayla} : Non ! Pas fuir !\0
+
+[@ITEM 150 (L1) ]
+\0
+
+[@ITEM 150 (EN) ]
+{Robo}: It is fleeing!\0
+
+[@ITEM 150 (L2) ]
+\0
+
+[@ITEM 150 (FR) ]
+{Robo} : Un instant !\0
+
+[@ITEM 151 (L1) ]
+\0
+
+[@ITEM 151 (EN) ]
+{Frog}: Hold!\0
+
+[@ITEM 151 (L2) ]
+\0
+
+[@ITEM 151 (FR) ]
+{Frog} : Hé, attends !\0
+
+[@ITEM 152 (L1) ]
+\0
+
+[@ITEM 152 (EN) ]
+{Magus}: He is fled.
+But he cannot have gone far.\0
+
+[@ITEM 152 (L2) ]
+\0
+
+[@ITEM 152 (FR) ]
+{Magus} : Il s'est enfui... Cependant, il devrait
+toujours être dans les environs.\0
+
+[@ITEM 153 (L1) ]
+\0
+
+[@ITEM 153 (EN) ]
+{Marle}: He should still be around here.
+Let's go find him!\0
+
+[@ITEM 153 (L2) ]
+\0
+
+[@ITEM 153 (FR) ]
+{Marle} : Il devrait encore être dans les environs !
+Trouvons-le !\0
+
+[@ITEM 154 (L1) ]
+\0
+
+[@ITEM 154 (EN) ]
+{Lucca}: He's gotta be around here somewhere.
+Let's go after him!\0
+
+[@ITEM 154 (L2) ]
+\0
+
+[@ITEM 154 (FR) ]
+{Lucca} : Il est sans doute encore dans les
+environs. Allons lui prendre son maillet doré !\0
+
+[@ITEM 155 (L1) ]
+\0
+
+[@ITEM 155 (EN) ]
+{Frog}: He cannot have fled far.
+We can still give chase!\0
+
+[@ITEM 155 (L2) ]
+\0
+
+[@ITEM 155 (FR) ]
+{Frog} : Il devrait encore être dans les environs.
+Partons à sa recherche avant qu'il ne soit trop loin.\0
+
+[@ITEM 156 (L1) ]
+\0
+
+[@ITEM 156 (EN) ]
+{Robo}: He should still be within the vicinity.
+We should search the area!\0
+
+[@ITEM 156 (L2) ]
+\0
+
+[@ITEM 156 (FR) ]
+{Robo} : Il devrait toujours être dans les environs !
+Trouvons-le !\0
+
+[@ITEM 157 (L1) ]
+\0
+
+[@ITEM 157 (EN) ]
+{Robo}: We have subdued him.
+Now we can take the Golden Hammer.\0
+
+[@ITEM 157 (L2) ]
+\0
+
+[@ITEM 157 (FR) ]
+{Robo} : Nous t'avons enfin attrapé.
+Donne-nous ton maillet doré.\0
+
+[@ITEM 158 (L1) ]
+\0
+
+[@ITEM 158 (EN) ]
+{Frog}: You are defeated.
+We'll have that hammer from you now!\0
+
+[@ITEM 158 (L2) ]
+\0
+
+[@ITEM 158 (FR) ]
+{Frog} : Nous t'avons enfin attrapé.
+Donne-nous ton maillet doré.\0
+
+[@ITEM 159 (L1) ]
+\0
+
+[@ITEM 159 (EN) ]
+{Lucca}: Gotcha!
+Put up a good fight, didn't you?
+But now it's time you handed over that hammer!\0
+
+[@ITEM 159 (L2) ]
+\0
+
+[@ITEM 159 (FR) ]
+{Lucca} : Nous t'avons attrapé ! Tu nous as donné
+du fil à retordre, tu sais. Allez, donne-nous ton
+maillet doré !\0
+
+[@ITEM 160 (L1) ]
+\0
+
+[@ITEM 160 (EN) ]
+{Marle}: Finally got you!
+Sorry, but we need that hammer!\0
+
+[@ITEM 160 (L2) ]
+\0
+
+[@ITEM 160 (FR) ]
+{Marle} : Nous t'avons enfin attrapé. Désolée, nous
+avons besoin de ton maillet doré.\0
+
+[@ITEM 161 (L1) ]
+\0
+
+[@ITEM 161 (EN) ]
+{Ayla}: Catch!
+Take hammer now!\0
+
+[@ITEM 161 (L2) ]
+\0
+
+[@ITEM 161 (FR) ]
+{Ayla} : Plus fuir ! Donner maillet doré !\0
+
+[@ITEM 162 (L1) ]
+\0
+
+[@ITEM 162 (EN) ]
+{MSGWND}
+Obtained Golden Hammer!\0
+
+[@ITEM 162 (L2) ]
+\0
+
+[@ITEM 162 (FR) ]
+{MSGWND}
+Vous obtenez un maillet doré !\0
+
+[@ITEM 163 (L1) ]
+\0
+
+[@ITEM 163 (EN) ]
+{MSGWND}
+Obtained Sturdy Vines!\0
+
+[@ITEM 163 (L2) ]
+\0
+
+[@ITEM 163 (FR) ]
+{MSGWND}
+Vous obtenez du lierre résistant !\0
+
+[@ITEM 164 (L1) ]
+\0
+
+[@ITEM 164 (EN) ]
+{MSGWND}
+Obtained Steel Ingot!\0
+
+[@ITEM 164 (L2) ]
+\0
+
+[@ITEM 164 (FR) ]
+{MSGWND}
+Vous obtenez un morceau d'acier !\0
+
+[@ITEM 165 (L1) ]
+\0
+
+[@ITEM 165 (EN) ]
+I guard here.
+You no pass.\0
+
+[@ITEM 165 (L2) ]
+\0
+
+[@ITEM 165 (FR) ]
+Je suis le gardien de cet endroit. Je ne laisserai passer
+personne.\0
+
+[@ITEM 166 (L1) ]
+\0
+
+[@ITEM 166 (EN) ]
+You remember?
+I lose. Then I train.
+Then I no lose no more.
+Next time I beat you.{PRESS_CLEAR}
+I wait on top of mountain.
+Lots of monsters on mountain.
+You come up!\0
+
+[@ITEM 166 (L2) ]
+\0
+
+[@ITEM 166 (FR) ]
+Vous vous souvenez ? J'ai perdu contre vous, alors
+je me suis entraîné. Je n'ai plus jamais perdu depuis.{PRESS_CLEAR}
+Je vous attendrai au sommet de la montagne.
+Des monstres féroces y vivent. Pourrez-vous
+l'escalader ?{PRESS_CLEAR}
+Si vous y arrivez, je vous affronterai pour la dernière
+fois !\0
+
+[@ITEM 167 (L1) ]
+\0
+
+[@ITEM 167 (EN) ]
+{Ayla}: Ladder break.
+No can go up.
+Make new strong ladder?\0
+
+[@ITEM 167 (L2) ]
+\0
+
+[@ITEM 167 (FR) ]
+{Ayla} : Échelle être cassée. {Ayla} pas
+pouvoir grimper. {Ayla} devoir fabriquer
+nouvelle échelle solide !\0
+
+[@ITEM 168 (L1) ]
+\0
+
+[@ITEM 168 (EN) ]
+{Magus}: The ladder has collapsed.
+We'll need a new one if we are to reach the summit.\0
+
+[@ITEM 168 (L2) ]
+\0
+
+[@ITEM 168 (FR) ]
+{Magus} : Cette échelle est endommagée.{PRESS_CLEAR}
+Sans une échelle solide, nous ne pourrons pas aller plus
+loin...\0
+
+[@ITEM 169 (L1) ]
+\0
+
+[@ITEM 169 (EN) ]
+{Marle}: The ladder's broken!
+How are we supposed to get up there?
+I guess we'll have to build our own.\0
+
+[@ITEM 169 (L2) ]
+\0
+
+[@ITEM 169 (FR) ]
+{Marle} : Cette échelle est endommagée ! Nous ne
+pourrons pas aller plus loin. Nous allons devoir
+fabriquer une échelle solide.\0
+
+[@ITEM 170 (L1) ]
+\0
+
+[@ITEM 170 (EN) ]
+{Lucca}: The ladder's broken.
+Looks like we won't be able to get up there
+unless we can put together a new one.\0
+
+[@ITEM 170 (L2) ]
+\0
+
+[@ITEM 170 (FR) ]
+{Lucca} : Cette échelle est endommagée. Si nous n'en
+fabriquons pas une autre plus solide, nous ne
+pourrons pas aller plus loin.\0
+
+[@ITEM 171 (L1) ]
+\0
+
+[@ITEM 171 (EN) ]
+{Frog}: It appears the ladder is broken.
+Shall we make a new one to replace it?\0
+
+[@ITEM 171 (L2) ]
+\0
+
+[@ITEM 171 (FR) ]
+{Frog} : Cette échelle est endommagée.
+Nous devrons en fabriquer une autre.\0
+
+[@ITEM 172 (L1) ]
+\0
+
+[@ITEM 172 (EN) ]
+{Robo}: We lack the means to hang a new ladder.
+We would need some way to reach the top. I do not
+think we will be successful in this era.\0
+
+[@ITEM 172 (L2) ]
+\0
+
+[@ITEM 172 (FR) ]
+{Robo} : Le lierre n'atteint pas le haut de la falaise.
+Si seulement nous pouvions grimper plus haut...
+Toutefois, cela semble impossible à cette époque.\0
+
+[@ITEM 173 (L1) ]
+\0
+
+[@ITEM 173 (EN) ]
+{Frog}: We've no way to reach the top.
+We need to hang the ladder from above, but
+I do not think we will be doing so in this age.\0
+
+[@ITEM 173 (L2) ]
+\0
+
+[@ITEM 173 (FR) ]
+{Frog} : Le lierre n'atteint pas le haut de la falaise.
+Si seulement nous pouvions grimper plus haut...
+Toutefois, il est impossible de le faire à cette
+époque.\0
+
+[@ITEM 174 (L1) ]
+\0
+
+[@ITEM 174 (EN) ]
+{Lucca}: Hmm...
+There's no way for us to tie the vines to the top.
+We need a way to climb up there, and I don't think
+there is one in this era.\0
+
+[@ITEM 174 (L2) ]
+\0
+
+[@ITEM 174 (FR) ]
+{Lucca} : Le lierre n'atteint pas le haut de la falaise.
+Si seulement nous pouvions grimper plus haut...
+Toutefois, il est impossible de le faire à cette
+époque.\0
+
+[@ITEM 175 (L1) ]
+\0
+
+[@ITEM 175 (EN) ]
+{Marle}: How are we supposed to hang a new ladder
+down? We'd need to get up to the top to do it.
+Maybe if we went to a different age...\0
+
+[@ITEM 175 (L2) ]
+\0
+
+[@ITEM 175 (FR) ]
+{Marle} : Le lierre n'atteint pas le haut de la falaise.
+Il doit pourtant y avoir un moyen de grimper plus haut.
+À une autre époque, peut-être...\0
+
+[@ITEM 176 (L1) ]
+\0
+
+[@ITEM 176 (EN) ]
+{Magus}: We've no way to hang a new ladder.
+We'd need to be able to reach the top to do so.
+Let us try in another era.\0
+
+[@ITEM 176 (L2) ]
+\0
+
+[@ITEM 176 (FR) ]
+{Magus} : Il est impossible de l'installer d'ici. Nous
+devons grimper plus haut... Il faudra aller à une
+époque différente.\0
+
+[@ITEM 177 (L1) ]
+\0
+
+[@ITEM 177 (EN) ]
+Oh, you finally get here.{PRESS_CLEAR}
+I wait long time for you.
+I train lots and lots.
+Now I beat you.\0
+
+[@ITEM 177 (L2) ]
+\0
+
+[@ITEM 177 (FR) ]
+Vous voilà enfin.{PRESS_CLEAR}
+Je vous attends depuis longtemps. Je me suis beaucoup
+entraîné.{PRESS_CLEAR}
+Cette fois, je vais vous vaincre.\0
+
+[@ITEM 178 (L1) ]
+\0
+
+[@ITEM 178 (EN) ]
+Why I lose?
+I very strong now.
+But I can't win.\0
+
+[@ITEM 178 (L2) ]
+\0
+
+[@ITEM 178 (FR) ]
+Pourquoi ai-je perdu ? Je suis devenu très fort et
+pourtant je n'arrive pas à vous vaincre.\0
+
+[@ITEM 179 (L1) ]
+\0
+
+[@ITEM 179 (EN) ]
+{Frog}: Have you no companions?
+No people you wish to protect?
+Those are what drive a man to victory,
+not strength of arm.\0
+
+[@ITEM 179 (L2) ]
+\0
+
+[@ITEM 179 (FR) ]
+{Frog} : As-tu quelqu'un que tu veux protéger ou
+des amis avec qui tu peux partager les hauts et
+les bas ?{PRESS_CLEAR}
+Ce n'est pas une question de force physique, mais une
+question de force de l'âme.\0
+
+[@ITEM 180 (L1) ]
+\0
+
+[@ITEM 180 (EN) ]
+{Marle}: Well, it's not all about strength,
+you know. It helps having friends to help you
+or someone important you want to protect.\0
+
+[@ITEM 180 (L2) ]
+\0
+
+[@ITEM 180 (FR) ]
+{Marle} : Hum... Je vois. Tu n'as sans doute pas
+quelqu'un à protéger, ou encore d'amis qui
+combattent à tes côtés.{PRESS_CLEAR}
+Il n'y a pas que la force brute qui compte, tu sais.\0
+
+[@ITEM 181 (L1) ]
+\0
+
+[@ITEM 181 (EN) ]
+{Lucca}: Don't you have any friends to fight
+with you, or anyone important to protect?
+You can't expect to be strong inside if
+you're always alone!\0
+
+[@ITEM 181 (L2) ]
+\0
+
+[@ITEM 181 (FR) ]
+{Lucca} : Tu n'as pas quelqu'un à protéger ou d'amis
+qui combattent à tes côtés ? C'est ton âme qui est
+faible.\0
+
+[@ITEM 182 (L1) ]
+\0
+
+[@ITEM 182 (EN) ]
+{Robo}: I have friends assisting me in battle,
+and people I wish to protect. You do not. I believe
+the outcome is a result of that discrepancy.\0
+
+[@ITEM 182 (L2) ]
+\0
+
+[@ITEM 182 (FR) ]
+{Robo} : Nous avons quelqu'un à protéger et des
+amis qui combattent à nos côtés. Tu n'as personne.
+Voilà la différence.\0
+
+[@ITEM 183 (L1) ]
+\0
+
+[@ITEM 183 (EN) ]
+{Ayla}: {Ayla} have strong friend.
+So fight hard.
+You, no friend.
+So lose.\0
+
+[@ITEM 183 (L2) ]
+\0
+
+[@ITEM 183 (FR) ]
+{Ayla} : {Ayla} avoir quelqu'un à protéger et
+combattre avec amis. Gnu pas avoir, alors gnu
+perdre.\0
+
+[@ITEM 184 (L1) ]
+\0
+
+[@ITEM 184 (EN) ]
+Oh.
+I need friends?\0
+
+[@ITEM 184 (L2) ]
+\0
+
+[@ITEM 184 (FR) ]
+Ah bon. Des amis ?\0
+
+[@ITEM 185 (L1) ]
+\0
+
+[@ITEM 185 (EN) ]
+I never think like that.
+Maybe you right.\0
+
+[@ITEM 185 (L2) ]
+\0
+
+[@ITEM 185 (FR) ]
+Je n'avais jamais pensé qu'il n'est pas bien d'être seul
+et qu'il est important d'avoir des amis.\0
+
+[@ITEM 186 (L1) ]
+\0
+
+[@ITEM 186 (EN) ]
+Will you be my friends?\0
+
+[@ITEM 186 (L2) ]
+\0
+
+[@ITEM 186 (FR) ]
+Puis-je être votre ami ?\0
+
+[@ITEM 187 (L1) ]
+\0
+
+[@ITEM 187 (EN) ]
+{Ayla}: Not ask, be friend!
+Be nice, help, be friend.
+Take time.{PRESS_CLEAR}
+But, maybe {Ayla} be friend.\0
+
+[@ITEM 187 (L2) ]
+\0
+
+[@ITEM 187 (FR) ]
+{Ayla} : Pas pouvoir devenir amis tout de suite.
+D'abord s'entraider, ensuite être amis.\0
+
+[@ITEM 188 (L1) ]
+\0
+
+[@ITEM 188 (EN) ]
+{Robo}: Issuing a request is not the
+standard protocol for initiating friendship.
+People become friends after spending time
+together through joy and hardship.{PRESS_CLEAR}
+But we are acquainted now, so I believe we
+are well on the road to becoming friends.\0
+
+[@ITEM 188 (L2) ]
+\0
+
+[@ITEM 188 (FR) ]
+{Robo} : Nous ne pouvons pas être tes amis parce
+que tu nous le demandes. C'est en partageant de
+bons moments et aussi des moments difficiles
+qu'un jour on devient amis.\0
+
+[@ITEM 189 (L1) ]
+\0
+
+[@ITEM 189 (EN) ]
+{Lucca}: Well, that's a little...direct, but
+I think we can be friends. Someday, anyway.
+It takes time, you know.\0
+
+[@ITEM 189 (L2) ]
+\0
+
+[@ITEM 189 (FR) ]
+{Lucca} : Être amis, comme ça, tout d'un coup...?
+C'est un peu soudain. Un jour, peut-être...\0
+
+[@ITEM 190 (L1) ]
+\0
+
+[@ITEM 190 (EN) ]
+{Marle}: Well, it's not that easy.
+It takes time to become friends.
+But I think we're on the way!\0
+
+[@ITEM 190 (L2) ]
+\0
+
+[@ITEM 190 (FR) ]
+{Marle} : Ce n'est pas aussi simple que ça.
+On ne peut pas être amis dès le début.
+Un jour, peut-être...\0
+
+[@ITEM 191 (L1) ]
+\0
+
+[@ITEM 191 (EN) ]
+Okay.
+You need something, I help you.
+I be your friend.\0
+
+[@ITEM 191 (L2) ]
+\0
+
+[@ITEM 191 (FR) ]
+Entendu. Si vous avez besoin de moi, je vous prêterai
+main-forte. Un jour, nous serons amis.\0
+
+[@ITEM 192 (L1) ]
+\0
+
+[@ITEM 192 (EN) ]
+You need something, I help you.
+I be your friend.\0
+
+[@ITEM 192 (L2) ]
+\0
+
+[@ITEM 192 (FR) ]
+Si vous avez besoin de moi, je vous prêterai main-forte.
+Un jour, nous serons amis.\0
+
+[@ITEM 193 (L1) ]
+\0
+
+[@ITEM 193 (EN) ]
+{Robo}: We have a request for you.
+Would you be willing to assist in the
+construction of a bridge?\0
+
+[@ITEM 193 (L2) ]
+\0
+
+[@ITEM 193 (FR) ]
+{Robo} : Nous avons une faveur à te demander...
+Nous voudrions que tu aides quelqu'un à construire
+un pont.\0
+
+[@ITEM 194 (L1) ]
+\0
+
+[@ITEM 194 (EN) ]
+{Frog}: We've a favor to ask. Would you be
+willing to aid in the building of a bridge?\0
+
+[@ITEM 194 (L2) ]
+\0
+
+[@ITEM 194 (FR) ]
+{Frog} : Nous avons une faveur à te demander...
+Pourrais-tu aider quelqu'un à construire un pont ?\0
+
+[@ITEM 195 (L1) ]
+\0
+
+[@ITEM 195 (EN) ]
+{Lucca}: Do you think you could help build a bridge?\0
+
+[@ITEM 195 (L2) ]
+\0
+
+[@ITEM 195 (FR) ]
+{Lucca} : Nous avons une faveur à te demander...
+Pourrais-tu aider quelqu'un à construire un pont ?\0
+
+[@ITEM 196 (L1) ]
+\0
+
+[@ITEM 196 (EN) ]
+{Marle}: We were wondering if you might be willing
+to help build a bridge.\0
+
+[@ITEM 196 (L2) ]
+\0
+
+[@ITEM 196 (FR) ]
+{Marle} : Nous avons une faveur à te demander...
+Pourrais-tu aider quelqu'un à construire un pont ?\0
+
+[@ITEM 197 (L1) ]
+\0
+
+[@ITEM 197 (EN) ]
+{Magus}: Think you can handle some manual labor?
+Your strength is needed to build a bridge.\0
+
+[@ITEM 197 (L2) ]
+\0
+
+[@ITEM 197 (FR) ]
+{Magus} : Saurais-tu construire un pont ?\0
+
+[@ITEM 198 (L1) ]
+\0
+
+[@ITEM 198 (EN) ]
+Yes, I try.
+I want help you.\0
+
+[@ITEM 198 (L2) ]
+\0
+
+[@ITEM 198 (FR) ]
+Je vais essayer. Je veux vous apporter mon aide.\0
+
+[@ITEM 199 (L1) ]
+\0
+
+[@ITEM 199 (EN) ]
+{MSGWND}
+The stone shines with an inner light.\0
+
+[@ITEM 199 (L2) ]
+\0
+
+[@ITEM 199 (FR) ]
+{MSGWND}
+La pierre brille avec éclat !\0
+
+[@ITEM 200 (L1) ]
+\0
+
+[@ITEM 200 (EN) ]
+{MSGWND}
+Obtained Waystone!\0
+
+[@ITEM 200 (L2) ]
+\0
+
+[@ITEM 200 (FR) ]
+{MSGWND}
+Vous obtenez la pierre guide !\0
+
+[@ITEM 201 (L1) ]
+\0
+
+[@ITEM 201 (EN) ]
+It's been my lifelong dream to build a great bridge to
+span the mountains. I'll do it, just you watch!\0
+
+[@ITEM 201 (L2) ]
+\0
+
+[@ITEM 201 (FR) ]
+Mon rêve serait de construire un pont énorme entre
+deux montagnes. Vous allez voir, un jour, je vais le
+réaliser !\0
+
+[@ITEM 202 (L1) ]
+\0
+
+[@ITEM 202 (EN) ]
+{MSGWND}
+Obtained Nova Armor!\0
+
+[@ITEM 202 (L2) ]
+\0
+
+[@ITEM 202 (FR) ]
+{MSGWND}
+Vous obtenez une armure nova !\0
+
+[@ITEM 203 (L1) ]
+\0
+
+[@ITEM 203 (EN) ]
+{Ayla}: ??\0
+
+[@ITEM 203 (L2) ]
+\0
+
+[@ITEM 203 (FR) ]
+{Ayla} : Pacte ?\0
+
+[@ITEM 204 (L1) ]
+\0
+
+[@ITEM 204 (EN) ]
+{Frog}: Mayhap someday we will.
+Friendships are forged over time, you know.\0
+
+[@ITEM 204 (L2) ]
+\0
+
+[@ITEM 204 (FR) ]
+{Frog} : C'est un peu tôt. Pour devenir amis, il faut
+d'abord passer du temps ensemble.\0
+
+[@ITEM 205 (L1) ]
+\0
+
+[@ITEM 205 (EN) ]
+{Robo}: Have you encountered a man attempting to
+construct a bridge upon this mountain?\0
+
+[@ITEM 205 (L2) ]
+\0
+
+[@ITEM 205 (FR) ]
+{Robo} : Aurais-tu récemment aperçu un
+homme construisant un pont aux alentours ?\0
+
+[@ITEM 206 (L1) ]
+\0
+
+[@ITEM 206 (EN) ]
+{Lucca}: We're trying to find a man who came up
+this mountain to build a bridge. You haven't
+happened to have seen him, have you?\0
+
+[@ITEM 206 (L2) ]
+\0
+
+[@ITEM 206 (FR) ]
+{Lucca} : Un homme qui veut construire un pont
+s'est aventuré dans la montagne. L'aurais-tu vu ?\0
+
+[@ITEM 207 (L1) ]
+\0
+
+[@ITEM 207 (EN) ]
+{Marle}: We're looking for a man who said he
+was going to build a bridge on this mountain.
+Have you seen anyone like that around here?\0
+
+[@ITEM 207 (L2) ]
+\0
+
+[@ITEM 207 (FR) ]
+{Marle} : Nous cherchons un homme qui a dit qu'il
+allait construire un pont. L'aurais-tu aperçu ?\0
+
+[@ITEM 208 (L1) ]
+\0
+
+[@ITEM 208 (EN) ]
+{Frog}: We seek a man keen on constructing a
+bridge upon the mountain. Have you seen him?\0
+
+[@ITEM 208 (L2) ]
+\0
+
+[@ITEM 208 (FR) ]
+{Frog} : Nous sommes à la recherche d'un homme
+qui voulait construire un pont. L'aurais-tu aperçu ?\0
+
+[@ITEM 209 (L1) ]
+\0
+
+[@ITEM 209 (EN) ]
+{Ayla}: Man say build bridge.
+You know?\0
+
+[@ITEM 209 (L2) ]
+\0
+
+[@ITEM 209 (FR) ]
+{Ayla} : Nous chercher homme. Lui construire pont.
+Toi l'avoir vu ?\0
+
+[@ITEM 210 (L1) ]
+\0
+
+[@ITEM 210 (EN) ]
+I see him.
+He build bridge alone, just past here.\0
+
+[@ITEM 210 (L2) ]
+\0
+
+[@ITEM 210 (FR) ]
+Oui. Il y a quelqu'un qui construit un pont seul un peu
+plus loin.\0
+
+[@ITEM 211 (L1) ]
+\0
+
+[@ITEM 211 (EN) ]
+{Ayla}: {Ayla} want talk him.
+Let {Ayla} cross.\0
+
+[@ITEM 211 (L2) ]
+\0
+
+[@ITEM 211 (FR) ]
+{Ayla} : Bien ! Gnu laisser passer !\0
+
+[@ITEM 212 (L1) ]
+\0
+
+[@ITEM 212 (EN) ]
+{Robo}: There is a high probability that the man
+you saw is who we seek. Will you allow us to pass?\0
+
+[@ITEM 212 (L2) ]
+\0
+
+[@ITEM 212 (FR) ]
+{Robo} : C'est peut-être lui. Pourrais-tu nous
+laisser passer ?\0
+
+[@ITEM 213 (L1) ]
+\0
+
+[@ITEM 213 (EN) ]
+{Magus}: Then might you stand aside?
+We've business with him.\0
+
+[@ITEM 213 (L2) ]
+\0
+
+[@ITEM 213 (FR) ]
+{Magus} : C'est sans doute l'homme que nous
+cherchons. Laisse-nous passer.\0
+
+[@ITEM 214 (L1) ]
+\0
+
+[@ITEM 214 (EN) ]
+{Marle}: That must be him!
+Will you let us through? Please?\0
+
+[@ITEM 214 (L2) ]
+\0
+
+[@ITEM 214 (FR) ]
+{Marle} : C'est probablement lui ! Dis, tu pourrais
+nous laisser passer ?\0
+
+[@ITEM 215 (L1) ]
+\0
+
+[@ITEM 215 (EN) ]
+{Frog}: That must be him.
+Will you let us pass?\0
+
+[@ITEM 215 (L2) ]
+\0
+
+[@ITEM 215 (FR) ]
+{Frog} : C'est sûrement lui. Pourrais-tu nous laisser
+passer ?\0
+
+[@ITEM 216 (L1) ]
+\0
+
+[@ITEM 216 (EN) ]
+Okay.\0
+
+[@ITEM 216 (L2) ]
+\0
+
+[@ITEM 216 (FR) ]
+D'accord.\0
+
+[@ITEM 217 (L1) ]
+\0
+
+[@ITEM 217 (EN) ]
+zzz zzz\0
+
+[@ITEM 217 (L2) ]
+\0
+
+[@ITEM 217 (FR) ]
+Zzz...\0
+
+[@ITEM 218 (L1) ]
+\0
+
+[@ITEM 218 (EN) ]
+Agree to look for building materials?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 218 (L2) ]
+\0
+
+[@ITEM 218 (FR) ]
+Voulez-vous chercher des matériaux de construction ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 219 (L1) ]
+\0
+
+[@ITEM 219 (EN) ]
+Oh, thank you! I'll be waiting here.
+If you could bring me each of those three things,
+it would mean the world to me.\0
+
+[@ITEM 219 (L2) ]
+\0
+
+[@ITEM 219 (FR) ]
+Merci beaucoup. Vous pouvez me les apporter un par un.
+Je vous attendrai ici !\0
+
+[@ITEM 220 (L1) ]
+\0
+
+[@ITEM 220 (EN) ]
+All right... I understand.
+If you have a change of heart,
+please come back and let me know.\0
+
+[@ITEM 220 (L2) ]
+\0
+
+[@ITEM 220 (FR) ]
+Je vois... Si vous changez d'avis, faites-moi signe,
+d'accord ?\0
+
+[@ITEM 221 (L1) ]
+\0
+
+[@ITEM 221 (EN) ]
+Agree to check on the lonely figure?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 221 (L2) ]
+\0
+
+[@ITEM 221 (FR) ]
+Voulez-vous aider la créature solitaire ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 222 (L1) ]
+\0
+
+[@ITEM 222 (EN) ]
+Oh, you're so kind!
+I appreciate it, truly.\0
+
+[@ITEM 222 (L2) ]
+\0
+
+[@ITEM 222 (FR) ]
+Je vous remercie !\0
+
+[@ITEM 223 (L1) ]
+\0
+
+[@ITEM 223 (EN) ]
+Well, I won't force you to go.
+But please, give it some more thought.\0
+
+[@ITEM 223 (L2) ]
+\0
+
+[@ITEM 223 (FR) ]
+Je ne veux pas vous forcer. Réfléchissez-y quand
+même, d'accord ?\0
+
+[@ITEM 224 (L1) ]
+\0
+
+[@ITEM 224 (EN) ]
+If there's anything I can ever do to help you or
+that fellow out, please don't hesitate to ask.\0
+
+[@ITEM 224 (L2) ]
+\0
+
+[@ITEM 224 (FR) ]
+S'il arrive quoi que ce soit à cette créature, venez m'en
+parler, d'accord ?\0
+
+[@ITEM 225 (L1) ]
+\0
+
+[@ITEM 225 (EN) ]
+Oh dear, he's hungry?{PRESS_CLEAR}
+Well then, will you give him this for me?\0
+
+[@ITEM 225 (L2) ]
+\0
+
+[@ITEM 225 (FR) ]
+Oh, cette créature veut de la nourriture ?{PRESS_CLEAR}
+Dans ce cas, pourriez-vous lui donner ceci ?\0
+
+[@ITEM 226 (L1) ]
+\0
+
+[@ITEM 226 (EN) ]
+That fellow's been around for a very long time.
+I don't know if my cooking will be anything like
+what he's used to, but I hope he enjoys it.\0
+
+[@ITEM 226 (L2) ]
+\0
+
+[@ITEM 226 (FR) ]
+Cette créature a vécu si longtemps... Je ne sais pas si
+ça lui plaira, mais offrez-le-lui quand même de ma part.\0
+
+[@ITEM 227 (L1) ]
+\0
+
+[@ITEM 227 (EN) ]
+Agree to check on the bridge builder?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 227 (L2) ]
+\0
+
+[@ITEM 227 (FR) ]
+Voulez-vous chercher le constructeur de pont ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 228 (L1) ]
+\0
+
+[@ITEM 228 (EN) ]
+I appreciate it. He should be somewhere on Mount
+Emerald, east of the southern glade.\0
+
+[@ITEM 228 (L2) ]
+\0
+
+[@ITEM 228 (FR) ]
+Merci bien ! Il devrait être quelque part sur le mont
+verdoyant à l'est de la clairière. Je m'en remets à
+vous !\0
+
+[@ITEM 229 (L1) ]
+\0
+
+[@ITEM 229 (EN) ]
+I only want you to go and make sure he's all right.
+You really can't do that for me?\0
+
+[@ITEM 229 (L2) ]
+\0
+
+[@ITEM 229 (FR) ]
+Vous n'auriez pourtant qu'à aller voir ce qu'il lui est
+arrivé, c'est tout...\0
+
+[@ITEM 230 (L1) ]
+\0
+
+[@ITEM 230 (EN) ]
+He's well, then. That's a relief. If you see him again,
+be sure to give him my best wishes.\0
+
+[@ITEM 230 (L2) ]
+\0
+
+[@ITEM 230 (FR) ]
+Je me demande si mon voisin se porte bien...
+J'espère que oui. Si vous le voyez, dites-lui
+de ne pas abandonner !\0
+
+[@ITEM 231 (L1) ]
+\0
+
+[@ITEM 231 (EN) ]
+Oh, you're finally back!
+I must say, I'd grown a bit worried.\0
+
+[@ITEM 231 (L2) ]
+\0
+
+[@ITEM 231 (FR) ]
+Vous avez enfin terminé votre pont. Je m'étais tant
+inquiété...\0
+
+[@ITEM 232 (L1) ]
+\0
+
+[@ITEM 232 (EN) ]
+I spared no effort on that piece.
+I hope it serves you well!\0
+
+[@ITEM 232 (L2) ]
+\0
+
+[@ITEM 232 (FR) ]
+C'est mon chef-d'œuvre. Qu'en pensez-vous ?\0
+
+[@ITEM 233 (L1) ]
+\0
+
+[@ITEM 233 (EN) ]
+Why don't you stay for the night?
+You'll feel much better.
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 233 (L2) ]
+\0
+
+[@ITEM 233 (FR) ]
+Une bonne nuit de sommeil fait toujours du bien !
+Voulez-vous vous reposer ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 234 (L1) ]
+\0
+
+[@ITEM 234 (EN) ]
+How is your awakening?\0
+
+[@ITEM 234 (L2) ]
+\0
+
+[@ITEM 234 (FR) ]
+Vous vous sentez mieux ? Faites attention à vous !\0
+
+[@ITEM 235 (L1) ]
+\0
+
+[@ITEM 235 (EN) ]
+I train hard for long time.
+I tired now.
+I rest a little.\0
+
+[@ITEM 235 (L2) ]
+\0
+
+[@ITEM 235 (FR) ]
+Je me suis beaucoup entraîné, alors je suis fatigué.
+Je vais me reposer un peu.\0
+
+[@ITEM 236 (L1) ]
+\0
+
+[@ITEM 236 (EN) ]
+To build the frame, I need sturdy lumber.\0
+
+[@ITEM 236 (L2) ]
+\0
+
+[@ITEM 236 (FR) ]
+{MSGWND}
+Du bois dur et solide qui peut constituer
+la charpente d'un pont.\0
+
+[@ITEM 237 (L1) ]
+\0
+
+[@ITEM 237 (EN) ]
+To reinforce the structure, I'll need strong metal.\0
+
+[@ITEM 237 (L2) ]
+\0
+
+[@ITEM 237 (FR) ]
+{MSGWND}
+Du métal très dur qui peut servir
+à renforcer une structure en bois.\0
+
+[@ITEM 238 (L1) ]
+\0
+
+[@ITEM 238 (EN) ]
+To nail it all together, I'll need a durable hammer.\0
+
+[@ITEM 238 (L2) ]
+\0
+
+[@ITEM 238 (FR) ]
+{MSGWND}
+Un maillet ouvré permettant de fixer
+ensemble du métal et du bois.\0
+
+[@ITEM 239 (L1) ]
+\0
+
+[@ITEM 239 (EN) ]
+You've done a lot for this village.
+We owe you a great deal of thanks.\0
+
+[@ITEM 239 (L2) ]
+\0
+
+[@ITEM 239 (FR) ]
+Votre aide nous a été très précieuse. Merci encore !\0
+
+[@ITEM 240 (L1) ]
+\0
+
+[@ITEM 240 (EN) ]
+We're counting on you to clear the wood of monsters.\0
+
+[@ITEM 240 (L2) ]
+\0
+
+[@ITEM 240 (FR) ]
+S'il vous plaît, éliminez les monstres de la forêt !\0
+
+[@ITEM 241 (L1) ]
+\0
+
+[@ITEM 241 (EN) ]
+We know our village has a long history, but I wonder
+just how long ago it was truly founded.\0
+
+[@ITEM 241 (L2) ]
+\0
+
+[@ITEM 241 (FR) ]
+On raconte que notre village a toujours existé, mais je
+me demande quand il a vraiment été fondé...\0
+
+[@ITEM 242 (L1) ]
+\0
+
+[@ITEM 242 (EN) ]
+I love to build things. I want to make something that
+will last for centuries to come.\0
+
+[@ITEM 242 (L2) ]
+\0
+
+[@ITEM 242 (FR) ]
+J'adore fabriquer toutes sortes de choses, mais
+surtout, je veux que mes créations durent très
+longtemps.\0
+
+[@ITEM 243 (L1) ]
+\0
+
+[@ITEM 243 (EN) ]
+\0
+
+[@ITEM 243 (L2) ]
+\0
+
+[@ITEM 243 (FR) ]
+\0
+
+[@ITEM 244 (L1) ]
+\0
+
+[@ITEM 244 (EN) ]
+\0
+
+[@ITEM 244 (L2) ]
+\0
+
+[@ITEM 244 (FR) ]
+\0
+
+[@ITEM 245 (L1) ]
+\0
+
+[@ITEM 245 (EN) ]
+\0
+
+[@ITEM 245 (L2) ]
+\0
+
+[@ITEM 245 (FR) ]
+\0
+
+[@ITEM 246 (L1) ]
+\0
+
+[@ITEM 246 (EN) ]
+\0
+
+[@ITEM 246 (L2) ]
+\0
+
+[@ITEM 246 (FR) ]
+\0
+
+[@ITEM 247 (L1) ]
+\0
+
+[@ITEM 247 (EN) ]
+\0
+
+[@ITEM 247 (L2) ]
+\0
+
+[@ITEM 247 (FR) ]
+\0
+
+[@ITEM 248 (L1) ]
+\0
+
+[@ITEM 248 (EN) ]
+\0
+
+[@ITEM 248 (L2) ]
+\0
+
+[@ITEM 248 (FR) ]
+\0
+
+[@ITEM 249 (L1) ]
+\0
+
+[@ITEM 249 (EN) ]
+\0
+
+[@ITEM 249 (L2) ]
+\0
+
+[@ITEM 249 (FR) ]
+\0
+
+[@ITEM 250 (L1) ]
+\0
+
+[@ITEM 250 (EN) ]
+\0
+
+[@ITEM 250 (L2) ]
+\0
+
+[@ITEM 250 (FR) ]
+\0
+
+[@ITEM 251 (L1) ]
+\0
+
+[@ITEM 251 (EN) ]
+\0
+
+[@ITEM 251 (L2) ]
+\0
+
+[@ITEM 251 (FR) ]
+\0
+
+[@ITEM 252 (L1) ]
+\0
+
+[@ITEM 252 (EN) ]
+\0
+
+[@ITEM 252 (L2) ]
+\0
+
+[@ITEM 252 (FR) ]
+\0
+
+[@ITEM 253 (L1) ]
+\0
+
+[@ITEM 253 (EN) ]
+\0
+
+[@ITEM 253 (L2) ]
+\0
+
+[@ITEM 253 (FR) ]
+\0
+
+[@ITEM 254 (L1) ]
+\0
+
+[@ITEM 254 (EN) ]
+\0
+
+[@ITEM 254 (L2) ]
+\0
+
+[@ITEM 254 (FR) ]
+\0
+
+[@ITEM 255 (L1) ]
+\0
+
+[@ITEM 255 (EN) ]
+\0
+
+[@ITEM 255 (L2) ]
+\0
+
+[@ITEM 255 (FR) ]
+\0
+

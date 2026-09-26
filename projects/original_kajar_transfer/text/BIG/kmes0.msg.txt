@@ -1,0 +1,3621 @@
+[@kmes0.msg]
+
+[@ITEM 0 (L1) ]
+\0
+
+[@ITEM 0 (EN) ]
+{MSGWND}
+{COUNT} day(s) left until the day of
+the execution......{WAIT}0a{/WAIT}{CLOSE}\0
+
+[@ITEM 0 (L2) ]
+\0
+
+[@ITEM 0 (FR) ]
+{MSGWND}
+{COUNT} jour(s) avant l'exécution...{WAIT}0a{/WAIT}{CLOSE}\0
+
+[@ITEM 1 (L1) ]
+\0
+
+[@ITEM 1 (EN) ]
+{MSGWND}
+And so the day of the execution came......{WAIT}0a{/WAIT}{CLOSE}\0
+
+[@ITEM 1 (L2) ]
+\0
+
+[@ITEM 1 (FR) ]
+{MSGWND}
+Le jour de l'exécution est arrivé...{WAIT}0a{/WAIT}{CLOSE}\0
+
+[@ITEM 2 (L1) ]
+\0
+
+[@ITEM 2 (EN) ]
+Chancellor: This guy's the terrorist who
+planned to overthrow the royal family.\0
+
+[@ITEM 2 (L2) ]
+\0
+
+[@ITEM 2 (FR) ]
+Chancelier : Ce rebelle a essayé de renverser le trône.\0
+
+[@ITEM 3 (L1) ]
+\0
+
+[@ITEM 3 (EN) ]
+Chancellor: Because he was found guilty in trial,
+we came to hand him over.\0
+
+[@ITEM 3 (L2) ]
+\0
+
+[@ITEM 3 (FR) ]
+Chancelier : Il a été déclaré coupable, alors je suis venu
+vous le livrer.\0
+
+[@ITEM 4 (L1) ]
+\0
+
+[@ITEM 4 (EN) ]
+Warden: So this guy's the terrorist who
+kidnapped the Princess-sama.\0
+
+[@ITEM 4 (L2) ]
+\0
+
+[@ITEM 4 (FR) ]
+Geôlier : C'est donc lui qui a enlevé la princesse !\0
+
+[@ITEM 5 (L1) ]
+\0
+
+[@ITEM 5 (EN) ]
+Chancellor: His execution's in three days.
+Keep watch so you won't let him escape.\0
+
+[@ITEM 5 (L2) ]
+\0
+
+[@ITEM 5 (FR) ]
+Chancelier : Son exécution aura lieu dans trois jours.
+Surveillez-le et faites en sorte qu'il ne s'échappe pas !\0
+
+[@ITEM 6 (L1) ]
+\0
+
+[@ITEM 6 (EN) ]
+Warden: Acknowledged.\0
+
+[@ITEM 6 (L2) ]
+\0
+
+[@ITEM 6 (FR) ]
+Geôlier : Entendu.\0
+
+[@ITEM 7 (L1) ]
+\0
+
+[@ITEM 7 (EN) ]
+Warden: Execution? I've heard nothing about any
+such thing......\0
+
+[@ITEM 7 (L2) ]
+\0
+
+[@ITEM 7 (FR) ]
+Geôlier : Son exécution ? On ne m'a pas prévenu qu'il y
+aurait une exécution...\0
+
+[@ITEM 8 (L1) ]
+\0
+
+[@ITEM 8 (EN) ]
+Chancellor: Never mind that.
+It's just that the paperwork's delayed.
+Or, can you not believe my word?\0
+
+[@ITEM 8 (L2) ]
+\0
+
+[@ITEM 8 (FR) ]
+Chancelier : Les papiers sont en retard, voilà tout.
+Douteriez-vous de ma parole ?\0
+
+[@ITEM 9 (L1) ]
+\0
+
+[@ITEM 9 (EN) ]
+Warden: Th, that is surely not the case!\0
+
+[@ITEM 9 (L2) ]
+\0
+
+[@ITEM 9 (FR) ]
+Geôlier : Jamais !\0
+
+[@ITEM 10 (L1) ]
+\0
+
+[@ITEM 10 (EN) ]
+Warden: Guards!\0
+
+[@ITEM 10 (L2) ]
+\0
+
+[@ITEM 10 (FR) ]
+Geôlier : Gardes !\0
+
+[@ITEM 11 (L1) ]
+\0
+
+[@ITEM 11 (EN) ]
+Warden: Take him away!\0
+
+[@ITEM 11 (L2) ]
+\0
+
+[@ITEM 11 (FR) ]
+Geôlier : Emmenez-le !\0
+
+[@ITEM 12 (L1) ]
+\0
+
+[@ITEM 12 (EN) ]
+What do you think you're up to!\0
+
+[@ITEM 12 (L2) ]
+\0
+
+[@ITEM 12 (FR) ]
+Mais qu'est-ce que tu fabriques ?\0
+
+[@ITEM 13 (L1) ]
+\0
+
+[@ITEM 13 (EN) ]
+That's a present that trial attendees who pitied
+you brought when it was decided you'd go to
+prison.\0
+
+[@ITEM 13 (L2) ]
+\0
+
+[@ITEM 13 (FR) ]
+Des gens qui ont assisté au procès ont pris pitié de toi
+quand ils ont su que tu serais mis en prison. Ils t'ont
+apporté ce paquet.\0
+
+[@ITEM 14 (L1) ]
+\0
+
+[@ITEM 14 (EN) ]
+{MSGWND}
+Got an Ether!!\0
+
+[@ITEM 14 (L2) ]
+\0
+
+[@ITEM 14 (FR) ]
+{MSGWND}
+Vous obtenez un éther !\0
+
+[@ITEM 15 (L1) ]
+\0
+
+[@ITEM 15 (EN) ]
+Shut up!\0
+
+[@ITEM 15 (L2) ]
+\0
+
+[@ITEM 15 (FR) ]
+La ferme !\0
+
+[@ITEM 16 (L1) ]
+\0
+
+[@ITEM 16 (EN) ]
+Didn't you hear me tell you to shut up?!{PRESS_CLEAR}
+I'll make you shut it, bastard.
+Hey, open the door!\0
+
+[@ITEM 16 (L2) ]
+\0
+
+[@ITEM 16 (FR) ]
+J'ai dit « La ferme ! », tu es sourd ou quoi ? Je vais te
+faire taire, tu vas voir ! Ouvre la porte !\0
+
+[@ITEM 17 (L1) ]
+\0
+
+[@ITEM 17 (EN) ]
+Heh, you're making a fuss all the time, so now
+you pay for it.\0
+
+[@ITEM 17 (L2) ]
+\0
+
+[@ITEM 17 (FR) ]
+Ça t'apprendra à nous casser les oreilles !\0
+
+[@ITEM 18 (L1) ]
+\0
+
+[@ITEM 18 (EN) ]
+Y, you! Trying to escape?!\0
+
+[@ITEM 18 (L2) ]
+\0
+
+[@ITEM 18 (FR) ]
+Où comptes-tu aller comme ça ?!\0
+
+[@ITEM 19 (L1) ]
+\0
+
+[@ITEM 19 (EN) ]
+Escapee!!\0
+
+[@ITEM 19 (L2) ]
+\0
+
+[@ITEM 19 (FR) ]
+Le prisonnier essaie de s'échapper !\0
+
+[@ITEM 20 (L1) ]
+\0
+
+[@ITEM 20 (EN) ]
+So you're the prisoner who ran off!\0
+
+[@ITEM 20 (L2) ]
+\0
+
+[@ITEM 20 (FR) ]
+C'est donc toi le prisonnier en fuite ?\0
+
+[@ITEM 21 (L1) ]
+\0
+
+[@ITEM 21 (EN) ]
+{MSGWND}
+Passed out......\0
+
+[@ITEM 21 (L2) ]
+\0
+
+[@ITEM 21 (FR) ]
+{MSGWND}
+Il a perdu connaissance...\0
+
+[@ITEM 22 (L1) ]
+\0
+
+[@ITEM 22 (EN) ]
+{MSGWND}
+Helped yourself to a Middle Potion!\0
+
+[@ITEM 22 (L2) ]
+\0
+
+[@ITEM 22 (FR) ]
+{MSGWND}
+Vous obtenez une super-potion !\0
+
+[@ITEM 23 (L1) ]
+\0
+
+[@ITEM 23 (EN) ]
+{MSGWND}
+Wow! Found five of them!!\0
+
+[@ITEM 23 (L2) ]
+\0
+
+[@ITEM 23 (FR) ]
+{MSGWND}
+Oh ! Vous en obtenez cinq !\0
+
+[@ITEM 24 (L1) ]
+\0
+
+[@ITEM 24 (EN) ]
+{MSGWND}
+HP and MP recovered!\0
+
+[@ITEM 24 (L2) ]
+\0
+
+[@ITEM 24 (FR) ]
+{MSGWND}
+Régénération des PV et des PM !\0
+
+[@ITEM 25 (L1) ]
+\0
+
+[@ITEM 25 (EN) ]
+We're taking you to the place of execution.\0
+
+[@ITEM 25 (L2) ]
+\0
+
+[@ITEM 25 (FR) ]
+Nous allons t'escorter jusqu'à l'échafaud.\0
+
+[@ITEM 26 (L1) ]
+\0
+
+[@ITEM 26 (EN) ]
+Now, come.\0
+
+[@ITEM 26 (L2) ]
+\0
+
+[@ITEM 26 (FR) ]
+Allez, suis-moi.\0
+
+[@ITEM 27 (L1) ]
+\0
+
+[@ITEM 27 (EN) ]
+We'll carry out the guillotine sentence.\0
+
+[@ITEM 27 (L2) ]
+\0
+
+[@ITEM 27 (FR) ]
+La guillotine t'attend.\0
+
+[@ITEM 28 (L1) ]
+\0
+
+[@ITEM 28 (EN) ]
+Any last words?\0
+
+[@ITEM 28 (L2) ]
+\0
+
+[@ITEM 28 (FR) ]
+As-tu quelque chose à dire avant de mourir ?\0
+
+[@ITEM 29 (L1) ]
+\0
+
+[@ITEM 29 (EN) ]
+{Lucca}: {Crono}!
+I came to help!\0
+
+[@ITEM 29 (L2) ]
+\0
+
+[@ITEM 29 (FR) ]
+{Lucca} : {Crono} !
+Je suis venue te sauver !\0
+
+[@ITEM 30 (L1) ]
+\0
+
+[@ITEM 30 (EN) ]
+Who the hell are you!\0
+
+[@ITEM 30 (L2) ]
+\0
+
+[@ITEM 30 (FR) ]
+Quoi ?!\0
+
+[@ITEM 31 (L1) ]
+\0
+
+[@ITEM 31 (EN) ]
+{Lucca}: You're in my way!\0
+
+[@ITEM 31 (L2) ]
+\0
+
+[@ITEM 31 (FR) ]
+{Lucca} : Hors de mon chemin !\0
+
+[@ITEM 32 (L1) ]
+\0
+
+[@ITEM 32 (EN) ]
+{Lucca}: Sleep for a while!\0
+
+[@ITEM 32 (L2) ]
+\0
+
+[@ITEM 32 (FR) ]
+{Lucca} : Faites un petit somme !\0
+
+[@ITEM 33 (L1) ]
+\0
+
+[@ITEM 33 (EN) ]
+{Lucca}: How's that? The taste of {Lucca}-sama's
+pride, the Disposable Explosion Blast Pistol?\0
+
+[@ITEM 33 (L2) ]
+\0
+
+[@ITEM 33 (FR) ]
+{Lucca} : Alors, que penses-tu de ma meilleure
+invention, le pistolet explosif jetable ?\0
+
+[@ITEM 34 (L1) ]
+\0
+
+[@ITEM 34 (EN) ]
+{Lucca}: Come on, let's get out of here, quick!\0
+
+[@ITEM 34 (L2) ]
+\0
+
+[@ITEM 34 (FR) ]
+{Lucca} : Sortons d'ici en vitesse !\0
+
+[@ITEM 35 (L1) ]
+\0
+
+[@ITEM 35 (EN) ]
+Director: H, hiii! Help meee!!\0
+
+[@ITEM 35 (L2) ]
+\0
+
+[@ITEM 35 (FR) ]
+Geôlier : Ah ! À l'aide !\0
+
+[@ITEM 36 (L1) ]
+\0
+
+[@ITEM 36 (EN) ]
+I, I can't take this.\0
+
+[@ITEM 36 (L2) ]
+\0
+
+[@ITEM 36 (FR) ]
+Je n'en peux plus...\0
+
+[@ITEM 37 (L1) ]
+\0
+
+[@ITEM 37 (EN) ]
+{Lucca}: ......so I say, but you were able to escape by
+yourself.
+......that's kinda boring.\0
+
+[@ITEM 37 (L2) ]
+\0
+
+[@ITEM 37 (FR) ]
+{Lucca} : Mais on dirait que tu n'avais pas besoin de
+mon aide en fin de compte... Je me suis inquiétée pour
+rien.\0
+
+[@ITEM 38 (L1) ]
+\0
+
+[@ITEM 38 (EN) ]
+{Lucca}: Those fools who stand in {Lucca}-sama's way
+all wind up like this.{PRESS_CLEAR}
+{MSGWND}
+Oh, ho, ho!\0
+
+[@ITEM 38 (L2) ]
+\0
+
+[@ITEM 38 (FR) ]
+{Lucca} : Voilà ce qui arrive aux idiots qui font
+obstacle à {Lucca}, la grande inventrice !{PRESS_CLEAR}{MSGWND}
+
+Ho, ho, ho, ho, ho !\0
+
+[@ITEM 39 (L1) ]
+\0
+
+[@ITEM 39 (EN) ]
+{Lucca}: I wonder what the noise is?\0
+
+[@ITEM 39 (L2) ]
+\0
+
+[@ITEM 39 (FR) ]
+{Lucca} : D'où vient ce bruit ?\0
+
+[@ITEM 40 (L1) ]
+\0
+
+[@ITEM 40 (EN) ]
+Chancellor: Go, Dragon Tank!
+Take down the terrorists!\0
+
+[@ITEM 40 (L2) ]
+\0
+
+[@ITEM 40 (FR) ]
+Chancelier : Allez, dragon d'assaut ! Écrase les rebelles !\0
+
+[@ITEM 41 (L1) ]
+\0
+
+[@ITEM 41 (EN) ]
+Chancellor: Th, the Dragon Tank!!\0
+
+[@ITEM 41 (L2) ]
+\0
+
+[@ITEM 41 (FR) ]
+Chancelier : Le dragon d'assaut ! Réparez-le !\0
+
+[@ITEM 42 (L1) ]
+\0
+
+[@ITEM 42 (EN) ]
+Chancellor: Y, you bastards, you'll pay for this!\0
+
+[@ITEM 42 (L2) ]
+\0
+
+[@ITEM 42 (FR) ]
+Chancelier : Grrr ! Vous me le paierez !\0
+
+[@ITEM 43 (L1) ]
+\0
+
+[@ITEM 43 (EN) ]
+A secret document has fallen......{PRESS_CLEAR}
+Try reading it?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 43 (L2) ]
+\0
+
+[@ITEM 43 (FR) ]
+Il y a un document secret sur le sol...{PRESS_CLEAR}
+Voulez-vous le lire ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 44 (L1) ]
+\0
+
+[@ITEM 44 (EN) ]
+				  Dragon Tank Blueprints
+
+	{7F}To the Guardia Kingdom Prison Warden:{PRESS_CLEAR}
+An ability is installed in the Dragon Tank's head
+that recovers the damage the body takes.{56}A shield that defends against Sky and Fire
+fire attribute skills is equipped to the head, so
+one cannot inflict damage except with attacks
+by weapons like swords or pistols.{PRESS_CLEAR}
+In other words, as long as the head is not
+broken by the attacks of swords, etc., you may
+consider the Dragon Tank unbeatable.
+										   From the Guardia Kingdom Development Dept.\0
+
+[@ITEM 44 (L2) ]
+\0
+
+[@ITEM 44 (FR) ]
+À l'attention du geôlier de la prison royale de Gardia :
+
+Plans du dragon d'assaut{PRESS_CLEAR}
+La tête du dragon d'assaut est munie d'un dispositif qui
+répare les dégâts infligés au reste du corps.{PRESS_CLEAR}
+Tant qu'elle est en état de marche, le dragon peut donc
+être considéré comme invincible.{PRESS_CLEAR}
+Un bouclier spécial la protège du feu et des foudres du
+ciel, mais elle reste néanmoins vulnérable aux attaques
+physiques.
+   - Atelier royal du génie militaire de Gardia\0
+
+[@ITEM 45 (L1) ]
+\0
+
+[@ITEM 45 (EN) ]
+H, help me!{PRESS_CLEAR}
+Help him?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 45 (L2) ]
+\0
+
+[@ITEM 45 (FR) ]
+Aidez-moi !{PRESS_CLEAR}
+Voulez-vous lui porter secours ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 46 (L1) ]
+\0
+
+[@ITEM 46 (EN) ]
+Thanks, I'm saved.{PRESS_CLEAR}
+My name's Fritz.
+My father manages a goods store in Truce.
+If you come to the area, be sure to come visit.\0
+
+[@ITEM 46 (L2) ]
+\0
+
+[@ITEM 46 (FR) ]
+Je vous remercie de m'avoir sauvé la vie !
+Je m'appelle Fritz.{PRESS_CLEAR}
+Mon père tient le magasin de Truce. Venez me rendre
+visite si vous en avez l'occasion !\0
+
+[@ITEM 47 (L1) ]
+\0
+
+[@ITEM 47 (EN) ]
+I'm going to Guardia Kingdom's Millennial Festival!\0
+
+[@ITEM 47 (L2) ]
+\0
+
+[@ITEM 47 (FR) ]
+Je m'en vais à la foire du millénaire du royaume de
+Gardia !\0
+
+[@ITEM 48 (L1) ]
+\0
+
+[@ITEM 48 (EN) ]
+I've been thinking I'd try going to that Millennial
+Festival or whatever it's called once.\0
+
+[@ITEM 48 (L2) ]
+\0
+
+[@ITEM 48 (FR) ]
+Ce ne sont pas mes rhumatismes qui m'empêcheront
+d'aller à la foire du millénaire !\0
+
+[@ITEM 49 (L1) ]
+\0
+
+[@ITEM 49 (EN) ]
+Yay! A festival, a festival!\0
+
+[@ITEM 49 (L2) ]
+\0
+
+[@ITEM 49 (FR) ]
+Youpi ! On va à la foire !\0
+
+[@ITEM 50 (L1) ]
+\0
+
+[@ITEM 50 (EN) ]
+I intend to go to the Millennial Festival grounds and
+put up a store. Please be sure to come to my shop.\0
+
+[@ITEM 50 (L2) ]
+\0
+
+[@ITEM 50 (FR) ]
+Je compte ouvrir un kiosque à la foire. Venez me rendre
+visite !\0
+
+[@ITEM 51 (L1) ]
+\0
+
+[@ITEM 51 (EN) ]
+Woohoo, it's a festival! I'm forgetting my usual
+gloom and tossing back some drinks!\0
+
+[@ITEM 51 (L2) ]
+\0
+
+[@ITEM 51 (FR) ]
+Vive la foire ! C'est l'endroit parfait pour oublier tous
+vos ennuis et boire quelques verres !\0
+
+[@ITEM 52 (L1) ]
+\0
+
+[@ITEM 52 (EN) ]
+This bridge was destroyed by Magus's army and is
+under repair.
+However, until Cyrus-sama returns, we will protect
+the kingdom by our hands, unto death!\0
+
+[@ITEM 52 (L2) ]
+\0
+
+[@ITEM 52 (FR) ]
+Nous allons devoir réparer ce pont détruit lors d'un
+affrontement contre l'armée du Magistère. En attendant
+le retour de sire Cyrus, nous défendrons le royaume de
+nos vies, s'il le faut !\0
+
+[@ITEM 53 (L1) ]
+\0
+
+[@ITEM 53 (EN) ]
+That frog bastard swam his way across.\0
+
+[@ITEM 53 (L2) ]
+\0
+
+[@ITEM 53 (FR) ]
+Ce vaurien qui a l'apparence d'une grenouille a traversé
+en nageant.\0
+
+[@ITEM 54 (L1) ]
+\0
+
+[@ITEM 54 (EN) ]
+There's no food any more......\0
+
+[@ITEM 54 (L2) ]
+\0
+
+[@ITEM 54 (FR) ]
+Nous n'avons plus de vivres...\0
+
+[@ITEM 55 (L1) ]
+\0
+
+[@ITEM 55 (EN) ]
+Now, if we can just repel Magus's army......\0
+
+[@ITEM 55 (L2) ]
+\0
+
+[@ITEM 55 (FR) ]
+Il ne nous reste plus qu'à repousser l'armée du
+Magistère...\0
+
+[@ITEM 56 (L1) ]
+\0
+
+[@ITEM 56 (EN) ]
+Knight Captain: The food's bottomed out......
+Aren't the supplies from Guardia Castle here yet?!\0
+
+[@ITEM 56 (L2) ]
+\0
+
+[@ITEM 56 (FR) ]
+Capitaine : Nos vivres sont épuisés... Le ravitaillement
+en provenance du château n'est toujours pas arrivé ?\0
+
+[@ITEM 57 (L1) ]
+\0
+
+[@ITEM 57 (EN) ]
+Protecting the Hero, the best of the Knights
+have initiated an assault.\0
+
+[@ITEM 57 (L2) ]
+\0
+
+[@ITEM 57 (FR) ]
+Les chevaliers d'élite ont chargé en formant une ligne
+défensive devant le héros.\0
+
+[@ITEM 58 (L1) ]
+\0
+
+[@ITEM 58 (EN) ]
+It looks as though the Knights and Magus's
+army have run into each other in the middle of
+the bridge. Keep at it......\0
+
+[@ITEM 58 (L2) ]
+\0
+
+[@ITEM 58 (FR) ]
+Les chevaliers ont engagé le combat contre les forces
+du Magistère au milieu du pont. Puissent-ils en sortir
+vainqueurs...\0
+
+[@ITEM 59 (L1) ]
+\0
+
+[@ITEM 59 (EN) ]
+But can the Hero crush Magus's army with just
+his own power?\0
+
+[@ITEM 59 (L2) ]
+\0
+
+[@ITEM 59 (FR) ]
+Le héros pourrait-il vraiment vaincre l'armée du
+Magistère à lui seul ?\0
+
+[@ITEM 60 (L1) ]
+\0
+
+[@ITEM 60 (EN) ]
+We can't beat Magus's army with our power......
+It's shameful, but our only recourse is the Hero.\0
+
+[@ITEM 60 (L2) ]
+\0
+
+[@ITEM 60 (FR) ]
+Nous ne pouvons pas vaincre l'armée du Magistère sans
+aide... J'ai du mal à l'avouer, mais le héros est notre seul
+espoir.\0
+
+[@ITEM 61 (L1) ]
+\0
+
+[@ITEM 61 (EN) ]
+The hero who holds the Hero Badge......
+I always thought it was a fairy tale......
+Now there's no choice but to trust in the Hero's power.\0
+
+[@ITEM 61 (L2) ]
+\0
+
+[@ITEM 61 (FR) ]
+Je croyais que ces histoires de héros portant une
+médaille n'étaient que des légendes... Maintenant,
+je ne peux que croire en lui.\0
+
+[@ITEM 62 (L1) ]
+\0
+
+[@ITEM 62 (EN) ]
+Knight Captain: Magus's army has sent out a
+fresh supply of troops.
+It's dangerous now. Stay back.\0
+
+[@ITEM 62 (L2) ]
+\0
+
+[@ITEM 62 (FR) ]
+Capitaine : L'armée du Magistère a obtenu des renforts !
+Repliez-vous !\0
+
+[@ITEM 63 (L1) ]
+\0
+
+[@ITEM 63 (EN) ]
+Knight Captain: {Crono}-dono, what is it?{PRESS_CLEAR}
+Give him the Head Cook's food?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 63 (L2) ]
+\0
+
+[@ITEM 63 (FR) ]
+Capitaine : Qu'y a-t-il, sire {Crono} ?{PRESS_CLEAR}
+Voulez-vous lui donner les vivres du chef cuisinier ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 64 (L1) ]
+\0
+
+[@ITEM 64 (EN) ]
+Knight Captain: Th, this!?{PRESS_CLEAR}
+I see, he......\0
+
+[@ITEM 64 (L2) ]
+\0
+
+[@ITEM 64 (FR) ]
+Capitaine : Des vivres ?!{PRESS_CLEAR}
+Je vois, il m'a pardonné...\0
+
+[@ITEM 65 (L1) ]
+\0
+
+[@ITEM 65 (EN) ]
+Knight Captain: {Crono}-dono, if I die here, tell my
+little brother......\0
+
+[@ITEM 65 (L2) ]
+\0
+
+[@ITEM 65 (FR) ]
+Capitaine : Sire {Crono}, si je ne rentre pas vivant
+de cette campagne, remerciez mon frère de ma part...\0
+
+[@ITEM 66 (L1) ]
+\0
+
+[@ITEM 66 (EN) ]
+Knight Captain: What's going on!!\0
+
+[@ITEM 66 (L2) ]
+\0
+
+[@ITEM 66 (FR) ]
+Capitaine : Que se passe-t-il ?\0
+
+[@ITEM 67 (L1) ]
+\0
+
+[@ITEM 67 (EN) ]
+{Magus}'s army's attack has begun!
+We can't hold any longer!\0
+
+[@ITEM 67 (L2) ]
+\0
+
+[@ITEM 67 (FR) ]
+L'armée du Magistère est passée à l'assaut !
+Nous ne tiendrons pas plus longtemps !\0
+
+[@ITEM 68 (L1) ]
+\0
+
+[@ITEM 68 (EN) ]
+Knight Captain: Don't whine!
+On the honor of the Guardia Royal Knights,
+repel Magus's army!\0
+
+[@ITEM 68 (L2) ]
+\0
+
+[@ITEM 68 (FR) ]
+Capitaine : Ne perdez pas courage ! Nous devons
+repousser l'envahisseur ! Il en va de notre honneur
+de chevaliers royaux de Gardia !\0
+
+[@ITEM 69 (L1) ]
+\0
+
+[@ITEM 69 (EN) ]
+B, but, the number of soldiers is already......\0
+
+[@ITEM 69 (L2) ]
+\0
+
+[@ITEM 69 (FR) ]
+Mais... nous avons essuyé de grosses pertes...\0
+
+[@ITEM 70 (L1) ]
+\0
+
+[@ITEM 70 (EN) ]
+Knight Captain: This is our last line of defense.
+Hold out a while longer!\0
+
+[@ITEM 70 (L2) ]
+\0
+
+[@ITEM 70 (FR) ]
+Capitaine : Ceci est notre dernière ligne de défense.
+Nous devons tenir bon !\0
+
+[@ITEM 71 (L1) ]
+\0
+
+[@ITEM 71 (EN) ]
+Understood!\0
+
+[@ITEM 71 (L2) ]
+\0
+
+[@ITEM 71 (FR) ]
+À vos ordres !\0
+
+[@ITEM 72 (L1) ]
+\0
+
+[@ITEM 72 (EN) ]
+Oohh......\0
+
+[@ITEM 72 (L2) ]
+\0
+
+[@ITEM 72 (FR) ]
+Oh...\0
+
+[@ITEM 73 (L1) ]
+\0
+
+[@ITEM 73 (EN) ]
+The Hero crossed the bridge somehow.
+But I'm afraid our army suffered a very serious
+blow......\0
+
+[@ITEM 73 (L2) ]
+\0
+
+[@ITEM 73 (FR) ]
+Le héros a réussi à traverser le pont, mais nous avons
+subi des pertes importantes...\0
+
+[@ITEM 74 (L1) ]
+\0
+
+[@ITEM 74 (EN) ]
+Can we really not handle Magus's army with
+human power......?\0
+
+[@ITEM 74 (L2) ]
+\0
+
+[@ITEM 74 (FR) ]
+De simples êtres humains ne peuvent donc pas rivaliser
+avec l'armée du Magistère...\0
+
+[@ITEM 75 (L1) ]
+\0
+
+[@ITEM 75 (EN) ]
+Knight Captain: As you can see, our army is
+fighting a difficult battle......{PRESS_CLEAR}
+{Crono}-dono, may I not implore your assistance?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 75 (L2) ]
+\0
+
+[@ITEM 75 (FR) ]
+Capitaine : Comme vous pouvez le constater, nos
+troupes ont beaucoup souffert...{PRESS_CLEAR}
+Sire {Crono}, nous prêterez-vous main-forte ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 76 (L1) ]
+\0
+
+[@ITEM 76 (EN) ]
+Knight Captain: We are grateful! Magus's
+army is at the far foot of the bridge!{PRESS_CLEAR}
+Please take this.
+It should surely be of use to you.\0
+
+[@ITEM 76 (L2) ]
+\0
+
+[@ITEM 76 (FR) ]
+Capitaine : Je vous remercie ! L'armée du Magistère est
+de l'autre côté du pont. Tenez, ceci devrait vous être
+utile !\0
+
+[@ITEM 77 (L1) ]
+\0
+
+[@ITEM 77 (EN) ]
+Knight Captain: {Magus}'s army is a tough foe.
+I insist that you be careful.\0
+
+[@ITEM 77 (L2) ]
+\0
+
+[@ITEM 77 (FR) ]
+Capitaine : Les soldats de l'armée du Magistère sont
+redoutables. Soyez prudents.\0
+
+[@ITEM 78 (L1) ]
+\0
+
+[@ITEM 78 (EN) ]
+Knight Captain: I see......
+Be we are the Knights of Guardia Kingdom.
+Upon our honor, we will defend this bridge to the
+death!\0
+
+[@ITEM 78 (L2) ]
+\0
+
+[@ITEM 78 (FR) ]
+Capitaine : Je vois... Nous sommes les chevaliers royaux
+de Gardia. Sur notre honneur, nous défendrons ce pont
+jusqu'à la mort !\0
+
+[@ITEM 79 (L1) ]
+\0
+
+[@ITEM 79 (EN) ]
+Knight Captain: Thanks to you, we were able
+to protect the bridge to the end.
+But there will be no overall resolution unless we
+can beat {Magus}.\0
+
+[@ITEM 79 (L2) ]
+\0
+
+[@ITEM 79 (FR) ]
+Capitaine : Grâce à vous, nous avons pu protéger le
+pont. Toutefois, si nous n'arrivons pas à vaincre le
+Magistère, cela ne résoudra pas la situation.\0
+
+[@ITEM 80 (L1) ]
+\0
+
+[@ITEM 80 (EN) ]
+We were able to take back Zenan Bridge from
+Magus's army.
+This, too, is thanks to Crono-dono.\0
+
+[@ITEM 80 (L2) ]
+\0
+
+[@ITEM 80 (FR) ]
+Nous avons repris le pont de Zénan grâce à votre aide.\0
+
+[@ITEM 81 (L1) ]
+\0
+
+[@ITEM 81 (EN) ]
+The likes of {Magus}'s army with no {Magus} is no
+match for the army of Guardia Kingdom.\0
+
+[@ITEM 81 (L2) ]
+\0
+
+[@ITEM 81 (FR) ]
+Sans son leader, l'armée du Magistère n'est pas de taille
+contre la nôtre.\0
+
+[@ITEM 82 (L1) ]
+\0
+
+[@ITEM 82 (EN) ]
+It seems that {Magus}'s army has gone to pieces
+now that {Magus} is gone.\0
+
+[@ITEM 82 (L2) ]
+\0
+
+[@ITEM 82 (FR) ]
+Maintenant que {Magus} n'est plus là, ses forces se
+sont dispersées.\0
+
+[@ITEM 83 (L1) ]
+\0
+
+[@ITEM 83 (EN) ]
+{Marle}: Wait up!\0
+
+[@ITEM 83 (L2) ]
+\0
+
+[@ITEM 83 (FR) ]
+{Marle} : Mais attends !\0
+
+[@ITEM 84 (L1) ]
+\0
+
+[@ITEM 84 (EN) ]
+{Lucca}: You're fast at running away, at least.\0
+
+[@ITEM 84 (L2) ]
+\0
+
+[@ITEM 84 (FR) ]
+{Lucca} : Quand il s'agit de fuir, il est rapide.\0
+
+[@ITEM 85 (L1) ]
+\0
+
+[@ITEM 85 (EN) ]
+{Robo}: We HAVE caught up.\0
+
+[@ITEM 85 (L2) ]
+\0
+
+[@ITEM 85 (FR) ]
+{Robo} : Nous l'avons rattrapé.\0
+
+[@ITEM 86 (L1) ]
+\0
+
+[@ITEM 86 (EN) ]
+Vinnegar: Kill them off!\0
+
+[@ITEM 86 (L2) ]
+\0
+
+[@ITEM 86 (FR) ]
+Vinnie : Je vais en finir avec vous !\0
+
+[@ITEM 87 (L1) ]
+\0
+
+[@ITEM 87 (EN) ]
+I'm Vinnegar, {Magus}-sama's foremost subordinate,
+one of {Magus}'s Three Great Generals.
+Death to the enemies of the great {Magus}-sama!\0
+
+[@ITEM 87 (L2) ]
+\0
+
+[@ITEM 87 (FR) ]
+Je suis Vinnie, un des trois généraux du Magistère !
+Mort aux ennemis de Son Excellence {Magus} !\0
+
+[@ITEM 88 (L1) ]
+\0
+
+[@ITEM 88 (EN) ]
+Vinnegar: My dear children!
+Confer death upon them!\0
+
+[@ITEM 88 (L2) ]
+\0
+
+[@ITEM 88 (FR) ]
+Vinnie : Allez, mes enfants ! Éliminez-les !\0
+
+[@ITEM 89 (L1) ]
+\0
+
+[@ITEM 89 (EN) ]
+Vinnegar: Khuu, better than I expected.\0
+
+[@ITEM 89 (L2) ]
+\0
+
+[@ITEM 89 (FR) ]
+Vinnie : Hum... Ils sont plus forts que prévu.\0
+
+[@ITEM 90 (L1) ]
+\0
+
+[@ITEM 90 (EN) ]
+Vinnegar: It looks as though I took you a bit too
+lightly.
+But that won't happen this time.\0
+
+[@ITEM 90 (L2) ]
+\0
+
+[@ITEM 90 (FR) ]
+Vinnie : On dirait que je vous avais sous-estimés, mais
+ça n'arrivera plus !\0
+
+[@ITEM 91 (L1) ]
+\0
+
+[@ITEM 91 (EN) ]
+Vinnegar: Dammit!\0
+
+[@ITEM 91 (L2) ]
+\0
+
+[@ITEM 91 (FR) ]
+Vinnie : Mince !\0
+
+[@ITEM 92 (L1) ]
+\0
+
+[@ITEM 92 (EN) ]
+Vinnegar: Th, this time for sure, it'll be over for
+you too! Really!\0
+
+[@ITEM 92 (L2) ]
+\0
+
+[@ITEM 92 (FR) ]
+Vinnie : Cette fois, vous n'irez pas plus loin !
+Je vous l'assure !\0
+
+[@ITEM 93 (L1) ]
+\0
+
+[@ITEM 93 (EN) ]
+{Marle}: What's your problem!
+Underestimate {Crono} and you'll pay for it!\0
+
+[@ITEM 93 (L2) ]
+\0
+
+[@ITEM 93 (FR) ]
+{Marle} : Si tu sous-estimes {Crono}, tu le
+regretteras !\0
+
+[@ITEM 94 (L1) ]
+\0
+
+[@ITEM 94 (EN) ]
+{Lucca}: Hmph, you're a poor loser.\0
+
+[@ITEM 94 (L2) ]
+\0
+
+[@ITEM 94 (FR) ]
+{Lucca} : Hum, tu es mauvais perdant, c'est ça ?\0
+
+[@ITEM 95 (L1) ]
+\0
+
+[@ITEM 95 (EN) ]
+{Robo}: YOU have NO chance.
+SURRENDER.\0
+
+[@ITEM 95 (L2) ]
+\0
+
+[@ITEM 95 (FR) ]
+{Robo} : Les chances sont contre toi.
+Abandonne maintenant.\0
+
+[@ITEM 96 (L1) ]
+\0
+
+[@ITEM 96 (EN) ]
+Vinnegar: Go, Junkdragar!
+Take down {Magus}-sama's enemies!\0
+
+[@ITEM 96 (L2) ]
+\0
+
+[@ITEM 96 (FR) ]
+Vinnie : Vas-y, mon abomination ! Écrase les ennemis du
+Magistère !\0
+
+[@ITEM 97 (L1) ]
+\0
+
+[@ITEM 97 (EN) ]
+Cyrus: Hey, Glenn......
+I'm thinking I'll join the Knights.\0
+
+[@ITEM 97 (L2) ]
+\0
+
+[@ITEM 97 (FR) ]
+Cyrus : Au fait, Glenn...
+Je crois que je vais devenir un chevalier...\0
+
+[@ITEM 98 (L1) ]
+\0
+
+[@ITEM 98 (EN) ]
+Glenn: I knew it!
+I'm sure you can become a great knight.
+I guarantee it.\0
+
+[@ITEM 98 (L2) ]
+\0
+
+[@ITEM 98 (FR) ]
+Glenn : Je savais bien que tu allais t'engager !
+Tu seras un excellent chevalier, j'en suis certain.\0
+
+[@ITEM 99 (L1) ]
+\0
+
+[@ITEM 99 (EN) ]
+Cyrus: Won't you come with me too?\0
+
+[@ITEM 99 (L2) ]
+\0
+
+[@ITEM 99 (FR) ]
+Cyrus : Tu ne vas pas t'engager, toi aussi ?\0
+
+[@ITEM 100 (L1) ]
+\0
+
+[@ITEM 100 (EN) ]
+Glenn: ......I couldn't do it.\0
+
+[@ITEM 100 (L2) ]
+\0
+
+[@ITEM 100 (FR) ]
+Glenn : ...
+Je ne pourrais pas.\0
+
+[@ITEM 101 (L1) ]
+\0
+
+[@ITEM 101 (EN) ]
+Cyrus: Really.
+I think your sword skill is the better.\0
+
+[@ITEM 101 (L2) ]
+\0
+
+[@ITEM 101 (FR) ]
+Cyrus : Ah bon ? Tu es pourtant plus habile que moi à
+l'épée.\0
+
+[@ITEM 102 (L1) ]
+\0
+
+[@ITEM 102 (EN) ]
+Glenn: I'm hopeless.
+I'm sure I'd be scared stiff in a real battle.\0
+
+[@ITEM 102 (L2) ]
+\0
+
+[@ITEM 102 (FR) ]
+Glenn : Je ne serais bon à rien. En combat réel, j'aurais
+trop peur.\0
+
+[@ITEM 103 (L1) ]
+\0
+
+[@ITEM 103 (EN) ]
+Bosch: Oh, come to visit, have you!
+I hope you go view my proud collection too.{PRESS_CLEAR}
+Ah, that's it, you've come to buy the weapons
+I've made, haven't you? I'll make it cheap.
+		{SEL1}Yes, I'd like to buy one.{/SEL1}
+		{SEL2}No, I'm not interested.{/SEL2}\0
+
+[@ITEM 103 (L2) ]
+\0
+
+[@ITEM 103 (FR) ]
+Bosch : Oh, vous êtes venus me rendre visite !
+Vous devriez jeter un coup d'œil à ma collection.{PRESS_CLEAR}
+Seriez-vous intéressés par une des armes que j'ai
+fabriquées ? Je vous ferai un prix d'ami !
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 104 (L1) ]
+\0
+
+[@ITEM 104 (EN) ]
+Bosch: Weapons, you see......
+They aren't for taking life.
+They ought to be for bringing life.\0
+
+[@ITEM 104 (L2) ]
+\0
+
+[@ITEM 104 (FR) ]
+Bosch : Vous savez, les armes ne sont pas faites pour
+ôter la vie, mais pour sauver celle de ceux qui sont
+menacés.\0
+
+[@ITEM 105 (L1) ]
+\0
+
+[@ITEM 105 (EN) ]
+Bosch: I see, that's too bad.\0
+
+[@ITEM 105 (L2) ]
+\0
+
+[@ITEM 105 (FR) ]
+Bosch : Ah ? Voilà qui est dommage.\0
+
+[@ITEM 106 (L1) ]
+\0
+
+[@ITEM 106 (EN) ]
+Bosch: That's a superior sword, lightweight and
+easy to use.
+Naturally, it's my work.\0
+
+[@ITEM 106 (L2) ]
+\0
+
+[@ITEM 106 (FR) ]
+Bosch : Ce sont des sabres légers et faciles à manier.
+Bien sûr, c'est moi qui les ai forgés.\0
+
+[@ITEM 107 (L1) ]
+\0
+
+[@ITEM 107 (EN) ]
+Bosch: Ah, yes, you guys.
+If you want to return to the town of Truce, you
+should pass through the cave in the mountain
+north of this house.\0
+
+[@ITEM 107 (L2) ]
+\0
+
+[@ITEM 107 (FR) ]
+Bosch : Ah, oui. Si vous voulez retourner à Truce,
+vous devriez passer par les grottes situées dans
+la montagne au nord d'ici.\0
+
+[@ITEM 108 (L1) ]
+\0
+
+[@ITEM 108 (EN) ]
+I'm going peddling, so I won't be back for a while.
+Do come visit again another time.
+								  Bosch\0
+
+[@ITEM 108 (L2) ]
+\0
+
+[@ITEM 108 (FR) ]
+« Je suis parti colporter mes marchandises.
+Veuillez revenir plus tard.
+       - Bosch »\0
+
+[@ITEM 109 (L1) ]
+\0
+
+[@ITEM 109 (EN) ]
+{Lucca}: Huh? Where's Bosch?\0
+
+[@ITEM 109 (L2) ]
+\0
+
+[@ITEM 109 (FR) ]
+{Lucca} : Mais où est Bosch ?\0
+
+[@ITEM 110 (L1) ]
+\0
+
+[@ITEM 110 (EN) ]
+{Lucca}: A letter?\0
+
+[@ITEM 110 (L2) ]
+\0
+
+[@ITEM 110 (FR) ]
+{Lucca} : Un message ?
+Voyons voir...\0
+
+[@ITEM 111 (L1) ]
+\0
+
+[@ITEM 111 (EN) ]
+{Lucca}: Wh, what!!
+That old geezer's not here when we need him!
+Oh, come on!\0
+
+[@ITEM 111 (L2) ]
+\0
+
+[@ITEM 111 (FR) ]
+{Lucca} : Quoi ?! Il s'absente au moment critique ?!\0
+
+[@ITEM 112 (L1) ]
+\0
+
+[@ITEM 112 (EN) ]
+{Marle}: Huh?
+Bosch-san isn't here.\0
+
+[@ITEM 112 (L2) ]
+\0
+
+[@ITEM 112 (FR) ]
+{Marle} : Oh ? Bosch n'est pas là.\0
+
+[@ITEM 113 (L1) ]
+\0
+
+[@ITEM 113 (EN) ]
+{Marle}: What could this be?\0
+
+[@ITEM 113 (L2) ]
+\0
+
+[@ITEM 113 (FR) ]
+{Marle} : Tiens, qu'est-ce que c'est ?
+Voyons voir...\0
+
+[@ITEM 114 (L1) ]
+\0
+
+[@ITEM 114 (EN) ]
+{Marle}: What's that supposed to mean!
+He's not here when we need him!\0
+
+[@ITEM 114 (L2) ]
+\0
+
+[@ITEM 114 (FR) ]
+{Marle} : Quoi ?! Il s'absente au moment critique ?!\0
+
+[@ITEM 115 (L1) ]
+\0
+
+[@ITEM 115 (EN) ]
+Bosch: Hey, it's you guys.
+Come again for my collec{56}\0
+
+[@ITEM 115 (L2) ]
+\0
+
+[@ITEM 115 (FR) ]
+Bosch : Oh, vous revoilà ! Vous voulez encore jeter un
+coup d'œil à ma...
+...!!\0
+
+[@ITEM 116 (L1) ]
+\0
+
+[@ITEM 116 (EN) ]
+Bosch: Th, this sword is definitely the Grandleon!
+Where did you guys get that?\0
+
+[@ITEM 116 (L2) ]
+\0
+
+[@ITEM 116 (FR) ]
+Bosch : Cette épée, c'est Grandléon ! Où l'avez-vous
+trouvée ?\0
+
+[@ITEM 117 (L1) ]
+\0
+
+[@ITEM 117 (EN) ]
+{Marle}: Why's your name on this sword?\0
+
+[@ITEM 117 (L2) ]
+\0
+
+[@ITEM 117 (FR) ]
+{Marle} : Pourquoi votre nom est-il inscrit sur sa
+poignée ?\0
+
+[@ITEM 118 (L1) ]
+\0
+
+[@ITEM 118 (EN) ]
+{Lucca}: I wonder why your name's carved on this
+sword?\0
+
+[@ITEM 118 (L2) ]
+\0
+
+[@ITEM 118 (FR) ]
+{Lucca} : Pourquoi votre nom est-il inscrit sur sa
+poignée ?\0
+
+[@ITEM 119 (L1) ]
+\0
+
+[@ITEM 119 (EN) ]
+Bosch: ......{PRESS_CLEAR}
+That is...... it's a long story......\0
+
+[@ITEM 119 (L2) ]
+\0
+
+[@ITEM 119 (FR) ]
+Bosch : ...{PRESS_CLEAR}
+C'est... une longue histoire...\0
+
+[@ITEM 120 (L1) ]
+\0
+
+[@ITEM 120 (EN) ]
+Bosch: But you didn't come visit to ask about that,
+did you?\0
+
+[@ITEM 120 (L2) ]
+\0
+
+[@ITEM 120 (FR) ]
+Bosch : Mais ce n'est pas pour me poser cette question
+que vous êtes venus me rendre visite, n'est-ce pas ?\0
+
+[@ITEM 121 (L1) ]
+\0
+
+[@ITEM 121 (EN) ]
+{Marle}: That's right! The Grandleon!\0
+
+[@ITEM 121 (L2) ]
+\0
+
+[@ITEM 121 (FR) ]
+{Marle} : Vous avez raison.\0
+
+[@ITEM 122 (L1) ]
+\0
+
+[@ITEM 122 (EN) ]
+{Lucca}: That's right! The Grandleon!\0
+
+[@ITEM 122 (L2) ]
+\0
+
+[@ITEM 122 (FR) ]
+{Lucca} : Vous avez raison.\0
+
+[@ITEM 123 (L1) ]
+\0
+
+[@ITEM 123 (EN) ]
+{Marle}: Can't you somehow put it back the way it was?\0
+
+[@ITEM 123 (L2) ]
+\0
+
+[@ITEM 123 (FR) ]
+{Marle} : Pouvez-vous la réparer ?\0
+
+[@ITEM 124 (L1) ]
+\0
+
+[@ITEM 124 (EN) ]
+{Lucca}: Is it possible to restore it?\0
+
+[@ITEM 124 (L2) ]
+\0
+
+[@ITEM 124 (FR) ]
+{Lucca} : Serait-il possible de la réparer ?\0
+
+[@ITEM 125 (L1) ]
+\0
+
+[@ITEM 125 (EN) ]
+Bosch: If you can even now get the ore called
+Dreamstone that's its raw material...... I suppose so.{56}\0
+
+[@ITEM 125 (L2) ]
+\0
+
+[@ITEM 125 (FR) ]
+Bosch : Je le pourrais... si j'avais de la pierre onirique
+dont elle est faite...\0
+
+[@ITEM 126 (L1) ]
+\0
+
+[@ITEM 126 (EN) ]
+{Marle}: Dreamstone?
+I wonder where it is?\0
+
+[@ITEM 126 (L2) ]
+\0
+
+[@ITEM 126 (FR) ]
+{Marle} : Une pierre onirique ? Où peut-on en
+obtenir ?\0
+
+[@ITEM 127 (L1) ]
+\0
+
+[@ITEM 127 (EN) ]
+{Robo}: Dreamstone......
+The stone name IS not recorded in MY memory.\0
+
+[@ITEM 127 (L2) ]
+\0
+
+[@ITEM 127 (FR) ]
+{Robo} : Pierre onirique... Aucune pierre de ce nom
+n'a été enregistrée dans ma mémoire.\0
+
+[@ITEM 128 (L1) ]
+\0
+
+[@ITEM 128 (EN) ]
+Bosch: I doubt it's anywhere, now.
+It's a red shining stone that long ago had more
+value than even gold.{PRESS_CLEAR}
+That's far in the past now.
+So far the mind boggles......\0
+
+[@ITEM 128 (L2) ]
+\0
+
+[@ITEM 128 (FR) ]
+Bosch : Je doute que vous puissiez en trouver. C'était
+une pierre rouge brillante autrefois plus précieuse que
+l'or.{PRESS_CLEAR}
+Mais c'était il y a très, très longtemps... Plus longtemps
+que vous ne pourriez vous l'imaginer.\0
+
+[@ITEM 129 (L1) ]
+\0
+
+[@ITEM 129 (EN) ]
+Bosch: Well, I don't expect it's possible, but if by
+any chance you get the red shining stone,
+Dreamstone, I'll mend the Grandleon for you.
+Until then, you guys hold onto the sword.{PRESS_CLEAR}
+Well, will you buy something before you go?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 129 (L2) ]
+\0
+
+[@ITEM 129 (FR) ]
+Bosch : Hum, je ne crois pas que ce soit possible, mais
+si par miracle vous trouvez une pierre onirique, cette
+brillante pierre rouge, je réparerai Grandléon pour vous.
+En attendant, gardez l'épée avec vous.{PRESS_CLEAR}
+Voulez-vous acheter quelque chose ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 130 (L1) ]
+\0
+
+[@ITEM 130 (EN) ]
+Bosch: Oh, that's it!
+If I have that Dreamstone, I can repair the
+Grandleon!\0
+
+[@ITEM 130 (L2) ]
+\0
+
+[@ITEM 130 (FR) ]
+Bosch : Oh ! Avec cette pierre onirique, je pourrai
+réparer Grandléon !\0
+
+[@ITEM 131 (L1) ]
+\0
+
+[@ITEM 131 (EN) ]
+Bosch: But, the Grandleon and Dreamstone, where
+on earth......{56}\0
+
+[@ITEM 131 (L2) ]
+\0
+
+[@ITEM 131 (FR) ]
+Bosch : Mais où avez-vous bien pu trouver non
+seulement Grandléon, mais aussi une pierre
+onirique...?\0
+
+[@ITEM 132 (L1) ]
+\0
+
+[@ITEM 132 (EN) ]
+Bosch: Oh, never mind.
+Wait a minute.\0
+
+[@ITEM 132 (L2) ]
+\0
+
+[@ITEM 132 (FR) ]
+Bosch : Bah, peu importe. Attendez un instant.\0
+
+[@ITEM 133 (L1) ]
+\0
+
+[@ITEM 133 (EN) ]
+{Lucca}: I'll help too!\0
+
+[@ITEM 133 (L2) ]
+\0
+
+[@ITEM 133 (FR) ]
+{Lucca} : Je vais vous donner un coup de main !\0
+
+[@ITEM 134 (L1) ]
+\0
+
+[@ITEM 134 (EN) ]
+{Robo}: I SHALL also assist.\0
+
+[@ITEM 134 (L2) ]
+\0
+
+[@ITEM 134 (FR) ]
+{Robo} : Je vais vous aider.\0
+
+[@ITEM 135 (L1) ]
+\0
+
+[@ITEM 135 (EN) ]
+Bosch: Behold!
+THIS is the Grandleon!\0
+
+[@ITEM 135 (L2) ]
+\0
+
+[@ITEM 135 (FR) ]
+Bosch : Admirez Grandléon dans toute sa splendeur !\0
+
+[@ITEM 136 (L1) ]
+\0
+
+[@ITEM 136 (EN) ]
+{Marle}: Aweesoome!
+This is that Grandleon!?\0
+
+[@ITEM 136 (L2) ]
+\0
+
+[@ITEM 136 (FR) ]
+{Marle} : Formidable ! C'est vraiment Grandléon ?\0
+
+[@ITEM 137 (L1) ]
+\0
+
+[@ITEM 137 (EN) ]
+{Robo}: It IS mysterious.
+I CAN sense spiritual energy from this Grandleon
+itself.\0
+
+[@ITEM 137 (L2) ]
+\0
+
+[@ITEM 137 (FR) ]
+{Robo} : C'est étrange. Je détecte une énergie
+spirituelle émanant de Grandléon.\0
+
+[@ITEM 138 (L1) ]
+\0
+
+[@ITEM 138 (EN) ]
+Bosch: A sword may become either a means of
+taking life or a means of saving life, depending how
+the user's heart is. Be sure not to misuse it.{PRESS_CLEAR}
+Well, will you buy something before you go?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 138 (L2) ]
+\0
+
+[@ITEM 138 (FR) ]
+Bosch : Une épée peut ôter une vie ou la sauver, selon
+le cœur de celui qui la manie. Ne l'utilisez pas à mauvais
+escient.{PRESS_CLEAR}
+Voulez-vous acheter quelque chose ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 139 (L1) ]
+\0
+
+[@ITEM 139 (EN) ]
+{Marle}: Hold on, {Crono}!
+Where do you think you're going, when
+the Grandleon's not even fixed?\0
+
+[@ITEM 139 (L2) ]
+\0
+
+[@ITEM 139 (FR) ]
+{Marle} : Hé, {Crono} ! Tu t'en vas où, comme
+ça ? Grandléon n'est pas encore réparée !\0
+
+[@ITEM 140 (L1) ]
+\0
+
+[@ITEM 140 (EN) ]
+{Lucca}: Hold on, {Crono}!
+Where do you think you're going, giving up on
+the Grandleon before it's done!\0
+
+[@ITEM 140 (L2) ]
+\0
+
+[@ITEM 140 (FR) ]
+{Lucca} : Hé, {Crono} ! Tu veux partir sans
+Grandléon ?\0
+
+[@ITEM 141 (L1) ]
+\0
+
+[@ITEM 141 (EN) ]
+{Robo}: {Crono}-san, the Grandleon IS NOT yet
+repaired.\0
+
+[@ITEM 141 (L2) ]
+\0
+
+[@ITEM 141 (FR) ]
+{Robo} : {Crono}, Grandléon n'est pas encore
+réparée.\0
+
+[@ITEM 142 (L1) ]
+\0
+
+[@ITEM 142 (EN) ]
+Bosch: Now, then......\0
+
+[@ITEM 142 (L2) ]
+\0
+
+[@ITEM 142 (FR) ]
+Bosch : Bien, au travail...\0
+
+[@ITEM 143 (L1) ]
+\0
+
+[@ITEM 143 (EN) ]
+{Lucca}: I wonder how he plans on fixing it?\0
+
+[@ITEM 143 (L2) ]
+\0
+
+[@ITEM 143 (FR) ]
+{Lucca} : Je me demande comment il va la réparer.\0
+
+[@ITEM 144 (L1) ]
+\0
+
+[@ITEM 144 (EN) ]
+{Robo}: The repairs seem DIFFICULT.\0
+
+[@ITEM 144 (L2) ]
+\0
+
+[@ITEM 144 (FR) ]
+{Robo} : Cette restauration a l'air complexe.\0
+
+[@ITEM 145 (L1) ]
+\0
+
+[@ITEM 145 (EN) ]
+Bosch: I'm in the middle of looking something
+up now. Don't speak to me.\0
+
+[@ITEM 145 (L2) ]
+\0
+
+[@ITEM 145 (FR) ]
+Bosch : Je suis en train de consulter mes archives.
+Ne m'adressez pas la parole.\0
+
+[@ITEM 146 (L1) ]
+\0
+
+[@ITEM 146 (EN) ]
+Bosch: Anyhow, leave things to me.\0
+
+[@ITEM 146 (L2) ]
+\0
+
+[@ITEM 146 (FR) ]
+Bosch : Laissez-moi m'en charger.\0
+
+[@ITEM 147 (L1) ]
+\0
+
+[@ITEM 147 (EN) ]
+Bosch: In order to repair the Grandleon, it is
+essential not only to refine the Dreamstone but
+also to make the sword activate as well.{PRESS_CLEAR}
+You refine the Dreamstone for me.
+I'll carry out the activation of the sword.\0
+
+[@ITEM 147 (L2) ]
+\0
+
+[@ITEM 147 (FR) ]
+Bosch : Pour restaurer Grandléon, il sera non seulement
+nécessaire d'affiner la pierre onirique, mais aussi de
+rendre vie à l'épée elle-même.{PRESS_CLEAR}
+Affine la pierre pour moi et je m'occuperai du reste.\0
+
+[@ITEM 148 (L1) ]
+\0
+
+[@ITEM 148 (EN) ]
+{Lucca}: Got it!
+Leave it to me, {Lucca}-sama!\0
+
+[@ITEM 148 (L2) ]
+\0
+
+[@ITEM 148 (FR) ]
+{Lucca} : D'accord ! Vous pouvez compter sur
+{Lucca}, le génie !\0
+
+[@ITEM 149 (L1) ]
+\0
+
+[@ITEM 149 (EN) ]
+{Robo}: UnderstOOD.\0
+
+[@ITEM 149 (L2) ]
+\0
+
+[@ITEM 149 (FR) ]
+{Robo} : Entendu.\0
+
+[@ITEM 150 (L1) ]
+\0
+
+[@ITEM 150 (EN) ]
+{Lucca}: All right, it's gonna get busy!\0
+
+[@ITEM 150 (L2) ]
+\0
+
+[@ITEM 150 (FR) ]
+{Lucca} : Bien, je vais avoir du travail !\0
+
+[@ITEM 151 (L1) ]
+\0
+
+[@ITEM 151 (EN) ]
+{Robo}: I MUST get the tools ready......\0
+
+[@ITEM 151 (L2) ]
+\0
+
+[@ITEM 151 (FR) ]
+{Robo} : Rassemblons d'abord les instruments
+nécessaires...\0
+
+[@ITEM 152 (L1) ]
+\0
+
+[@ITEM 152 (EN) ]
+{Lucca}: Uhn, this is a lot of trouble.
+You're distracting me, so go over there!\0
+
+[@ITEM 152 (L2) ]
+\0
+
+[@ITEM 152 (FR) ]
+{Lucca} : Hum, c'est assez compliqué. Vous me
+distrayez, alors allez attendre ailleurs.\0
+
+[@ITEM 153 (L1) ]
+\0
+
+[@ITEM 153 (EN) ]
+{Robo}: We lack the equipment, SO it seems the
+purificatION will take some time.\0
+
+[@ITEM 153 (L2) ]
+\0
+
+[@ITEM 153 (FR) ]
+{Robo} : Je n'ai pas l'équipement approprié, alors il
+semble que l'affinage prendra beaucoup de temps.\0
+
+[@ITEM 154 (L1) ]
+\0
+
+[@ITEM 154 (EN) ]
+Bosch: In order to activate this sword, I must breathe
+life back into its substance now that it has broken
+and lost its power.\0
+
+[@ITEM 154 (L2) ]
+\0
+
+[@ITEM 154 (FR) ]
+Bosch : Pour lui rendre vie, je dois de nouveau insuffler
+à la lame la puissance qu'elle a perdue en se brisant.\0
+
+[@ITEM 155 (L1) ]
+\0
+
+[@ITEM 155 (EN) ]
+Bosch: The spell to make the sword activate is a
+highly difficult one.
+Would you not speak to me for a while?\0
+
+[@ITEM 155 (L2) ]
+\0
+
+[@ITEM 155 (FR) ]
+Bosch : L'incantation est extrêmement difficile.
+Pourriez-vous ne pas m'adresser la parole
+pendant un moment ?\0
+
+[@ITEM 156 (L1) ]
+\0
+
+[@ITEM 156 (EN) ]
+Bosch: All right, I've finished.
+Would you bring me the Dreamstone?\0
+
+[@ITEM 156 (L2) ]
+\0
+
+[@ITEM 156 (FR) ]
+Bosch : Bon, j'ai terminé. Pourriez-vous m'apporter la
+pierre onirique ?\0
+
+[@ITEM 157 (L1) ]
+\0
+
+[@ITEM 157 (EN) ]
+{Lucca}: I'm done over here too.\0
+
+[@ITEM 157 (L2) ]
+\0
+
+[@ITEM 157 (FR) ]
+{Lucca} : J'ai terminé, moi aussi.\0
+
+[@ITEM 158 (L1) ]
+\0
+
+[@ITEM 158 (EN) ]
+Bosch: We're starting.\0
+
+[@ITEM 158 (L2) ]
+\0
+
+[@ITEM 158 (FR) ]
+Bosch : Commençons.\0
+
+[@ITEM 159 (L1) ]
+\0
+
+[@ITEM 159 (EN) ]
+Bosch: Sorry to keep you waiting.\0
+
+[@ITEM 159 (L2) ]
+\0
+
+[@ITEM 159 (FR) ]
+Bosch : Désolé de vous avoir fait attendre.\0
+
+[@ITEM 160 (L1) ]
+\0
+
+[@ITEM 160 (EN) ]
+Bosch: Well, if you get me involved, that's how
+it is.\0
+
+[@ITEM 160 (L2) ]
+\0
+
+[@ITEM 160 (FR) ]
+Bosch : Je suis un forgeron hors pair, après tout.\0
+
+[@ITEM 161 (L1) ]
+\0
+
+[@ITEM 161 (EN) ]
+{Marle}: Well, {Crono}, let's take the Grandleon to
+{Frog}-san's place, quick!\0
+
+[@ITEM 161 (L2) ]
+\0
+
+[@ITEM 161 (FR) ]
+{Marle} : {Crono}, allons vite rapporter
+Grandléon à {Frog} !\0
+
+[@ITEM 162 (L1) ]
+\0
+
+[@ITEM 162 (EN) ]
+{Robo}: Well then, {Crono}, LET US go to hand
+the Grandleon over to {Frog}-dono.\0
+
+[@ITEM 162 (L2) ]
+\0
+
+[@ITEM 162 (FR) ]
+{Robo} : {Crono}, allons rapporter
+Grandléon à {Frog}.\0
+
+[@ITEM 163 (L1) ]
+\0
+
+[@ITEM 163 (EN) ]
+{Lucca}: Well, {Crono}, we're taking the
+Grandleon to {Frog}'s place, quick!\0
+
+[@ITEM 163 (L2) ]
+\0
+
+[@ITEM 163 (FR) ]
+{Lucca} : {Crono}, allons rapporter
+Grandléon à {Frog} !\0
+
+[@ITEM 164 (L1) ]
+\0
+
+[@ITEM 164 (EN) ]
+{Lucca}: This is the Grandleon......
+Energy unknown to me is coming from it.
+It arouses my desire to investigate......\0
+
+[@ITEM 164 (L2) ]
+\0
+
+[@ITEM 164 (FR) ]
+{Lucca} : Grandléon... Elle émet une sorte d'énergie
+qui m'est inconnue. Ça me donne envie de l'étudier...\0
+
+[@ITEM 165 (L1) ]
+\0
+
+[@ITEM 165 (EN) ]
+You came out of the chest of drawers in my
+house......?
+Why? How?\0
+
+[@ITEM 165 (L2) ]
+\0
+
+[@ITEM 165 (FR) ]
+Je rêve ou vous venez de sortir de mon armoire ?!
+Qu'est-ce que vous y faisiez ?!\0
+
+[@ITEM 166 (L1) ]
+\0
+
+[@ITEM 166 (EN) ]
+Why do you have magical powers even though
+you're human?
+Humans who can use magic were supposed to
+have died out in the far distant past......\0
+
+[@ITEM 166 (L2) ]
+\0
+
+[@ITEM 166 (FR) ]
+Pourquoi des humains comme vous peuvent-ils utiliser la
+magie ? Les mages humains ont pourtant disparu il y a
+des lustres...\0
+
+[@ITEM 167 (L1) ]
+\0
+
+[@ITEM 167 (EN) ]
+Y, you guys, hey, what's the big idea, coming
+out of the chest of drawers in a stranger's
+house?
+That's why you humans are so......\0
+
+[@ITEM 167 (L2) ]
+\0
+
+[@ITEM 167 (FR) ]
+Qu'est-ce qui vous prend de sortir des armoires des
+gens comme ça ! Pfft... ces humains.\0
+
+[@ITEM 168 (L1) ]
+\0
+
+[@ITEM 168 (EN) ]
+This Medina Village is the Demons' village.
+The village was built by descendants of the Demons
+who lost the war with humans 400 years ago.
+Most of the Demons who live in this village
+hold a grudge against humans.
+Be careful.\0
+
+[@ITEM 168 (L2) ]
+\0
+
+[@ITEM 168 (FR) ]
+Le village de Médina a été fondé par les descendants
+des mystiques qui ont perdu la guerre contre les
+humains, il y a 400 ans.{PRESS_CLEAR}
+La plupart des mystiques qui habitent le village
+détestent les humains. Soyez prudents.\0
+
+[@ITEM 169 (L1) ]
+\0
+
+[@ITEM 169 (EN) ]
+Hey, are you eating too before you go?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 169 (L2) ]
+\0
+
+[@ITEM 169 (FR) ]
+Hum, vous en voulez ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 170 (L1) ]
+\0
+
+[@ITEM 170 (EN) ]
+Wait a sec.\0
+
+[@ITEM 170 (L2) ]
+\0
+
+[@ITEM 170 (FR) ]
+Attendez un instant.\0
+
+[@ITEM 171 (L1) ]
+\0
+
+[@ITEM 171 (EN) ]
+Ah, wait a sec, you guys.\0
+
+[@ITEM 171 (L2) ]
+\0
+
+[@ITEM 171 (FR) ]
+Attendez un peu.\0
+
+[@ITEM 172 (L1) ]
+\0
+
+[@ITEM 172 (EN) ]
+It was 400 long years ago that the humans and
+Demons fought. There's no point in staying
+caught up in the past forever.
+There are hardly any Demons who think like
+we do, though......\0
+
+[@ITEM 172 (L2) ]
+\0
+
+[@ITEM 172 (FR) ]
+Les mystiques et les humains ont combattu il y a plus de
+400 ans. C'est de l'histoire ancienne. Il ne sert à rien de
+vivre dans le passé.{PRESS_CLEAR}
+Malheureusement, peu de mystiques pensent comme
+nous...\0
+
+[@ITEM 173 (L1) ]
+\0
+
+[@ITEM 173 (EN) ]
+A rather peculiar old human man is living near
+the cave in the mountain to the west.
+He'll definitely help you guys out.\0
+
+[@ITEM 173 (L2) ]
+\0
+
+[@ITEM 173 (FR) ]
+Un vieil homme étrange habite près des grottes de la
+montagne de l'ouest. Il pourrait sûrement vous aider.\0
+
+[@ITEM 174 (L1) ]
+\0
+
+[@ITEM 174 (EN) ]
+{Marle}: Thanks for telling us!\0
+
+[@ITEM 174 (L2) ]
+\0
+
+[@ITEM 174 (FR) ]
+{Marle} : Merci de nous le dire !\0
+
+[@ITEM 175 (L1) ]
+\0
+
+[@ITEM 175 (EN) ]
+{Lucca}: Thanks for the advice!
+But, Demons are supposed to hate humans,
+right?
+Why are you......?\0
+
+[@ITEM 175 (L2) ]
+\0
+
+[@ITEM 175 (FR) ]
+{Lucca} : Merci pour le conseil ! Mais je croyais que
+les mystiques haïssaient les humains. Pourquoi nous
+aider ?\0
+
+[@ITEM 176 (L1) ]
+\0
+
+[@ITEM 176 (EN) ]
+{Robo}: THANK you for the suggestion.\0
+
+[@ITEM 176 (L2) ]
+\0
+
+[@ITEM 176 (FR) ]
+{Robo} : Je vous remercie pour le conseil.\0
+
+[@ITEM 177 (L1) ]
+\0
+
+[@ITEM 177 (EN) ]
+{Robo}: HOWEVER, WHY are you graciously
+being kind to us?
+Do NOT the Demons HATe humans?\0
+
+[@ITEM 177 (L2) ]
+\0
+
+[@ITEM 177 (FR) ]
+{Robo} : Cependant, pourquoi êtes-vous aussi
+aimables envers nous ?{PRESS_CLEAR}
+Les mystiques ne haïssent-ils pas les humains ?\0
+
+[@ITEM 178 (L1) ]
+\0
+
+[@ITEM 178 (EN) ]
+{Marle}: But......
+Why are you being kind to us?
+Demons hate humans, right?\0
+
+[@ITEM 178 (L2) ]
+\0
+
+[@ITEM 178 (FR) ]
+{Marle} : Mais... Pourquoi êtes-vous si gentils envers
+nous ? Les mystiques ne haïssent-ils pas les humains ?\0
+
+[@ITEM 179 (L1) ]
+\0
+
+[@ITEM 179 (EN) ]
+One night's 10G. Stay?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 179 (L2) ]
+\0
+
+[@ITEM 179 (FR) ]
+Voulez-vous louer une chambre pour 10 G ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 180 (L1) ]
+\0
+
+[@ITEM 180 (EN) ]
+It seems you don't have enough money.\0
+
+[@ITEM 180 (L2) ]
+\0
+
+[@ITEM 180 (FR) ]
+On dirait que vous n'avez pas assez d'argent.\0
+
+[@ITEM 181 (L1) ]
+\0
+
+[@ITEM 181 (EN) ]
+We've got no obligation to let the likes of humans
+stay here. Hurry up and go home.
+		{SEL1}Give up{/SEL1}
+		{SEL2}Plead{/SEL2}\0
+
+[@ITEM 181 (L2) ]
+\0
+
+[@ITEM 181 (FR) ]
+On n'a pas de chambres pour les humains !
+Du vent !
+       {SEL1}Abandonner{/SEL1}
+       {SEL2}Supplier{/SEL2}\0
+
+[@ITEM 182 (L1) ]
+\0
+
+[@ITEM 182 (EN) ]
+Shut up! Quit whining!!\0
+
+[@ITEM 182 (L2) ]
+\0
+
+[@ITEM 182 (FR) ]
+Je vous ai dit de ficher le camp ! Éliminez-les !\0
+
+[@ITEM 183 (L1) ]
+\0
+
+[@ITEM 183 (EN) ]
+200 G for the night.
+Want me to put you up?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 183 (L2) ]
+\0
+
+[@ITEM 183 (FR) ]
+Voulez-vous une chambre ?
+Cela vous coûtera 200 G.
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 184 (L1) ]
+\0
+
+[@ITEM 184 (EN) ]
+Hieey, spare me!\0
+
+[@ITEM 184 (L2) ]
+\0
+
+[@ITEM 184 (FR) ]
+Aaah ! À l'aide !\0
+
+[@ITEM 185 (L1) ]
+\0
+
+[@ITEM 185 (EN) ]
+Don't talk to me, you worthless humans.\0
+
+[@ITEM 185 (L2) ]
+\0
+
+[@ITEM 185 (FR) ]
+Ne me parlez pas, humains !\0
+
+[@ITEM 186 (L1) ]
+\0
+
+[@ITEM 186 (EN) ]
+You're spoiling the sake! Get lost!\0
+
+[@ITEM 186 (L2) ]
+\0
+
+[@ITEM 186 (FR) ]
+Vous allez faire tourner mon vin ! Sortez d'ici !\0
+
+[@ITEM 187 (L1) ]
+\0
+
+[@ITEM 187 (EN) ]
+I've got nothing I'd sell to the likes of humans.
+Hurry up and go home.
+		{SEL1}Give up{/SEL1}
+		{SEL2}Plead{/SEL2}\0
+
+[@ITEM 187 (L2) ]
+\0
+
+[@ITEM 187 (FR) ]
+Je n'ai rien à vendre à des humains.
+Du vent !
+       {SEL1}Abandonner{/SEL1}
+       {SEL2}Supplier{/SEL2}\0
+
+[@ITEM 188 (L1) ]
+\0
+
+[@ITEM 188 (EN) ]
+You're awfully full of yourself for a mere human!
+Sensei, please take them down!{56}\0
+
+[@ITEM 188 (L2) ]
+\0
+
+[@ITEM 188 (FR) ]
+Humains arrogants ! Donnez-leur une bonne leçon, chef !\0
+
+[@ITEM 189 (L1) ]
+\0
+
+[@ITEM 189 (EN) ]
+S, sensei was killed!?
+These guy's are monsters!\0
+
+[@ITEM 189 (L2) ]
+\0
+
+[@ITEM 189 (FR) ]
+Ils ont vaincu le chef ? Ce sont des monstres !\0
+
+[@ITEM 190 (L1) ]
+\0
+
+[@ITEM 190 (EN) ]
+I've got no choice. I'll sell.\0
+
+[@ITEM 190 (L2) ]
+\0
+
+[@ITEM 190 (FR) ]
+Bon, puisque j'y suis obligé, je vais vous vendre quelque
+chose.\0
+
+[@ITEM 191 (L1) ]
+\0
+
+[@ITEM 191 (EN) ]
+Heh! As if I'd sell to the likes of humans at fair
+prices!\0
+
+[@ITEM 191 (L2) ]
+\0
+
+[@ITEM 191 (FR) ]
+Ha ! Vous croyez que je vais vous vendre mes
+marchandises au prix normal ?\0
+
+[@ITEM 192 (L1) ]
+\0
+
+[@ITEM 192 (EN) ]
+{Marle}: Hey, {Crono}.
+I wonder what those eerie voices are?\0
+
+[@ITEM 192 (L2) ]
+\0
+
+[@ITEM 192 (FR) ]
+{Marle} : Dis, {Crono}, qu'est-ce que c'est que
+ces voix sinistres ?\0
+
+[@ITEM 193 (L1) ]
+\0
+
+[@ITEM 193 (EN) ]
+{Lucca}: ......eerie voices.
+I wonder what's being done here?\0
+
+[@ITEM 193 (L2) ]
+\0
+
+[@ITEM 193 (FR) ]
+{Lucca} : Quelles voix sinistres ! Qu'est-ce qui se
+passe ici ?\0
+
+[@ITEM 194 (L1) ]
+\0
+
+[@ITEM 194 (EN) ]
+{Robo}: Wh, what ON EARTH could THESE
+eerie voices BE?\0
+
+[@ITEM 194 (L2) ]
+\0
+
+[@ITEM 194 (FR) ]
+{Robo} : Que peuvent bien être ces voix sinistres ?\0
+
+[@ITEM 195 (L1) ]
+\0
+
+[@ITEM 195 (EN) ]
+Ah, Vinnegar-sama, Vinnegar-sama~♪
+Our savior, Vinnegar-sama~♪\0
+
+[@ITEM 195 (L2) ]
+\0
+
+[@ITEM 195 (FR) ]
+Ah, Vinnie, notre seigneur ! ♪
+Vinnie, notre sauveur ! ♪\0
+
+[@ITEM 196 (L1) ]
+\0
+
+[@ITEM 196 (EN) ]
+Ah, Vinnegar-sama, Vinnegar-sama~♪
+However sunny and lonely the day,
+If you're there, we're fine   pu~♪\0
+
+[@ITEM 196 (L2) ]
+\0
+
+[@ITEM 196 (FR) ]
+Ah, Vinnie, notre seigneur ! ♪
+Par tous temps, à toute heure, ♪
+Tu fais notre bonheur ! ♪
+Lorsque tu es là, nous n'avons jamais peur ! ♪\0
+
+[@ITEM 197 (L1) ]
+\0
+
+[@ITEM 197 (EN) ]
+When the god Lavos, who was brought forth for us
+by {Magus}-sama, awakens from his long sleep,
+the world of the humans will be over in an instant.\0
+
+[@ITEM 197 (L2) ]
+\0
+
+[@ITEM 197 (FR) ]
+Dès que Lavos, le dieu créé pour nous par
+Son Excellence {Magus} s'éveillera de son long
+sommeil, le monde des humains sera détruit en
+un clin d'œil.\0
+
+[@ITEM 198 (L1) ]
+\0
+
+[@ITEM 198 (EN) ]
+400 years have passed since {Magus}-sama led us
+Demons and challenged the humans to war. If only
+the god Lavos were revived, the likes of humans......\0
+
+[@ITEM 198 (L2) ]
+\0
+
+[@ITEM 198 (FR) ]
+400 ans se sont écoulés depuis la guerre où
+le Magistère {Magus} a défié les humains.
+Quand Lavos s'éveillera, ce sera la fin des
+humains.\0
+
+[@ITEM 199 (L1) ]
+\0
+
+[@ITEM 199 (EN) ]
+Long ago, Magus-sama, with his mighty powers
+of magic, caused the god Lavos to be born.\0
+
+[@ITEM 199 (L2) ]
+\0
+
+[@ITEM 199 (FR) ]
+Jadis, le grand {Magus} usa de sa puissante magie
+pour créer Lavos.\0
+
+[@ITEM 200 (L1) ]
+\0
+
+[@ITEM 200 (EN) ]
+The monsters living in the cave in the mountain to
+the west don't take damage except from magic
+attacks. I'll bet humans would have a hard time{PRESS_CLEAR}
+getting through, not being able to use magic.
+Now, I have to get the cleaning finished before
+I'm noticed by Vinnegar the 8th.\0
+
+[@ITEM 200 (L2) ]
+\0
+
+[@ITEM 200 (FR) ]
+Une créature habite dans les grottes de la montagne
+à l'ouest. Seules les attaques magiques peuvent lui
+infliger des dégâts.{PRESS_CLEAR}
+Ceux qui ne peuvent pas utiliser la magie auraient du mal
+à traverser ces grottes.{PRESS_CLEAR}
+Bon, je dois terminer le ménage avant que Vinnie VIII ne
+me trouve.\0
+
+[@ITEM 201 (L1) ]
+\0
+
+[@ITEM 201 (EN) ]
+Cleaning's no easy task......\0
+
+[@ITEM 201 (L2) ]
+\0
+
+[@ITEM 201 (FR) ]
+Faire le ménage n'est pas de la tarte...\0
+
+[@ITEM 202 (L1) ]
+\0
+
+[@ITEM 202 (EN) ]
+Yessir! Magus-sama~\0
+
+[@ITEM 202 (L2) ]
+\0
+
+[@ITEM 202 (FR) ]
+Ah ! Béni soit le Magistère !\0
+
+[@ITEM 203 (L1) ]
+\0
+
+[@ITEM 203 (EN) ]
+Yessir! Vinnegar-sama~
+............keh!{PRESS_CLEAR}\0
+
+[@ITEM 203 (L2) ]
+\0
+
+[@ITEM 203 (FR) ]
+Ah ! Vinnie, notre seigneur !{PRESS_CLEAR}
+... Pfft !\0
+
+[@ITEM 204 (L1) ]
+\0
+
+[@ITEM 204 (EN) ]
+Yay! Let's race!\0
+
+[@ITEM 204 (L2) ]
+\0
+
+[@ITEM 204 (FR) ]
+Vous voulez être mes amis, dites ?\0
+
+[@ITEM 205 (L1) ]
+\0
+
+[@ITEM 205 (EN) ]
+Wait up!\0
+
+[@ITEM 205 (L2) ]
+\0
+
+[@ITEM 205 (FR) ]
+Moi aussi, je veux être votre ami !\0
+
+[@ITEM 206 (L1) ]
+\0
+
+[@ITEM 206 (EN) ]
+Nice weather.\0
+
+[@ITEM 206 (L2) ]
+\0
+
+[@ITEM 206 (FR) ]
+Il fait un temps superbe.\0
+
+[@ITEM 207 (L1) ]
+\0
+
+[@ITEM 207 (EN) ]
+Life is good.\0
+
+[@ITEM 207 (L2) ]
+\0
+
+[@ITEM 207 (FR) ]
+La vie est belle.\0
+
+[@ITEM 208 (L1) ]
+\0
+
+[@ITEM 208 (EN) ]
+Hey guys, it's been a while!\0
+
+[@ITEM 208 (L2) ]
+\0
+
+[@ITEM 208 (FR) ]
+Ah, ça fait un bail, dites donc !
+Ça va ?\0
+
+[@ITEM 209 (L1) ]
+\0
+
+[@ITEM 209 (EN) ]
+I hear there's going to be a ferry set up between
+Truce and Medina now.\0
+
+[@ITEM 209 (L2) ]
+\0
+
+[@ITEM 209 (FR) ]
+On dit qu'il y aura bientôt un bateau qui reliera Truce et
+Médina.\0
+
+[@ITEM 210 (L1) ]
+\0
+
+[@ITEM 210 (EN) ]
+Welcome?
+What do you want?\0
+
+[@ITEM 210 (L2) ]
+\0
+
+[@ITEM 210 (FR) ]
+Bienvenue !
+Que désirez-vous ?\0
+
+[@ITEM 211 (L1) ]
+\0
+
+[@ITEM 211 (EN) ]
+Peaceful......\0
+
+[@ITEM 211 (L2) ]
+\0
+
+[@ITEM 211 (FR) ]
+Comme la vie est paisible...\0
+
+[@ITEM 212 (L1) ]
+\0
+
+[@ITEM 212 (EN) ]
+Heh, I hope those humans fall for Hekeran's
+taunting and suffer for it.
+Uke, ke, ke.\0
+
+[@ITEM 212 (L2) ]
+\0
+
+[@ITEM 212 (FR) ]
+Ha ! J'espère que ces humains répondront à la
+provocation d'Héclan pour qu'il leur donne une
+bonne leçon. Mouah, ha, ha, ha !\0
+
+[@ITEM 213 (L1) ]
+\0
+
+[@ITEM 213 (EN) ]
+I am chief of this Medina Village, Vinnegar the
+8th!
+My ancestor fought humans as right-hand man{PRESS_CLEAR}
+to THE Great Magus-sama.
+Ahh, Magus-sama...... Why didn't you graciously
+destroy humans for us 400 years ago?\0
+
+[@ITEM 213 (L2) ]
+\0
+
+[@ITEM 213 (FR) ]
+Je suis Vinnie VIII, le maire du village de Médina !
+Mon ancêtre a combattu les humains et était le
+bras droit du Magistère {Magus}.{PRESS_CLEAR}
+Ah, pourquoi notre seigneur n'a-t-il pas exterminé les
+humains il y a 400 ans ?\0
+
+[@ITEM 214 (L1) ]
+\0
+
+[@ITEM 214 (EN) ]
+Vinnegar the 8th: My ancestor, the Great Magus
+Vinnegar the 1st, is enshrined in the village square.
+Ga, ha, ha!\0
+
+[@ITEM 214 (L2) ]
+\0
+
+[@ITEM 214 (FR) ]
+Vinnie VIII : Les habitants du village rendent un culte
+à la statue de mon ancêtre, le Grand Vinnie I, sur la
+place. Ha, ha, ha, ha !\0
+
+[@ITEM 215 (L1) ]
+\0
+
+[@ITEM 215 (EN) ]
+Vinnegar the 8th: Yes!
+I am cleaning with the utmost effort.{PRESS_CLEAR}
+I am not slacking off or anything, really!
+............sob, sob.
+You don't have to pick on me like that......\0
+
+[@ITEM 215 (L2) ]
+\0
+
+[@ITEM 215 (FR) ]
+Vinnie VIII : Oui, je nettoie de mon mieux ! Je travaille
+dur, c'est vrai !{PRESS_CLEAR}
+... Snif ! Il n'y a pas besoin de me tourmenter ainsi...\0
+
+[@ITEM 216 (L1) ]
+\0
+
+[@ITEM 216 (EN) ]
+My name's Bandor.
+I'm here so we can build a ferry between
+Medina Village and Truce.\0
+
+[@ITEM 216 (L2) ]
+\0
+
+[@ITEM 216 (FR) ]
+Je m'appelle Bandot. Je suis venu construire le nouveau
+port pour les bateaux qui relieront Truce à Médina.\0
+
+[@ITEM 217 (L1) ]
+\0
+
+[@ITEM 217 (EN) ]
+I am the chief of Medina Village.
+Now, go ahead and enjoy your stay.\0
+
+[@ITEM 217 (L2) ]
+\0
+
+[@ITEM 217 (FR) ]
+Je suis le maire de Médina. Faites comme chez vous.\0
+
+[@ITEM 218 (L1) ]
+\0
+
+[@ITEM 218 (EN) ]
+Medina Village's sake isn't half bad......\0
+
+[@ITEM 218 (L2) ]
+\0
+
+[@ITEM 218 (FR) ]
+Hum... La bière de Médina est pas mal...\0
+
+[@ITEM 219 (L1) ]
+\0
+
+[@ITEM 219 (EN) ]
+Weeding's a pain......\0
+
+[@ITEM 219 (L2) ]
+\0
+
+[@ITEM 219 (FR) ]
+Le désherbage n'est pas de la tarte...\0
+
+[@ITEM 220 (L1) ]
+\0
+
+[@ITEM 220 (EN) ]
+Damn it, Vinnegar the 8th, you bastard!
+Damn you for taking advantage of your ancestor's
+position and overworking us.\0
+
+[@ITEM 220 (L2) ]
+\0
+
+[@ITEM 220 (FR) ]
+Maudit soit Vinnie VIII ! Il abuse du statut de son
+ancêtre pour nous exploiter !\0
+
+[@ITEM 221 (L1) ]
+\0
+
+[@ITEM 221 (EN) ]
+Death to the Demons' enemies!\0
+
+[@ITEM 221 (L2) ]
+\0
+
+[@ITEM 221 (FR) ]
+Mort aux ennemis des mystiques !\0
+
+[@ITEM 222 (L1) ]
+\0
+
+[@ITEM 222 (EN) ]
+{Marle}: The pendant......\0
+
+[@ITEM 222 (L2) ]
+\0
+
+[@ITEM 222 (FR) ]
+{Marle} : Mon pendentif...\0
+
+[@ITEM 223 (L1) ]
+\0
+
+[@ITEM 223 (EN) ]
+{Lucca}: The pendant's glowing?\0
+
+[@ITEM 223 (L2) ]
+\0
+
+[@ITEM 223 (FR) ]
+{Lucca} : Le pendentif brille ?\0
+
+[@ITEM 224 (L1) ]
+\0
+
+[@ITEM 224 (EN) ]
+{Robo}: TH, THIS radiance?\0
+
+[@ITEM 224 (L2) ]
+\0
+
+[@ITEM 224 (FR) ]
+{Robo} : D'où provient cet éclat ?\0
+
+[@ITEM 225 (L1) ]
+\0
+
+[@ITEM 225 (EN) ]
+{Frog}: Light from the pendant!?\0
+
+[@ITEM 225 (L2) ]
+\0
+
+[@ITEM 225 (FR) ]
+{Frog} : Le pendentif émet de la lumière ?\0
+
+[@ITEM 226 (L1) ]
+\0
+
+[@ITEM 226 (EN) ]
+{Ayla}: This, it shining!\0
+
+[@ITEM 226 (L2) ]
+\0
+
+[@ITEM 226 (FR) ]
+{Ayla} : Pendentif briller !\0
+
+[@ITEM 227 (L1) ]
+\0
+
+[@ITEM 227 (EN) ]
+{Magus}: ......the pendant?\0
+
+[@ITEM 227 (L2) ]
+\0
+
+[@ITEM 227 (FR) ]
+{Magus} : ...
+Le pendentif ?\0
+
+[@ITEM 228 (L1) ]
+\0
+
+[@ITEM 228 (EN) ]
+THE seal WAS releasED.
+I SHALL PRESENT YOU THE treasure THE
+Philosopher OF Reason mADE.\0
+
+[@ITEM 228 (L2) ]
+\0
+
+[@ITEM 228 (FR) ]
+Le sceau a été brisé... Je vais vous octroyer un trésor
+fabriqué par le sage de la raison.\0
+
+[@ITEM 229 (L1) ]
+\0
+
+[@ITEM 229 (EN) ]
+ON THE right, A weapon THAT brinGS forth
+power......\0
+
+[@ITEM 229 (L2) ]
+\0
+
+[@ITEM 229 (FR) ]
+À droite, vous trouverez une arme qui accroîtra votre
+force.\0
+
+[@ITEM 230 (L1) ]
+\0
+
+[@ITEM 230 (EN) ]
+ON THE left, armor THAT protecTS life.\0
+
+[@ITEM 230 (L2) ]
+\0
+
+[@ITEM 230 (FR) ]
+À gauche, vous trouverez une protection qui
+préservera votre vie.\0
+
+[@ITEM 231 (L1) ]
+\0
+
+[@ITEM 231 (EN) ]
+YOU SHOULD CAREFULLY consiDER WHICH
+YOU need BEFORE takING IT.\0
+
+[@ITEM 231 (L2) ]
+\0
+
+[@ITEM 231 (FR) ]
+Quel trésor vous convient ? Réfléchissez bien avant de
+prendre votre décision.\0
+
+[@ITEM 232 (L1) ]
+\0
+
+[@ITEM 232 (EN) ]
+13,000 years OF time WAS long......
+Gasch-sama, now TO YOUR SIDE......\0
+
+[@ITEM 232 (L2) ]
+\0
+
+[@ITEM 232 (FR) ]
+13 000 longues années... Maître Gasch, je vais enfin
+vous rejoindre...\0
+
+[@ITEM 233 (L1) ]
+\0
+
+[@ITEM 233 (EN) ]
+{MSGWND}
+A mysterious force seals it shut.\0
+
+[@ITEM 233 (L2) ]
+\0
+
+[@ITEM 233 (FR) ]
+{MSGWND}
+Un sceau magique en empêche l'ouverture...\0
+
+[@ITEM 234 (L1) ]
+\0
+
+[@ITEM 234 (EN) ]
+Jump in?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 234 (L2) ]
+\0
+
+[@ITEM 234 (FR) ]
+Voulez-vous sauter ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 235 (L1) ]
+\0
+
+[@ITEM 235 (EN) ]
+If {Magus}-sama, who gave birth to the god Lavos,
+had graciously destroyed humans for us, the world
+of today would have been the age of us Demons......\0
+
+[@ITEM 235 (L2) ]
+\0
+
+[@ITEM 235 (FR) ]
+Si {Magus}, celui qui a créé Lavos, avait éliminé les
+humains il y a 400 ans, le monde appartiendrait aux
+mystiques...\0
+
+[@ITEM 236 (L1) ]
+\0
+
+[@ITEM 236 (EN) ]
+{MSGWND}
+D A M N !\0
+
+[@ITEM 236 (L2) ]
+\0
+
+[@ITEM 236 (FR) ]
+{MSGWND}
+Grrrr !\0
+
+[@ITEM 237 (L1) ]
+\0
+
+[@ITEM 237 (EN) ]
+{Lucca}: So the {Magus} of the Middle Ages really did
+give birth to the Lavos that wrecked this planet's
+future......\0
+
+[@ITEM 237 (L2) ]
+\0
+
+[@ITEM 237 (FR) ]
+{Lucca} : Alors, c'est bien {Magus} qui a créé
+Lavos au Moyen-Âge, la créature qui détruira le
+futur de la planète !\0
+
+[@ITEM 238 (L1) ]
+\0
+
+[@ITEM 238 (EN) ]
+{Marle}: So the one who gave birth to the Lavos that
+wrecked this planet's future was the {Magus} of
+the Middle Ages......\0
+
+[@ITEM 238 (L2) ]
+\0
+
+[@ITEM 238 (FR) ]
+{Marle} : Au Moyen-Âge, {Magus} a créé Lavos,
+la créature qui va détruire le futur de la planète.\0
+
+[@ITEM 239 (L1) ]
+\0
+
+[@ITEM 239 (EN) ]
+{Marle}: I wonder if history will change if we go to
+the Middle Ages and beat {Magus}?\0
+
+[@ITEM 239 (L2) ]
+\0
+
+[@ITEM 239 (FR) ]
+{Marle} : Si on retournait au Moyen-Âge pour
+vaincre {Magus}, pourrait-on changer l'histoire ?\0
+
+[@ITEM 240 (L1) ]
+\0
+
+[@ITEM 240 (EN) ]
+{Robo}: If we CAN defEAT {Magus} in the Middle
+Ages, MIGHT history change?\0
+
+[@ITEM 240 (L2) ]
+\0
+
+[@ITEM 240 (FR) ]
+{Robo} : Si nous arrivons à vaincre {Magus} au
+Moyen-Âge, l'histoire changera-t-elle ?\0
+
+[@ITEM 241 (L1) ]
+\0
+
+[@ITEM 241 (EN) ]
+If we use the Gate in the Millenial Festival square......\0
+
+[@ITEM 241 (L2) ]
+\0
+
+[@ITEM 241 (FR) ]
+{Lucca} : Nous pourrions utiliser le portail de la
+foire...\0
+
+[@ITEM 242 (L1) ]
+\0
+
+[@ITEM 242 (EN) ]
+{Marle}: Hey, {Crono}.
+If we use the Gate in the Millenial Festival square......\0
+
+[@ITEM 242 (L2) ]
+\0
+
+[@ITEM 242 (FR) ]
+{Marle} : Dis, {Crono}, on pourrait utiliser le
+portail de la foire...\0
+
+[@ITEM 243 (L1) ]
+\0
+
+[@ITEM 243 (EN) ]
+{MSGWND}
+Obtained {ITEM}!\0
+
+[@ITEM 243 (L2) ]
+\0
+
+[@ITEM 243 (FR) ]
+{MSGWND}
+Obtenu : {ITEM} !\0
+
+[@ITEM 244 (L1) ]
+\0
+
+[@ITEM 244 (EN) ]
+Bosch: The Black Dream that floats in the sky.
+It is not something the Demons made, much
+less something that humans made.
+What on earth......?\0
+
+[@ITEM 244 (L2) ]
+\0
+
+[@ITEM 244 (FR) ]
+Bosch : Le Songe obscur qui flotte dans le ciel n'a été
+construit ni par les mystiques ni par les humains...
+D'où peut-il bien venir...?\0
+
+[@ITEM 245 (L1) ]
+\0
+
+[@ITEM 245 (EN) ]
+Ah, Black Dream, Black Dream♪
+We pray again today, Black Dream♪\0
+
+[@ITEM 245 (L2) ]
+\0
+
+[@ITEM 245 (FR) ]
+Ah, le Songe obscur, le Songe obscur ! ♪
+Aujourd'hui aussi offrons une prière
+au Songe obscur ! ♪\0
+
+[@ITEM 246 (L1) ]
+\0
+
+[@ITEM 246 (EN) ]
+{MSGWND}
+{MSGWND}
+{MSGWND}{PRESS_CLEAR}{PRESS_CLEAR}
+Hmm?
+There's something else further in......
+Wh, whoa!\0
+
+[@ITEM 246 (L2) ]
+\0
+
+[@ITEM 246 (FR) ]
+{MSGWND}
+Tiens ?{PRESS_CLEAR}{MSGWND}
+
+Il y a quelque chose d'autre au fond...{PRESS_CLEAR}{MSGWND}
+
+Ça alors !\0
+
+[@ITEM 247 (L1) ]
+\0
+
+[@ITEM 247 (EN) ]
+{MSGWND}
+Obtained 2 Ethers!\0
+
+[@ITEM 247 (L2) ]
+\0
+
+[@ITEM 247 (FR) ]
+{MSGWND}
+Vous obtenez deux éthers !\0
+
+[@ITEM 248 (L1) ]
+\0
+
+[@ITEM 248 (EN) ]
+{MSGWND}
+Obtained 3 Ethers!\0
+
+[@ITEM 248 (L2) ]
+\0
+
+[@ITEM 248 (FR) ]
+{MSGWND}
+Vous obtenez trois éthers !\0
+
+[@ITEM 249 (L1) ]
+\0
+
+[@ITEM 249 (EN) ]
+{MSGWND}
+Obtained 6 Ethers!\0
+
+[@ITEM 249 (L2) ]
+\0
+
+[@ITEM 249 (FR) ]
+{MSGWND}
+Vous obtenez six éthers !\0
+
+[@ITEM 250 (L1) ]
+\0
+
+[@ITEM 250 (EN) ]
+\0
+
+[@ITEM 250 (L2) ]
+\0
+
+[@ITEM 250 (FR) ]
+\0
+
+[@ITEM 251 (L1) ]
+\0
+
+[@ITEM 251 (EN) ]
+\0
+
+[@ITEM 251 (L2) ]
+\0
+
+[@ITEM 251 (FR) ]
+\0
+
+[@ITEM 252 (L1) ]
+\0
+
+[@ITEM 252 (EN) ]
+\0
+
+[@ITEM 252 (L2) ]
+\0
+
+[@ITEM 252 (FR) ]
+\0
+
+[@ITEM 253 (L1) ]
+\0
+
+[@ITEM 253 (EN) ]
+\0
+
+[@ITEM 253 (L2) ]
+\0
+
+[@ITEM 253 (FR) ]
+\0
+
+[@ITEM 254 (L1) ]
+\0
+
+[@ITEM 254 (EN) ]
+\0
+
+[@ITEM 254 (L2) ]
+\0
+
+[@ITEM 254 (FR) ]
+\0
+
+[@ITEM 255 (L1) ]
+\0
+
+[@ITEM 255 (EN) ]
+\0
+
+[@ITEM 255 (L2) ]
+\0
+
+[@ITEM 255 (FR) ]
+\0
+

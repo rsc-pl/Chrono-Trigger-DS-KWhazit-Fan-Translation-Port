@@ -1,0 +1,198 @@
+[@tutorial.msg]
+
+[@ITEM 0 (L1) ]
+\0
+
+[@ITEM 0 (EN) ]
+This menu lets you equip your party,
+view your inventory and tech lists, adjust the
+game controls, and prepare for the
+adventures ahead.\0
+
+[@ITEM 0 (L2) ]
+\0
+
+[@ITEM 0 (FR) ]
+Le menu permet d'effectuer les préparatifs
+nécessaires pour partir à l'aventure : modifier
+l'équipement, consulter l'inventaire et les
+compétences, ou changer les réglages.\0
+
+[@ITEM 1 (L1) ]
+\0
+
+[@ITEM 1 (EN) ]
+You can navigate the menu with the buttons
+or the Touch Screen.\0
+
+[@ITEM 1 (L2) ]
+\0
+
+[@ITEM 1 (FR) ]
+Pour parcourir le menu, vous pouvez utiliser
+les boutons et la manette +, ou encore l'écran
+tactile.\0
+
+[@ITEM 2 (L1) ]
+\0
+
+[@ITEM 2 (EN) ]
+On this screen, you can arrange the icons
+shown at the bottom of the screen while you
+explore the world.\0
+
+[@ITEM 2 (L2) ]
+\0
+
+[@ITEM 2 (FR) ]
+Sur cet écran, vous pouvez arranger les
+icônes de raccourcis affichées sur l'écran
+tactile comme bon vous semble.\0
+
+[@ITEM 3 (L1) ]
+\0
+
+[@ITEM 3 (EN) ]
+To move an icon, select it with the cursor
+and press the {B:A} Button.\0
+
+[@ITEM 3 (L2) ]
+\0
+
+[@ITEM 3 (FR) ]
+Si vous voulez déplacer une icône,
+sélectionnez-la avec le bouton {B:A}.\0
+
+[@ITEM 4 (L1) ]
+\0
+
+[@ITEM 4 (EN) ]
+Move the cursor to the desired location,
+then press the {B:A} Button again to place the icon.\0
+
+[@ITEM 4 (L2) ]
+\0
+
+[@ITEM 4 (FR) ]
+Choisissez ensuite l'endroit où vous voulez
+la déplacer en appuyant de nouveau sur le
+bouton {B:A}.\0
+
+[@ITEM 5 (L1) ]
+\0
+
+[@ITEM 5 (EN) ]
+To disable an icon, select it and press the
+{B:Y} Button. Disabled icons will not appear
+while you are exploring.\0
+
+[@ITEM 5 (L2) ]
+\0
+
+[@ITEM 5 (FR) ]
+En outre, si vous appuyez sur le bouton {B:Y}
+après avoir sélectionné une icône, cette
+dernière s'assombrira. Les icônes sombres
+ne sont pas affichées sur l'écran de jeu.\0
+
+[@ITEM 6 (L1) ]
+\0
+
+[@ITEM 6 (EN) ]
+To move an icon with the stylus, touch it
+and slide it to the desired position.\0
+
+[@ITEM 6 (L2) ]
+\0
+
+[@ITEM 6 (FR) ]
+Si vous préférez déplacer une icône avec le
+stylet, vous n'avez qu'à la faire glisser vers
+l'endroit désiré.\0
+
+[@ITEM 7 (L1) ]
+\0
+
+[@ITEM 7 (EN) ]
+To disable an icon, tap it twice quickly with
+the stylus. You can also touch the icon once
+to select it, then touch the panel labeled
+"Enable/Disable."\0
+
+[@ITEM 7 (L2) ]
+\0
+
+[@ITEM 7 (FR) ]
+Pour qu'un raccourci ne soit pas affiché,
+touchez l'icône qui y correspond rapidement
+deux fois ou touchez « Ne pas utiliser ».\0
+
+[@ITEM 8 (L1) ]
+\0
+
+[@ITEM 8 (EN) ]
+To restore all icons to their default positions,
+press SELECT or touch the "Defaults" panel.\0
+
+[@ITEM 8 (L2) ]
+\0
+
+[@ITEM 8 (FR) ]
+Pour retourner à l'arrangement par défaut,
+appuyez sur SELECT ou touchez « Rétablir ».\0
+
+[@ITEM 9 (L1) ]
+\0
+
+[@ITEM 9 (EN) ]
+To undo your changes, press the {B:B} Button
+or touch the {B:B} Button icon in the bottom
+right corner of the screen.\0
+
+[@ITEM 9 (L2) ]
+\0
+
+[@ITEM 9 (FR) ]
+Si vous voulez annuler les changements que
+vous avez effectués, appuyez sur le bouton {B:B}
+ou touchez l'icône de retour.\0
+
+[@ITEM 10 (L1) ]
+\0
+
+[@ITEM 10 (EN) ]
+To save your customized layout, press START
+or touch the "Save & Apply" panel.\0
+
+[@ITEM 10 (L2) ]
+\0
+
+[@ITEM 10 (FR) ]
+Lorsque vous avez terminé vos modifications,
+appuyez sur START ou touchez « Terminer ».\0
+
+[@ITEM 11 (L1) ]
+\0
+
+[@ITEM 11 (EN) ]
+Well then, why not give it a try?\0
+
+[@ITEM 11 (L2) ]
+\0
+
+[@ITEM 11 (FR) ]
+Arrangez les icônes de raccourcis comme bon
+vous semble !\0
+
+[@ITEM 12 (L1) ]
+\0
+
+[@ITEM 12 (EN) ]
+Touch the Touch Screen or press the A Button.\0
+
+[@ITEM 12 (L2) ]
+\0
+
+[@ITEM 12 (FR) ]
+Touchez l'écran inférieur ou appuyez sur le bouton A.\0
+

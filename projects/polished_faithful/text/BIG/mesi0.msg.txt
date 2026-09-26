@@ -1,0 +1,3576 @@
+[@mesi0.msg]
+
+[@ITEM 0 (L1) ]
+\0
+
+[@ITEM 0 (EN) ]
+Info %dw
+X{75}{COUNT}{75}{COUNT}
+Y{75}{COUNT}{75}{COUNT}\0
+
+[@ITEM 0 (L2) ]
+\0
+
+[@ITEM 0 (FR) ]
+Informations  %dw
+X   {COUNT}  {COUNT}
+Y  {COUNT}  {COUNT}\0
+
+[@ITEM 1 (L1) ]
+\0
+
+[@ITEM 1 (EN) ]
+It seems to be just a decoration.{PRESS_CLEAR}
+There's a memo on clean paper.{PRESS_CLEAR}{MSGWND}
+WARNING
+I ATTACK THOSE WHO APPROACH THE
+FOOD STORAGE!\0
+
+[@ITEM 1 (L2) ]
+\0
+
+[@ITEM 1 (FR) ]
+On dirait que ce n'est qu'une statue.{PRESS_CLEAR}
+Il y a quelque chose d'écrit sur un papier.{PRESS_CLEAR}{MSGWND}
+- Avertissement -
+Ceux qui s'approchent de l'entrepôt
+de provisions paieront de leur vie !\0
+
+[@ITEM 2 (L1) ]
+\0
+
+[@ITEM 2 (EN) ]
+{Marle}: There it is!
+That's the one.\0
+
+[@ITEM 2 (L2) ]
+\0
+
+[@ITEM 2 (FR) ]
+{Marle} : Le voilà !
+C'est lui !\0
+
+[@ITEM 3 (L1) ]
+\0
+
+[@ITEM 3 (EN) ]
+{Lucca}: Shh!
+It might run away.{PRESS_CLEAR}
+Dash with the B Button and catch it with the {B:A} Button!\0
+
+[@ITEM 3 (L2) ]
+\0
+
+[@ITEM 3 (FR) ]
+{Lucca} : Chut !{PRESS_CLEAR}
+Il pourrait s'enfuir.{PRESS_CLEAR}
+(Courez et attrapez-le en appuyant sur le bouton {B:A}.)\0
+
+[@ITEM 4 (L1) ]
+\0
+
+[@ITEM 4 (EN) ]
+Spare me, chuu.
+I'll talk, chuu.{PRESS_CLEAR}
+For the passage switch, press L and R while
+holding the {B:A} Button, chuu!{PRESS_CLEAR}
+But if you've changed the button assignments,
+it all gets mixed up, chuu!\0
+
+[@ITEM 4 (L2) ]
+\0
+
+[@ITEM 4 (FR) ]
+Je te tiens !{PRESS_CLEAR}
+Pardonnez-moi !{PRESS_CLEAR}
+Je vous dirai tout !{PRESS_CLEAR}
+Pour ouvrir le passage, maintenez le bouton R et le
+bouton L appuyés, puis appuyez sur le bouton {B:A} !{PRESS_CLEAR}
+Cependant, si vous changez le réglage des boutons,
+les commandes changeront en conséquence !\0
+
+[@ITEM 5 (L1) ]
+\0
+
+[@ITEM 5 (EN) ]
+{Marle}: Wh-what is this smell!?\0
+
+[@ITEM 5 (L2) ]
+\0
+
+[@ITEM 5 (FR) ]
+{Marle} : Quelle est cette odeur ?\0
+
+[@ITEM 6 (L1) ]
+\0
+
+[@ITEM 6 (EN) ]
+{Lucca}: Ugh, it's all rotten......
+The power supply must have been unstable......\0
+
+[@ITEM 6 (L2) ]
+\0
+
+[@ITEM 6 (FR) ]
+{Lucca} : C'est affreux, tout est pourri...
+Le courant devait être instable...\0
+
+[@ITEM 7 (L1) ]
+\0
+
+[@ITEM 7 (EN) ]
+{Marle}: {Crono}!!{PRESS_CLEAR}
+...{PRESS_CLEAR}
+...{PRESS_CLEAR}
+Looks like he isn't breathing anymore.......\0
+
+[@ITEM 7 (L2) ]
+\0
+
+[@ITEM 7 (FR) ]
+{Marle} : {Crono} !!{PRESS_CLEAR}
+...{PRESS_CLEAR}
+...{PRESS_CLEAR}
+Il ne respire plus...\0
+
+[@ITEM 8 (L1) ]
+\0
+
+[@ITEM 8 (EN) ]
+{Marle}: He's holding something.
+What could this be......?\0
+
+[@ITEM 8 (L2) ]
+\0
+
+[@ITEM 8 (FR) ]
+{Marle} : Il y a quelque chose dans sa main.
+Qu'est-ce que ça peut bien être ?\0
+
+[@ITEM 9 (L1) ]
+\0
+
+[@ITEM 9 (EN) ]
+{Lucca}: It looks like some kind of seeds.\0
+
+[@ITEM 9 (L2) ]
+\0
+
+[@ITEM 9 (FR) ]
+{Lucca} : On dirait des graines.\0
+
+[@ITEM 10 (L1) ]
+\0
+
+[@ITEM 10 (EN) ]
+{Marle}: Seeds.......?
+I wonder if they'll grow in a place like this?\0
+
+[@ITEM 10 (L2) ]
+\0
+
+[@ITEM 10 (FR) ]
+{Marle} : Des graines...? Je me demande si elles
+pourraient germer dans un endroit pareil...\0
+
+[@ITEM 11 (L1) ]
+\0
+
+[@ITEM 11 (EN) ]
+There's a memo on dirty paper.{PRESS_CLEAR}
+That rat is not just a decoration.
+It knows the dome's secret.
+Catch the rat on the iron!\0
+
+[@ITEM 11 (L2) ]
+\0
+
+[@ITEM 11 (FR) ]
+Il y a quelque chose d'écrit sur un papier sale.{PRESS_CLEAR}
+« Ce rat n'est pas une statue. Il connaît les secrets du
+dôme. Attrapez le rat sur les poutres métalliques ! »\0
+
+[@ITEM 12 (L1) ]
+\0
+
+[@ITEM 12 (EN) ]
+EXECUTE PLANNED PROGRAM.\0
+
+[@ITEM 12 (L2) ]
+\0
+
+[@ITEM 12 (FR) ]
+Exécution du programme de sécurité !\0
+
+[@ITEM 13 (L1) ]
+\0
+
+[@ITEM 13 (EN) ]
+{Marle}: {Crono}!
+What happened!?\0
+
+[@ITEM 13 (L2) ]
+\0
+
+[@ITEM 13 (FR) ]
+{Marle} : {Crono} !
+Que se passe-t-il ?!\0
+
+[@ITEM 14 (L1) ]
+\0
+
+[@ITEM 14 (EN) ]
+{Lucca}: {Marle}!{PRESS_CLEAR}
+Here we go!\0
+
+[@ITEM 14 (L2) ]
+\0
+
+[@ITEM 14 (FR) ]
+{Lucca} : {Marle} !{PRESS_CLEAR}
+Allons-y !\0
+
+[@ITEM 15 (L1) ]
+\0
+
+[@ITEM 15 (EN) ]
+Old Man: ......\0
+
+[@ITEM 15 (L2) ]
+\0
+
+[@ITEM 15 (FR) ]
+Vieil homme : ...\0
+
+[@ITEM 16 (L1) ]
+\0
+
+[@ITEM 16 (EN) ]
+Old Man: You mustn't!{PRESS_CLEAR}
+You mustn't go!
+You mustn't go to Death Mountain!{PRESS_CLEAR}
+Well, though I say that, unless it is that time
+and those people, you cannot go to Death
+Mountain as things are, hya, hya.\0
+
+[@ITEM 16 (L2) ]
+\0
+
+[@ITEM 16 (FR) ]
+Vieil homme : Non !{PRESS_CLEAR}
+Vous ne devez pas y aller !{PRESS_CLEAR}
+Pas sur le mont des défunts !{PRESS_CLEAR}
+...
+De toute façon, si ce n'est pas au bon moment et si ce
+ne sont pas les bonnes personnes, il est impossible d'y
+aller... Ha, ha.\0
+
+[@ITEM 17 (L1) ]
+\0
+
+[@ITEM 17 (EN) ]
+Old Man: Sara......? It's been so long......\0
+
+[@ITEM 17 (L2) ]
+\0
+
+[@ITEM 17 (FR) ]
+Vieil homme : Est-ce toi, Sarah...? Cela fait si longtemps...\0
+
+[@ITEM 18 (L1) ]
+\0
+
+[@ITEM 18 (EN) ]
+Old Man: More importantly!{PRESS_CLEAR}
+Have you all seen them?
+The Ocean Floor Temple and the Blackbird I made?
+They are quite something, hya, hya.\0
+
+[@ITEM 18 (L2) ]
+\0
+
+[@ITEM 18 (FR) ]
+Vieil homme : Mais d'abord et avant tout !{PRESS_CLEAR}
+Avez-vous déjà vu mes créations ? Le sanctuaire
+sous-marin et le Cygne noir ? Ce sont de véritables
+chefs-d'œuvre ! Ha, ha.\0
+
+[@ITEM 19 (L1) ]
+\0
+
+[@ITEM 19 (EN) ]
+Enigmatic Object: WHEEE, I VERY MUCH LOOK
+FORWARD TO HOW THE WISE ONE WILL
+PROGRAM ME.
+RIGHT, WISE ONE?{PRESS_CLEAR}
+Old Man: If you're looking forward to it that much,
+then it makes the work worthwhile for me too.{PRESS_CLEAR}
+How is this? It is starting to look the part,
+isn't it......\0
+
+[@ITEM 19 (L2) ]
+\0
+
+[@ITEM 19 (FR) ]
+Créature étrange : J'ai très hâte de savoir quel
+programme vous allez me donner, professeur.{PRESS_CLEAR}
+Vieil homme : Ton impatience me flatte et me donne
+de l'entrain ! Qu'en dis-tu ? Ça commence à prendre
+forme, hein ?\0
+
+[@ITEM 20 (L1) ]
+\0
+
+[@ITEM 20 (EN) ]
+Hm......?\0
+
+[@ITEM 20 (L2) ]
+\0
+
+[@ITEM 20 (FR) ]
+Hum...?\0
+
+[@ITEM 21 (L1) ]
+\0
+
+[@ITEM 21 (EN) ]
+To those who opened the door......{PRESS_CLEAR}
+I am the Philosopher of Reason, Gasch.
+Gasch, of the Magic Kingdom Zeal.{PRESS_CLEAR}
+I was flung to this age during Zeal's
+great disaster......{PRESS_CLEAR}
+To my surprise, Lavos did not appear only
+in my era{56}far from it.{PRESS_CLEAR}
+It fell from the sky in a distant ancient era,
+appeared in Zeal, lay dormant deep
+underground, and continued to grow while
+sucking up this earth's energy......\0
+
+[@ITEM 21 (L2) ]
+\0
+
+[@ITEM 21 (FR) ]
+À ceux qui ont ouvert cette porte...{PRESS_CLEAR}
+Je suis Gasch, le sage de la raison du royaume de
+Zhyle. J'ai été propulsé jusqu'à cette époque lors
+du grand désastre de Zhyle...{PRESS_CLEAR}
+C'est avec surprise que j'ai constaté que Lavos ne
+s'était pas manifesté qu'à mon époque...{PRESS_CLEAR}
+Il est tombé du ciel il y a des millions d'années, a surgi à
+Zhyle, puis a continué de croître en absorbant l'énergie
+de cette planète, profondément enfoui sous terre.\0
+
+[@ITEM 22 (L1) ]
+\0
+
+[@ITEM 22 (EN) ]
+The time is Kingdom Year 600.
+{Magus} summons it, and it briefly appears.{PRESS_CLEAR}
+Kingdom Year 1999.
+It at last makes the surface its territory too.{PRESS_CLEAR}
+And then, just as if laying eggs, it gives
+birth to its own offshoots, one after another,
+from the place I named Death Mountain.{PRESS_CLEAR}
+Lavos is an enormous parasite{56}a parasite
+that nests in the planet itself.\0
+
+[@ITEM 22 (L2) ]
+\0
+
+[@ITEM 22 (FR) ]
+En l'an 600 du calendrier du royaume de Gardia, il est
+apparu brièvement lorsque {Magus} l'a invoqué.{PRESS_CLEAR}
+En l'an 1999 du même calendrier, il a finalement aussi
+conquis la surface.{PRESS_CLEAR}
+Ensuite, il a engendré des larves à une cadence
+incroyable à l'endroit que j'ai surnommé le mont
+des défunts.{PRESS_CLEAR}
+Lavos est un parasite géant qui a fait de la planète son
+nid.\0
+
+[@ITEM 23 (L1) ]
+\0
+
+[@ITEM 23 (EN) ]
+I have continued observing and studying
+Lavos here. But I am already at my limit.{PRESS_CLEAR}
+Maintaining a normal mind in an era like this{56}
+may be impossible......{PRESS_CLEAR}
+I have decided to leave this record behind
+before my spirit accepts death.
+Together with the final invention of my life......\0
+
+[@ITEM 23 (L2) ]
+\0
+
+[@ITEM 23 (FR) ]
+J'ai continué d'observer et d'étudier Lavos ici.{PRESS_CLEAR}
+Cependant, j'ai déjà atteint mes limites. Il est sans
+doute impossible de maintenir un esprit sain en
+vivant à une telle époque...{PRESS_CLEAR}
+Avant que je perde la raison, j'ai décidé de laisser cet
+enregistrement, ainsi que mon ultime invention...\0
+
+[@ITEM 24 (L1) ]
+\0
+
+[@ITEM 24 (EN) ]
+I continued my research in order to somehow
+return to my own era.{PRESS_CLEAR}
+However, by the time that research was
+complete, I could feel my own lifespan ending.{PRESS_CLEAR}
+That is why I entrust it{56}to those who open
+this place.{PRESS_CLEAR}
+If you can come and go through time......
+If, crossing time, humans can become one for
+the sake of this planet itself......
+Perhaps they can do something about that
+Lavos{56}only then{56}\0
+
+[@ITEM 24 (L2) ]
+\0
+
+[@ITEM 24 (FR) ]
+J'ai poursuivi mes recherches pendant des années dans
+l'espoir de retourner à mon époque, mais mes forces
+m'ont abandonné alors que j'atteignais enfin mon but.{PRESS_CLEAR}
+C'est pourquoi je vous confie ma création, à vous qui
+avez ouvert cette porte.{PRESS_CLEAR}
+S'il était possible de parcourir la rivière du temps...
+Si des humains de toutes les époques s'unissaient
+pour le bien de cette planète...{PRESS_CLEAR}
+Alors, Lavos pourrait peut-être être vaincu...\0
+
+[@ITEM 25 (L1) ]
+\0
+
+[@ITEM 25 (EN) ]
+The probability is equivalent to zero......
+However, as long as it is not zero, I will take
+the chance!{PRESS_CLEAR}
+I will wager everything of this earth on those who
+open this door......{PRESS_CLEAR}
+Now, open the last door.
+And then, take it.
+My final invention......{PRESS_CLEAR}
+The Wings that Cross Time.\0
+
+[@ITEM 25 (L2) ]
+\0
+
+[@ITEM 25 (FR) ]
+La probabilité est proche de zéro... Toutefois, tant
+qu'elle n'est pas nulle, je tenterai ma chance. Je miserai
+la planète entière sur ceux qui ouvriront cette porte...{PRESS_CLEAR}
+Franchissez le seuil fatidique à la rencontre de mon
+ultime invention...{PRESS_CLEAR}
+Les ailes qui traversent le temps.\0
+
+[@ITEM 26 (L1) ]
+\0
+
+[@ITEM 26 (EN) ]
+{Marle}: This is...... amazing......{PRESS_CLEAR}
+But I wonder which side is the front......?\0
+
+[@ITEM 26 (L2) ]
+\0
+
+[@ITEM 26 (FR) ]
+{Marle} : C'est incroyable...{PRESS_CLEAR}
+Mais je me demande quel côté est l'avant...\0
+
+[@ITEM 27 (L1) ]
+\0
+
+[@ITEM 27 (EN) ]
+{Lucca}: This is the Philosopher of Reason Gasch's
+final invention......\0
+
+[@ITEM 27 (L2) ]
+\0
+
+[@ITEM 27 (FR) ]
+{Lucca} : L'ultime invention de Gasch, le sage de la
+raison...\0
+
+[@ITEM 28 (L1) ]
+\0
+
+[@ITEM 28 (EN) ]
+{Robo}: So THIS is the Wings that Cross Time,
+mentioned in the earlier record......\0
+
+[@ITEM 28 (L2) ]
+\0
+
+[@ITEM 28 (FR) ]
+{Robo} : Ce sont les ailes qui traversent le temps
+dont il nous parlait...\0
+
+[@ITEM 29 (L1) ]
+\0
+
+[@ITEM 29 (EN) ]
+{Frog}: Th-this is the Wings that Cross Time!{56}\0
+
+[@ITEM 29 (L2) ]
+\0
+
+[@ITEM 29 (FR) ]
+{Frog} : Les ailes qui traversent le temps !\0
+
+[@ITEM 30 (L1) ]
+\0
+
+[@ITEM 30 (EN) ]
+{Ayla}: !!{PRESS_CLEAR}
+This......\0
+
+[@ITEM 30 (L2) ]
+\0
+
+[@ITEM 30 (FR) ]
+{Ayla} : Ça... ailes ?\0
+
+[@ITEM 31 (L1) ]
+\0
+
+[@ITEM 31 (EN) ]
+{MSGWND}
+A mysterious crest is engraved here,
+and it seems to be sealed by some sort of power.\0
+
+[@ITEM 31 (L2) ]
+\0
+
+[@ITEM 31 (FR) ]
+{MSGWND}La porte est gravée d'un emblème et scellée
+par une force mystérieuse.\0
+
+[@ITEM 32 (L1) ]
+\0
+
+[@ITEM 32 (EN) ]
+{MSGWND}
+The pendant starts shining......!\0
+
+[@ITEM 32 (L2) ]
+\0
+
+[@ITEM 32 (FR) ]
+{MSGWND}
+Le pendentif se met à briller !\0
+
+[@ITEM 33 (L1) ]
+\0
+
+[@ITEM 33 (EN) ]
+Enigmatic Object: THE FINAL PROGRAM CARRIED
+OUT BY ME WAS THE BURIAL OF THE WISE
+ONE HIMSELF.{PRESS_CLEAR}
+NOW I CAN ETERNALLY PASS THROUGH THE
+SAME TIME AS THE WISE ONE.{PRESS_CLEAR}
+HUH......?{PRESS_CLEAR}
+IT FEELS AS THOUGH THERE WAS ONE MORE
+THING THAT I MUST DO.{PRESS_CLEAR}
+SEATS......{PRESS_CLEAR}
+......{PRESS_CLEAR}
+......{PRESS_CLEAR}
+......{PRESS_CLEAR}
+I FORGOT.\0
+
+[@ITEM 33 (L2) ]
+\0
+
+[@ITEM 33 (FR) ]
+Créature étrange : Le dernier programme qui m'a été
+intégré fut celui des funérailles du professeur.{PRESS_CLEAR}
+Je peux ainsi passer l'éternité en sa compagnie.{PRESS_CLEAR}
+Il me semble que j'avais encore une chose à faire...{PRESS_CLEAR}
+Quelque chose au sujet de sièges...{PRESS_CLEAR}
+...{PRESS_CLEAR}
+J'ai oublié...\0
+
+[@ITEM 34 (L1) ]
+\0
+
+[@ITEM 34 (EN) ]
+Enigmatic Object: I WAS FINALLY SLEEPING
+PLEASANTLY, SO PLEASE DO NOT WAKE ME.\0
+
+[@ITEM 34 (L2) ]
+\0
+
+[@ITEM 34 (FR) ]
+Créature étrange : Ne me réveillez pas.
+Moi qui dormais si paisiblement...\0
+
+[@ITEM 35 (L1) ]
+\0
+
+[@ITEM 35 (EN) ]
+Enigmatic Object: DANGER BEYOND HERE.
+THE TEMPORAL AXES ARE DISORDERED.\0
+
+[@ITEM 35 (L2) ]
+\0
+
+[@ITEM 35 (FR) ]
+Créature étrange : Il est dangereux d'aller plus loin.
+L'axe du temps est déréglé.\0
+
+[@ITEM 36 (L1) ]
+\0
+
+[@ITEM 36 (EN) ]
+Enigmatic Object: You seem surprised.{PRESS_CLEAR}
+It is me......Gasch!
+I copied my brain into this object.{PRESS_CLEAR}
+I wonder, are you pleased with this object?{PRESS_CLEAR}
+There is something that I must explain to you.
+That is, how to go to another era!{PRESS_CLEAR}
+The time gauge appears with the {B:Y} Button.
+Choose the era you want to go to with L and R.\0
+
+[@ITEM 36 (L2) ]
+\0
+
+[@ITEM 36 (FR) ]
+Créature étrange : Je vous ai surpris ? C'est moi...{PRESS_CLEAR}
+Oui, c'est moi, Gasch. J'ai copié mes pensées dans le
+cerveau de cette créature.{PRESS_CLEAR}
+Elle vous plaît ?{PRESS_CLEAR}
+Je dois vous expliquer quelque chose, à savoir,
+comment atteindre une autre époque.{PRESS_CLEAR}
+Appuyez sur le bouton {B:Y} pour afficher la jauge
+du temps, puis choisissez l'époque où vous
+voulez aller avec le bouton R ou le bouton L.\0
+
+[@ITEM 37 (L1) ]
+\0
+
+[@ITEM 37 (EN) ]
+Gasch: Ah! That's right!\0
+
+[@ITEM 37 (L2) ]
+\0
+
+[@ITEM 37 (FR) ]
+Gasch : Ah, j'oubliais !\0
+
+[@ITEM 38 (L1) ]
+\0
+
+[@ITEM 38 (EN) ]
+Gasch: Why not try giving the time machine
+a name?\0
+
+[@ITEM 38 (L2) ]
+\0
+
+[@ITEM 38 (FR) ]
+Gasch : Avant de partir, que diriez-vous de donner un
+nom à ma machine à voyager dans le temps ?\0
+
+[@ITEM 39 (L1) ]
+\0
+
+[@ITEM 39 (EN) ]
+Gasch: Go on, get in, get in!\0
+
+[@ITEM 39 (L2) ]
+\0
+
+[@ITEM 39 (FR) ]
+Gasch : Allez, montez à bord !\0
+
+[@ITEM 40 (L1) ]
+\0
+
+[@ITEM 40 (EN) ]
+Don't fall asleep!{CLOSE}\0
+
+[@ITEM 40 (L2) ]
+\0
+
+[@ITEM 40 (FR) ]
+Ce n'est pas le moment de dormir !{CLOSE}\0
+
+[@ITEM 41 (L1) ]
+\0
+
+[@ITEM 41 (EN) ]
+Enigmatic Object: ADVICE FOR TIME MACHINE
+USAGE.{PRESS_CLEAR}
+{B:Y} BUTTON:
+BRING UP THE TIME GAUGE.{PRESS_CLEAR}
+L AND R KEYS
++CROSS KEYS LEFT AND RIGHT:
+SELECT TIME GAUGE DESTINATION.{PRESS_CLEAR}
+{B:A} BUTTON:
+RIDE, GET OFF, TIME WARP.{PRESS_CLEAR}
+THAT IS ALL.
+CONCLUDING THE MESSAGE FROM THE WISE
+ONE.\0
+
+[@ITEM 41 (L2) ]
+\0
+
+[@ITEM 41 (FR) ]
+Créature étrange : Instructions d'utilisation de la
+machine à voyager dans le temps.{PRESS_CLEAR}
+Bouton {B:Y}
+Afficher la jauge du temps (en vol).{PRESS_CLEAR}
+Bouton R, bouton L et manette +
+Choisir une époque.{PRESS_CLEAR}
+Bouton {B:A}
+Embarquer, descendre ou activer le portail temporel.{PRESS_CLEAR}
+Fin du message du professeur.\0
+
+[@ITEM 42 (L1) ]
+\0
+
+[@ITEM 42 (EN) ]
+Enigmatic Object: INPUTTING THE TIME MACHINE'S
+NAME.\0
+
+[@ITEM 42 (L2) ]
+\0
+
+[@ITEM 42 (FR) ]
+Créature étrange : Veuillez saisir le nom de la machine à
+voyager dans le temps.\0
+
+[@ITEM 43 (L1) ]
+\0
+
+[@ITEM 43 (EN) ]
+Lookout: Kii! Outsiders!
+I have to let Crawlie-sama know, quick!
+Kii!\0
+
+[@ITEM 43 (L2) ]
+\0
+
+[@ITEM 43 (FR) ]
+Sentinelle : Hi ! Des intrus ! Je dois avertir le
+sieur Rampant immédiatement ! Hi !\0
+
+[@ITEM 44 (L1) ]
+\0
+
+[@ITEM 44 (EN) ]
+Lackey: I saw a bridge here, ribbit,
+it's the truth, ribbit.
+The truth, I'm telling you!!\0
+
+[@ITEM 44 (L2) ]
+\0
+
+[@ITEM 44 (FR) ]
+Acolyte : Il y avait un pont ici, je l'ai vu, coââ !
+C'est vrai ! Je le jure, coââ !\0
+
+[@ITEM 45 (L1) ]
+\0
+
+[@ITEM 45 (EN) ]
+Boss: Don't lie, gribbit!
+There's none anywhere, gribbit, geez!\0
+
+[@ITEM 45 (L2) ]
+\0
+
+[@ITEM 45 (FR) ]
+Chef : Ne mens pas, coââ !
+Il n'y a rien ici, coââ !\0
+
+[@ITEM 46 (L1) ]
+\0
+
+[@ITEM 46 (EN) ]
+Lackey: It's the truth, ribbit......\0
+
+[@ITEM 46 (L2) ]
+\0
+
+[@ITEM 46 (FR) ]
+Acolyte : Mais c'est pourtant la vérité, coââ...\0
+
+[@ITEM 47 (L1) ]
+\0
+
+[@ITEM 47 (EN) ]
+Boss: Hm? Someone's coming.
+Run away, gribbit!\0
+
+[@ITEM 47 (L2) ]
+\0
+
+[@ITEM 47 (FR) ]
+Chef : Hum ? Quelqu'un approche ! Fuyons, coââ !\0
+
+[@ITEM 48 (L1) ]
+\0
+
+[@ITEM 48 (EN) ]
+{Marle}: It's a little scary......\0
+
+[@ITEM 48 (L2) ]
+\0
+
+[@ITEM 48 (FR) ]
+{Marle} : J'ai un peu la frousse...\0
+
+[@ITEM 49 (L1) ]
+\0
+
+[@ITEM 49 (EN) ]
+{Lucca}: What an eerie place.
+I've got a bad feeling about this......\0
+
+[@ITEM 49 (L2) ]
+\0
+
+[@ITEM 49 (FR) ]
+{Lucca} : Quel endroit sinistre... Ça ne me dit rien qui
+vaille.\0
+
+[@ITEM 50 (L1) ]
+\0
+
+[@ITEM 50 (EN) ]
+{Ayla}: Caution important!\0
+
+[@ITEM 50 (L2) ]
+\0
+
+[@ITEM 50 (FR) ]
+{Ayla} : Sentir danger... Faire attention !\0
+
+[@ITEM 51 (L1) ]
+\0
+
+[@ITEM 51 (EN) ]
+{MSGWND}
+Circle around and push the switch!\0
+
+[@ITEM 51 (L2) ]
+\0
+
+[@ITEM 51 (FR) ]
+Vous trouvez une note.{PRESS_CLEAR}{MSGWND}
+
+« Faites le tour et appuyez sur le bouton ! »\0
+
+[@ITEM 52 (L1) ]
+\0
+
+[@ITEM 52 (EN) ]
+Lookout: A group of three should come along
+any time now!\0
+
+[@ITEM 52 (L2) ]
+\0
+
+[@ITEM 52 (FR) ]
+Sentinelle : Hi ! Trois intrus approchent ! Hi !\0
+
+[@ITEM 53 (L1) ]
+\0
+
+[@ITEM 53 (EN) ]
+Crawlie-sama: Coming into this underground
+waterway, they're an awfully reckless bunch.
+I'll make them understand the terror of this place.\0
+
+[@ITEM 53 (L2) ]
+\0
+
+[@ITEM 53 (FR) ]
+Sieur Rampant : Ils sont plutôt téméraires de
+s'aventurer ainsi dans cet égout. Je vais leur
+faire découvrir la terreur qui y règne !\0
+
+[@ITEM 54 (L1) ]
+\0
+
+[@ITEM 54 (EN) ]
+Lookout: Kii!
+Let's make them understand.
+Ki, ki, ki, ki, kii!\0
+
+[@ITEM 54 (L2) ]
+\0
+
+[@ITEM 54 (FR) ]
+Sentinelle : Hi ! Montrons-leur ! Hi !\0
+
+[@ITEM 55 (L1) ]
+\0
+
+[@ITEM 55 (EN) ]
+Crawlie-sama: If they dare to come, I'll do this,
+and that, and break them into little pieces!\0
+
+[@ITEM 55 (L2) ]
+\0
+
+[@ITEM 55 (FR) ]
+Sieur Rampant : S'ils osent venir jusqu'ici, je les
+déchiquetterai !\0
+
+[@ITEM 56 (L1) ]
+\0
+
+[@ITEM 56 (EN) ]
+Crawlie-sama: Gya, ha, ha, ha, ha!{PRESS_CLEAR}
+Lookout: Kya, ha, ha, ha, ha!{PRESS_CLEAR}
+Crawlie-sama: Gukkya, kya, kya, kya!{PRESS_CLEAR}
+Lookout: Kukkya, kya, kya, kya!{PRESS_CLEAR}
+Crawlie-sama: Dohhya, hya, hya, hya!\0
+
+[@ITEM 56 (L2) ]
+\0
+
+[@ITEM 56 (FR) ]
+Sieur Rampant : Mouah, ha, ha, ha !{PRESS_CLEAR}
+Sentinelle : Hi, hi, hi, hi, hi !{PRESS_CLEAR}
+Sieur Rampant : Ho, ho, ho, ho, ho !{PRESS_CLEAR}
+Sentinelle : Hi, hi, hi, hi, hi !{PRESS_CLEAR}
+Sieur Rampant : Hé, hé, hé, hé, hé !\0
+
+[@ITEM 57 (L1) ]
+\0
+
+[@ITEM 57 (EN) ]
+Lookout: !\0
+
+[@ITEM 57 (L2) ]
+\0
+
+[@ITEM 57 (FR) ]
+Sentinelle : !\0
+
+[@ITEM 58 (L1) ]
+\0
+
+[@ITEM 58 (EN) ]
+Lord Crawlie: Hm?\0
+
+[@ITEM 58 (L2) ]
+\0
+
+[@ITEM 58 (FR) ]
+Sieur Rampant : Hein ?\0
+
+[@ITEM 59 (L1) ]
+\0
+
+[@ITEM 59 (EN) ]
+Shut up! Don't disturb me!\0
+
+[@ITEM 59 (L2) ]
+\0
+
+[@ITEM 59 (FR) ]
+Taisez-vous ! Ne me dérangez pas !\0
+
+[@ITEM 60 (L1) ]
+\0
+
+[@ITEM 60 (EN) ]
+Mountains are nice, aren't they.\0
+
+[@ITEM 60 (L2) ]
+\0
+
+[@ITEM 60 (FR) ]
+Ah, comme les montagnes sont jolies.\0
+
+[@ITEM 61 (L1) ]
+\0
+
+[@ITEM 61 (EN) ]
+This is nice.\0
+
+[@ITEM 61 (L2) ]
+\0
+
+[@ITEM 61 (FR) ]
+Elles sont si belles.\0
+
+[@ITEM 62 (L1) ]
+\0
+
+[@ITEM 62 (EN) ]
+Mountains are nice, aren't they.\0
+
+[@ITEM 62 (L2) ]
+\0
+
+[@ITEM 62 (FR) ]
+Ah, comme les montagnes sont jolies.\0
+
+[@ITEM 63 (L1) ]
+\0
+
+[@ITEM 63 (EN) ]
+You guys sure are stubborn.
+I'll give you this.\0
+
+[@ITEM 63 (L2) ]
+\0
+
+[@ITEM 63 (FR) ]
+Vous n'abandonnez donc jamais ? Tenez.\0
+
+[@ITEM 64 (L1) ]
+\0
+
+[@ITEM 64 (EN) ]
+Azarla: Did you hear that voice just now?{PRESS_CLEAR}
+Hu, hu, I'll let you hear plenty more after this!\0
+
+[@ITEM 64 (L2) ]
+\0
+
+[@ITEM 64 (FR) ]
+Azara : Avez-vous entendu ce rugissement ?{PRESS_CLEAR}
+Ho, ho, vous pourrez l'entendre autant que vous le
+voudrez !\0
+
+[@ITEM 65 (L1) ]
+\0
+
+[@ITEM 65 (EN) ]
+Azarla: Damned red star......{PRESS_CLEAR}
+Fall.{PRESS_CLEAR}
+And dye the earth red!\0
+
+[@ITEM 65 (L2) ]
+\0
+
+[@ITEM 65 (FR) ]
+Azara : Étoile rouge de malheur... Écrase-toi et
+enveloppe ces terres de ton éclat écarlate !\0
+
+[@ITEM 66 (L1) ]
+\0
+
+[@ITEM 66 (EN) ]
+Azarla: Hu, hu, hu.
+This Black Tyrano will wipe you monkeys
+from history for all time!\0
+
+[@ITEM 66 (L2) ]
+\0
+
+[@ITEM 66 (FR) ]
+Azara : Ho, ho, ho ! Ce tyrannosaure va vous faire
+disparaître à jamais de l'histoire !\0
+
+[@ITEM 67 (L1) ]
+\0
+
+[@ITEM 67 (EN) ]
+Azarla: So you really did come......
+It looks like this will be the final match.{PRESS_CLEAR}
+Sooner or later, we must decide it......
+We Dinomen, or you monkeys?
+Which will survive on this earth.{56}\0
+
+[@ITEM 67 (L2) ]
+\0
+
+[@ITEM 67 (FR) ]
+Azara : Alors vous êtes venus... Le moment de notre
+dernière bataille est enfin arrivé.{PRESS_CLEAR}
+Nous devrons déterminer qui de nous, sauriens ou
+primates, survivra.\0
+
+[@ITEM 68 (L1) ]
+\0
+
+[@ITEM 68 (EN) ]
+{Ayla}: Law of Earth decide that.\0
+
+[@ITEM 68 (L2) ]
+\0
+
+[@ITEM 68 (FR) ]
+{Ayla} : Loi du plus fort décider.
+{Ayla} juste combattre !\0
+
+[@ITEM 69 (L1) ]
+\0
+
+[@ITEM 69 (EN) ]
+Azarla: Even if our destiny is to perish,
+we simply cannot make way
+for the likes of monkeys!\0
+
+[@ITEM 69 (L2) ]
+\0
+
+[@ITEM 69 (FR) ]
+Azara : Même si l'extinction est notre destin, nous ne
+ferons jamais place aux primates !\0
+
+[@ITEM 70 (L1) ]
+\0
+
+[@ITEM 70 (EN) ]
+Azarla: Uuu......
+Does this mean the heavens have chosen
+you monkeys......?{PRESS_CLEAR}
+Kh, monkeys, listen. And pass it on.
+We Dinomen challenged fate to battle and
+perished proudly......!\0
+
+[@ITEM 70 (L2) ]
+\0
+
+[@ITEM 70 (FR) ]
+Azara : Le ciel aurait-il choisi les primates...?{PRESS_CLEAR}
+Écoutez-moi et transmettez mes paroles.{PRESS_CLEAR}
+Les sauriens ont défié leur destin et ont péri la tête
+haute...!\0
+
+[@ITEM 71 (L1) ]
+\0
+
+[@ITEM 71 (EN) ]
+{Ayla}: Got it......\0
+
+[@ITEM 71 (L2) ]
+\0
+
+[@ITEM 71 (FR) ]
+{Ayla} : D'accord...\0
+
+[@ITEM 72 (L1) ]
+\0
+
+[@ITEM 72 (EN) ]
+{Ayla}: !?\0
+
+[@ITEM 72 (L2) ]
+\0
+
+[@ITEM 72 (FR) ]
+{Ayla} : ?!\0
+
+[@ITEM 73 (L1) ]
+\0
+
+[@ITEM 73 (EN) ]
+Azarla: First, the great rock clad in flames
+will come falling......
+The red-hot fireball will burn all things to nothing.{PRESS_CLEAR}
+The scorched earth will at length begin to cool,
+and a long, harsh era will come when everything
+freezes......{PRESS_CLEAR}
+Hu, hu, is this not a fitting curtain-fall
+for our era......?{PRESS_CLEAR}
+Hu, ha, ha, ha, ha......!\0
+
+[@ITEM 73 (L2) ]
+\0
+
+[@ITEM 73 (FR) ]
+Azara : D'abord, le grand rocher enflammé va tomber du
+ciel... La boule de feu ardente réduira tout en cendre.{PRESS_CLEAR}
+Un jour, la terre brûlée refroidira, annonçant la venue
+d'une longue période où tout sera gelé...{PRESS_CLEAR}
+Ha ha... On ne pouvait rêver mieux pour marquer la fin de
+notre ère. Ha ha ha...\0
+
+[@ITEM 74 (L1) ]
+\0
+
+[@ITEM 74 (EN) ]
+{Ayla}: Lavos......\0
+
+[@ITEM 74 (L2) ]
+\0
+
+[@ITEM 74 (FR) ]
+{Ayla} : Lavos...\0
+
+[@ITEM 75 (L1) ]
+\0
+
+[@ITEM 75 (EN) ]
+{Marle}: Huh?\0
+
+[@ITEM 75 (L2) ]
+\0
+
+[@ITEM 75 (FR) ]
+{Marle} : Quoi ?\0
+
+[@ITEM 76 (L1) ]
+\0
+
+[@ITEM 76 (EN) ]
+{Lucca}: L, Lavos!?\0
+
+[@ITEM 76 (L2) ]
+\0
+
+[@ITEM 76 (FR) ]
+{Lucca} : La... Lavos ?!\0
+
+[@ITEM 77 (L1) ]
+\0
+
+[@ITEM 77 (EN) ]
+{Robo}: Lavos...... It cannot be!\0
+
+[@ITEM 77 (L2) ]
+\0
+
+[@ITEM 77 (FR) ]
+{Robo} : Lavos... Impossible !\0
+
+[@ITEM 78 (L1) ]
+\0
+
+[@ITEM 78 (EN) ]
+{Ayla}: {Ayla} people's word.
+La, fire.
+Vos, big......\0
+
+[@ITEM 78 (L2) ]
+\0
+
+[@ITEM 78 (FR) ]
+{Ayla} : Mots anciens de {Ayla}.
+« La » être « feu ».
+« Vos » être « grand »...\0
+
+[@ITEM 79 (L1) ]
+\0
+
+[@ITEM 79 (EN) ]
+Voice: {Ayla}!!\0
+
+[@ITEM 79 (L2) ]
+\0
+
+[@ITEM 79 (FR) ]
+{Ayla} !\0
+
+[@ITEM 80 (L1) ]
+\0
+
+[@ITEM 80 (EN) ]
+{Ayla}: Kino!\0
+
+[@ITEM 80 (L2) ]
+\0
+
+[@ITEM 80 (FR) ]
+{Ayla} : Kino !\0
+
+[@ITEM 81 (L1) ]
+\0
+
+[@ITEM 81 (EN) ]
+{Ayla}: We hurry!
+Lavos come falling!\0
+
+[@ITEM 81 (L2) ]
+\0
+
+[@ITEM 81 (FR) ]
+{Ayla} : Vite ! Lavos s'écraser !\0
+
+[@ITEM 82 (L1) ]
+\0
+
+[@ITEM 82 (EN) ]
+{Ayla}: All ride Pteran!\0
+
+[@ITEM 82 (L2) ]
+\0
+
+[@ITEM 82 (FR) ]
+{Ayla} : Tous sur ptéranodons !\0
+
+[@ITEM 83 (L1) ]
+\0
+
+[@ITEM 83 (EN) ]
+{Ayla}: Kino! Hurry!!\0
+
+[@ITEM 83 (L2) ]
+\0
+
+[@ITEM 83 (FR) ]
+{Ayla} : Kino ! Vite !\0
+
+[@ITEM 84 (L1) ]
+\0
+
+[@ITEM 84 (EN) ]
+Kino: {Ayla}!
+What you doing!?\0
+
+[@ITEM 84 (L2) ]
+\0
+
+[@ITEM 84 (FR) ]
+Kino : {Ayla} !{PRESS_CLEAR}
+{Ayla} faire quoi ?!\0
+
+[@ITEM 85 (L1) ]
+\0
+
+[@ITEM 85 (EN) ]
+{Ayla}: Come! Azarla! Come!\0
+
+[@ITEM 85 (L2) ]
+\0
+
+[@ITEM 85 (FR) ]
+{Ayla} : Azara venir ! Vite !\0
+
+[@ITEM 86 (L1) ]
+\0
+
+[@ITEM 86 (EN) ]
+Azarla: This is what the earth has decided!\0
+
+[@ITEM 86 (L2) ]
+\0
+
+[@ITEM 86 (FR) ]
+Azara : Non ! La loi du plus fort a décidé !\0
+
+[@ITEM 87 (L1) ]
+\0
+
+[@ITEM 87 (EN) ]
+{Ayla}: ......\0
+
+[@ITEM 87 (L2) ]
+\0
+
+[@ITEM 87 (FR) ]
+{Ayla} : ...\0
+
+[@ITEM 88 (L1) ]
+\0
+
+[@ITEM 88 (EN) ]
+Kino: {Ayla}! Quick!!!\0
+
+[@ITEM 88 (L2) ]
+\0
+
+[@ITEM 88 (FR) ]
+Kino : {Ayla} ! Vite !!\0
+
+[@ITEM 89 (L1) ]
+\0
+
+[@ITEM 89 (EN) ]
+{Ayla}: Azarla......{PRESS_CLEAR}
+I not forget......\0
+
+[@ITEM 89 (L2) ]
+\0
+
+[@ITEM 89 (FR) ]
+{Ayla} : Azara...{PRESS_CLEAR}
+{Ayla} pas oublier...\0
+
+[@ITEM 90 (L1) ]
+\0
+
+[@ITEM 90 (EN) ]
+Azarla: Future......\0
+
+[@ITEM 90 (L2) ]
+\0
+
+[@ITEM 90 (FR) ]
+Azara : Le futur...\0
+
+[@ITEM 91 (L1) ]
+\0
+
+[@ITEM 91 (EN) ]
+{Ayla}: Future?{PRESS_CLEAR}
+What about future?\0
+
+[@ITEM 91 (L2) ]
+\0
+
+[@ITEM 91 (FR) ]
+{Ayla} : Futur ?{PRESS_CLEAR}
+Futur quoi ?\0
+
+[@ITEM 92 (L1) ]
+\0
+
+[@ITEM 92 (EN) ]
+Azarla: The future......\0
+
+[@ITEM 92 (L2) ]
+\0
+
+[@ITEM 92 (FR) ]
+Azara : Le futur vous appartient...\0
+
+[@ITEM 93 (L1) ]
+\0
+
+[@ITEM 93 (EN) ]
+Nizbel: If you're looking for Azarla, head just past here.\0
+
+[@ITEM 93 (L2) ]
+\0
+
+[@ITEM 93 (FR) ]
+Nizbel : Si vous cherchez Azara, il est un peu plus loin.\0
+
+[@ITEM 94 (L1) ]
+\0
+
+[@ITEM 94 (EN) ]
+Nizbel: Wait.{PRESS_CLEAR}
+It's not simply just past here. It's just past having
+beaten me, Nizbel-sama, who has returned!\0
+
+[@ITEM 94 (L2) ]
+\0
+
+[@ITEM 94 (FR) ]
+Nizbel : Un instant.{PRESS_CLEAR}
+Vous devrez d'abord me vaincre pour l'atteindre !\0
+
+[@ITEM 95 (L1) ]
+\0
+
+[@ITEM 95 (EN) ]
+Nizbel: Hey, hey.{PRESS_CLEAR}
+You've got plenty of guts to ignore me,
+Nizbel-sama!\0
+
+[@ITEM 95 (L2) ]
+\0
+
+[@ITEM 95 (FR) ]
+Nizbel : Eh bien !{PRESS_CLEAR}
+Quel culot vous avez de m'ignorer comme ça !\0
+
+[@ITEM 96 (L1) ]
+\0
+
+[@ITEM 96 (EN) ]
+Lackey: It seems like if you hit this switch,
+the bridge spans the gap, ribbit!\0
+
+[@ITEM 96 (L2) ]
+\0
+
+[@ITEM 96 (FR) ]
+Acolyte : Si on appuie sur le bouton, le pont apparaît,
+coââ !\0
+
+[@ITEM 97 (L1) ]
+\0
+
+[@ITEM 97 (EN) ]
+Boss: Well then, switch it on, gribbit!\0
+
+[@ITEM 97 (L2) ]
+\0
+
+[@ITEM 97 (FR) ]
+Chef : Mais alors, qu'est-ce que tu attends, coââ ?
+Appuie dessus, coââ !\0
+
+[@ITEM 98 (L1) ]
+\0
+
+[@ITEM 98 (EN) ]
+Lackey: Waah!{PRESS_CLEAR}
+The switch is too high for me to reach, ribbit!\0
+
+[@ITEM 98 (L2) ]
+\0
+
+[@ITEM 98 (FR) ]
+Acolyte : Coââ !{PRESS_CLEAR}
+Je n'y arrive pas, il est trop haut, coââ !\0
+
+[@ITEM 99 (L1) ]
+\0
+
+[@ITEM 99 (EN) ]
+Boss: And you call yourself a frog,
+gribbit, gribbit!?\0
+
+[@ITEM 99 (L2) ]
+\0
+
+[@ITEM 99 (FR) ]
+Chef : T'en as autant dans les cuisses que dans la
+cervelle, coââ !\0
+
+[@ITEM 100 (L1) ]
+\0
+
+[@ITEM 100 (EN) ]
+There's a journal.
+On the last page, this is written:{PRESS_CLEAR}
+I'm at my limit.
+If I make a sound, the half-fish attack me......{PRESS_CLEAR}
+I can't take it anymore.
+If it was going to be like this, I would rather have
+been sentenced to the guillotine.{PRESS_CLEAR}
+I'm going to give one final shout{56}\0
+
+[@ITEM 100 (L2) ]
+\0
+
+[@ITEM 100 (FR) ]
+Vous trouvez un journal. Il y a quelque chose d'écrit sur
+la dernière page.{PRESS_CLEAR}
+« Je n'en peux plus. Si je fais le moindre bruit, les
+hommes-poissons m'attaquent... Je ne peux plus
+le supporter. »{PRESS_CLEAR}
+« Si j'avais su qu'il en serait ainsi, j'aurais préféré la
+guillotine. Je vais en finir et crier ! »\0
+
+[@ITEM 101 (L1) ]
+\0
+
+[@ITEM 101 (EN) ]
+Enigmatic Object: Mumble mumble?
+		{SEL1}Operate it{/SEL1}
+		{SEL2}Get off{/SEL2}\0
+
+[@ITEM 101 (L2) ]
+\0
+
+[@ITEM 101 (FR) ]
+Créature étrange : Zzz... Hmm...?
+       {SEL1}Mettre la machine en marche{/SEL1}
+       {SEL2}Descendre{/SEL2}\0
+
+[@ITEM 102 (L1) ]
+\0
+
+[@ITEM 102 (EN) ]
+{Marle}: Go-!\0
+
+[@ITEM 102 (L2) ]
+\0
+
+[@ITEM 102 (FR) ]
+{Marle} : C'est parti !\0
+
+[@ITEM 103 (L1) ]
+\0
+
+[@ITEM 103 (EN) ]
+{Lucca}: It's your turn, {Epoch}!\0
+
+[@ITEM 103 (L2) ]
+\0
+
+[@ITEM 103 (FR) ]
+{Lucca} : À toi de jouer, {Epoch} !\0
+
+[@ITEM 104 (L1) ]
+\0
+
+[@ITEM 104 (EN) ]
+{Robo}: {Epoch} taking off!\0
+
+[@ITEM 104 (L2) ]
+\0
+
+[@ITEM 104 (FR) ]
+{Robo} : Mise en marche du {Epoch} !\0
+
+[@ITEM 105 (L1) ]
+\0
+
+[@ITEM 105 (EN) ]
+{Frog}: Hi ho! {Epoch}!!\0
+
+[@ITEM 105 (L2) ]
+\0
+
+[@ITEM 105 (FR) ]
+{Frog} : En route, {Epoch} !\0
+
+[@ITEM 106 (L1) ]
+\0
+
+[@ITEM 106 (EN) ]
+{Ayla}: {Epoch}! We go!!\0
+
+[@ITEM 106 (L2) ]
+\0
+
+[@ITEM 106 (FR) ]
+{Ayla} : {Epoch} voler !\0
+
+[@ITEM 107 (L1) ]
+\0
+
+[@ITEM 107 (EN) ]
+{Magus}: Here we go......\0
+
+[@ITEM 107 (L2) ]
+\0
+
+[@ITEM 107 (FR) ]
+{Magus} : Allons-y...\0
+
+[@ITEM 108 (L1) ]
+\0
+
+[@ITEM 108 (EN) ]
+{MSGWND}
+Obtained {ITEM}!\0
+
+[@ITEM 108 (L2) ]
+\0
+
+[@ITEM 108 (FR) ]
+{MSGWND}
+Trouvé : {ITEM} !\0
+
+[@ITEM 109 (L1) ]
+\0
+
+[@ITEM 109 (EN) ]
+{MSGWND}
+Obtained {ITEM}!\0
+
+[@ITEM 109 (L2) ]
+\0
+
+[@ITEM 109 (FR) ]
+{MSGWND}
+Obtenu : {ITEM} !\0
+
+[@ITEM 110 (L1) ]
+\0
+
+[@ITEM 110 (EN) ]
+Enigmatic Object: NOW CONVEYING A MESSAGE
+FROM THE WISE ONE.\0
+
+[@ITEM 110 (L2) ]
+\0
+
+[@ITEM 110 (FR) ]
+Créature étrange : Je vais vous transmettre un
+message du professeur.\0
+
+[@ITEM 111 (L1) ]
+\0
+
+[@ITEM 111 (EN) ]
+Gasch: "Death Mountain" holds the power to
+bring a person back to life.{PRESS_CLEAR}
+However, in order to draw out that power,
+that person must be a truly important and
+necessary existence.{PRESS_CLEAR}
+Furthermore, a doll identical to that person is
+essential.{PRESS_CLEAR}
+In that case, the egg should hatch{56}\0
+
+[@ITEM 111 (L2) ]
+\0
+
+[@ITEM 111 (FR) ]
+Gasch : Le mont des défunts a le pouvoir de rendre la
+vie à ceux qui l'ont perdue.{PRESS_CLEAR}
+Cependant, pour invoquer ce pouvoir, l'existence de la
+personne à ressusciter doit être plus qu'importante,
+elle doit être essentielle.{PRESS_CLEAR}
+En outre, vous aurez besoin d'une poupée qui lui
+ressemble comme deux gouttes d'eau.{PRESS_CLEAR}
+Si vous remplissez ces conditions, l'œuf devrait éclore.\0
+
+[@ITEM 112 (L1) ]
+\0
+
+[@ITEM 112 (EN) ]
+Gasch: Yes, it should be fine.{PRESS_CLEAR}
+It seems the time has come when "Death
+Mountain" will accept you.
+This is the last chance to bring your precious
+companion back to life.{PRESS_CLEAR}
+The truly final programs I input into this
+object are support to guide you to that
+mountain!{PRESS_CLEAR}
+Stand back a little.{56}\0
+
+[@ITEM 112 (L2) ]
+\0
+
+[@ITEM 112 (FR) ]
+Gasch : Hum... Cette poupée devrait suffire.{PRESS_CLEAR}
+Le moment où vous serez admis sur le mont des défunts
+semble être arrivé. Ce sera votre dernière chance de
+ressusciter votre compagnon qui vous est si cher.{PRESS_CLEAR}
+Les dernières consignes que j'ai programmées dans
+cette créature serviront à vous guider jusqu'au
+sommet !{PRESS_CLEAR}
+Reculez un peu.\0
+
+[@ITEM 113 (L1) ]
+\0
+
+[@ITEM 113 (EN) ]
+Gasch: If you don't bring the dopple-doll, there's
+no point in going to "Death Mountain"! Go to the
+place where you left it, and retrieve it with
+all haste!\0
+
+[@ITEM 113 (L2) ]
+\0
+
+[@ITEM 113 (FR) ]
+Gasch : Sans une poupée clone, il ne servirait à rien
+d'aller sur le mont des défunts ! Dépêchez-vous d'aller
+la récupérer !\0
+
+[@ITEM 114 (L1) ]
+\0
+
+[@ITEM 114 (EN) ]
+Gasch: A dopple-doll! That would do nicely.
+If only the magician Norstein Bekkeler were
+here, he'd make one in an instant......{PRESS_CLEAR}
+Huh, you don't know Bekkeler?
+He likes festivals, so if you go there, you
+should be able to meet him......\0
+
+[@ITEM 114 (L2) ]
+\0
+
+[@ITEM 114 (FR) ]
+Gasch : Une poupée clone ! Si seulement le magicien
+Norstein Bekkler était ici, il pourrait en fabriquer
+une en moins de deux...{PRESS_CLEAR}
+Quoi ? Vous ne connaissez pas Norstein Bekkler ?{PRESS_CLEAR}
+Il aime les foires et les festivals, alors c'est à ce genre
+d'endroit que vous pourrez le rencontrer...\0
+
+[@ITEM 115 (L1) ]
+\0
+
+[@ITEM 115 (EN) ]
+EXECUTING HIGHEST PROGRAM!\0
+
+[@ITEM 115 (L2) ]
+\0
+
+[@ITEM 115 (FR) ]
+Exécution du programme !\0
+
+[@ITEM 116 (L1) ]
+\0
+
+[@ITEM 116 (EN) ]
+Gasch: The three offshoots that just now
+departed should protect you from "Death
+Mountain".{PRESS_CLEAR}
+The message from me is now complete.
+Finally, may I make a request?{PRESS_CLEAR}
+With this, this object's program is also
+finished.
+Let it rest. The power switch is on its stomach.\0
+
+[@ITEM 116 (L2) ]
+\0
+
+[@ITEM 116 (FR) ]
+Gasch : Les trois figurines qui viennent de s'envoler
+devraient vous protéger sur le mont des défunts.{PRESS_CLEAR}
+Mon message est maintenant terminé.{PRESS_CLEAR}
+Pour finir, puis-je vous demander de me rendre un
+service ?{PRESS_CLEAR}
+Le programme de cette créature est aussi terminé.
+Accordez-lui le repos qu'elle mérite.{PRESS_CLEAR}
+L'interrupteur est situé sur son ventre.\0
+
+[@ITEM 117 (L1) ]
+\0
+
+[@ITEM 117 (EN) ]
+Press the enigmatic object's switch?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 117 (L2) ]
+\0
+
+[@ITEM 117 (FR) ]
+Voulez-vous appuyer sur l'interrupteur ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 118 (L1) ]
+\0
+
+[@ITEM 118 (EN) ]
+It seems that time does not flow for this object.\0
+
+[@ITEM 118 (L2) ]
+\0
+
+[@ITEM 118 (FR) ]
+Il semble que le temps ne s'écoule plus pour cette
+créature.\0
+
+[@ITEM 119 (L1) ]
+\0
+
+[@ITEM 119 (EN) ]
+Oh, three of you! And in a place like this!
+You've a long journey ahead of you yet,
+so please rest here a while.{PRESS_CLEAR}
+Of course, if you wish to escape from the Omen,
+I'll see what I can do.\0
+
+[@ITEM 119 (L2) ]
+\0
+
+[@ITEM 119 (FR) ]
+Oh ! Des gens ici, et trois en plus ! Vous avez encore
+beaucoup de chemin à faire, alors reposez-vous ici
+aussi longtemps que vous voulez.{PRESS_CLEAR}
+Toutefois, si vous voulez sortir de ce songe, nous
+pouvons peut-être vous aider.\0
+
+[@ITEM 120 (L1) ]
+\0
+
+[@ITEM 120 (EN) ]
+What will you do?
+\t\t{SEL1}Escape.{/SEL1}
+\t\t{SEL2}Remain here.{/SEL2}\0
+
+[@ITEM 120 (L2) ]
+\0
+
+[@ITEM 120 (FR) ]
+Qu'allez-vous faire ?
+       {SEL1}Sortir{/SEL1}
+       {SEL2}Rester ici{/SEL2}\0
+
+[@ITEM 121 (L1) ]
+\0
+
+[@ITEM 121 (EN) ]
+Hey! Customers!\0
+
+[@ITEM 121 (L2) ]
+\0
+
+[@ITEM 121 (FR) ]
+Hé ! On a de la visite !\0
+
+[@ITEM 122 (L1) ]
+\0
+
+[@ITEM 122 (EN) ]
+Lackey: Get on, ribbit!\0
+
+[@ITEM 122 (L2) ]
+\0
+
+[@ITEM 122 (FR) ]
+Acolyte : Montez à bord, coââ !\0
+
+[@ITEM 123 (L1) ]
+\0
+
+[@ITEM 123 (EN) ]
+What will you do?
+\t\t{SEL1}Shop.{/SEL1}
+\t\t{SEL2}Just chat.{/SEL2}\0
+
+[@ITEM 123 (L2) ]
+\0
+
+[@ITEM 123 (FR) ]
+Qu'allez-vous faire ?
+       {SEL1}Faire des achats{/SEL1}
+       {SEL2}Juste dire bonjour{/SEL2}\0
+
+[@ITEM 124 (L1) ]
+\0
+
+[@ITEM 124 (EN) ]
+I've got a lot of good stuff!\0
+
+[@ITEM 124 (L2) ]
+\0
+
+[@ITEM 124 (FR) ]
+J'ai tout plein de marchandises intéressantes !\0
+
+[@ITEM 125 (L1) ]
+\0
+
+[@ITEM 125 (EN) ]
+Come again!\0
+
+[@ITEM 125 (L2) ]
+\0
+
+[@ITEM 125 (FR) ]
+À bientôt, j'espère !\0
+
+[@ITEM 126 (L1) ]
+\0
+
+[@ITEM 126 (EN) ]
+I can't do much selling, to, ho, ho.\0
+
+[@ITEM 126 (L2) ]
+\0
+
+[@ITEM 126 (FR) ]
+Je n'ai pas beaucoup de clients, ici. Ho, ho !\0
+
+[@ITEM 127 (L1) ]
+\0
+
+[@ITEM 127 (EN) ]
+Come baaaack!{CLOSE}\0
+
+[@ITEM 127 (L2) ]
+\0
+
+[@ITEM 127 (FR) ]
+Au revoir !{CLOSE}\0
+
+[@ITEM 128 (L1) ]
+\0
+
+[@ITEM 128 (EN) ]
+Lackey: Sheesh! How long do we have to
+listen to what he says, ribbit?\0
+
+[@ITEM 128 (L2) ]
+\0
+
+[@ITEM 128 (FR) ]
+Acolyte : Pfft ! Jusqu'à quand devrons-nous l'écouter,
+coââ ?\0
+
+[@ITEM 129 (L1) ]
+\0
+
+[@ITEM 129 (EN) ]
+Boss: Just shut up and push, gribbit!\0
+
+[@ITEM 129 (L2) ]
+\0
+
+[@ITEM 129 (FR) ]
+Chef : Tais-toi et pousse, coââ !\0
+
+[@ITEM 130 (L1) ]
+\0
+
+[@ITEM 130 (EN) ]
+Lackey: Hey, boss.
+What's your dream, ribbit?\0
+
+[@ITEM 130 (L2) ]
+\0
+
+[@ITEM 130 (FR) ]
+Acolyte : Dites, chef, quel est votre rêve le plus cher,
+coââ ?\0
+
+[@ITEM 131 (L1) ]
+\0
+
+[@ITEM 131 (EN) ]
+Boss: Dream......?{PRESS_CLEAR}
+Let's see...... king of the underground waterway!
+Yeah, that's it, gribbit!\0
+
+[@ITEM 131 (L2) ]
+\0
+
+[@ITEM 131 (FR) ]
+Chef : Mon rêve le plus cher...?{PRESS_CLEAR}
+Ah, je sais, être le roi des égouts !
+Oui, c'est ça, coââ !\0
+
+[@ITEM 132 (L1) ]
+\0
+
+[@ITEM 132 (EN) ]
+Boss: Well then, let me hear your dream.\0
+
+[@ITEM 132 (L2) ]
+\0
+
+[@ITEM 132 (FR) ]
+Chef : Et toi, coââ ?\0
+
+[@ITEM 133 (L1) ]
+\0
+
+[@ITEM 133 (EN) ]
+Lackey: My dream is to keep being your lackey,
+ribbit.\0
+
+[@ITEM 133 (L2) ]
+\0
+
+[@ITEM 133 (FR) ]
+Acolyte : Mon rêve est de rester votre acolyte, coââ !\0
+
+[@ITEM 134 (L1) ]
+\0
+
+[@ITEM 134 (EN) ]
+Boss: Kuuuuh!
+Going and saying something that makes me cry!{PRESS_CLEAR}
+I wanna let the lookout and Crawlie combo
+hear that, gribbit!!\0
+
+[@ITEM 134 (L2) ]
+\0
+
+[@ITEM 134 (FR) ]
+Chef : Pfft ! Tu vas me faire pleurer !{PRESS_CLEAR}
+Je vais le dire au sieur Rampant et à sa sentinelle,
+coââ !\0
+
+[@ITEM 135 (L1) ]
+\0
+
+[@ITEM 135 (EN) ]
+Lackey: Ribbit, ribbit, ribbit!\0
+
+[@ITEM 135 (L2) ]
+\0
+
+[@ITEM 135 (FR) ]
+Acolyte : Coââ ! Coââ ! Coââ !\0
+
+[@ITEM 136 (L1) ]
+\0
+
+[@ITEM 136 (EN) ]
+Boss: Gribbit, gribbit, gribbit!\0
+
+[@ITEM 136 (L2) ]
+\0
+
+[@ITEM 136 (FR) ]
+Chef : Coââ ! Coââ ! Coââ !\0
+
+[@ITEM 137 (L1) ]
+\0
+
+[@ITEM 137 (EN) ]
+{Marle}: Huuuh!?
+It's already over......?\0
+
+[@ITEM 137 (L2) ]
+\0
+
+[@ITEM 137 (FR) ]
+{Marle} : Quoi ? C'est déjà la fin ?\0
+
+[@ITEM 138 (L1) ]
+\0
+
+[@ITEM 138 (EN) ]
+{Lucca}:
+From what I've heard, when these words
+show up, it generally means it's the end.\0
+
+[@ITEM 138 (L2) ]
+\0
+
+[@ITEM 138 (FR) ]
+{Lucca} : Quand ces mots apparaissent, c'est ce
+que ça veut dire habituellement.\0
+
+[@ITEM 139 (L1) ]
+\0
+
+[@ITEM 139 (EN) ]
+{Marle}: And we worked so hard for what comes next.\0
+
+[@ITEM 139 (L2) ]
+\0
+
+[@ITEM 139 (FR) ]
+{Marle} : Mais c'est pourtant maintenant que les
+choses deviennent intéressantes !\0
+
+[@ITEM 140 (L1) ]
+\0
+
+[@ITEM 140 (EN) ]
+{Lucca}: Well then, let's get them to raise these end
+words.\0
+
+[@ITEM 140 (L2) ]
+\0
+
+[@ITEM 140 (FR) ]
+{Lucca} : Eh bien, demandons-leur de remonter ces
+mots.\0
+
+[@ITEM 141 (L1) ]
+\0
+
+[@ITEM 141 (EN) ]
+{Marle}: Raise them, raise them!
+Let's try having a review meeting!\0
+
+[@ITEM 141 (L2) ]
+\0
+
+[@ITEM 141 (FR) ]
+{Marle} : Remontez-les ! Remontez-les !
+Faisons une réunion de bilan pour voir !\0
+
+[@ITEM 142 (L1) ]
+\0
+
+[@ITEM 142 (EN) ]
+{Lucca}: If you please, artist-san!\0
+
+[@ITEM 142 (L2) ]
+\0
+
+[@ITEM 142 (FR) ]
+{Lucca} : Monsieur l'infographiste !
+S'il vous plaît !\0
+
+[@ITEM 143 (L1) ]
+\0
+
+[@ITEM 143 (EN) ]
+{Marle}: First, zoom in on Leene Square!\0
+
+[@ITEM 143 (L2) ]
+\0
+
+[@ITEM 143 (FR) ]
+{Marle} : Faisons d'abord un gros plan sur la place
+de Lynne !\0
+
+[@ITEM 144 (L1) ]
+\0
+
+[@ITEM 144 (EN) ]
+{Lucca}: It's the Iron-Masked Runner.\0
+
+[@ITEM 144 (L2) ]
+\0
+
+[@ITEM 144 (FR) ]
+{Lucca} : C'est le coureur au masque de fer.\0
+
+[@ITEM 145 (L1) ]
+\0
+
+[@ITEM 145 (EN) ]
+{Marle}: I've got a weakness for this type!
+He looks hard, for one thing......\0
+
+[@ITEM 145 (L2) ]
+\0
+
+[@ITEM 145 (FR) ]
+{Marle} : Je ne peux pas supporter les hommes
+comme lui ! Et puis, son armure a l'air trop dure...\0
+
+[@ITEM 146 (L1) ]
+\0
+
+[@ITEM 146 (EN) ]
+{Lucca}: He just runs...... even though that armor's a
+handicap.\0
+
+[@ITEM 146 (L2) ]
+\0
+
+[@ITEM 146 (FR) ]
+{Lucca} : Il ne fait que courir... Même si son armure
+est un désavantage.\0
+
+[@ITEM 147 (L1) ]
+\0
+
+[@ITEM 147 (EN) ]
+{Marle}: See you next time, I guess. Bye-bye!\0
+
+[@ITEM 147 (L2) ]
+\0
+
+[@ITEM 147 (FR) ]
+{Marle} : La prochaine fois, alors. Au revoir !\0
+
+[@ITEM 148 (L1) ]
+\0
+
+[@ITEM 148 (EN) ]
+{Lucca}: Next is Guardia Castle, your home.\0
+
+[@ITEM 148 (L2) ]
+\0
+
+[@ITEM 148 (FR) ]
+{Lucca} : Et maintenant, le château de Gardia,
+chez toi.\0
+
+[@ITEM 149 (L1) ]
+\0
+
+[@ITEM 149 (EN) ]
+{Marle}: Heh, heh, he's got his coolness all in order!\0
+
+[@ITEM 149 (L2) ]
+\0
+
+[@ITEM 149 (FR) ]
+{Marle} : Hi, hi ! Nous avons de beaux soldats au
+château !\0
+
+[@ITEM 150 (L1) ]
+\0
+
+[@ITEM 150 (EN) ]
+{Lucca}: Fitting for a soldier.
+My heart's already racing!\0
+
+[@ITEM 150 (L2) ]
+\0
+
+[@ITEM 150 (FR) ]
+{Lucca} : Oh oui, je l'ai remarqué, lui. J'en ai encore
+le cœur qui bat la chamade.\0
+
+[@ITEM 151 (L1) ]
+\0
+
+[@ITEM 151 (EN) ]
+{Marle}: He's the only one you didn't use your blast
+pistol on, right?
+His name's Peter. But he's a woman.\0
+
+[@ITEM 151 (L2) ]
+\0
+
+[@ITEM 151 (FR) ]
+{Marle} : N'est-il pas le seul sur lequel tu n'as pas
+tiré avec ton pistolet explosif ? Il s'appelle Peter.
+Mais c'est une femme.\0
+
+[@ITEM 152 (L1) ]
+\0
+
+[@ITEM 152 (EN) ]
+{Lucca}: Ghrah!
+I'm NOT into girls!!\0
+
+[@ITEM 152 (L2) ]
+\0
+
+[@ITEM 152 (FR) ]
+{Lucca} : Hein ?!
+Mais les femmes ne m'intéressent pas !\0
+
+[@ITEM 153 (L1) ]
+\0
+
+[@ITEM 153 (EN) ]
+{Marle}: Gyahh!! It's Pierre!\0
+
+[@ITEM 153 (L2) ]
+\0
+
+[@ITEM 153 (FR) ]
+{Marle} : Ah ! C'est Pierre !\0
+
+[@ITEM 154 (L1) ]
+\0
+
+[@ITEM 154 (EN) ]
+{Lucca}: Absoluuutely no good, this type.
+You've got to have a more honest trial!!\0
+
+[@ITEM 154 (L2) ]
+\0
+
+[@ITEM 154 (FR) ]
+{Lucca} : Un non catégorique à ce genre d'homme !
+On devrait avoir des procès plus justes !\0
+
+[@ITEM 155 (L1) ]
+\0
+
+[@ITEM 155 (EN) ]
+{Marle}: Look, he's got no guts.
+Show some, Let's do something by
+ourselves!, kinda cheering "vitality", "vitality"!!\0
+
+[@ITEM 155 (L2) ]
+\0
+
+[@ITEM 155 (FR) ]
+{Marle} : Regarde comme il manque de caractère.
+Allez, faites quelque chose ! Un peu de courage !
+D'énergie !!\0
+
+[@ITEM 156 (L1) ]
+\0
+
+[@ITEM 156 (EN) ]
+{Lucca}: If we were in the same situation, we might get
+like that. Show some "vitality"!!\0
+
+[@ITEM 156 (L2) ]
+\0
+
+[@ITEM 156 (FR) ]
+{Lucca} : À sa place, nous serions peut-être
+pareilles, remarque. Allez, secouez-vous !\0
+
+[@ITEM 157 (L1) ]
+\0
+
+[@ITEM 157 (EN) ]
+{Marle}: The seeds. I hope they grow......\0
+
+[@ITEM 157 (L2) ]
+\0
+
+[@ITEM 157 (FR) ]
+{Marle} : Les graines. J'espère qu'elles vont
+germer...\0
+
+[@ITEM 158 (L1) ]
+\0
+
+[@ITEM 158 (EN) ]
+{Lucca}:
+Johnny......? The man who bets everything on
+speed......?\0
+
+[@ITEM 158 (L2) ]
+\0
+
+[@ITEM 158 (FR) ]
+{Lucca} : Johnny...? Le fou de la vitesse ?\0
+
+[@ITEM 159 (L1) ]
+\0
+
+[@ITEM 159 (EN) ]
+{Marle}: All he is is fast, too......\0
+
+[@ITEM 159 (L2) ]
+\0
+
+[@ITEM 159 (FR) ]
+{Marle} : Il n'est que rapide, c'est tout...\0
+
+[@ITEM 160 (L1) ]
+\0
+
+[@ITEM 160 (EN) ]
+{Lucca}: What's this, if you look closely he's a tricycle!
+Pass, pass!\0
+
+[@ITEM 160 (L2) ]
+\0
+
+[@ITEM 160 (FR) ]
+{Lucca} : Quoi ? En regardant de plus près, c'est un
+tricycle ! Passons, passons !\0
+
+[@ITEM 161 (L1) ]
+\0
+
+[@ITEM 161 (EN) ]
+{Marle}:
+Trying to win! Try again in ten thousand years.\0
+
+[@ITEM 161 (L2) ]
+\0
+
+[@ITEM 161 (FR) ]
+{Marle} : Et il pensait pouvoir gagner !
+Il rêve !\0
+
+[@ITEM 162 (L1) ]
+\0
+
+[@ITEM 162 (EN) ]
+{Lucca}: It's the ultra-cool-acting man, Cyrus-kun!\0
+
+[@ITEM 162 (L2) ]
+\0
+
+[@ITEM 162 (FR) ]
+{Lucca} : Cyrus, un peu prétentieux sur les bords.\0
+
+[@ITEM 163 (L1) ]
+\0
+
+[@ITEM 163 (EN) ]
+{Marle}: But since he really is cool, you'll fall for him......\0
+
+[@ITEM 163 (L2) ]
+\0
+
+[@ITEM 163 (FR) ]
+{Marle} : Mais il est plutôt pas mal. Assez craquant
+même, je dirais...\0
+
+[@ITEM 164 (L1) ]
+\0
+
+[@ITEM 164 (EN) ]
+{Lucca}: His fashion sense is kinda off.\0
+
+[@ITEM 164 (L2) ]
+\0
+
+[@ITEM 164 (FR) ]
+{Lucca} : Je n'aime pas trop comment il s'habille.\0
+
+[@ITEM 165 (L1) ]
+\0
+
+[@ITEM 165 (EN) ]
+{Marle}:
+Did you know?
+I hear his eyebrows are penciled in.\0
+
+[@ITEM 165 (L2) ]
+\0
+
+[@ITEM 165 (FR) ]
+{Marle} : Tu savais qu'il se dessine les sourcils ?\0
+
+[@ITEM 166 (L1) ]
+\0
+
+[@ITEM 166 (EN) ]
+{Lucca}: No way! Geeeh, I feel sick!
+But, he's heroic, so I'll forgive him!\0
+
+[@ITEM 166 (L2) ]
+\0
+
+[@ITEM 166 (FR) ]
+{Lucca} : Tu rigoles ?! Beurk, ça me dégoûte !
+Mais bon, il est courageux, alors je lui pardonne !\0
+
+[@ITEM 167 (L1) ]
+\0
+
+[@ITEM 167 (EN) ]
+{Marle}:
+Toma-chan. My fave!\0
+
+[@ITEM 167 (L2) ]
+\0
+
+[@ITEM 167 (FR) ]
+{Marle} : Ooh, Toma ! Mon préféré !\0
+
+[@ITEM 168 (L1) ]
+\0
+
+[@ITEM 168 (EN) ]
+{Lucca}: He's just another heavy drinker.\0
+
+[@ITEM 168 (L2) ]
+\0
+
+[@ITEM 168 (FR) ]
+{Lucca} : Il est un peu trop porté sur la bouteille.\0
+
+[@ITEM 169 (L1) ]
+\0
+
+[@ITEM 169 (EN) ]
+{Marle}: Besides, what if he's a woman-chaser?\0
+
+[@ITEM 169 (L2) ]
+\0
+
+[@ITEM 169 (FR) ]
+{Marle} : Et si ça se trouve, ce n'est qu'un coureur
+de jupons.\0
+
+[@ITEM 170 (L1) ]
+\0
+
+[@ITEM 170 (EN) ]
+{Lucca}: What if maybe he's a man-chaser!\0
+
+[@ITEM 170 (L2) ]
+\0
+
+[@ITEM 170 (FR) ]
+{Lucca} : Ou peut-être qu'il préfère les coquillages...
+arc-en-ciel, hi, hi !\0
+
+[@ITEM 171 (L1) ]
+\0
+
+[@ITEM 171 (EN) ]
+{Marle}: What do you think?
+This Kino guy......\0
+
+[@ITEM 171 (L2) ]
+\0
+
+[@ITEM 171 (FR) ]
+{Marle} : Que penses-tu de lui ? C'est Kino...\0
+
+[@ITEM 172 (L1) ]
+\0
+
+[@ITEM 172 (EN) ]
+{Lucca}: He's a wuss.
+No interest whatsoever.\0
+
+[@ITEM 172 (L2) ]
+\0
+
+[@ITEM 172 (FR) ]
+{Lucca} : C'est un gringalet. Il ne m'intéresse pas du
+tout.\0
+
+[@ITEM 173 (L1) ]
+\0
+
+[@ITEM 173 (EN) ]
+{Marle}: But, he's got kind of a cute feeling to him in
+his eagerness. That's a lie, though......\0
+
+[@ITEM 173 (L2) ]
+\0
+
+[@ITEM 173 (FR) ]
+{Marle} : Mais sa loyauté le rend mignon...
+Je plaisante.\0
+
+[@ITEM 174 (L1) ]
+\0
+
+[@ITEM 174 (EN) ]
+{Lucca}: I hate the way he walks! It's weird!!\0
+
+[@ITEM 174 (L2) ]
+\0
+
+[@ITEM 174 (FR) ]
+{Lucca} : Je déteste comment il marche !
+C'est bizarre !\0
+
+[@ITEM 175 (L1) ]
+\0
+
+[@ITEM 175 (EN) ]
+{Marle}: But he was a good guy.\0
+
+[@ITEM 175 (L2) ]
+\0
+
+[@ITEM 175 (FR) ]
+{Marle} : Mais c'était quelqu'un de bien.\0
+
+[@ITEM 176 (L1) ]
+\0
+
+[@ITEM 176 (EN) ]
+{Lucca}: He was a really nice guy.\0
+
+[@ITEM 176 (L2) ]
+\0
+
+[@ITEM 176 (FR) ]
+{Lucca} : Il était vraiment très gentil.\0
+
+[@ITEM 177 (L1) ]
+\0
+
+[@ITEM 177 (EN) ]
+{Lucca}: {Crono}!\0
+
+[@ITEM 177 (L2) ]
+\0
+
+[@ITEM 177 (FR) ]
+{Lucca} : {Crono} !!\0
+
+[@ITEM 178 (L1) ]
+\0
+
+[@ITEM 178 (EN) ]
+{Crono}: Just what part of this is a
+"review meeting," huh!?\0
+
+[@ITEM 178 (L2) ]
+\0
+
+[@ITEM 178 (FR) ]
+{Crono} : Quelle sorte de « bilan » êtes-vous donc
+en train de faire ?!\0
+
+[@ITEM 179 (L1) ]
+\0
+
+[@ITEM 179 (EN) ]
+{Marle}:
+Eh, heh, heh, heh!\0
+
+[@ITEM 179 (L2) ]
+\0
+
+[@ITEM 179 (FR) ]
+{Marle} : Euh... Hi, hi, hi !\0
+
+[@ITEM 180 (L1) ]
+\0
+
+[@ITEM 180 (EN) ]
+{Lucca}: Hey, which era are we going to next!?\0
+
+[@ITEM 180 (L2) ]
+\0
+
+[@ITEM 180 (FR) ]
+{Lucca} : Dis, quelle époque allons-nous visiter
+maintenant ?\0
+
+[@ITEM 181 (L1) ]
+\0
+
+[@ITEM 181 (EN) ]
+{Marle}: An era that's full of fun things!!\0
+
+[@ITEM 181 (L2) ]
+\0
+
+[@ITEM 181 (FR) ]
+{Marle} : Une époque où il y a plein de choses
+amusantes !\0
+
+[@ITEM 182 (L1) ]
+\0
+
+[@ITEM 182 (EN) ]
+{Crono}: Now!\0
+
+[@ITEM 182 (L2) ]
+\0
+
+[@ITEM 182 (FR) ]
+{Crono} : Maintenant !\0
+
+[@ITEM 183 (L1) ]
+\0
+
+[@ITEM 183 (EN) ]
+{Lucca}: Now, you said......?
+Now, meaning the Present?\0
+
+[@ITEM 183 (L2) ]
+\0
+
+[@ITEM 183 (FR) ]
+{Lucca} : « Maintenant »...? Tu veux dire le
+Présent ?\0
+
+[@ITEM 184 (L1) ]
+\0
+
+[@ITEM 184 (EN) ]
+{Marle}: Okay! The Present!\0
+
+[@ITEM 184 (L2) ]
+\0
+
+[@ITEM 184 (FR) ]
+{Marle} : D'accord ! Va pour le Présent !\0
+
+[@ITEM 185 (L1) ]
+\0
+
+[@ITEM 185 (EN) ]
+{Lucca}: Well then, I wonder if this means we don't
+need the Gate Holder any more......?\0
+
+[@ITEM 185 (L2) ]
+\0
+
+[@ITEM 185 (FR) ]
+{Lucca} : Je me demande si ça veut dire que nous
+n'aurons plus besoin de la clef stabilisatrice...?\0
+
+[@ITEM 186 (L1) ]
+\0
+
+[@ITEM 186 (EN) ]
+{Lucca}: Ah! Wait uuuuup!!\0
+
+[@ITEM 186 (L2) ]
+\0
+
+[@ITEM 186 (FR) ]
+{Lucca} : Hé ! Attendez !\0
+
+[@ITEM 187 (L1) ]
+\0
+
+[@ITEM 187 (EN) ]
+\0
+
+[@ITEM 187 (L2) ]
+\0
+
+[@ITEM 187 (FR) ]
+\0
+
+[@ITEM 188 (L1) ]
+\0
+
+[@ITEM 188 (EN) ]
+\0
+
+[@ITEM 188 (L2) ]
+\0
+
+[@ITEM 188 (FR) ]
+\0
+
+[@ITEM 189 (L1) ]
+\0
+
+[@ITEM 189 (EN) ]
+\0
+
+[@ITEM 189 (L2) ]
+\0
+
+[@ITEM 189 (FR) ]
+\0
+
+[@ITEM 190 (L1) ]
+\0
+
+[@ITEM 190 (EN) ]
+\0
+
+[@ITEM 190 (L2) ]
+\0
+
+[@ITEM 190 (FR) ]
+\0
+
+[@ITEM 191 (L1) ]
+\0
+
+[@ITEM 191 (EN) ]
+\0
+
+[@ITEM 191 (L2) ]
+\0
+
+[@ITEM 191 (FR) ]
+\0
+
+[@ITEM 192 (L1) ]
+\0
+
+[@ITEM 192 (EN) ]
+\0
+
+[@ITEM 192 (L2) ]
+\0
+
+[@ITEM 192 (FR) ]
+\0
+
+[@ITEM 193 (L1) ]
+\0
+
+[@ITEM 193 (EN) ]
+\0
+
+[@ITEM 193 (L2) ]
+\0
+
+[@ITEM 193 (FR) ]
+\0
+
+[@ITEM 194 (L1) ]
+\0
+
+[@ITEM 194 (EN) ]
+\0
+
+[@ITEM 194 (L2) ]
+\0
+
+[@ITEM 194 (FR) ]
+\0
+
+[@ITEM 195 (L1) ]
+\0
+
+[@ITEM 195 (EN) ]
+\0
+
+[@ITEM 195 (L2) ]
+\0
+
+[@ITEM 195 (FR) ]
+\0
+
+[@ITEM 196 (L1) ]
+\0
+
+[@ITEM 196 (EN) ]
+\0
+
+[@ITEM 196 (L2) ]
+\0
+
+[@ITEM 196 (FR) ]
+\0
+
+[@ITEM 197 (L1) ]
+\0
+
+[@ITEM 197 (EN) ]
+\0
+
+[@ITEM 197 (L2) ]
+\0
+
+[@ITEM 197 (FR) ]
+\0
+
+[@ITEM 198 (L1) ]
+\0
+
+[@ITEM 198 (EN) ]
+\0
+
+[@ITEM 198 (L2) ]
+\0
+
+[@ITEM 198 (FR) ]
+\0
+
+[@ITEM 199 (L1) ]
+\0
+
+[@ITEM 199 (EN) ]
+\0
+
+[@ITEM 199 (L2) ]
+\0
+
+[@ITEM 199 (FR) ]
+\0
+
+[@ITEM 200 (L1) ]
+\0
+
+[@ITEM 200 (EN) ]
+\0
+
+[@ITEM 200 (L2) ]
+\0
+
+[@ITEM 200 (FR) ]
+\0
+
+[@ITEM 201 (L1) ]
+\0
+
+[@ITEM 201 (EN) ]
+\0
+
+[@ITEM 201 (L2) ]
+\0
+
+[@ITEM 201 (FR) ]
+\0
+
+[@ITEM 202 (L1) ]
+\0
+
+[@ITEM 202 (EN) ]
+\0
+
+[@ITEM 202 (L2) ]
+\0
+
+[@ITEM 202 (FR) ]
+\0
+
+[@ITEM 203 (L1) ]
+\0
+
+[@ITEM 203 (EN) ]
+\0
+
+[@ITEM 203 (L2) ]
+\0
+
+[@ITEM 203 (FR) ]
+\0
+
+[@ITEM 204 (L1) ]
+\0
+
+[@ITEM 204 (EN) ]
+\0
+
+[@ITEM 204 (L2) ]
+\0
+
+[@ITEM 204 (FR) ]
+\0
+
+[@ITEM 205 (L1) ]
+\0
+
+[@ITEM 205 (EN) ]
+\0
+
+[@ITEM 205 (L2) ]
+\0
+
+[@ITEM 205 (FR) ]
+\0
+
+[@ITEM 206 (L1) ]
+\0
+
+[@ITEM 206 (EN) ]
+\0
+
+[@ITEM 206 (L2) ]
+\0
+
+[@ITEM 206 (FR) ]
+\0
+
+[@ITEM 207 (L1) ]
+\0
+
+[@ITEM 207 (EN) ]
+\0
+
+[@ITEM 207 (L2) ]
+\0
+
+[@ITEM 207 (FR) ]
+\0
+
+[@ITEM 208 (L1) ]
+\0
+
+[@ITEM 208 (EN) ]
+\0
+
+[@ITEM 208 (L2) ]
+\0
+
+[@ITEM 208 (FR) ]
+\0
+
+[@ITEM 209 (L1) ]
+\0
+
+[@ITEM 209 (EN) ]
+\0
+
+[@ITEM 209 (L2) ]
+\0
+
+[@ITEM 209 (FR) ]
+\0
+
+[@ITEM 210 (L1) ]
+\0
+
+[@ITEM 210 (EN) ]
+\0
+
+[@ITEM 210 (L2) ]
+\0
+
+[@ITEM 210 (FR) ]
+\0
+
+[@ITEM 211 (L1) ]
+\0
+
+[@ITEM 211 (EN) ]
+\0
+
+[@ITEM 211 (L2) ]
+\0
+
+[@ITEM 211 (FR) ]
+\0
+
+[@ITEM 212 (L1) ]
+\0
+
+[@ITEM 212 (EN) ]
+\0
+
+[@ITEM 212 (L2) ]
+\0
+
+[@ITEM 212 (FR) ]
+\0
+
+[@ITEM 213 (L1) ]
+\0
+
+[@ITEM 213 (EN) ]
+\0
+
+[@ITEM 213 (L2) ]
+\0
+
+[@ITEM 213 (FR) ]
+\0
+
+[@ITEM 214 (L1) ]
+\0
+
+[@ITEM 214 (EN) ]
+\0
+
+[@ITEM 214 (L2) ]
+\0
+
+[@ITEM 214 (FR) ]
+\0
+
+[@ITEM 215 (L1) ]
+\0
+
+[@ITEM 215 (EN) ]
+\0
+
+[@ITEM 215 (L2) ]
+\0
+
+[@ITEM 215 (FR) ]
+\0
+
+[@ITEM 216 (L1) ]
+\0
+
+[@ITEM 216 (EN) ]
+\0
+
+[@ITEM 216 (L2) ]
+\0
+
+[@ITEM 216 (FR) ]
+\0
+
+[@ITEM 217 (L1) ]
+\0
+
+[@ITEM 217 (EN) ]
+\0
+
+[@ITEM 217 (L2) ]
+\0
+
+[@ITEM 217 (FR) ]
+\0
+
+[@ITEM 218 (L1) ]
+\0
+
+[@ITEM 218 (EN) ]
+\0
+
+[@ITEM 218 (L2) ]
+\0
+
+[@ITEM 218 (FR) ]
+\0
+
+[@ITEM 219 (L1) ]
+\0
+
+[@ITEM 219 (EN) ]
+\0
+
+[@ITEM 219 (L2) ]
+\0
+
+[@ITEM 219 (FR) ]
+\0
+
+[@ITEM 220 (L1) ]
+\0
+
+[@ITEM 220 (EN) ]
+\0
+
+[@ITEM 220 (L2) ]
+\0
+
+[@ITEM 220 (FR) ]
+\0
+
+[@ITEM 221 (L1) ]
+\0
+
+[@ITEM 221 (EN) ]
+\0
+
+[@ITEM 221 (L2) ]
+\0
+
+[@ITEM 221 (FR) ]
+\0
+
+[@ITEM 222 (L1) ]
+\0
+
+[@ITEM 222 (EN) ]
+\0
+
+[@ITEM 222 (L2) ]
+\0
+
+[@ITEM 222 (FR) ]
+\0
+
+[@ITEM 223 (L1) ]
+\0
+
+[@ITEM 223 (EN) ]
+\0
+
+[@ITEM 223 (L2) ]
+\0
+
+[@ITEM 223 (FR) ]
+\0
+
+[@ITEM 224 (L1) ]
+\0
+
+[@ITEM 224 (EN) ]
+\0
+
+[@ITEM 224 (L2) ]
+\0
+
+[@ITEM 224 (FR) ]
+\0
+
+[@ITEM 225 (L1) ]
+\0
+
+[@ITEM 225 (EN) ]
+\0
+
+[@ITEM 225 (L2) ]
+\0
+
+[@ITEM 225 (FR) ]
+\0
+
+[@ITEM 226 (L1) ]
+\0
+
+[@ITEM 226 (EN) ]
+\0
+
+[@ITEM 226 (L2) ]
+\0
+
+[@ITEM 226 (FR) ]
+\0
+
+[@ITEM 227 (L1) ]
+\0
+
+[@ITEM 227 (EN) ]
+\0
+
+[@ITEM 227 (L2) ]
+\0
+
+[@ITEM 227 (FR) ]
+\0
+
+[@ITEM 228 (L1) ]
+\0
+
+[@ITEM 228 (EN) ]
+\0
+
+[@ITEM 228 (L2) ]
+\0
+
+[@ITEM 228 (FR) ]
+\0
+
+[@ITEM 229 (L1) ]
+\0
+
+[@ITEM 229 (EN) ]
+\0
+
+[@ITEM 229 (L2) ]
+\0
+
+[@ITEM 229 (FR) ]
+\0
+
+[@ITEM 230 (L1) ]
+\0
+
+[@ITEM 230 (EN) ]
+\0
+
+[@ITEM 230 (L2) ]
+\0
+
+[@ITEM 230 (FR) ]
+\0
+
+[@ITEM 231 (L1) ]
+\0
+
+[@ITEM 231 (EN) ]
+\0
+
+[@ITEM 231 (L2) ]
+\0
+
+[@ITEM 231 (FR) ]
+\0
+
+[@ITEM 232 (L1) ]
+\0
+
+[@ITEM 232 (EN) ]
+\0
+
+[@ITEM 232 (L2) ]
+\0
+
+[@ITEM 232 (FR) ]
+\0
+
+[@ITEM 233 (L1) ]
+\0
+
+[@ITEM 233 (EN) ]
+\0
+
+[@ITEM 233 (L2) ]
+\0
+
+[@ITEM 233 (FR) ]
+\0
+
+[@ITEM 234 (L1) ]
+\0
+
+[@ITEM 234 (EN) ]
+\0
+
+[@ITEM 234 (L2) ]
+\0
+
+[@ITEM 234 (FR) ]
+\0
+
+[@ITEM 235 (L1) ]
+\0
+
+[@ITEM 235 (EN) ]
+\0
+
+[@ITEM 235 (L2) ]
+\0
+
+[@ITEM 235 (FR) ]
+\0
+
+[@ITEM 236 (L1) ]
+\0
+
+[@ITEM 236 (EN) ]
+\0
+
+[@ITEM 236 (L2) ]
+\0
+
+[@ITEM 236 (FR) ]
+\0
+
+[@ITEM 237 (L1) ]
+\0
+
+[@ITEM 237 (EN) ]
+\0
+
+[@ITEM 237 (L2) ]
+\0
+
+[@ITEM 237 (FR) ]
+\0
+
+[@ITEM 238 (L1) ]
+\0
+
+[@ITEM 238 (EN) ]
+\0
+
+[@ITEM 238 (L2) ]
+\0
+
+[@ITEM 238 (FR) ]
+\0
+
+[@ITEM 239 (L1) ]
+\0
+
+[@ITEM 239 (EN) ]
+\0
+
+[@ITEM 239 (L2) ]
+\0
+
+[@ITEM 239 (FR) ]
+\0
+
+[@ITEM 240 (L1) ]
+\0
+
+[@ITEM 240 (EN) ]
+\0
+
+[@ITEM 240 (L2) ]
+\0
+
+[@ITEM 240 (FR) ]
+\0
+
+[@ITEM 241 (L1) ]
+\0
+
+[@ITEM 241 (EN) ]
+\0
+
+[@ITEM 241 (L2) ]
+\0
+
+[@ITEM 241 (FR) ]
+\0
+
+[@ITEM 242 (L1) ]
+\0
+
+[@ITEM 242 (EN) ]
+\0
+
+[@ITEM 242 (L2) ]
+\0
+
+[@ITEM 242 (FR) ]
+\0
+
+[@ITEM 243 (L1) ]
+\0
+
+[@ITEM 243 (EN) ]
+\0
+
+[@ITEM 243 (L2) ]
+\0
+
+[@ITEM 243 (FR) ]
+\0
+
+[@ITEM 244 (L1) ]
+\0
+
+[@ITEM 244 (EN) ]
+\0
+
+[@ITEM 244 (L2) ]
+\0
+
+[@ITEM 244 (FR) ]
+\0
+
+[@ITEM 245 (L1) ]
+\0
+
+[@ITEM 245 (EN) ]
+\0
+
+[@ITEM 245 (L2) ]
+\0
+
+[@ITEM 245 (FR) ]
+\0
+
+[@ITEM 246 (L1) ]
+\0
+
+[@ITEM 246 (EN) ]
+\0
+
+[@ITEM 246 (L2) ]
+\0
+
+[@ITEM 246 (FR) ]
+\0
+
+[@ITEM 247 (L1) ]
+\0
+
+[@ITEM 247 (EN) ]
+\0
+
+[@ITEM 247 (L2) ]
+\0
+
+[@ITEM 247 (FR) ]
+\0
+
+[@ITEM 248 (L1) ]
+\0
+
+[@ITEM 248 (EN) ]
+\0
+
+[@ITEM 248 (L2) ]
+\0
+
+[@ITEM 248 (FR) ]
+\0
+
+[@ITEM 249 (L1) ]
+\0
+
+[@ITEM 249 (EN) ]
+\0
+
+[@ITEM 249 (L2) ]
+\0
+
+[@ITEM 249 (FR) ]
+\0
+
+[@ITEM 250 (L1) ]
+\0
+
+[@ITEM 250 (EN) ]
+\0
+
+[@ITEM 250 (L2) ]
+\0
+
+[@ITEM 250 (FR) ]
+\0
+
+[@ITEM 251 (L1) ]
+\0
+
+[@ITEM 251 (EN) ]
+\0
+
+[@ITEM 251 (L2) ]
+\0
+
+[@ITEM 251 (FR) ]
+\0
+
+[@ITEM 252 (L1) ]
+\0
+
+[@ITEM 252 (EN) ]
+\0
+
+[@ITEM 252 (L2) ]
+\0
+
+[@ITEM 252 (FR) ]
+\0
+
+[@ITEM 253 (L1) ]
+\0
+
+[@ITEM 253 (EN) ]
+\0
+
+[@ITEM 253 (L2) ]
+\0
+
+[@ITEM 253 (FR) ]
+\0
+
+[@ITEM 254 (L1) ]
+\0
+
+[@ITEM 254 (EN) ]
+\0
+
+[@ITEM 254 (L2) ]
+\0
+
+[@ITEM 254 (FR) ]
+\0
+
+[@ITEM 255 (L1) ]
+\0
+
+[@ITEM 255 (EN) ]
+\0
+
+[@ITEM 255 (L2) ]
+\0
+
+[@ITEM 255 (FR) ]
+\0
+

@@ -1,0 +1,3878 @@
+[@cmes0.msg]
+
+[@ITEM 0 (L1) ]
+\0
+
+[@ITEM 0 (EN) ]
+{Crono}......{WAIT}09{/WAIT}{CLEAR}
+{Crono}!{WAIT}0a{/WAIT}{CLEAR}
+Hey, {Crono}!!{WAIT}09{/WAIT}{CLOSE}\0
+
+[@ITEM 0 (L2) ]
+\0
+
+[@ITEM 0 (FR) ]
+{Crono}...{WAIT}0e{/WAIT}{CLEAR}
+{Crono} !{WAIT}0e{/WAIT}{CLEAR}
+Réveille-toi !{WAIT}09{/WAIT}{CLOSE}\0
+
+[@ITEM 1 (L1) ]
+\0
+
+[@ITEM 1 (EN) ]
+Jina: How long are you sleeping?
+Get up already!{WAIT}0b{/WAIT}{CLOSE}\0
+
+[@ITEM 1 (L2) ]
+\0
+
+[@ITEM 1 (FR) ]
+Gina : Tu comptes dormir toute la journée ?
+Allez, debout !{WAIT}0b{/WAIT}{CLOSE}\0
+
+[@ITEM 2 (L1) ]
+\0
+
+[@ITEM 2 (EN) ]
+Jina: Ahh, Leene's Bell is singing so pleasantly.{WAIT}0a{/WAIT}{CLOSE}\0
+
+[@ITEM 2 (L2) ]
+\0
+
+[@ITEM 2 (FR) ]
+Gina : Ah, le timbre de la cloche de Lynne est si
+agréable !{WAIT}0a{/WAIT}{CLOSE}\0
+
+[@ITEM 3 (L1) ]
+\0
+
+[@ITEM 3 (EN) ]
+Jina: I'll bet you wound up too excited to
+get to sleep last night, didn't you?{WAIT}11{/WAIT}{CLEAR}
+Well, it's the National Foundation Millenial
+Festival, so that's only natural, but......
+Don't get caught up in the moment and party too
+much!{WAIT}0e{/WAIT}{CLOSE}\0
+
+[@ITEM 3 (L2) ]
+\0
+
+[@ITEM 3 (FR) ]
+Gina : Je parie que tu étais tellement excité à l'idée
+d'aller à la fête du millénaire de la fondation du
+royaume que tu n'arrivais pas à t'endormir hier
+soir.{WAIT}11{/WAIT}{PRESS_CLEAR}
+Ne laisse pas ton enthousiasme t'attirer des ennuis !
+Tu as intérêt à ne pas faire de bêtises !{WAIT}0e{/WAIT}{CLOSE}\0
+
+[@ITEM 4 (L1) ]
+\0
+
+[@ITEM 4 (EN) ]
+Jina: Come on, get up already!{WAIT}09{/WAIT}{CLOSE}\0
+
+[@ITEM 4 (L2) ]
+\0
+
+[@ITEM 4 (FR) ]
+Gina : Allez, hop ! Sors du lit !{WAIT}09{/WAIT}{CLOSE}\0
+
+[@ITEM 5 (L1) ]
+\0
+
+[@ITEM 5 (EN) ]
+{Crono}......{PRESS_CLEAR}
+{Crono}!{PRESS_CLEAR}
+Hey, {Crono}!!\0
+
+[@ITEM 5 (L2) ]
+\0
+
+[@ITEM 5 (FR) ]
+{Crono}...{PRESS_CLEAR}
+{Crono} !{PRESS_CLEAR}
+Réveille-toi !\0
+
+[@ITEM 6 (L1) ]
+\0
+
+[@ITEM 6 (EN) ]
+Jina: How long are you sleeping?
+Get up already!\0
+
+[@ITEM 6 (L2) ]
+\0
+
+[@ITEM 6 (FR) ]
+Gina : Tu comptes dormir toute la journée ?
+Allez, debout !\0
+
+[@ITEM 7 (L1) ]
+\0
+
+[@ITEM 7 (EN) ]
+Jina: Ahh, Leene's Bell is singing so pleasantly.{WAIT}0a{/WAIT}\0
+
+[@ITEM 7 (L2) ]
+\0
+
+[@ITEM 7 (FR) ]
+Gina : Ah, le timbre de la cloche de Lynne est si
+agréable !\0
+
+[@ITEM 8 (L1) ]
+\0
+
+[@ITEM 8 (EN) ]
+Jina: I'll bet you wound up too excited to
+get to sleep last night, didn't you?{PRESS_CLEAR}
+Well, it's the National Foundation Millenial
+Festival, so that's only natural, but......
+Don't get caught up in the moment and party too
+much!\0
+
+[@ITEM 8 (L2) ]
+\0
+
+[@ITEM 8 (FR) ]
+Gina : Je parie que tu étais tellement excité à l'idée
+d'aller à la fête du millénaire de la fondation du
+royaume que tu n'arrivais pas à t'endormir hier
+soir.{PRESS_CLEAR}
+Ne laisse pas ton enthousiasme t'attirer des ennuis !
+Tu as intérêt à ne pas faire de bêtises !\0
+
+[@ITEM 9 (L1) ]
+\0
+
+[@ITEM 9 (EN) ]
+Jina: Come on, get up already!\0
+
+[@ITEM 9 (L2) ]
+\0
+
+[@ITEM 9 (FR) ]
+Gina : Allez, hop ! Sors du lit !\0
+
+[@ITEM 10 (L1) ]
+\0
+
+[@ITEM 10 (EN) ]
+Jina: I see you finally got up.
+Oh yes, your childhood friend, that girl who
+likes inventions......{56}{PRESS_CLEAR}
+Oh, it's slipped my mind.
+What was that girl's name?\0
+
+[@ITEM 10 (L2) ]
+\0
+
+[@ITEM 10 (FR) ]
+Gina : Tu es enfin réveillé ! Ah oui, ton amie, euh,
+l'inventrice...{PRESS_CLEAR}
+Oh, je n'arrive pas à me souvenir de son nom !
+Comment s'appelle-t-elle déjà ?\0
+
+[@ITEM 11 (L1) ]
+\0
+
+[@ITEM 11 (EN) ]
+Jina: That's right, {Lucca}!
+You're going to see {Lucca}'s invention, right?\0
+
+[@ITEM 11 (L2) ]
+\0
+
+[@ITEM 11 (FR) ]
+Gina : C'est ça ! {Lucca} !{PRESS_CLEAR}
+Tu comptes aller voir sa toute dernière invention
+aujourd'hui, n'est-ce pas ?\0
+
+[@ITEM 12 (L1) ]
+\0
+
+[@ITEM 12 (EN) ]
+Jina: Make sure not to be too late.
+Well, I'll see you later.\0
+
+[@ITEM 12 (L2) ]
+\0
+
+[@ITEM 12 (FR) ]
+Gina : Ne rentre pas trop tard, d'accord ?\0
+
+[@ITEM 13 (L1) ]
+\0
+
+[@ITEM 13 (EN) ]
+Jina: Oh yes, that's right!
+Here's your allowance!
+Have fun at the fair!{PRESS_CLEAR}{MSGWND}
+
+Got 200G!\0
+
+[@ITEM 13 (L2) ]
+\0
+
+[@ITEM 13 (FR) ]
+Gina : Ah, j'oubliais. Voici ton argent de poche.
+Allez, amuse-toi bien à la foire !{PRESS_CLEAR}{MSGWND}
+
+Vous obtenez 200 G !\0
+
+[@ITEM 14 (L1) ]
+\0
+
+[@ITEM 14 (EN) ]
+Rest?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 14 (L2) ]
+\0
+
+[@ITEM 14 (FR) ]
+Voulez-vous vous reposer ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 15 (L1) ]
+\0
+
+[@ITEM 15 (EN) ]
+{MSGWND}
+Got Dopple-doll.\0
+
+[@ITEM 15 (L2) ]
+\0
+
+[@ITEM 15 (FR) ]
+{MSGWND}
+Vous obtenez la poupée clone !\0
+
+[@ITEM 16 (L1) ]
+\0
+
+[@ITEM 16 (EN) ]
+Jina: Welcome home, {Crono}.\0
+
+[@ITEM 16 (L2) ]
+\0
+
+[@ITEM 16 (FR) ]
+Gina : Tu as besoin de quelque chose ?\0
+
+[@ITEM 17 (L1) ]
+\0
+
+[@ITEM 17 (EN) ]
+Jina: Ah, welcome.
+Is {Crono} well?\0
+
+[@ITEM 17 (L2) ]
+\0
+
+[@ITEM 17 (FR) ]
+Gina : Oh, bonjour !
+Est-ce que {Crono} va bien ?\0
+
+[@ITEM 18 (L1) ]
+\0
+
+[@ITEM 18 (EN) ]
+{Marle}: Y, yeah.{PRESS_CLEAR}
+He's...... he's fine.\0
+
+[@ITEM 18 (L2) ]
+\0
+
+[@ITEM 18 (FR) ]
+{Marle} : Euh... oui, il va bien.\0
+
+[@ITEM 19 (L1) ]
+\0
+
+[@ITEM 19 (EN) ]
+{Lucca}: Y, yes......{PRESS_CLEAR}
+......{PRESS_CLEAR}
+He's......{PRESS_CLEAR}
+He's doing fine.\0
+
+[@ITEM 19 (L2) ]
+\0
+
+[@ITEM 19 (FR) ]
+{Lucca} : Oui...{PRESS_CLEAR}
+...{PRESS_CLEAR}
+Il va...{PRESS_CLEAR}
+Il va bien.\0
+
+[@ITEM 20 (L1) ]
+\0
+
+[@ITEM 20 (EN) ]
+{Frog}: Uh...... y, yes!{PRESS_CLEAR}
+He......
+He is doing fine.\0
+
+[@ITEM 20 (L2) ]
+\0
+
+[@ITEM 20 (FR) ]
+{Frog} : Ah... Ou-oui !
+Il...{PRESS_CLEAR}
+Il se porte bien.\0
+
+[@ITEM 21 (L1) ]
+\0
+
+[@ITEM 21 (EN) ]
+{Robo}: Jina-san......
+{Crono} is......\0
+
+[@ITEM 21 (L2) ]
+\0
+
+[@ITEM 21 (FR) ]
+{Robo} : Madame Gina...
+Il...\0
+
+[@ITEM 22 (L1) ]
+\0
+
+[@ITEM 22 (EN) ]
+{Ayla}: ......{PRESS_CLEAR}
+{Crono}...... fine......\0
+
+[@ITEM 22 (L2) ]
+\0
+
+[@ITEM 22 (FR) ]
+{Ayla} : ...{PRESS_CLEAR}
+{Crono}... bien.\0
+
+[@ITEM 23 (L1) ]
+\0
+
+[@ITEM 23 (EN) ]
+Jina: Yes, well I hope he's not being too
+energetic and causing you trouble......{PRESS_CLEAR}
+Tell {Crono} too.
+"Don't cause too much trouble."\0
+
+[@ITEM 23 (L2) ]
+\0
+
+[@ITEM 23 (FR) ]
+Gina : J'espère qu'il ne vous cause pas trop d'ennuis.{PRESS_CLEAR}
+Dites-lui que je lui tirerai les oreilles s'il vous embête !\0
+
+[@ITEM 24 (L1) ]
+\0
+
+[@ITEM 24 (EN) ]
+{Marle}: ......{PRESS_CLEAR}
+Jina-san......\0
+
+[@ITEM 24 (L2) ]
+\0
+
+[@ITEM 24 (FR) ]
+{Marle} : ...{PRESS_CLEAR}
+Euh...\0
+
+[@ITEM 25 (L1) ]
+\0
+
+[@ITEM 25 (EN) ]
+{Lucca}: ......{PRESS_CLEAR}
+Jina oba-san......\0
+
+[@ITEM 25 (L2) ]
+\0
+
+[@ITEM 25 (FR) ]
+{Lucca} : ...{PRESS_CLEAR}
+Euh...\0
+
+[@ITEM 26 (L1) ]
+\0
+
+[@ITEM 26 (EN) ]
+{Frog}: ......{PRESS_CLEAR}
+Good lady......\0
+
+[@ITEM 26 (L2) ]
+\0
+
+[@ITEM 26 (FR) ]
+{Frog} : ...{PRESS_CLEAR}
+Madame...\0
+
+[@ITEM 27 (L1) ]
+\0
+
+[@ITEM 27 (EN) ]
+{Ayla}: ......\0
+
+[@ITEM 27 (L2) ]
+\0
+
+[@ITEM 27 (FR) ]
+{Ayla} : ...\0
+
+[@ITEM 28 (L1) ]
+\0
+
+[@ITEM 28 (EN) ]
+{Marle}: We're going to borrow this Crono doll
+for a bit!\0
+
+[@ITEM 28 (L2) ]
+\0
+
+[@ITEM 28 (FR) ]
+{Marle} : On vous emprunte la poupée de
+{Crono}, d'accord ?\0
+
+[@ITEM 29 (L1) ]
+\0
+
+[@ITEM 29 (EN) ]
+{Lucca}: Oba-san......
+We're going to borrow this Crono doll.\0
+
+[@ITEM 29 (L2) ]
+\0
+
+[@ITEM 29 (FR) ]
+{Lucca} : Nous allons emprunter la poupée de
+{Crono}.\0
+
+[@ITEM 30 (L1) ]
+\0
+
+[@ITEM 30 (EN) ]
+{Frog}: This Crono doll......
+Please lend it to us for a short while......\0
+
+[@ITEM 30 (L2) ]
+\0
+
+[@ITEM 30 (FR) ]
+{Frog} : Permettez-nous d'emprunter la poupée de
+{Crono} pendant quelque temps.\0
+
+[@ITEM 31 (L1) ]
+\0
+
+[@ITEM 31 (EN) ]
+{Ayla}: This! {Crono} doll!
+{Ayla} borrow a bit!\0
+
+[@ITEM 31 (L2) ]
+\0
+
+[@ITEM 31 (FR) ]
+{Ayla} : {Ayla} prendre poupée de
+{Crono}, d'accord ?\0
+
+[@ITEM 32 (L1) ]
+\0
+
+[@ITEM 32 (EN) ]
+Jina: Sure, go ahead.\0
+
+[@ITEM 32 (L2) ]
+\0
+
+[@ITEM 32 (FR) ]
+Gina : D'accord.\0
+
+[@ITEM 33 (L1) ]
+\0
+
+[@ITEM 33 (EN) ]
+Jina: Take care, I'll see you later.\0
+
+[@ITEM 33 (L2) ]
+\0
+
+[@ITEM 33 (FR) ]
+Gina : Prenez-en soin.\0
+
+[@ITEM 34 (L1) ]
+\0
+
+[@ITEM 34 (EN) ]
+Jina: {Crono}!!\0
+
+[@ITEM 34 (L2) ]
+\0
+
+[@ITEM 34 (FR) ]
+Gina : {Crono} !!\0
+
+[@ITEM 35 (L1) ]
+\0
+
+[@ITEM 35 (EN) ]
+Jina: {Crono}! {Crono}!!
+What a relief......
+I heard you were going to be executed......\0
+
+[@ITEM 35 (L2) ]
+\0
+
+[@ITEM 35 (FR) ]
+Gina : {Crono} ! Le ciel soit loué ! J'avais entendu
+dire que tu allais être exécuté !\0
+
+[@ITEM 36 (L1) ]
+\0
+
+[@ITEM 36 (EN) ]
+Jina: Don't make me worry any more.\0
+
+[@ITEM 36 (L2) ]
+\0
+
+[@ITEM 36 (FR) ]
+Gina : Ne me fais plus jamais une peur pareille !\0
+
+[@ITEM 37 (L1) ]
+\0
+
+[@ITEM 37 (EN) ]
+Jina: Oh my, it's unusual for Crono to do something
+like brining along a girl besides {Lucca}.
+What's your name?\0
+
+[@ITEM 37 (L2) ]
+\0
+
+[@ITEM 37 (FR) ]
+Gina : Oh ! {Crono} n'a pas l'habitude de ramener
+d'autres jeunes filles que {Lucca} à la maison.
+Comment t'appelles-tu ?\0
+
+[@ITEM 38 (L1) ]
+\0
+
+[@ITEM 38 (EN) ]
+{Marle}: It's nice to meet you!\0
+
+[@ITEM 38 (L2) ]
+\0
+
+[@ITEM 38 (FR) ]
+{Marle} : Je m'appelle {Marle} ! Enchantée !\0
+
+[@ITEM 39 (L1) ]
+\0
+
+[@ITEM 39 (EN) ]
+Jina: Huh? {Marle}-san?
+......?
+Haven't I met you somewhere?
+That's funny, I wonder if it's my imagination.\0
+
+[@ITEM 39 (L2) ]
+\0
+
+[@ITEM 39 (FR) ]
+Gina : {Marle} ?
+...{PRESS_CLEAR}
+C'est étrange, j'ai l'impression de t'avoir déjà
+rencontrée quelque part...\0
+
+[@ITEM 40 (L1) ]
+\0
+
+[@ITEM 40 (EN) ]
+{Lucca}: Good afternoon, Jina oba-san!\0
+
+[@ITEM 40 (L2) ]
+\0
+
+[@ITEM 40 (FR) ]
+{Lucca} : Bonjour !\0
+
+[@ITEM 41 (L1) ]
+\0
+
+[@ITEM 41 (EN) ]
+Jina: Oh, {Lucca}.
+You haven't been coming around much lately.\0
+
+[@ITEM 41 (L2) ]
+\0
+
+[@ITEM 41 (FR) ]
+Gina : Oh, {Lucca} !
+Tu ne nous rends pas souvent visite, ces temps-ci.\0
+
+[@ITEM 42 (L1) ]
+\0
+
+[@ITEM 42 (EN) ]
+{Lucca}: I've been busy with research lately.\0
+
+[@ITEM 42 (L2) ]
+\0
+
+[@ITEM 42 (FR) ]
+{Lucca} : Je suis plongée dans mes recherches.\0
+
+[@ITEM 43 (L1) ]
+\0
+
+[@ITEM 43 (EN) ]
+Jina: Yes, well make sure you don't push yourself
+too hard and damage your health.
+Give my best regards to Lara and Taban too, please.\0
+
+[@ITEM 43 (L2) ]
+\0
+
+[@ITEM 43 (FR) ]
+Gina : Ne travaille pas trop quand même, ce n'est pas
+bon pour la santé ! Dis bonjour à Lara et Taban de ma
+part.\0
+
+[@ITEM 44 (L1) ]
+\0
+
+[@ITEM 44 (EN) ]
+Jina: Oh my..... an invention of {Lucca}'s?\0
+
+[@ITEM 44 (L2) ]
+\0
+
+[@ITEM 44 (FR) ]
+Gina : Oh ! Est-ce une des inventions de {Lucca} ?\0
+
+[@ITEM 45 (L1) ]
+\0
+
+[@ITEM 45 (EN) ]
+{Robo}: We mEET for the first time.
+I am calLED {Robo}.
+I have reciEVED considerable assistance from
+{Crono}.\0
+
+[@ITEM 45 (L2) ]
+\0
+
+[@ITEM 45 (FR) ]
+{Robo} : Enchanté de faire votre connaissance.
+Je m'appelle {Robo}. Je suis très reconnaissant
+de l'aide que m'apporte {Crono}.\0
+
+[@ITEM 46 (L1) ]
+\0
+
+[@ITEM 46 (EN) ]
+Jina: My, my, so courteous.
+Even though you look a bit peculiar, you're very
+polite.
+{Crono}, follow his example a little.\0
+
+[@ITEM 46 (L2) ]
+\0
+
+[@ITEM 46 (FR) ]
+Gina : Comme il est poli ! Son apparence est peut-être
+étrange, mais il ne manque pas de courtoisie !
+Tu devrais prendre exemple sur lui, {Crono} !\0
+
+[@ITEM 47 (L1) ]
+\0
+
+[@ITEM 47 (EN) ]
+Jina: .........{PRESS_CLEAR}
+{Crono}......
+We can't keep such a large pet in our home.\0
+
+[@ITEM 47 (L2) ]
+\0
+
+[@ITEM 47 (FR) ]
+Gina : ...{PRESS_CLEAR}
+{Crono}... Notre maison est trop petite pour un
+animal de compagnie aussi gros !\0
+
+[@ITEM 48 (L1) ]
+\0
+
+[@ITEM 48 (EN) ]
+{Frog}: G...... good lady.{PRESS_CLEAR}
+I am not a pet.
+Though my form is like this, I'm a full-fledged soldier.\0
+
+[@ITEM 48 (L2) ]
+\0
+
+[@ITEM 48 (FR) ]
+{Frog} : Mais, madame !{PRESS_CLEAR}
+Je ne suis pas un animal de compagnie ! Malgré mon
+apparence, je suis un chevalier.\0
+
+[@ITEM 49 (L1) ]
+\0
+
+[@ITEM 49 (EN) ]
+Jina: Ah, I'm sorry, soldier-san.
+I'm sure I didn't mean......
+I'm truly sorry, soldier-san{56}\0
+
+[@ITEM 49 (L2) ]
+\0
+
+[@ITEM 49 (FR) ]
+Gina : Ah, je suis désolée. J'ai simplement cru que...{PRESS_CLEAR}
+Pardonnez-moi, euh, M. Chevalier.\0
+
+[@ITEM 50 (L1) ]
+\0
+
+[@ITEM 50 (EN) ]
+{Frog}: No, my name is......\0
+
+[@ITEM 50 (L2) ]
+\0
+
+[@ITEM 50 (FR) ]
+{Frog} : Non, je m'appelle...\0
+
+[@ITEM 51 (L1) ]
+\0
+
+[@ITEM 51 (EN) ]
+Jina: Yes?\0
+
+[@ITEM 51 (L2) ]
+\0
+
+[@ITEM 51 (FR) ]
+Gina : Oui ?\0
+
+[@ITEM 52 (L1) ]
+\0
+
+[@ITEM 52 (EN) ]
+{Frog}: ......{PRESS_CLEAR}
+Soldier is good enough......\0
+
+[@ITEM 52 (L2) ]
+\0
+
+[@ITEM 52 (FR) ]
+{Frog} : ...{PRESS_CLEAR}
+Laissez tomber.\0
+
+[@ITEM 53 (L1) ]
+\0
+
+[@ITEM 53 (EN) ]
+Jina: My, my, you! Your name?\0
+
+[@ITEM 53 (L2) ]
+\0
+
+[@ITEM 53 (FR) ]
+Gina : Oh ! Qui es-tu ?\0
+
+[@ITEM 54 (L1) ]
+\0
+
+[@ITEM 54 (EN) ]
+{Ayla}: Called {Ayla}.\0
+
+[@ITEM 54 (L2) ]
+\0
+
+[@ITEM 54 (FR) ]
+{Ayla} : Moi {Ayla}.\0
+
+[@ITEM 55 (L1) ]
+\0
+
+[@ITEM 55 (EN) ]
+Jina: {Ayla}-san......
+It's no good for young girls to walk around
+looking like that, isn't it.\0
+
+[@ITEM 55 (L2) ]
+\0
+
+[@ITEM 55 (FR) ]
+Gina : {Ayla}... Une jeune femme ne devrait pas se
+promener habillée d'une telle façon !\0
+
+[@ITEM 56 (L1) ]
+\0
+
+[@ITEM 56 (EN) ]
+{Ayla}: {Ayla}, this......\0
+
+[@ITEM 56 (L2) ]
+\0
+
+[@ITEM 56 (FR) ]
+{Ayla} : Mais, {Ayla} aimer...\0
+
+[@ITEM 57 (L1) ]
+\0
+
+[@ITEM 57 (EN) ]
+Jina: The answer is "yes"!\0
+
+[@ITEM 57 (L2) ]
+\0
+
+[@ITEM 57 (FR) ]
+Gina : Et ce n'est pas bien de répondre !\0
+
+[@ITEM 58 (L1) ]
+\0
+
+[@ITEM 58 (EN) ]
+{Ayla}: {Crono}......{PRESS_CLEAR}
+{Crono} mother strong too......\0
+
+[@ITEM 58 (L2) ]
+\0
+
+[@ITEM 58 (FR) ]
+{Ayla} : {Crono}...{PRESS_CLEAR}
+Mère de {Crono} être aussi très forte...\0
+
+[@ITEM 59 (L1) ]
+\0
+
+[@ITEM 59 (EN) ]
+Jina: Oh my, are you one of {Crono}'s friends too?\0
+
+[@ITEM 59 (L2) ]
+\0
+
+[@ITEM 59 (FR) ]
+Gina : Êtes-vous un ami de {Crono} ?\0
+
+[@ITEM 60 (L1) ]
+\0
+
+[@ITEM 60 (EN) ]
+{Magus}: ......\0
+
+[@ITEM 60 (L2) ]
+\0
+
+[@ITEM 60 (FR) ]
+{Magus} : ...\0
+
+[@ITEM 61 (L1) ]
+\0
+
+[@ITEM 61 (EN) ]
+Jina: I wonder if you're shy?\0
+
+[@ITEM 61 (L2) ]
+\0
+
+[@ITEM 61 (FR) ]
+Gina : Vous n'êtes pas bien bavard...
+Allez, ne soyez pas timide !\0
+
+[@ITEM 62 (L1) ]
+\0
+
+[@ITEM 62 (EN) ]
+Jina: Nice weather again today.
+The Black Dream is glittering, illuminated by
+the sun.{PRESS_CLEAR}
+Looks like it's going to be good laundry weather.\0
+
+[@ITEM 62 (L2) ]
+\0
+
+[@ITEM 62 (FR) ]
+Gina : Il fait un temps magnifique, aujourd'hui !
+Le Songe obscur brille sous le soleil.{PRESS_CLEAR}
+C'est le jour parfait pour faire la lessive !\0
+
+[@ITEM 63 (L1) ]
+\0
+
+[@ITEM 63 (EN) ]
+{Marle}: How long are you sleeping?
+You'll be late for your job.{WAIT}0b{/WAIT}{CLOSE}\0
+
+[@ITEM 63 (L2) ]
+\0
+
+[@ITEM 63 (FR) ]
+{Marle} : Tu comptes dormir toute la journée ?
+Debout ! Tu vas arriver en retard au travail !{WAIT}10{/WAIT}{CLOSE}\0
+
+[@ITEM 64 (L1) ]
+\0
+
+[@ITEM 64 (EN) ]
+{Marle}: Ahh, Leene's Bell is singing so
+pleasantly.{WAIT}0a{/WAIT}{CLOSE}\0
+
+[@ITEM 64 (L2) ]
+\0
+
+[@ITEM 64 (FR) ]
+{Marle} : Ah, le timbre de la cloche de Lynne est si
+agréable !{WAIT}12{/WAIT}{CLOSE}\0
+
+[@ITEM 65 (L1) ]
+\0
+
+[@ITEM 65 (EN) ]
+{Marle}: {Crono}!
+We can't get help from my father any more
+than this, so work like you're supposed to!{WAIT}11{/WAIT}{CLOSE}\0
+
+[@ITEM 65 (L2) ]
+\0
+
+[@ITEM 65 (FR) ]
+{Marle} : {Crono} ! On ne peut plus vivre aux
+crochets de mon père, alors tu dois travailler !{WAIT}16{/WAIT}{CLOSE}\0
+
+[@ITEM 66 (L1) ]
+\0
+
+[@ITEM 66 (EN) ]
+Hu, ha, ha......{PRESS_CLEAR}
+It's done! It's done!!\0
+
+[@ITEM 66 (L2) ]
+\0
+
+[@ITEM 66 (FR) ]
+Ha, ha, ha !{PRESS_CLEAR}
+J'ai terminé ! J'ai réussi !!\0
+
+[@ITEM 67 (L1) ]
+\0
+
+[@ITEM 67 (EN) ]
+Cat food: {COUNT}.\0
+
+[@ITEM 67 (L2) ]
+\0
+
+[@ITEM 67 (FR) ]
+{COUNT} gramme(s) de nourriture pour chat.\0
+
+[@ITEM 68 (L1) ]
+\0
+
+[@ITEM 68 (EN) ]
+Hey, did you know? It's 1000 years this year since
+Guardia Kingdom here was formed. The current King
+Guardia, our king now in other words, is the 33rd.{PRESS_CLEAR}
+And the root of that king's worries is the princess,
+his only daughter.
+They say she's an incredible tomboy.{PRESS_CLEAR}
+I wonder if she isn't making a fuss, saying she wants
+to go see the festival right about now.\0
+
+[@ITEM 68 (L2) ]
+\0
+
+[@ITEM 68 (FR) ]
+Quand je pense que nous célébrons cette année
+le millénaire de la fondation de notre royaume...
+Le roi Gardia est le 33e du nom.{PRESS_CLEAR}
+Il paraît que la princesse est un vrai garçon manqué et
+qu'elle lui cause beaucoup de soucis.{PRESS_CLEAR}
+Si ça se trouve, elle est en ce moment même en train de
+faire un caprice pour aller à la foire.\0
+
+[@ITEM 69 (L1) ]
+\0
+
+[@ITEM 69 (EN) ]
+Hey, did you know?
+I hear that an abbey was built in the western forest
+long ago.{PRESS_CLEAR}
+But I wonder why it's gone now......?\0
+
+[@ITEM 69 (L2) ]
+\0
+
+[@ITEM 69 (FR) ]
+Il y a plusieurs centaines d'années, il y avait une
+abbaye dans la forêt à l'ouest d'ici.{PRESS_CLEAR}
+Je me demande pourquoi elle n'est plus là, aujourd'hui.\0
+
+[@ITEM 70 (L1) ]
+\0
+
+[@ITEM 70 (EN) ]
+Elaine: He...... Fritz is away on a journey, and
+hasn't come back......
+Yet if he were here, I wouldn't need anything
+else......\0
+
+[@ITEM 70 (L2) ]
+\0
+
+[@ITEM 70 (FR) ]
+Élaine : Fritz, mon fiancé, n'est toujours pas rentré de
+voyage... Je donnerais tout pour être à ses côtés.
+Je n'ai besoin de rien d'autre que lui...\0
+
+[@ITEM 71 (L1) ]
+\0
+
+[@ITEM 71 (EN) ]
+Elaine: I guess I don't matter any more......\0
+
+[@ITEM 71 (L2) ]
+\0
+
+[@ITEM 71 (FR) ]
+Élaine : Comment peut-il déjà m'avoir oubliée...?\0
+
+[@ITEM 72 (L1) ]
+\0
+
+[@ITEM 72 (EN) ]
+There are times when a mystery whirlpool
+appears in the ocean around here......
+What the heck is that swirl?\0
+
+[@ITEM 72 (L2) ]
+\0
+
+[@ITEM 72 (FR) ]
+Un tourbillon mystérieux apparaît parfois au large.
+Je me demande ce qui peut en être la cause...\0
+
+[@ITEM 73 (L1) ]
+\0
+
+[@ITEM 73 (EN) ]
+The fare to Porre is 10 G.
+Will you be going?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 73 (L2) ]
+\0
+
+[@ITEM 73 (FR) ]
+Voulez-vous aller à Palpori ?
+Cela vous coûtera 10 G.
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 74 (L1) ]
+\0
+
+[@ITEM 74 (EN) ]
+It's 10G to stay here.
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 74 (L2) ]
+\0
+
+[@ITEM 74 (FR) ]
+Voulez-vous louer une chambre pour 10 G ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 75 (L1) ]
+\0
+
+[@ITEM 75 (EN) ]
+Have you been to the Millennial Festival?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 75 (L2) ]
+\0
+
+[@ITEM 75 (FR) ]
+Vous avez visité la foire ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 76 (L1) ]
+\0
+
+[@ITEM 76 (EN) ]
+What? Hurry up and go!!
+The festival's since this year is the 1000th year
+since this kingdom was formed.{PRESS_CLEAR}
+In Leene Square, north from here, there are all
+sorts of shops set up, and it's festival
+merrymaking by now.\0
+
+[@ITEM 76 (L2) ]
+\0
+
+[@ITEM 76 (FR) ]
+Comment ?! Dépêchez-vous ! Elle a été organisée pour
+célébrer le millénaire de la fondation de notre royaume !{PRESS_CLEAR}
+Il y a tout plein d'échoppes sur la place de Lynne, au
+nord d'ici. Une vraie atmosphère de festival !\0
+
+[@ITEM 77 (L1) ]
+\0
+
+[@ITEM 77 (EN) ]
+It's amazing, selling all sort of things, having
+all sorts of events{56}
+Now that is a festival!!\0
+
+[@ITEM 77 (L2) ]
+\0
+
+[@ITEM 77 (FR) ]
+C'est formidable, hein ? On y vend tout plein de trucs
+différents et il y a tellement d'attractions ! Un vrai
+festival !\0
+
+[@ITEM 78 (L1) ]
+\0
+
+[@ITEM 78 (EN) ]
+Could I get you to treat me to a drink?
+\t\t{SEL1}Sure.{/SEL1}
+\t\t{SEL2}Sorry.{/SEL2}\0
+
+[@ITEM 78 (L2) ]
+\0
+
+[@ITEM 78 (FR) ]
+Vous me payez un petit verre, dites ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 79 (L1) ]
+\0
+
+[@ITEM 79 (EN) ]
+Remember there was an earthquake the other day?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 79 (L2) ]
+\0
+
+[@ITEM 79 (FR) ]
+Vous souvenez-vous du récent tremblement de terre ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 80 (L1) ]
+\0
+
+[@ITEM 80 (EN) ]
+I see. Such a carefree kid.\0
+
+[@ITEM 80 (L2) ]
+\0
+
+[@ITEM 80 (FR) ]
+Ah bon ? Pourtant, ce n'est pas le genre de chose qu'on
+oublie facilement...\0
+
+[@ITEM 81 (L1) ]
+\0
+
+[@ITEM 81 (EN) ]
+There's really been a lot of earthquakes lately.
+I hope it's not an omen that something bad's going
+to happen.\0
+
+[@ITEM 81 (L2) ]
+\0
+
+[@ITEM 81 (FR) ]
+Il y en a vraiment beaucoup ces temps-ci. J'espère que
+ce n'est pas un mauvais présage...\0
+
+[@ITEM 82 (L1) ]
+\0
+
+[@ITEM 82 (EN) ]
+I heard about it from the castle soldiers, the
+chancellor's seemed kind of strange lately......\0
+
+[@ITEM 82 (L2) ]
+\0
+
+[@ITEM 82 (FR) ]
+Les soldats du château disent que le chancelier agit
+bizarrement ces derniers temps.\0
+
+[@ITEM 83 (L1) ]
+\0
+
+[@ITEM 83 (EN) ]
+Thanks, I'll play you a song to show my gratitude.\0
+
+[@ITEM 83 (L2) ]
+\0
+
+[@ITEM 83 (FR) ]
+Merci bien ! Pour la peine, je vais vous jouer quelque
+chose.\0
+
+[@ITEM 84 (L1) ]
+\0
+
+[@ITEM 84 (EN) ]
+Well then, feel free any time.\0
+
+[@ITEM 84 (L2) ]
+\0
+
+[@ITEM 84 (FR) ]
+Au plaisir de vous revoir.\0
+
+[@ITEM 85 (L1) ]
+\0
+
+[@ITEM 85 (EN) ]
+Ah, welcome.
+Take your time. Or whatever, it's overdoing it to
+say that.{PRESS_CLEAR}
+Aaah, I wanna hurry up and finish work and go
+see the festival too!\0
+
+[@ITEM 85 (L2) ]
+\0
+
+[@ITEM 85 (FR) ]
+Bienvenue ! Je ne pensais pas voir autant de clients
+aujourd'hui. Moi je n'ai qu'une hâte, c'est de finir mon
+travail pour aller à la foire.\0
+
+[@ITEM 86 (L1) ]
+\0
+
+[@ITEM 86 (EN) ]
+There's been a lot of soldiers moving in and out of
+Guardia Castle lately......
+Well, if you say it's because it's the castle, I guess
+you're right.\0
+
+[@ITEM 86 (L2) ]
+\0
+
+[@ITEM 86 (FR) ]
+Il y a un va-et-vient continu de soldats au château de
+Gardia ces derniers temps... J'espère qu'il ne se passe
+rien de grave.\0
+
+[@ITEM 87 (L1) ]
+\0
+
+[@ITEM 87 (EN) ]
+Good day.
+Would you like to hear about this house?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 87 (L2) ]
+\0
+
+[@ITEM 87 (FR) ]
+Bonjour ! Voulez-vous que je vous parle de cette
+maison ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 88 (L1) ]
+\0
+
+[@ITEM 88 (EN) ]
+The mayor in this house likes adventurers.
+He teaches beginners adventuring know-how.{PRESS_CLEAR}
+Also, the treasure boxes that are in this house,
+the mayor left for the sake of adventurers.
+Take them with you without restraint.\0
+
+[@ITEM 88 (L2) ]
+\0
+
+[@ITEM 88 (FR) ]
+Vous êtes dans la maison du maire. Il adore les
+aventuriers ! Il enseigne les bases du combat
+aux débutants.{PRESS_CLEAR}
+Il a même placé quelques coffres dans la maison pour
+eux. Vous pouvez prendre leur contenu !\0
+
+[@ITEM 89 (L1) ]
+\0
+
+[@ITEM 89 (EN) ]
+It's said there are places in this world where
+time's memory abides.
+There, even in places full of danger, you can
+take a record of your journey.\0
+
+[@ITEM 89 (L2) ]
+\0
+
+[@ITEM 89 (FR) ]
+De par le monde, il existe des endroits où s'attarde
+la mémoire du temps : des points de sauvegarde.
+Ils permettent de marquer des étapes lorsque vous
+vous aventurez dans des lieux hostiles et dangereux.\0
+
+[@ITEM 90 (L1) ]
+\0
+
+[@ITEM 90 (EN) ]
+That's a replica. If you happen to see the real
+thing, I recommend taking a record of your
+journey.{PRESS_CLEAR}
+Anyhow, they say they appear more easily the
+more dangerous the place is.
+Oh, one more thing! On the world map,
+you can take a record of your journey anywhere,
+don't forget.\0
+
+[@ITEM 90 (L2) ]
+\0
+
+[@ITEM 90 (FR) ]
+Ceci n'est qu'une réplique. Si vous trouvez un vrai point
+de sauvegarde, pensez à sauvegarder votre partie !
+On dit que plus un endroit est dangereux, plus ils
+apparaissent fréquemment.{PRESS_CLEAR}
+Ah, et n'oubliez pas : vous pouvez sauvegarder votre
+partie n'importe où sur la mappemonde.\0
+
+[@ITEM 91 (L1) ]
+\0
+
+[@ITEM 91 (EN) ]
+Shall I let you hear about
+weapons and armoring?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 91 (L2) ]
+\0
+
+[@ITEM 91 (FR) ]
+Voulez-vous que je vous parle des armes et des
+protections ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 92 (L1) ]
+\0
+
+[@ITEM 92 (EN) ]
+We call them all weapons, but there are a variety
+of them. Like katanas, bows, and pistols.{56}
+But everyone has their strengths and weaknesses,
+and can't use any weapons but those suited to them.{PRESS_CLEAR}
+There are three types to armoring. The ones you
+put on your head, the ones you put on your body,
+and accessories.{PRESS_CLEAR}
+You can't equip armoring either except for the ones
+suited to your body.{PRESS_CLEAR}
+Next, in accessories, many of them have special
+powers, so you should try checking out a variety
+of them.{PRESS_CLEAR}
+Also, for katanas, if your power increases, your
+attack power also increases, but for bows and
+pistols, it's a LITTLE different.{PRESS_CLEAR}
+What you need is hit rate; the more it increases,
+the more powerful damage you'll be able to inflict.\0
+
+[@ITEM 92 (L2) ]
+\0
+
+[@ITEM 92 (FR) ]
+Il existe plusieurs types d'armes, comme des sabres,
+des arbalètes ou des pistolets. Cependant, chaque
+personne a une spécialité et ne peut utiliser que le
+type d'arme qui lui est propre.{PRESS_CLEAR}
+Il y a trois catégories de protections : celles qui se
+portent sur la tête, celles qui se portent sur le corps
+et les accessoires.{PRESS_CLEAR}
+Tout comme les armes, vous ne pouvez vous équiper
+que des protections qui vous conviennent.{PRESS_CLEAR}
+De nombreux accessoires possèdent des
+caractéristiques spéciales, alors essayez-en
+plusieurs.{PRESS_CLEAR}
+Sachez aussi qu'augmenter sa force permet d'infliger
+plus de dégâts avec des armes de mêlée telles que le
+sabre.{PRESS_CLEAR}
+La puissance des armes à distance, comme l'arbalète et
+le pistolet, dépend quant à elle de la précision.\0
+
+[@ITEM 93 (L1) ]
+\0
+
+[@ITEM 93 (EN) ]
+You guys can move around even when there's a
+message up. If you get too far away, you won't
+be able to hear the voice.\0
+
+[@ITEM 93 (L2) ]
+\0
+
+[@ITEM 93 (FR) ]
+Vous pouvez vous déplacer même quand vous parlez à
+quelqu'un, mais si vous allez trop loin, vous n'entendrez
+plus ce qu'on vous dit !\0
+
+[@ITEM 94 (L1) ]
+\0
+
+[@ITEM 94 (EN) ]
+Move messages and the in-battle window up
+and down with the {B:Y} button.\0
+
+[@ITEM 94 (L2) ]
+\0
+
+[@ITEM 94 (FR) ]
+Utilisez le bouton {B:Y} pour déplacer la fenêtre de texte
+ou les fenêtres de combat en haut ou en bas de l'écran
+supérieur.\0
+
+[@ITEM 95 (L1) ]
+\0
+
+[@ITEM 95 (EN) ]
+Want to listen to what I have to say?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 95 (L2) ]
+\0
+
+[@ITEM 95 (FR) ]
+Voulez-vous écouter ce que j'ai à dire ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 96 (L1) ]
+\0
+
+[@ITEM 96 (EN) ]
+Listen to what the mayor has to say first.\0
+
+[@ITEM 96 (L2) ]
+\0
+
+[@ITEM 96 (FR) ]
+Adressez-vous d'abord au maire.\0
+
+[@ITEM 97 (L1) ]
+\0
+
+[@ITEM 97 (EN) ]
+Okay! I'll teach you about technique effect
+ranges. Listen?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 97 (L2) ]
+\0
+
+[@ITEM 97 (FR) ]
+Vous voulez que je vous parle de l'aire d'effet des
+compétences ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 98 (L1) ]
+\0
+
+[@ITEM 98 (EN) ]
+That's pretty much how it goes.
+Learned something, didn't you?\0
+
+[@ITEM 98 (L2) ]
+\0
+
+[@ITEM 98 (FR) ]
+Voilà ! Vous avez tout compris ?\0
+
+[@ITEM 99 (L1) ]
+\0
+
+[@ITEM 99 (EN) ]
+Hmm, it seems that you have potential. As you
+continue fighting, you should be able to learn
+"techniques".{PRESS_CLEAR}
+Techniques are unique attack methods using
+your weapons.
+You will learn these only by your training.
+Focus on this daily.\0
+
+[@ITEM 99 (L2) ]
+\0
+
+[@ITEM 99 (FR) ]
+Hum... Vous m'avez l'air d'avoir du potentiel. Vous
+apprendrez sûrement de nombreuses compétences.{PRESS_CLEAR}
+Maîtriser de nouvelles attaques spéciales requiert
+beaucoup de discipline et d'entraînement, mais les
+occasions de combattre ne manquent pas, hein ?\0
+
+[@ITEM 100 (L1) ]
+\0
+
+[@ITEM 100 (EN) ]
+My, my! You've certainly got enthusiasm!
+Why don't you take this to help you get
+your equipment in order?{PRESS_CLEAR}{MSGWND}
+
+Obtained 300 G!\0
+
+[@ITEM 100 (L2) ]
+\0
+
+[@ITEM 100 (FR) ]
+Ha, ha, ha ! Que d'enthousiasme ! Tenez, ceci vous
+aidera à vous équiper convenablement.{PRESS_CLEAR}{MSGWND}
+
+Vous obtenez 300 G !\0
+
+[@ITEM 101 (L1) ]
+\0
+
+[@ITEM 101 (EN) ]
+Shall I lecture about the damage you take
+during combat?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 101 (L2) ]
+\0
+
+[@ITEM 101 (FR) ]
+Voulez-vous en savoir plus au sujet des altérations
+d'état ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 102 (L1) ]
+\0
+
+[@ITEM 102 (EN) ]
+Do you know about
+"Shelters"?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 102 (L2) ]
+\0
+
+[@ITEM 102 (FR) ]
+Bien le bonjour à vous ! Savez-vous à quoi servent
+les tentes ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 103 (L1) ]
+\0
+
+[@ITEM 103 (EN) ]
+"Shelters" are items you can use at save
+points and on the world map, and they fully
+recover both HP and MP.
+Convenient...\0
+
+[@ITEM 103 (L2) ]
+\0
+
+[@ITEM 103 (FR) ]
+Une tente est un objet que vous pouvez utiliser sur un
+point de sauvegarde ou sur la mappemonde afin de
+régénérer tous vos PV et vos PM. Utile, n'est-ce pas ?\0
+
+[@ITEM 104 (L1) ]
+\0
+
+[@ITEM 104 (EN) ]
+Some monster attacks inflict special damage......\0
+
+[@ITEM 104 (L2) ]
+\0
+
+[@ITEM 104 (FR) ]
+Certains monstres peuvent infliger des altérations
+d'état quand ils vous attaquent.\0
+
+[@ITEM 105 (L1) ]
+\0
+
+[@ITEM 105 (EN) ]
+Poison:
+   Your HP gradually decreases. Your attack
+   power also drops in this condition.\0
+
+[@ITEM 105 (L2) ]
+\0
+
+[@ITEM 105 (FR) ]
+Poison :
+Vous perdez peu à peu des PV et votre attaque diminue.\0
+
+[@ITEM 106 (L1) ]
+\0
+
+[@ITEM 106 (EN) ]
+Slow:
+   Your speed slows, and you can't move on
+   to your next attacks as quickly.\0
+
+[@ITEM 106 (L2) ]
+\0
+
+[@ITEM 106 (FR) ]
+Lenteur :
+Vous devrez attendre plus longtemps avant de pouvoir
+agir.\0
+
+[@ITEM 107 (L1) ]
+\0
+
+[@ITEM 107 (EN) ]
+Sleep:
+   You fall sleep, and your defense drops.
+   But take an attack and you'll wake up.\0
+
+[@ITEM 107 (L2) ]
+\0
+
+[@ITEM 107 (FR) ]
+Sommeil :
+Vous vous endormez et votre défense diminue.
+Vous vous réveillerez si on vous attaque.\0
+
+[@ITEM 108 (L1) ]
+\0
+
+[@ITEM 108 (EN) ]
+Confusion:
+   You don't know what you're doing any more.
+   You'll do things like attacking allies. Scary!\0
+
+[@ITEM 108 (L2) ]
+\0
+
+[@ITEM 108 (FR) ]
+Confusion :
+Vous n'êtes plus maître de vos actions et
+vous confondez parfois alliés et ennemis.
+C'est dangereux !\0
+
+[@ITEM 109 (L1) ]
+\0
+
+[@ITEM 109 (EN) ]
+Blind:
+   You can't see your surroundings well and
+   have a hard time hitting monsters with attacks.\0
+
+[@ITEM 109 (L2) ]
+\0
+
+[@ITEM 109 (FR) ]
+Cécité :
+Vous ne voyez plus très bien et il vous est difficile
+d'attaquer l'ennemi.\0
+
+[@ITEM 110 (L1) ]
+\0
+
+[@ITEM 110 (EN) ]
+You become unable to use any techniques.\0
+
+[@ITEM 110 (L2) ]
+\0
+
+[@ITEM 110 (FR) ]
+Oubli :
+Vous ne pouvez plus utiliser aucune compétence.\0
+
+[@ITEM 111 (L1) ]
+\0
+
+[@ITEM 111 (EN) ]
+Stop:
+   This is when your movement stops and
+   you become unable to do anything.\0
+
+[@ITEM 111 (L2) ]
+\0
+
+[@ITEM 111 (FR) ]
+Stop :
+Vous ne pouvez plus bouger ni agir.\0
+
+[@ITEM 112 (L1) ]
+\0
+
+[@ITEM 112 (EN) ]
+You defense power drops and damage increases
+when you're in these conditions.{PRESS_CLEAR}
+You can cure them with status recovery items
+such as the "panacea", but if combat ends,
+you get well naturally even without using items.\0
+
+[@ITEM 112 (L2) ]
+\0
+
+[@ITEM 112 (FR) ]
+Lorsque vous êtes atteint d'une altération d'état, votre
+défense diminue et vous subissez plus de dégâts. {PRESS_CLEAR}
+Pour guérir une altération d'état, utilisez une panacée
+ou attendez simplement que la bataille se termine.\0
+
+[@ITEM 113 (L1) ]
+\0
+
+[@ITEM 113 (EN) ]
+Will you listen to the continuation?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 113 (L2) ]
+\0
+
+[@ITEM 113 (FR) ]
+Voulez-vous en savoir plus ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 114 (L1) ]
+\0
+
+[@ITEM 114 (EN) ]
+If your HP goes to 0 from taking monsters'
+attacks, you become incapacitated.{PRESS_CLEAR}
+Of course, you can revive too, with items like
+"Athena's water".
+But when everyone is incapacitated,
+you'll be lost in the flow of time......
+Be careful.\0
+
+[@ITEM 114 (L2) ]
+\0
+
+[@ITEM 114 (FR) ]
+Quand vos PV sont à zéro, vous tombez dans le Coma.
+Vous pouvez bien sûr vous en sortir en buvant une
+gorgée de nectar d'Athéna.{PRESS_CLEAR}
+Cependant, si tous les membres de votre équipe
+tombent dans le Coma, c'est la fin. Soyez prudent.\0
+
+[@ITEM 115 (L1) ]
+\0
+
+[@ITEM 115 (EN) ]
+Keep pressing L and R and you'll run from combat!!
+This's important too. I guess we'll call it a strategic
+retreat.{PRESS_CLEAR}
+But, look, keep running away, and you'll stay weak
+won't be able to get stronger, so be careful.{PRESS_CLEAR}
+And one more thing. Menu explanation.{PRESS_CLEAR}
+The number next to the weapon mark is attack power.
+The number next to the shield mark is defense power.{PRESS_CLEAR}
+Defense power indicates how well you defend
+against hits and physical attacks.{PRESS_CLEAR}
+It's "magic defense" that defends against magic.
+If, for example, that's 40, you'll defend 40 percent
+against enemy magic.
+Also, if the number becomes a star mark, it
+means that parameter is maximum.\0
+
+[@ITEM 115 (L2) ]
+\0
+
+[@ITEM 115 (FR) ]
+Maintenez le bouton R et le bouton L appuyés pour fuir
+un combat. Il est parfois important de le faire. Un repli
+stratégique, en quelque sorte !{PRESS_CLEAR}
+Mais attention, si vous ne faites que fuir, vous
+resterez faible et ne deviendrez jamais plus fort.{PRESS_CLEAR}
+Et maintenant, je vais vous donner un peu plus
+d'informations au sujet du menu d'équipement.{PRESS_CLEAR}
+Le nombre après l'icône en forme d'épée indique votre
+attaque, alors que celui après l'icône en forme de
+bouclier représente votre défense.{PRESS_CLEAR}
+La défense influe sur les dégâts que vous subissez
+des attaques physiques.{PRESS_CLEAR}
+Pour vous défendre contre les sorts, vous avez besoin
+de défense magique. Par exemple, si vous avez une
+défense magique de 40, les dégâts infligés par les
+attaques magiques seront réduits de 40%.{PRESS_CLEAR}
+Si le nombre qui suit une caractéristique se transforme
+en étoiles, c'est qu'il a atteint le maximum.\0
+
+[@ITEM 116 (L1) ]
+\0
+
+[@ITEM 116 (EN) ]
+Ahem!\0
+
+[@ITEM 116 (L2) ]
+\0
+
+[@ITEM 116 (FR) ]
+Euh, ha !\0
+
+[@ITEM 117 (L1) ]
+\0
+
+[@ITEM 117 (EN) ]
+Fritz: D, dad!\0
+
+[@ITEM 117 (L2) ]
+\0
+
+[@ITEM 117 (FR) ]
+Fritz : Papa !\0
+
+[@ITEM 118 (L1) ]
+\0
+
+[@ITEM 118 (EN) ]
+You're running things proper-like, right?\0
+
+[@ITEM 118 (L2) ]
+\0
+
+[@ITEM 118 (FR) ]
+Tu travailles dur ?\0
+
+[@ITEM 119 (L1) ]
+\0
+
+[@ITEM 119 (EN) ]
+Fritz: Of, of course. R, right?\0
+
+[@ITEM 119 (L2) ]
+\0
+
+[@ITEM 119 (FR) ]
+Fritz : Euh... bien sûr !
+N'est-ce pas ?\0
+
+[@ITEM 120 (L1) ]
+\0
+
+[@ITEM 120 (EN) ]
+Elaine: Uh, yeah.\0
+
+[@ITEM 120 (L2) ]
+\0
+
+[@ITEM 120 (FR) ]
+Élaine : Ou-oui.\0
+
+[@ITEM 121 (L1) ]
+\0
+
+[@ITEM 121 (EN) ]
+Well, all right......\0
+
+[@ITEM 121 (L2) ]
+\0
+
+[@ITEM 121 (FR) ]
+Hum, bien.\0
+
+[@ITEM 122 (L1) ]
+\0
+
+[@ITEM 122 (EN) ]
+{Crono}-san......
+I truly thank you.\0
+
+[@ITEM 122 (L2) ]
+\0
+
+[@ITEM 122 (FR) ]
+{Crono}...
+Merci beaucoup.\0
+
+[@ITEM 123 (L1) ]
+\0
+
+[@ITEM 123 (EN) ]
+Fritz: Now, {Crono}, down to business.
+Please, won't you buy something?\0
+
+[@ITEM 123 (L2) ]
+\0
+
+[@ITEM 123 (FR) ]
+Fritz : Bon, {Crono} ! Les affaires sont les affaires !
+Que diriez-vous de faire quelques achats ?\0
+
+[@ITEM 124 (L1) ]
+\0
+
+[@ITEM 124 (EN) ]
+Fritz: Welcome!\0
+
+[@ITEM 124 (L2) ]
+\0
+
+[@ITEM 124 (FR) ]
+Fritz : Bienvenue, {HERO1} !\0
+
+[@ITEM 125 (L1) ]
+\0
+
+[@ITEM 125 (EN) ]
+Fritz: Come again!!\0
+
+[@ITEM 125 (L2) ]
+\0
+
+[@ITEM 125 (FR) ]
+Fritz : À bientôt !\0
+
+[@ITEM 126 (L1) ]
+\0
+
+[@ITEM 126 (EN) ]
+Welcome.
+What do you need today?\0
+
+[@ITEM 126 (L2) ]
+\0
+
+[@ITEM 126 (FR) ]
+Oh ! Bienvenue !
+Que puis-je faire pour vous ?\0
+
+[@ITEM 127 (L1) ]
+\0
+
+[@ITEM 127 (EN) ]
+Currently at a stall in Leene Square!\0
+
+[@ITEM 127 (L2) ]
+\0
+
+[@ITEM 127 (FR) ]
+Visitez notre kiosque sur la place de Lynne !\0
+
+[@ITEM 128 (L1) ]
+\0
+
+[@ITEM 128 (EN) ]
+Elaine-san is at the pier again today?
+That Fritz......
+Just where has he gone......?\0
+
+[@ITEM 128 (L2) ]
+\0
+
+[@ITEM 128 (FR) ]
+Élaine est encore allée au port...
+Où peut bien être ce Fritz ?\0
+
+[@ITEM 129 (L1) ]
+\0
+
+[@ITEM 129 (EN) ]
+Fritz: Hey! Welcome......!!{56}\0
+
+[@ITEM 129 (L2) ]
+\0
+
+[@ITEM 129 (FR) ]
+Fritz : Bienvenue !\0
+
+[@ITEM 130 (L1) ]
+\0
+
+[@ITEM 130 (EN) ]
+Fritz: {Crono}-san!!!
+Seriously, thank you for back then.
+Thanks to you, I was able to come back home
+like this too.\0
+
+[@ITEM 130 (L2) ]
+\0
+
+[@ITEM 130 (FR) ]
+Fritz : {Crono} !! Merci encore de m'avoir porté
+secours !{PRESS_CLEAR}
+Grâce à vous, j'ai pu rentrer chez moi.\0
+
+[@ITEM 131 (L1) ]
+\0
+
+[@ITEM 131 (EN) ]
+Fritz: I'm beat......
+I was thinking I'd outdo my old man, and going
+on a trip to stock up was all well and good......{PRESS_CLEAR}
+But at the inn on the way back, I got caught
+up in the arrest of a gang of robbers.
+I got arrested along with them.{PRESS_CLEAR}
+Besides that, the death penalty, without even
+listening to anything I had to say.
+What on earth is with these officials lately?\0
+
+[@ITEM 131 (L2) ]
+\0
+
+[@ITEM 131 (FR) ]
+Fritz : J'étais dans de beaux draps ! Moi qui pensais
+montrer à mon père ce dont j'étais capable en faisant
+un voyage de réapprovisionnement pour le magasin...{PRESS_CLEAR}
+Sur le chemin du retour, une bande de voleurs s'est
+fait arrêter à l'auberge où je demeurais et on m'a
+emprisonné avec eux !{PRESS_CLEAR}
+Les soldats n'ont même pas voulu m'écouter et j'ai été
+condamné à mort ! Vous m'avez sauvé la vie !\0
+
+[@ITEM 132 (L1) ]
+\0
+
+[@ITEM 132 (EN) ]
+Elaine: I truly, truly, thank you.
+I'll be happy now.\0
+
+[@ITEM 132 (L2) ]
+\0
+
+[@ITEM 132 (FR) ]
+Élaine : Je vous remercie du fond du cœur !
+Je suis si heureuse !\0
+
+[@ITEM 133 (L1) ]
+\0
+
+[@ITEM 133 (EN) ]
+Fritz: Don't tell my dad I gave you these.
+{PRESS_CLEAR}{MSGWND}
+
+Obtained 10 Mid-Ethers!\0
+
+[@ITEM 133 (L2) ]
+\0
+
+[@ITEM 133 (FR) ]
+Fritz : Acceptez ceci, mais ne le dites pas à mon père,
+hein...{PRESS_CLEAR}{MSGWND}
+
+Vous obtenez dix super-éthers !\0
+
+[@ITEM 134 (L1) ]
+\0
+
+[@ITEM 134 (EN) ]
+You don't have enough money.\0
+
+[@ITEM 134 (L2) ]
+\0
+
+[@ITEM 134 (FR) ]
+Vous n'avez pas assez d'argent.\0
+
+[@ITEM 135 (L1) ]
+\0
+
+[@ITEM 135 (EN) ]
+Thank you, and come again.\0
+
+[@ITEM 135 (L2) ]
+\0
+
+[@ITEM 135 (FR) ]
+À bientôt !\0
+
+[@ITEM 136 (L1) ]
+\0
+
+[@ITEM 136 (EN) ]
+National foundation festival? What're you saying!
+Now's no time for that, is it!!\0
+
+[@ITEM 136 (L2) ]
+\0
+
+[@ITEM 136 (FR) ]
+La foire du millénaire de la fondation du royaume ?
+Mais qu'est-ce que vous racontez ? Ça n'a aucun sens !\0
+
+[@ITEM 137 (L1) ]
+\0
+
+[@ITEM 137 (EN) ]
+"Where is this?" Idiot!!
+There's no way you don't know about our
+Guardia Kingdom!{PRESS_CLEAR}
+Our kingdom is currently fighting day and night
+against Magus's army to take back peace.\0
+
+[@ITEM 137 (L2) ]
+\0
+
+[@ITEM 137 (FR) ]
+« Où sommes-nous ? » Quelle question stupide !
+Dans le royaume de Gardia, pardi !{PRESS_CLEAR}
+Nous nous battons jour et nuit contre l'armée du
+Magistère pour rétablir la paix !\0
+
+[@ITEM 138 (L1) ]
+\0
+
+[@ITEM 138 (EN) ]
+You at least know that much, don't you?
+\t\t{SEL1}Of course.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 138 (L2) ]
+\0
+
+[@ITEM 138 (FR) ]
+Vous saviez au moins ça, n'est-ce pas ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 139 (L1) ]
+\0
+
+[@ITEM 139 (EN) ]
+In that case! Quit asking things like where this
+is like you're half asleep.\0
+
+[@ITEM 139 (L2) ]
+\0
+
+[@ITEM 139 (FR) ]
+Alors, arrêtez de poser de telles questions et de dire
+des bêtises !\0
+
+[@ITEM 140 (L1) ]
+\0
+
+[@ITEM 140 (EN) ]
+What! To not know even that......
+Could you be a traveler?
+Hmm. Then I guess you can't help it.\0
+
+[@ITEM 140 (L2) ]
+\0
+
+[@ITEM 140 (FR) ]
+Quoi ?! Comment pouvez-vous ne pas le savoir ?
+Vous êtes de passage par ici, c'est ça ?
+Dans ce cas, vous feriez mieux de repartir.\0
+
+[@ITEM 141 (L1) ]
+\0
+
+[@ITEM 141 (EN) ]
+The bridge across Zenan was destroyed by
+Magus's army. Which means we can't cross
+to the southern continent for now.\0
+
+[@ITEM 141 (L2) ]
+\0
+
+[@ITEM 141 (FR) ]
+L'armée du Magistère a détruit le pont de Zénan.
+Il est impossible d'atteindre le continent sud pour
+le moment.\0
+
+[@ITEM 142 (L1) ]
+\0
+
+[@ITEM 142 (EN) ]
+Wow, this is great!
+Queen Leene, who was long missing, was
+found in the back hills!\0
+
+[@ITEM 142 (L2) ]
+\0
+
+[@ITEM 142 (FR) ]
+Ah, quelle joie ! On a retrouvé dans la montagne la
+reine Lynne qui avait disparu !\0
+
+[@ITEM 143 (L1) ]
+\0
+
+[@ITEM 143 (EN) ]
+She's probably been returned to the castle by now,
+and it's about time to feel relieved.\0
+
+[@ITEM 143 (L2) ]
+\0
+
+[@ITEM 143 (FR) ]
+Elle doit être soulagée d'être rentrée au château.\0
+
+[@ITEM 144 (L1) ]
+\0
+
+[@ITEM 144 (EN) ]
+But I hear Queen Leene's blurting out some kind
+of nonsense for whatever reason......
+She must have had quite a fright.\0
+
+[@ITEM 144 (L2) ]
+\0
+
+[@ITEM 144 (FR) ]
+Je ne sais pas pourquoi, mais la reine n'arrête pas de
+raconter des choses incompréhensibles... Elle doit
+encore être sous le choc...\0
+
+[@ITEM 145 (L1) ]
+\0
+
+[@ITEM 145 (EN) ]
+Amazing what can happen in such a short time......
+Queen Leene disappeared, and the King couldn't
+focus on anything else.{PRESS_CLEAR}
+Thinking it might have been Magus's doing, he
+had the soldiers searching the whole kingdom.
+But it's a good thing she was found!\0
+
+[@ITEM 145 (L2) ]
+\0
+
+[@ITEM 145 (FR) ]
+Oh, nous étions tous si inquiets ! Le roi était
+complètement abattu.{PRESS_CLEAR}
+Il pensait que la reine avait été enlevée par le
+Magistère, alors il nous a envoyés à sa recherche
+à travers le royaume. Heureusement que nous
+l'avons retrouvée !\0
+
+[@ITEM 146 (L1) ]
+\0
+
+[@ITEM 146 (EN) ]
+Toma: Are you an outsider too?
+I'm Toma the explorer.
+If you treat me to a drink, I'll give you some
+good info.\0
+
+[@ITEM 146 (L2) ]
+\0
+
+[@ITEM 146 (FR) ]
+Toma : Vous n'êtes pas d'ici, vous non plus ? Je suis
+Toma, l'explorateur. Si vous me payez un verre, je vous
+filerai une bonne info.\0
+
+[@ITEM 147 (L1) ]
+\0
+
+[@ITEM 147 (EN) ]
+What do you say?
+\t\t{SEL1}Buy him a drink.{/SEL1}
+\t\t{SEL2}Decline.{/SEL2}\0
+
+[@ITEM 147 (L2) ]
+\0
+
+[@ITEM 147 (FR) ]
+Qu'en dites-vous ?
+       {SEL1}Accepter{/SEL1}
+       {SEL2}Refuser{/SEL2}\0
+
+[@ITEM 148 (L1) ]
+\0
+
+[@ITEM 148 (EN) ]
+Toma: Thanks for that. Now......{PRESS_CLEAR}
+The story is Leene-sama went missing......
+I think that abbey they say was built to the
+west is suspicious.{PRESS_CLEAR}
+Huh? You say Queen Leene was already
+found in the back hills?{56}{PRESS_CLEAR}
+Hmmm...... So that was it......\0
+
+[@ITEM 148 (L2) ]
+\0
+
+[@ITEM 148 (FR) ]
+Toma : Merci bien ! C'est à propos de la reine qui a
+disparu...{PRESS_CLEAR}
+L'abbaye qui a été construite à l'ouest m'a l'air louche.{PRESS_CLEAR}
+Hein ? Vous dites qu'on a déjà retrouvé la reine sur la
+montagne ? Hum... Vraiment...?\0
+
+[@ITEM 149 (L1) ]
+\0
+
+[@ITEM 149 (EN) ]
+Toma: I thought for sure that abbey they say was
+built in to west was suspicious.\0
+
+[@ITEM 149 (L2) ]
+\0
+
+[@ITEM 149 (FR) ]
+Toma : J'aurais pourtant juré qu'il y avait quelque chose
+de suspect au sujet de l'abbaye à l'ouest...\0
+
+[@ITEM 150 (L1) ]
+\0
+
+[@ITEM 150 (EN) ]
+Toma: I see. I'm no beggar.\0
+
+[@ITEM 150 (L2) ]
+\0
+
+[@ITEM 150 (FR) ]
+Toma : Ah bon ? Je ne suis pas un mendiant.
+Je ne vous forcerai pas.\0
+
+[@ITEM 151 (L1) ]
+\0
+
+[@ITEM 151 (EN) ]
+Toma: 'Scuse me.\0
+
+[@ITEM 151 (L2) ]
+\0
+
+[@ITEM 151 (FR) ]
+Toma : Pardon.\0
+
+[@ITEM 152 (L1) ]
+\0
+
+[@ITEM 152 (EN) ]
+Rooms are 10 G for the night.
+Will you be staying?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 152 (L2) ]
+\0
+
+[@ITEM 152 (FR) ]
+Voulez-vous une chambre ?
+Cela vous coûtera 10 G.
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 153 (L1) ]
+\0
+
+[@ITEM 153 (EN) ]
+Welcome.\0
+
+[@ITEM 153 (L2) ]
+\0
+
+[@ITEM 153 (FR) ]
+Bienvenue !\0
+
+[@ITEM 154 (L1) ]
+\0
+
+[@ITEM 154 (EN) ]
+Millennial Festival? 1000th year since founding?
+Why're you still half-asleep at this time of day?
+It's the 600th year since founding, and Guardia
+the 21st is governing the country, right?\0
+
+[@ITEM 154 (L2) ]
+\0
+
+[@ITEM 154 (FR) ]
+Une foire ? Pour célébrer le millénaire de la fondation
+du royaume ? Mais qu'est-ce que vous racontez ?
+Nous sommes en l'an 600, sous le règne du roi
+Gardia XXI.\0
+
+[@ITEM 155 (L1) ]
+\0
+
+[@ITEM 155 (EN) ]
+It's been years already since the battle between
+Magus's army and the kingdom's started......
+Just how long will this war continue......\0
+
+[@ITEM 155 (L2) ]
+\0
+
+[@ITEM 155 (FR) ]
+Tant d'années se sont écoulées depuis le début de la
+guerre contre l'armée du Magistère... Je me demande
+combien de temps elle va durer...\0
+
+[@ITEM 156 (L1) ]
+\0
+
+[@ITEM 156 (EN) ]
+I'm the blacksmith Banta.
+I'm making "Leene's Bell" as requested by King
+Guardia, proof of the King's love for Queen Leene.\0
+
+[@ITEM 156 (L2) ]
+\0
+
+[@ITEM 156 (FR) ]
+Je suis Banta, le forgeron. Je fabrique la cloche que
+Sa Majesté le roi offrira à son épouse adorée, la reine
+Lynne.\0
+
+[@ITEM 157 (L1) ]
+\0
+
+[@ITEM 157 (EN) ]
+But for a while, I wasn't sure what would happen.
+When something happened to Queen Leene,
+we couldn't be talking about BELLS.{PRESS_CLEAR}
+They say Queen Leene was found in the back
+hills and safely returned to the castle.
+So I'm relieved too, and back to my work.\0
+
+[@ITEM 157 (L2) ]
+\0
+
+[@ITEM 157 (FR) ]
+Cependant, j'étais si inquiet quand la reine a disparu
+que je ne pouvais pas continuer à forger la cloche.{PRESS_CLEAR}
+Maintenant qu'on lui a porté secours et qu'elle est saine
+et sauve au château, je peux me remettre au travail.\0
+
+[@ITEM 158 (L1) ]
+\0
+
+[@ITEM 158 (EN) ]
+He says it's his dream to have a daughter gifted
+with both intelligence and beauty.\0
+
+[@ITEM 158 (L2) ]
+\0
+
+[@ITEM 158 (FR) ]
+Mon mari rêve d'avoir une fille aussi jolie qu'intelligente.\0
+
+[@ITEM 159 (L1) ]
+\0
+
+[@ITEM 159 (EN) ]
+This bell is almost complete, but......
+The royal army was beaten by {Magus}'s
+army, and King Guardia was wounded too.
+This is no time for BELLS......\0
+
+[@ITEM 159 (L2) ]
+\0
+
+[@ITEM 159 (FR) ]
+J'ai presque terminé la cloche, mais... Les forces du
+Magistère ont infligé une défaite écrasante à notre
+armée et le roi a été blessé. Je n'ai plus le cœur à
+travailler...\0
+
+[@ITEM 160 (L1) ]
+\0
+
+[@ITEM 160 (EN) ]
+I hope that this, Leene's Bell, will ring out on
+a peaceful world......
+I believe that such a day will come.
+May we never lose hope......\0
+
+[@ITEM 160 (L2) ]
+\0
+
+[@ITEM 160 (FR) ]
+J'espère qu'un jour, la cloche de Lynne résonnera dans
+un monde en paix et que nous ne perdrons jamais
+espoir, quoi qu'il arrive.\0
+
+[@ITEM 161 (L1) ]
+\0
+
+[@ITEM 161 (EN) ]
+You've gone to all the trouble of coming, so don't
+just look, be sure and buy something.\0
+
+[@ITEM 161 (L2) ]
+\0
+
+[@ITEM 161 (FR) ]
+Puisque vous êtes là, ne faites pas que regarder la
+marchandise, profitez-en pour acheter quelque chose !\0
+
+[@ITEM 162 (L1) ]
+\0
+
+[@ITEM 162 (EN) ]
+Come again.\0
+
+[@ITEM 162 (L2) ]
+\0
+
+[@ITEM 162 (FR) ]
+Au plaisir de vous revoir bientôt !\0
+
+[@ITEM 163 (L1) ]
+\0
+
+[@ITEM 163 (EN) ]
+I see. You intend to take up arms and fight
+Magus's army too.
+That's quite a good attitude.
+But just buying weapons and armors won't cut it!{PRESS_CLEAR}
+It's only once you equip them afterwards that
+it means anything.\0
+
+[@ITEM 163 (L2) ]
+\0
+
+[@ITEM 163 (FR) ]
+Alors, vous allez affronter l'armée du Magistère, vous
+aussi ? Voilà qui est remarquable !{PRESS_CLEAR}
+Mais il ne suffit pas d'acheter des armes et des
+protections, vous savez ! Il faut aussi s'en
+équiper !\0
+
+[@ITEM 164 (L1) ]
+\0
+
+[@ITEM 164 (EN) ]
+{Marle}: Where do we go back from?\0
+
+[@ITEM 164 (L2) ]
+\0
+
+[@ITEM 164 (FR) ]
+{Marle} : Par où on va passer pour rentrer ?\0
+
+[@ITEM 165 (L1) ]
+\0
+
+[@ITEM 165 (EN) ]
+{Lucca}: Most humbly, Princess Marledia{56}\0
+
+[@ITEM 165 (L2) ]
+\0
+
+[@ITEM 165 (FR) ]
+{Lucca} : Si vous me le permettez, princesse
+Marledia...\0
+
+[@ITEM 166 (L1) ]
+\0
+
+[@ITEM 166 (EN) ]
+{Marle}: I'm telling you, {Marle}'s fine!\0
+
+[@ITEM 166 (L2) ]
+\0
+
+[@ITEM 166 (FR) ]
+{Marle} : Oh, s'il te plaît, appelle-moi {Marle} !\0
+
+[@ITEM 167 (L1) ]
+\0
+
+[@ITEM 167 (EN) ]
+{Lucca}: W, well then, {Marle}......\0
+
+[@ITEM 167 (L2) ]
+\0
+
+[@ITEM 167 (FR) ]
+{Lucca} : Euh, alors, {Marle}...
+Ouvrez grand les yeux !\0
+
+[@ITEM 168 (L1) ]
+\0
+
+[@ITEM 168 (EN) ]
+{Marle}: Kyah!\0
+
+[@ITEM 168 (L2) ]
+\0
+
+[@ITEM 168 (FR) ]
+{Marle} : Ouah !\0
+
+[@ITEM 169 (L1) ]
+\0
+
+[@ITEM 169 (EN) ]
+{Marle}: {Lucca}, that's aweeesome!\0
+
+[@ITEM 169 (L2) ]
+\0
+
+[@ITEM 169 (FR) ]
+{Marle} : {Lucca} !
+C'est extraordinaire !\0
+
+[@ITEM 170 (L1) ]
+\0
+
+[@ITEM 170 (EN) ]
+{Lucca}: O, ho, ho, ho......!\0
+
+[@ITEM 170 (L2) ]
+\0
+
+[@ITEM 170 (FR) ]
+{Lucca} : N'est-ce pas ? Ho, ho, ho, ho !\0
+
+[@ITEM 171 (L1) ]
+\0
+
+[@ITEM 171 (EN) ]
+{Lucca}: Ex, excuse me......!{56}\0
+
+[@ITEM 171 (L2) ]
+\0
+
+[@ITEM 171 (FR) ]
+{Lucca} : Euh, pardonnez-moi...\0
+
+[@ITEM 172 (L1) ]
+\0
+
+[@ITEM 172 (EN) ]
+{Marle}: Talking normally is fine too!
+You're more amazing that I am!{PRESS_CLEAR}
+I might be a princess, but I can't do a thing.{56}\0
+
+[@ITEM 172 (L2) ]
+\0
+
+[@ITEM 172 (FR) ]
+{Marle} : Allez, tu peux me tutoyer ! Et puis, tu es
+un génie, {Lucca}. Je suis peut-être une princesse,
+mais je n'ai pas de talent particulier.\0
+
+[@ITEM 173 (L1) ]
+\0
+
+[@ITEM 173 (EN) ]
+{Lucca}: Then, taking you up on that......\0
+
+[@ITEM 173 (L2) ]
+\0
+
+[@ITEM 173 (FR) ]
+{Lucca} : Si tu insistes...\0
+
+[@ITEM 174 (L1) ]
+\0
+
+[@ITEM 174 (EN) ]
+{Lucca}: I named this distortion a "Gate"......\0
+
+[@ITEM 174 (L2) ]
+\0
+
+[@ITEM 174 (FR) ]
+{Lucca} : J'appelle cette distorsion un « portail ».\0
+
+[@ITEM 175 (L1) ]
+\0
+
+[@ITEM 175 (EN) ]
+A Gate is something like a "gateway" that
+links the same place in different eras.\0
+
+[@ITEM 175 (L2) ]
+\0
+
+[@ITEM 175 (FR) ]
+Il connecte un endroit dans l'espace à un moment
+différent dans le temps.\0
+
+[@ITEM 176 (L1) ]
+\0
+
+[@ITEM 176 (EN) ]
+The Gate itself is unstable when it comes to
+appearing and disappearing.{56}
+Accordingly, I applied the principles of the
+Telepod, and use this......\0
+
+[@ITEM 176 (L2) ]
+\0
+
+[@ITEM 176 (FR) ]
+Il est instable, alors j'ai utilisé le même principe que
+celui de mon téléporteur pour créer...\0
+
+[@ITEM 177 (L1) ]
+\0
+
+[@ITEM 177 (EN) ]
+{Lucca}: Gate Holder to stabilize the Gate.\0
+
+[@ITEM 177 (L2) ]
+\0
+
+[@ITEM 177 (FR) ]
+{Lucca} : ... une clef stabilisatrice !\0
+
+[@ITEM 178 (L1) ]
+\0
+
+[@ITEM 178 (EN) ]
+{Marle}: But why did this Gate appear all of a
+sudden back then?\0
+
+[@ITEM 178 (L2) ]
+\0
+
+[@ITEM 178 (FR) ]
+{Marle} : Mais pourquoi ce portail est-il
+soudainement apparu ?\0
+
+[@ITEM 179 (L1) ]
+\0
+
+[@ITEM 179 (EN) ]
+{Lucca}: It could have been the Telepod's effect,
+or possibly another something......\0
+
+[@ITEM 179 (L2) ]
+\0
+
+[@ITEM 179 (FR) ]
+{Lucca} : C'était peut-être un effet du téléporteur,
+ou alors il a été causé par quelque chose d'autre.\0
+
+[@ITEM 180 (L1) ]
+\0
+
+[@ITEM 180 (EN) ]
+{Marle}: This's kinda complicated......
+Anyhow, let's return to our era!\0
+
+[@ITEM 180 (L2) ]
+\0
+
+[@ITEM 180 (FR) ]
+{Marle} : Tout ça m'a l'air compliqué...
+En tout cas, retournons dans notre époque !\0
+
+[@ITEM 181 (L1) ]
+\0
+
+[@ITEM 181 (EN) ]
+{Lucca}: Yeah, okay.
+Let's return, {Crono}!\0
+
+[@ITEM 181 (L2) ]
+\0
+
+[@ITEM 181 (FR) ]
+{Lucca} : Oui ! Rentrons, {Crono} !\0
+
+[@ITEM 182 (L1) ]
+\0
+
+[@ITEM 182 (EN) ]
+Is it true that the royal army was beaten in the
+front lines and Magus's army is coming to
+attack as far up as the bridge?\0
+
+[@ITEM 182 (L2) ]
+\0
+
+[@ITEM 182 (FR) ]
+J'ai entendu dire que l'armée du Magistère a vaincu
+notre première ligne et s'est avancée jusqu'au pont !\0
+
+[@ITEM 183 (L1) ]
+\0
+
+[@ITEM 183 (EN) ]
+They say even the king has fallen......
+Are we done for?\0
+
+[@ITEM 183 (L2) ]
+\0
+
+[@ITEM 183 (FR) ]
+On dit que le roi a lui aussi été blessé...
+C'est la fin...\0
+
+[@ITEM 184 (L1) ]
+\0
+
+[@ITEM 184 (EN) ]
+No, the legendary Hero has appeared, so
+everything's fine now!\0
+
+[@ITEM 184 (L2) ]
+\0
+
+[@ITEM 184 (FR) ]
+Non, le héros de la légende est apparu, alors nous
+n'avons plus rien à craindre !\0
+
+[@ITEM 185 (L1) ]
+\0
+
+[@ITEM 185 (EN) ]
+Have you heard?!
+He's appeared! Finally!
+The legendary Hero!{PRESS_CLEAR}
+And they say he headed to the castle to
+meet the King.
+Wow, Magus's army is done for now!{56}\0
+
+[@ITEM 185 (L2) ]
+\0
+
+[@ITEM 185 (FR) ]
+Vous avez entendu la rumeur ? Il est apparu ! Le héros
+de la légende est apparu !{PRESS_CLEAR}
+On dit aussi qu'il est allé au château pour demander
+audience au roi. Ah, c'en est fini de l'armée du
+Magistère !\0
+
+[@ITEM 186 (L1) ]
+\0
+
+[@ITEM 186 (EN) ]
+What, there's nothing to worry about.
+The one holding the "Hero Badge", said to be proof
+of the hero, has finally appeared!{PRESS_CLEAR}
+Now peace will finally come back to this world.
+Thank goodness, really, thank goodness......\0
+
+[@ITEM 186 (L2) ]
+\0
+
+[@ITEM 186 (FR) ]
+Il n'y a pas de quoi s'inquiéter.{PRESS_CLEAR}
+Le porteur de la médaille du héros est apparu !
+C'est notre sauveur !{PRESS_CLEAR}
+Le monde va enfin retrouver la paix. Le ciel soit loué !\0
+
+[@ITEM 187 (L1) ]
+\0
+
+[@ITEM 187 (EN) ]
+Word is that Magus's army's come all the
+to the Zenan Bridge, isn't it?
+Just what's going to happen now?\0
+
+[@ITEM 187 (L2) ]
+\0
+
+[@ITEM 187 (FR) ]
+Les rumeurs racontent que l'armée du Magistère a
+avancé jusqu'au pont de Zénan. Que va-t-il nous
+arriver ?\0
+
+[@ITEM 188 (L1) ]
+\0
+
+[@ITEM 188 (EN) ]
+{Frog}: Wake up, {Crono}.\0
+
+[@ITEM 188 (L2) ]
+\0
+
+[@ITEM 188 (FR) ]
+{Frog} : Réveille-toi, {Crono} !\0
+
+[@ITEM 189 (L1) ]
+\0
+
+[@ITEM 189 (EN) ]
+Old man, sake!!\0
+
+[@ITEM 189 (L2) ]
+\0
+
+[@ITEM 189 (FR) ]
+À boire, patron !\0
+
+[@ITEM 190 (L1) ]
+\0
+
+[@ITEM 190 (EN) ]
+Thanks to the Hero, peace has come, and I was
+able to present Leene's Bell to the King too.{PRESS_CLEAR}
+Long live Guardia!
+I've gotta get me a drink now!\0
+
+[@ITEM 190 (L2) ]
+\0
+
+[@ITEM 190 (FR) ]
+Grâce au héros, j'ai pu offrir la cloche de Lynne au roi
+et la paix va enfin régner.{PRESS_CLEAR}
+Vive Gardia ! Portons un toast !\0
+
+[@ITEM 191 (L1) ]
+\0
+
+[@ITEM 191 (EN) ]
+I can hear the footsteps of peace coming.\0
+
+[@ITEM 191 (L2) ]
+\0
+
+[@ITEM 191 (FR) ]
+La paix régnera enfin parmi nous.\0
+
+[@ITEM 192 (L1) ]
+\0
+
+[@ITEM 192 (EN) ]
+Whoooooooa!!!!{PRESS_CLEAR}
+I am FURIOUSLY moved!!!
+Long live the Hero! Long live Guardia!!\0
+
+[@ITEM 192 (L2) ]
+\0
+
+[@ITEM 192 (FR) ]
+Hourraaaa !{PRESS_CLEAR}
+Je suis si ému ! Vive le héros ! Vive Gardia !\0
+
+[@ITEM 193 (L1) ]
+\0
+
+[@ITEM 193 (EN) ]
+There's talk of building a square with the hopes
+that this peace will last a great many years.\0
+
+[@ITEM 193 (L2) ]
+\0
+
+[@ITEM 193 (FR) ]
+On dit qu'une grand-place sera construite dans le
+village pour célébrer la paix, dans l'espoir qu'elle
+dure toujours.\0
+
+[@ITEM 194 (L1) ]
+\0
+
+[@ITEM 194 (EN) ]
+I hear they're taking the Queen's name and
+making it "Leene Square".\0
+
+[@ITEM 194 (L2) ]
+\0
+
+[@ITEM 194 (FR) ]
+On compte l'appeler « place de Lynne », en l'honneur de
+la reine.\0
+
+[@ITEM 195 (L1) ]
+\0
+
+[@ITEM 195 (EN) ]
+Ga, ha, ha, ha, ha, ha, ha, ha!!
+Good times.
+There's no choice but to drink on such a great day.\0
+
+[@ITEM 195 (L2) ]
+\0
+
+[@ITEM 195 (FR) ]
+Ga, ha, ha, ha, ha ! Aujourd'hui est un jour heureux !
+Et les jours heureux, on boit un coup pour célébrer !\0
+
+[@ITEM 196 (L1) ]
+\0
+
+[@ITEM 196 (EN) ]
+An end has finally come to the long war.\0
+
+[@ITEM 196 (L2) ]
+\0
+
+[@ITEM 196 (FR) ]
+La guerre est enfin finie !\0
+
+[@ITEM 197 (L1) ]
+\0
+
+[@ITEM 197 (EN) ]
+How pleasant.
+Peace has finally come.\0
+
+[@ITEM 197 (L2) ]
+\0
+
+[@ITEM 197 (FR) ]
+Je suis si heureuse ! Nous allons enfin vivre en paix !\0
+
+[@ITEM 198 (L1) ]
+\0
+
+[@ITEM 198 (EN) ]
+{Crono}!{WAIT}0a{/WAIT}{CLEAR}
+{Crono}! {Crono}!
+{Crono}! {Crono}!
+{Crono}! {Crono}!
+{Crono}! {Crono}!!{WAIT}0a{/WAIT}{CLOSE}\0
+
+[@ITEM 198 (L2) ]
+\0
+
+[@ITEM 198 (FR) ]
+{Crono} !!{WAIT}0a{/WAIT}{CLEAR}
+{Crono} ! {Crono} !
+{Crono} ! {Crono} !
+{Crono} ! {Crono} !
+{Crono} ! {Crono} !!{WAIT}0a{/WAIT}{CLOSE}\0
+
+[@ITEM 199 (L1) ]
+\0
+
+[@ITEM 199 (EN) ]
+{Marle}: Nh......{PRESS_CLEAR}
+Uhhnnn......{PRESS_CLEAR}
+{Crono}......{PRESS_CLEAR}
+{Crono}......!\0
+
+[@ITEM 199 (L2) ]
+\0
+
+[@ITEM 199 (FR) ]
+{Marle} : Oooh...{PRESS_CLEAR}
+Oooh...{PRESS_CLEAR}
+{Crono}...{PRESS_CLEAR}
+{Crono}...!\0
+
+[@ITEM 200 (L1) ]
+\0
+
+[@ITEM 200 (EN) ]
+{Lucca}: No, {Crono}......{PRESS_CLEAR}
+{Crono}......!\0
+
+[@ITEM 200 (L2) ]
+\0
+
+[@ITEM 200 (FR) ]
+{Lucca} : Non, {Crono}...{PRESS_CLEAR}
+{Crono}...!\0
+
+[@ITEM 201 (L1) ]
+\0
+
+[@ITEM 201 (EN) ]
+{Robo}: It IS dangerous, {Crono}......{PRESS_CLEAR}
+{Crono}......!\0
+
+[@ITEM 201 (L2) ]
+\0
+
+[@ITEM 201 (FR) ]
+{Robo} : C'est trop dangereux, {Crono}...{PRESS_CLEAR}
+{Crono}...!\0
+
+[@ITEM 202 (L1) ]
+\0
+
+[@ITEM 202 (EN) ]
+{Frog}: Y, you idiot......!{PRESS_CLEAR}
+{Crono}...... {Crono}......!\0
+
+[@ITEM 202 (L2) ]
+\0
+
+[@ITEM 202 (FR) ]
+{Frog} : C'est de l'inconscience...!{PRESS_CLEAR}
+{Crono}... {Crono}...!\0
+
+[@ITEM 203 (L1) ]
+\0
+
+[@ITEM 203 (EN) ]
+{Ayla}: {Crono}...... stop......!{PRESS_CLEAR}
+{Crono}......!\0
+
+[@ITEM 203 (L2) ]
+\0
+
+[@ITEM 203 (FR) ]
+{Ayla} : {Crono} ! Noon !!{PRESS_CLEAR}
+{Crono}...!\0
+
+[@ITEM 204 (L1) ]
+\0
+
+[@ITEM 204 (EN) ]
+{Marle}: Uhnn......\0
+
+[@ITEM 204 (L2) ]
+\0
+
+[@ITEM 204 (FR) ]
+{Marle} : Oooh...\0
+
+[@ITEM 205 (L1) ]
+\0
+
+[@ITEM 205 (EN) ]
+{Lucca}: Uhnn......\0
+
+[@ITEM 205 (L2) ]
+\0
+
+[@ITEM 205 (FR) ]
+{Lucca} : Oooh...\0
+
+[@ITEM 206 (L1) ]
+\0
+
+[@ITEM 206 (EN) ]
+{Robo}: ......!?\0
+
+[@ITEM 206 (L2) ]
+\0
+
+[@ITEM 206 (FR) ]
+{Robo} : ...?!\0
+
+[@ITEM 207 (L1) ]
+\0
+
+[@ITEM 207 (EN) ]
+{Frog}: Nh......?\0
+
+[@ITEM 207 (L2) ]
+\0
+
+[@ITEM 207 (FR) ]
+{Frog} : Oh...?\0
+
+[@ITEM 208 (L1) ]
+\0
+
+[@ITEM 208 (EN) ]
+{Ayla}: fuga......\0
+
+[@ITEM 208 (L2) ]
+\0
+
+[@ITEM 208 (FR) ]
+{Ayla} : Oooh...\0
+
+[@ITEM 209 (L1) ]
+\0
+
+[@ITEM 209 (EN) ]
+Something inside reacted to the pendant and
+began glowing. Remove the contents?
+		{SEL1}Yes{/SEL1}
+		{SEL2}No{/SEL2}\0
+
+[@ITEM 209 (L2) ]
+\0
+
+[@ITEM 209 (FR) ]
+Il y a quelque chose à l'intérieur qui luit à l'approche du
+pendentif. Voulez-vous le prendre ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 210 (L1) ]
+\0
+
+[@ITEM 210 (EN) ]
+"The box has been passed down for generations.
+If you can open it, feel free to help yourself."\0
+
+[@ITEM 210 (L2) ]
+\0
+
+[@ITEM 210 (FR) ]
+« Ce coffre est dans la famille depuis des générations.
+La personne qui arrivera à l'ouvrir pourra garder son
+contenu. »\0
+
+[@ITEM 211 (L1) ]
+\0
+
+[@ITEM 211 (EN) ]
+{MSGWND}
+Blue Vest upgraded!
+Obtained Blue Plate!\0
+
+[@ITEM 211 (L2) ]
+\0
+
+[@ITEM 211 (FR) ]
+{MSGWND}
+La veste bleue est devenue plus puissante !
+Vous obtenez un plastron bleu !\0
+
+[@ITEM 212 (L1) ]
+\0
+
+[@ITEM 212 (EN) ]
+{MSGWND}
+Got a Blue Vest!\0
+
+[@ITEM 212 (L2) ]
+\0
+
+[@ITEM 212 (FR) ]
+{MSGWND}
+Vous obtenez une veste bleue !\0
+
+[@ITEM 213 (L1) ]
+\0
+
+[@ITEM 213 (EN) ]
+{MSGWND}
+It's sealed with a mysterious power.\0
+
+[@ITEM 213 (L2) ]
+\0
+
+[@ITEM 213 (FR) ]
+{MSGWND}
+Un sceau magique en empêche l'ouverture...\0
+
+[@ITEM 214 (L1) ]
+\0
+
+[@ITEM 214 (EN) ]
+{Crono}......{WAIT}0a{/WAIT}{CLEAR}
+{Crono}!{WAIT}0a{/WAIT}{CLEAR}
+{Crono}!!!{WAIT}09{/WAIT}{CLOSE}{56}\0
+
+[@ITEM 214 (L2) ]
+\0
+
+[@ITEM 214 (FR) ]
+{Crono}...{WAIT}0a{/WAIT}{CLEAR}
+{Crono} !{WAIT}0a{/WAIT}{CLEAR}
+{Crono} !!{WAIT}09{/WAIT}{CLOSE}\0
+
+[@ITEM 215 (L1) ]
+\0
+
+[@ITEM 215 (EN) ]
+Soldier: How long do you plan on sleeping!
+Get up already!!{WAIT}0b{/WAIT}{CLOSE}\0
+
+[@ITEM 215 (L2) ]
+\0
+
+[@ITEM 215 (FR) ]
+Soldat : Tu comptes dormir toute la journée ?
+Allez, debout !{WAIT}0b{/WAIT}{CLOSE}\0
+
+[@ITEM 216 (L1) ]
+\0
+
+[@ITEM 216 (EN) ]
+Soldier: You suspended sentence is over.
+We will formally enforce the punishment.
+Come with me to the castle.{WAIT}11{/WAIT}{CLOSE}\0
+
+[@ITEM 216 (L2) ]
+\0
+
+[@ITEM 216 (FR) ]
+Soldat : Plus de sursis. Le jour de ton exécution est
+arrivé. Je vais t'accompagner jusqu'au château.{WAIT}11{/WAIT}{CLOSE}\0
+
+[@ITEM 217 (L1) ]
+\0
+
+[@ITEM 217 (EN) ]
+You can run using the +Control Pad. If you want to
+walk, hold the {B:B} Button while you move.{PRESS_CLEAR}
+Set Movement to Walk in the Settings menu and you'll
+walk without having to press the {B:B} Button!\0
+
+[@ITEM 217 (L2) ]
+\0
+
+[@ITEM 217 (FR) ]
+Si vous préférez marcher, appuyez sur le bouton {B:B} tout
+en vous déplaçant avec la manette + !{PRESS_CLEAR}
+En sélectionnant « Déplacements », puis « Marcher » à
+partir de l'option « Réglages » du menu, vous pouvez
+marcher sans avoir à appuyer sur le bouton {B:B}.\0
+
+[@ITEM 218 (L1) ]
+\0
+
+[@ITEM 218 (EN) ]
+Did you know you could use the stylus to move around?{PRESS_CLEAR}
+Hold the stylus to the Touch Screen, and you'll walk
+in the stylus's direction from the center of the screen.
+Touch the edge of the screen, and you'll run in that
+direction.{PRESS_CLEAR}
+You can also tap the Touch Screen quickly to talk to
+someone or examine an object.\0
+
+[@ITEM 218 (L2) ]
+\0
+
+[@ITEM 218 (FR) ]
+Dites, vous savez que vous pouvez vous déplacer en
+utilisant l'écran tactile ?{PRESS_CLEAR}
+Il suffit de maintenir le stylet appuyé dans la direction
+désirée par rapport au centre de l'écran.{PRESS_CLEAR}
+Vous pouvez aussi courir en touchant le bord de l'écran.{PRESS_CLEAR}
+Oh, et en passant, vous pouvez parler aux gens et
+examiner les environs en touchant brièvement l'écran
+tactile.\0
+
+[@ITEM 219 (L1) ]
+\0
+
+[@ITEM 219 (EN) ]
+Would you like an explanation of how to use menu
+shortcuts?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 219 (L2) ]
+\0
+
+[@ITEM 219 (FR) ]
+Voulez-vous savoir comment fonctionnent les
+raccourcis du menu ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 220 (L1) ]
+\0
+
+[@ITEM 220 (EN) ]
+You can jump to the various menu screens by touching
+the icons on the lower screen.{PRESS_CLEAR}
+For example, touch the Inventory icon to open the
+Inventory menu.\0
+
+[@ITEM 220 (L2) ]
+\0
+
+[@ITEM 220 (FR) ]
+Vous pouvez utiliser des raccourcis vers les différents
+menus en touchant les icônes sur l'écran inférieur.{PRESS_CLEAR}
+Par exemple, si vous touchez l'icône représentant un
+sac, votre inventaire s'affiche immédiatement.\0
+
+[@ITEM 221 (L1) ]
+\0
+
+[@ITEM 221 (EN) ]
+Touching any character's status box will cause that
+character's Equipment screen to appear.\0
+
+[@ITEM 221 (L2) ]
+\0
+
+[@ITEM 221 (FR) ]
+De même, si vous touchez la fenêtre d'état d'un
+personnage, vous accédez directement à son
+écran d'équipement.\0
+
+[@ITEM 222 (L1) ]
+\0
+
+[@ITEM 222 (EN) ]
+You can arrange the positions of the shortcut icons
+however you like via the Shortcut Assignments option
+in the Settings menu.\0
+
+[@ITEM 222 (L2) ]
+\0
+
+[@ITEM 222 (FR) ]
+En outre, vous pouvez changer la position des icônes
+en choisissant « Raccourcis » à partir de l'option
+« Réglages » du menu.{PRESS_CLEAR}
+Vous devriez essayer !\0
+
+[@ITEM 223 (L1) ]
+\0
+
+[@ITEM 223 (EN) ]
+Shall I teach you the basics of battle
+commands?
+\t\t{SEL1}Yes, please.{/SEL1}
+\t\t{SEL2}Maybe later.{/SEL2}\0
+
+[@ITEM 223 (L2) ]
+\0
+
+[@ITEM 223 (FR) ]
+Voulez-vous que je vous explique les commandes de
+base des combats ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 224 (L1) ]
+\0
+
+[@ITEM 224 (EN) ]
+In battle, you must make use of the Attack, Tech,
+and Item commands to defeat your enemies.{PRESS_CLEAR}
+If the Game Mode is set to DS, commands will be shown
+on the lower screen when a character's turn comes
+around.{PRESS_CLEAR}
+Move the cursor to the desired command and press the
+{B:A} Button to select it, or simply tap it with the stylus.\0
+
+[@ITEM 224 (L2) ]
+\0
+
+[@ITEM 224 (FR) ]
+Pendant la bataille, vous devez utiliser les commandes
+« Attaquer », « Solos » et « Objets » pour vaincre les
+ennemis.{PRESS_CLEAR}
+Si vous jouez en mode DS, les commandes sont
+affichées sur l'écran inférieur.{PRESS_CLEAR}
+Lorsque vient votre tour, choisissez la commande
+désirée en déplaçant le curseur, puis appuyez sur le
+bouton {B:A}, ou touchez directement l'écran inférieur.\0
+
+[@ITEM 225 (L1) ]
+\0
+
+[@ITEM 225 (EN) ]
+If the Game Mode is set to Classic, commands will
+appear on the upper screen. Move the cursor to the
+desired command and press the {B:A} Button to select it.{PRESS_CLEAR}
+The stylus cannot be used to select commands in
+Classic Mode.\0
+
+[@ITEM 225 (L2) ]
+\0
+
+[@ITEM 225 (FR) ]
+Si vous jouez en mode classique, les commandes sont
+affichées sur l'écran supérieur.{PRESS_CLEAR}
+Choisissez la commande désirée en déplaçant le
+curseur, puis appuyez sur le bouton {B:A}.{PRESS_CLEAR}
+Attention ! En mode classique, vous ne pouvez pas
+choisir une commande en touchant l'écran inférieur.\0
+
+[@ITEM 226 (L1) ]
+\0
+
+[@ITEM 226 (EN) ]
+"A Treatise on Game Modes."
+Read the document?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 226 (L2) ]
+\0
+
+[@ITEM 226 (FR) ]
+Voulez-vous lire le rapport intitulé
+« Les modes de combat » ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 227 (L1) ]
+\0
+
+[@ITEM 227 (EN) ]
+The report contains two sections.
+Which would you like to read?
+\t\t{SEL1}DS Mode.{/SEL1}
+\t\t{SEL2}Classic Mode.{/SEL2}\0
+
+[@ITEM 227 (L2) ]
+\0
+
+[@ITEM 227 (FR) ]
+Le rapport est divisé en deux parties.
+Quelle section voulez-vous lire ?
+       {SEL1}Mode DS{/SEL1}
+       {SEL2}Mode classique{/SEL2}\0
+
+[@ITEM 228 (L1) ]
+\0
+
+[@ITEM 228 (EN) ]
+DS Mode employs both screens, allowing for convenient
+Touch Screen controls.{PRESS_CLEAR}
+The upper screen is left uncluttered, while the lower
+screen displays useful information and allows for
+command input via the stylus.{PRESS_CLEAR}
+DS Mode is geared towards those who wish to
+experience the game in a new way, using only the
+Touch Screen to play.\0
+
+[@ITEM 228 (L2) ]
+\0
+
+[@ITEM 228 (FR) ]
+En mode DS, les informations sont affichées sur les
+deux écrans et les commandes ont été réarrangées
+pour offrir une meilleure maniabilité.{PRESS_CLEAR}
+L'écran supérieur contient moins d'informations et a été
+simplifié. Vous pouvez sélectionner les commandes en
+touchant l'écran inférieur.{PRESS_CLEAR}
+Ce mode est recommandé à ceux qui préfèrent utiliser
+l'écran tactile ou à ceux qui veulent découvrir une
+nouvelle expérience de jeu.\0
+
+[@ITEM 229 (L1) ]
+\0
+
+[@ITEM 229 (EN) ]
+In Classic Mode, the battle screen is presented just
+as it was in the original.{PRESS_CLEAR}
+The lower screen is used to display extra information,
+such as information about enemies, making it easier
+to keep track of your situation.{PRESS_CLEAR}
+Classic Mode is recommended for those who wish to
+bask in the nostalgic glory of bygone days, without
+trying anything new.\0
+
+[@ITEM 229 (L2) ]
+\0
+
+[@ITEM 229 (FR) ]
+En mode classique, l'affichage original a été reproduit.{PRESS_CLEAR}
+Des informations sur les ennemis sont affichées
+sur l'écran inférieur et il est désormais plus facile
+d'examiner la situation.{PRESS_CLEAR}
+Ce mode est recommandé à ceux qui veulent apprécier
+l'atmosphère du jeu original ou à ceux qui veulent se
+submerger dans la nostalgie.\0
+
+[@ITEM 230 (L1) ]
+\0
+
+[@ITEM 230 (EN) ]
+\0
+
+[@ITEM 230 (L2) ]
+\0
+
+[@ITEM 230 (FR) ]
+\0
+
+[@ITEM 231 (L1) ]
+\0
+
+[@ITEM 231 (EN) ]
+\0
+
+[@ITEM 231 (L2) ]
+\0
+
+[@ITEM 231 (FR) ]
+\0
+
+[@ITEM 232 (L1) ]
+\0
+
+[@ITEM 232 (EN) ]
+\0
+
+[@ITEM 232 (L2) ]
+\0
+
+[@ITEM 232 (FR) ]
+\0
+
+[@ITEM 233 (L1) ]
+\0
+
+[@ITEM 233 (EN) ]
+\0
+
+[@ITEM 233 (L2) ]
+\0
+
+[@ITEM 233 (FR) ]
+\0
+
+[@ITEM 234 (L1) ]
+\0
+
+[@ITEM 234 (EN) ]
+\0
+
+[@ITEM 234 (L2) ]
+\0
+
+[@ITEM 234 (FR) ]
+\0
+
+[@ITEM 235 (L1) ]
+\0
+
+[@ITEM 235 (EN) ]
+\0
+
+[@ITEM 235 (L2) ]
+\0
+
+[@ITEM 235 (FR) ]
+\0
+
+[@ITEM 236 (L1) ]
+\0
+
+[@ITEM 236 (EN) ]
+\0
+
+[@ITEM 236 (L2) ]
+\0
+
+[@ITEM 236 (FR) ]
+\0
+
+[@ITEM 237 (L1) ]
+\0
+
+[@ITEM 237 (EN) ]
+\0
+
+[@ITEM 237 (L2) ]
+\0
+
+[@ITEM 237 (FR) ]
+\0
+
+[@ITEM 238 (L1) ]
+\0
+
+[@ITEM 238 (EN) ]
+\0
+
+[@ITEM 238 (L2) ]
+\0
+
+[@ITEM 238 (FR) ]
+\0
+
+[@ITEM 239 (L1) ]
+\0
+
+[@ITEM 239 (EN) ]
+\0
+
+[@ITEM 239 (L2) ]
+\0
+
+[@ITEM 239 (FR) ]
+\0
+
+[@ITEM 240 (L1) ]
+\0
+
+[@ITEM 240 (EN) ]
+\0
+
+[@ITEM 240 (L2) ]
+\0
+
+[@ITEM 240 (FR) ]
+\0
+
+[@ITEM 241 (L1) ]
+\0
+
+[@ITEM 241 (EN) ]
+\0
+
+[@ITEM 241 (L2) ]
+\0
+
+[@ITEM 241 (FR) ]
+\0
+
+[@ITEM 242 (L1) ]
+\0
+
+[@ITEM 242 (EN) ]
+\0
+
+[@ITEM 242 (L2) ]
+\0
+
+[@ITEM 242 (FR) ]
+\0
+
+[@ITEM 243 (L1) ]
+\0
+
+[@ITEM 243 (EN) ]
+\0
+
+[@ITEM 243 (L2) ]
+\0
+
+[@ITEM 243 (FR) ]
+\0
+
+[@ITEM 244 (L1) ]
+\0
+
+[@ITEM 244 (EN) ]
+\0
+
+[@ITEM 244 (L2) ]
+\0
+
+[@ITEM 244 (FR) ]
+\0
+
+[@ITEM 245 (L1) ]
+\0
+
+[@ITEM 245 (EN) ]
+\0
+
+[@ITEM 245 (L2) ]
+\0
+
+[@ITEM 245 (FR) ]
+\0
+
+[@ITEM 246 (L1) ]
+\0
+
+[@ITEM 246 (EN) ]
+\0
+
+[@ITEM 246 (L2) ]
+\0
+
+[@ITEM 246 (FR) ]
+\0
+
+[@ITEM 247 (L1) ]
+\0
+
+[@ITEM 247 (EN) ]
+\0
+
+[@ITEM 247 (L2) ]
+\0
+
+[@ITEM 247 (FR) ]
+\0
+
+[@ITEM 248 (L1) ]
+\0
+
+[@ITEM 248 (EN) ]
+\0
+
+[@ITEM 248 (L2) ]
+\0
+
+[@ITEM 248 (FR) ]
+\0
+
+[@ITEM 249 (L1) ]
+\0
+
+[@ITEM 249 (EN) ]
+\0
+
+[@ITEM 249 (L2) ]
+\0
+
+[@ITEM 249 (FR) ]
+\0
+
+[@ITEM 250 (L1) ]
+\0
+
+[@ITEM 250 (EN) ]
+\0
+
+[@ITEM 250 (L2) ]
+\0
+
+[@ITEM 250 (FR) ]
+\0
+
+[@ITEM 251 (L1) ]
+\0
+
+[@ITEM 251 (EN) ]
+\0
+
+[@ITEM 251 (L2) ]
+\0
+
+[@ITEM 251 (FR) ]
+\0
+
+[@ITEM 252 (L1) ]
+\0
+
+[@ITEM 252 (EN) ]
+\0
+
+[@ITEM 252 (L2) ]
+\0
+
+[@ITEM 252 (FR) ]
+\0
+
+[@ITEM 253 (L1) ]
+\0
+
+[@ITEM 253 (EN) ]
+\0
+
+[@ITEM 253 (L2) ]
+\0
+
+[@ITEM 253 (FR) ]
+\0
+
+[@ITEM 254 (L1) ]
+\0
+
+[@ITEM 254 (EN) ]
+\0
+
+[@ITEM 254 (L2) ]
+\0
+
+[@ITEM 254 (FR) ]
+\0
+
+[@ITEM 255 (L1) ]
+\0
+
+[@ITEM 255 (EN) ]
+\0
+
+[@ITEM 255 (L2) ]
+\0
+
+[@ITEM 255 (FR) ]
+\0
+

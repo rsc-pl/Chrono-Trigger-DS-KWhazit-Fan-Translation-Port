@@ -1,0 +1,344 @@
+[@wireless2.msg]
+
+[@ITEM 0 (L1) ]
+\0
+
+[@ITEM 0 (EN) ]
+{C5}{B6}'s {ENEMY} steps into the Pit
+on the side of Player 1.\0
+
+[@ITEM 0 (L2) ]
+\0
+
+[@ITEM 0 (FR) ]
+Dans le côté gauche, nous avons... {ENEMY} !
+J1 : {C5}{B6}\0
+
+[@ITEM 1 (L1) ]
+\0
+
+[@ITEM 1 (EN) ]
+{C5}{B6}'s {ENEMY} steps into the Pit
+on the side of Player 2.\0
+
+[@ITEM 1 (L2) ]
+\0
+
+[@ITEM 1 (FR) ]
+Et dans le côté droit, nous avons... {ENEMY} !
+J2 : {C5}{B6}\0
+
+[@ITEM 2 (L1) ]
+\0
+
+[@ITEM 2 (EN) ]
+{C5}{B6}'s {ENEMY} attacks!\0
+
+[@ITEM 2 (L2) ]
+\0
+
+[@ITEM 2 (FR) ]
+{ENEMY}, de {C5}{B6},
+passe à l'offensive !\0
+
+[@ITEM 3 (L1) ]
+\0
+
+[@ITEM 3 (EN) ]
+{C5}{B6}'s {ENEMY} attacks!\0
+
+[@ITEM 3 (L2) ]
+\0
+
+[@ITEM 3 (FR) ]
+{ENEMY}, de {C5}{B6},
+s'avance...\0
+
+[@ITEM 4 (L1) ]
+\0
+
+[@ITEM 4 (EN) ]
+{C5}{B6}'s {ENEMY} attacks!\0
+
+[@ITEM 4 (L2) ]
+\0
+
+[@ITEM 4 (FR) ]
+{ENEMY} attaque !
+Que nous réserve {C5}{B6} ?\0
+
+[@ITEM 5 (L1) ]
+\0
+
+[@ITEM 5 (EN) ]
+{MAGIC}!\0
+
+[@ITEM 5 (L2) ]
+\0
+
+[@ITEM 5 (FR) ]
+{MAGIC} !\0
+
+[@ITEM 6 (L1) ]
+\0
+
+[@ITEM 6 (EN) ]
+{MAGIC}!\0
+
+[@ITEM 6 (L2) ]
+\0
+
+[@ITEM 6 (FR) ]
+{MAGIC} !\0
+
+[@ITEM 7 (L1) ]
+\0
+
+[@ITEM 7 (EN) ]
+{MAGIC}!
+Critical hit!\0
+
+[@ITEM 7 (L2) ]
+\0
+
+[@ITEM 7 (FR) ]
+{MAGIC} !
+C'est un coup critique !\0
+
+[@ITEM 8 (L1) ]
+\0
+
+[@ITEM 8 (EN) ]
+{COUNT} damage!\0
+
+[@ITEM 8 (L2) ]
+\0
+
+[@ITEM 8 (FR) ]
+{COUNT} point(s) de dégâts !\0
+
+[@ITEM 9 (L1) ]
+\0
+
+[@ITEM 9 (EN) ]
+{C5}{B6}'s {ENEMY}
+has acquired a status ailment!\0
+
+[@ITEM 9 (L2) ]
+\0
+
+[@ITEM 9 (FR) ]
+Oh... {ENEMY} a l'air mal en point.\0
+
+[@ITEM 10 (L1) ]
+\0
+
+[@ITEM 10 (EN) ]
+{C5}{B6}'s {ENEMY} has won the battle!\0
+
+[@ITEM 10 (L2) ]
+\0
+
+[@ITEM 10 (FR) ]
+{ENEMY}, de {C5}{B6},
+remporte la victoire !\0
+
+[@ITEM 11 (L1) ]
+\0
+
+[@ITEM 11 (EN) ]
+{MAGIC}!
+Miss!\0
+
+[@ITEM 11 (L2) ]
+\0
+
+[@ITEM 11 (FR) ]
+{MAGIC} !
+Non ! Son adversaire esquive !\0
+
+[@ITEM 12 (L1) ]
+\0
+
+[@ITEM 12 (EN) ]
+{C5}{B6}'s {ENEMY} has fallen quiet.\0
+
+[@ITEM 12 (L2) ]
+\0
+
+[@ITEM 12 (FR) ]
+{ENEMY}, de {C5}{B6},
+est imperturbable.\0
+
+[@ITEM 13 (L1) ]
+\0
+
+[@ITEM 13 (EN) ]
+Please select a fighter.\0
+
+[@ITEM 13 (L2) ]
+\0
+
+[@ITEM 13 (FR) ]
+Choisissez le monstre qui combattra pour vous.\0
+
+[@ITEM 14 (L1) ]
+\0
+
+[@ITEM 14 (EN) ]
+{C5}{B6}'s {ENEMY} knows no fire-based techs.\0
+
+[@ITEM 14 (L2) ]
+\0
+
+[@ITEM 14 (FR) ]
+{ENEMY}, de {C5}{B6},
+ne connaît pas de compétence de feu !\0
+
+[@ITEM 15 (L1) ]
+\0
+
+[@ITEM 15 (EN) ]
+{C5}{B6}'s {ENEMY}
+knows no water-based techs.\0
+
+[@ITEM 15 (L2) ]
+\0
+
+[@ITEM 15 (FR) ]
+{ENEMY}, de {C5}{B6},
+ne connaît pas de compétence d'eau !\0
+
+[@ITEM 16 (L1) ]
+\0
+
+[@ITEM 16 (EN) ]
+{C5}{B6}'s {ENEMY}
+knows no light-based techs.\0
+
+[@ITEM 16 (L2) ]
+\0
+
+[@ITEM 16 (FR) ]
+{ENEMY}, de {C5}{B6},
+ne connaît pas de compétence de lumière !\0
+
+[@ITEM 17 (L1) ]
+\0
+
+[@ITEM 17 (EN) ]
+{C5}{B6}'s {ENEMY}
+knows no shadow-based techs.\0
+
+[@ITEM 17 (L2) ]
+\0
+
+[@ITEM 17 (FR) ]
+{ENEMY}, de {C5}{B6},
+ne connaît pas de compétence de ténèbres !\0
+
+[@ITEM 18 (L1) ]
+\0
+
+[@ITEM 18 (EN) ]
+{COUNT} damage!
+{C5}{B6}'s {ENEMY} is blinded!\0
+
+[@ITEM 18 (L2) ]
+\0
+
+[@ITEM 18 (FR) ]
+{COUNT} point(s) de dégâts !
+{ENEMY}, de {C5}{B6},
+subit l'altération d'état Cécité !\0
+
+[@ITEM 19 (L1) ]
+\0
+
+[@ITEM 19 (EN) ]
+{COUNT} damage!
+{C5}{B6}'s {ENEMY} is confused!\0
+
+[@ITEM 19 (L2) ]
+\0
+
+[@ITEM 19 (FR) ]
+{COUNT} point(s) de dégâts !
+{ENEMY} , de {C5}{B6},
+subit l'altération d'état Confusion !\0
+
+[@ITEM 20 (L1) ]
+\0
+
+[@ITEM 20 (EN) ]
+{COUNT} damage!
+{C5}{B6}'s {ENEMY} is slowed!\0
+
+[@ITEM 20 (L2) ]
+\0
+
+[@ITEM 20 (FR) ]
+{COUNT} point(s) de dégâts !
+{ENEMY}, de {C5}{B6},
+subit l'altération d'état Lenteur !\0
+
+[@ITEM 21 (L1) ]
+\0
+
+[@ITEM 21 (EN) ]
+P1\0
+
+[@ITEM 21 (L2) ]
+\0
+
+[@ITEM 21 (FR) ]
+J1\0
+
+[@ITEM 22 (L1) ]
+\0
+
+[@ITEM 22 (EN) ]
+\tP2\0
+
+[@ITEM 22 (L2) ]
+\0
+
+[@ITEM 22 (FR) ]
+\tJ2\0
+
+[@ITEM 23 (L1) ]
+\0
+
+[@ITEM 23 (EN) ]
+/\0
+
+[@ITEM 23 (L2) ]
+\0
+
+[@ITEM 23 (FR) ]
+/\0
+
+[@ITEM 24 (L1) ]
+\0
+
+[@ITEM 24 (EN) ]
+???\0
+
+[@ITEM 24 (L2) ]
+\0
+
+[@ITEM 24 (FR) ]
+???\0
+
+[@ITEM 25 (L1) ]
+\0
+
+[@ITEM 25 (EN) ]
+NPC\0
+
+[@ITEM 25 (L2) ]
+\0
+
+[@ITEM 25 (FR) ]
+PNJ\0
+

@@ -1,0 +1,36 @@
+# Local/private workspace. Never commit anything under this tree.
+.local/
+
+# ROMs and emulator state
+*.nds
+*.srl
+*.sav
+*.dsv
+*.duc
+
+# Generated patches/build products
+*.bps
+*.ups
+*.ips
+*.xdelta
+*.xdelta3
+build/
+builds/
+dist/
+release_patches/
+releases/
+
+
+# Python/runtime clutter
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor/OS clutter
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~

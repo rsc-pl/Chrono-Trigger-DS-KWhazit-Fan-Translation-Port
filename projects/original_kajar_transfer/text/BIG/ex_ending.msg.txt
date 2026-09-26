@@ -1,0 +1,518 @@
+[@ex_ending.msg]
+
+[@ITEM 0 (L1) ]
+\0
+
+[@ITEM 0 (EN) ]
+Defeat Lavos after reviving Crono at Death Mountain.\0
+
+[@ITEM 0 (L2) ]
+\0
+
+[@ITEM 0 (FR) ]
+Après avoir ressuscité Chrono sur le mont des
+défunts.\0
+
+[@ITEM 1 (L1) ]
+\0
+
+[@ITEM 1 (EN) ]
+Defeat Lavos while Crono is dead.\0
+
+[@ITEM 1 (L2) ]
+\0
+
+[@ITEM 1 (FR) ]
+Alors que Chrono est décédé.\0
+
+[@ITEM 2 (L1) ]
+\0
+
+[@ITEM 2 (EN) ]
+Defeat Lavos in the Ocean Floor Temple Vimanam or immediately
+upon starting New Game +.\0
+
+[@ITEM 2 (L2) ]
+\0
+
+[@ITEM 2 (FR) ]
+Au tout début d'une nouvelle partie {STAR} ou dans le
+sanctuaire sous-marin.\0
+
+[@ITEM 3 (L1) ]
+\0
+
+[@ITEM 3 (EN) ]
+Defeat Lavos after saving Leene and Marle,
+but before visiting the Farthest Reaches
+of Time.\0
+
+[@ITEM 3 (L2) ]
+\0
+
+[@ITEM 3 (FR) ]
+Après avoir sauvé Lynne et Marle, mais avant d'aller
+à la Fin des temps.\0
+
+[@ITEM 4 (L1) ]
+\0
+
+[@ITEM 4 (EN) ]
+Defeat Lavos after visiting the Farthest
+Reaches of Time, but before returning to
+the Middle Ages.\0
+
+[@ITEM 4 (L2) ]
+\0
+
+[@ITEM 4 (FR) ]
+Après être allé à la Fin des temps, mais avant de
+retourner au Moyen-Âge.\0
+
+[@ITEM 5 (L1) ]
+\0
+
+[@ITEM 5 (EN) ]
+Defeat Lavos after arriving in the Middle Ages,
+but before obtaining the Hero's Badge from Tarta.\0
+
+[@ITEM 5 (L2) ]
+\0
+
+[@ITEM 5 (FR) ]
+Après être retourné au Moyen-Âge, mais avant de
+recevoir la médaille du héros de Tarta.\0
+
+[@ITEM 6 (L1) ]
+\0
+
+[@ITEM 6 (EN) ]
+Defeat Lavos after obtaining the Hero's Badge,
+but before the Gate Holder is stolen
+in prehistory.\0
+
+[@ITEM 6 (L2) ]
+\0
+
+[@ITEM 6 (FR) ]
+Après avoir reçu la médaille du héros, mais avant que
+la clef stabilisatrice soit volée dans la Préhistoire.\0
+
+[@ITEM 7 (L1) ]
+\0
+
+[@ITEM 7 (EN) ]
+Defeat Lavos after regaining the Gate Holder,
+but before giving the Grandleon to Frog.\0
+
+[@ITEM 7 (L2) ]
+\0
+
+[@ITEM 7 (FR) ]
+Après avoir récupéré la clef stabilisatrice, mais
+avant de rendre Grandléon à Gren.\0
+
+[@ITEM 8 (L1) ]
+\0
+
+[@ITEM 8 (EN) ]
+Defeat Lavos after giving the Grandleon to Frog,
+but before facing Magus.\0
+
+[@ITEM 8 (L2) ]
+\0
+
+[@ITEM 8 (FR) ]
+Après avoir rendu Grandléon à Gren, mais avant de
+combattre Magus.\0
+
+[@ITEM 9 (L1) ]
+\0
+
+[@ITEM 9 (EN) ]
+Defeat Lavos after facing Magus, but before
+facing Azarla.\0
+
+[@ITEM 9 (L2) ]
+\0
+
+[@ITEM 9 (FR) ]
+Après avoir combattu Magus, mais avant de
+combattre Azara.\0
+
+[@ITEM 10 (L1) ]
+\0
+
+[@ITEM 10 (EN) ]
+Defeat Lavos after facing Azarla, but before
+Sara opens the sealed door.\0
+
+[@ITEM 10 (L2) ]
+\0
+
+[@ITEM 10 (FR) ]
+Après avoir vaincu Azara, mais avant que Sarah
+n'ouvre la porte scellée.\0
+
+[@ITEM 11 (L1) ]
+\0
+
+[@ITEM 11 (EN) ]
+Defeat Lavos after Sara opens the sealed door,
+but before restoring light to the pendant.\0
+
+[@ITEM 11 (L2) ]
+\0
+
+[@ITEM 11 (FR) ]
+Après que Sarah ouvre la porte scellée, mais avant
+de réactiver le pendentif.\0
+
+[@ITEM 12 (L1) ]
+\0
+
+[@ITEM 12 (EN) ]
+Defeat the Dream Devourer beyond Time's Eclipse.\0
+
+[@ITEM 12 (L2) ]
+\0
+
+[@ITEM 12 (FR) ]
+Après avoir vaincu l'onirophage qui se terre dans les
+ténèbres du temps.\0
+
+[@ITEM 13 (L1) ]
+\0
+
+[@ITEM 13 (EN) ]
+This is the standard ending. Contents vary
+according to the status of the Epoch.\0
+
+[@ITEM 13 (L2) ]
+\0
+
+[@ITEM 13 (FR) ]
+La fin normale. La séquence change suivant que
+l'équipe possède encore l'Ibis ou non.\0
+
+[@ITEM 14 (L1) ]
+\0
+
+[@ITEM 14 (EN) ]
+This is the ending if Crono is dead. Contents
+vary according to the status of the Epoch.\0
+
+[@ITEM 14 (L2) ]
+\0
+
+[@ITEM 14 (FR) ]
+La fin si Chrono est décédé. La séquence change
+suivant que l'équipe possède encore l'Ibis ou non.\0
+
+[@ITEM 15 (L1) ]
+\0
+
+[@ITEM 15 (EN) ]
+Use the right Telepod to warp to Lavos immediately
+after starting New Game +.\0
+
+[@ITEM 15 (L2) ]
+\0
+
+[@ITEM 15 (FR) ]
+Examinez le portail sur le téléporteur de droite au
+tout début d'une nouvelle partie {STAR}.\0
+
+[@ITEM 16 (L1) ]
+\0
+
+[@ITEM 16 (EN) ]
+Use the Telepod immediately upon returning to
+the present.\0
+
+[@ITEM 16 (L2) ]
+\0
+
+[@ITEM 16 (FR) ]
+Examinez le portail sur le téléporteur de droite tout
+de suite après le retour dans le Présent.\0
+
+[@ITEM 17 (L1) ]
+\0
+
+[@ITEM 17 (EN) ]
+Use the bucket to warp to Lavos upon reaching
+the Farthest Reaches of Time.\0
+
+[@ITEM 17 (L2) ]
+\0
+
+[@ITEM 17 (FR) ]
+Examinez le seau après avoir atteint la Fin des
+temps.\0
+
+[@ITEM 18 (L1) ]
+\0
+
+[@ITEM 18 (EN) ]
+Face Lavos after the fight with Junkdragar.\0
+
+[@ITEM 18 (L2) ]
+\0
+
+[@ITEM 18 (FR) ]
+Après avoir vaincu l'abomination.\0
+
+[@ITEM 19 (L1) ]
+\0
+
+[@ITEM 19 (EN) ]
+Head to fight Lavos once Tarta has given you the
+Hero's Badge.\0
+
+[@ITEM 19 (L2) ]
+\0
+
+[@ITEM 19 (FR) ]
+Tout de suite après avoir reçu la médaille du héros
+de Tarta.\0
+
+[@ITEM 20 (L1) ]
+\0
+
+[@ITEM 20 (EN) ]
+Face Lavos once you have restored the Grandleon.\0
+
+[@ITEM 20 (L2) ]
+\0
+
+[@ITEM 20 (FR) ]
+Après avoir restauré Grandléon.\0
+
+[@ITEM 21 (L1) ]
+\0
+
+[@ITEM 21 (EN) ]
+Double back upon entering the Demon Cavern and
+head for the Farthest Reaches of Time.\0
+
+[@ITEM 21 (L2) ]
+\0
+
+[@ITEM 21 (FR) ]
+Après avoir pénétré dans la grotte des mystiques,
+rebroussez chemin et retournez à la Fin des temps.\0
+
+[@ITEM 22 (L1) ]
+\0
+
+[@ITEM 22 (EN) ]
+Go to the Farthest Reaches of Time from
+Mystery Mountains after the fight with Magus.\0
+
+[@ITEM 22 (L2) ]
+\0
+
+[@ITEM 22 (FR) ]
+Après avoir combattu Magus, retournez à la
+Fin des temps en passant par le mont étrange.\0
+
+[@ITEM 23 (L1) ]
+\0
+
+[@ITEM 23 (EN) ]
+Go to face Lavos without entering the Gate at
+Tyran Castle.\0
+
+[@ITEM 23 (L2) ]
+\0
+
+[@ITEM 23 (FR) ]
+Après l'arrivée de Lavos, sans passer par le cratère
+de Tyrannos.\0
+
+[@ITEM 24 (L1) ]
+\0
+
+[@ITEM 24 (EN) ]
+Face Lavos immediately after opening the sealed
+door. Becomes unavailable shortly thereafter.\0
+
+[@ITEM 24 (L2) ]
+\0
+
+[@ITEM 24 (FR) ]
+Immédiatement après l'ouverture de la porte scellée.
+Gare à ne pas faire progresser l'histoire !\0
+
+[@ITEM 25 (L1) ]
+\0
+
+[@ITEM 25 (EN) ]
+Use the gate at the Farthest Reaches of Time
+to warp to Time's Eclipse after clearing the
+dimensional vortex.\0
+
+[@ITEM 25 (L2) ]
+\0
+
+[@ITEM 25 (FR) ]
+Après avoir terminé le vortex dimensionnel, pénétrez
+les ténèbres du temps à partir de la Fin des temps.\0
+
+[@ITEM 26 (L1) ]
+\0
+
+[@ITEM 26 (EN) ]
+Beyond Time\0
+
+[@ITEM 26 (L2) ]
+\0
+
+[@ITEM 26 (FR) ]
+Au-delà du temps\0
+
+[@ITEM 27 (L1) ]
+\0
+
+[@ITEM 27 (EN) ]
+Reunion\0
+
+[@ITEM 27 (L2) ]
+\0
+
+[@ITEM 27 (FR) ]
+Retrouvailles\0
+
+[@ITEM 28 (L1) ]
+\0
+
+[@ITEM 28 (EN) ]
+The Dream Project\0
+
+[@ITEM 28 (L2) ]
+\0
+
+[@ITEM 28 (FR) ]
+Dream Team\0
+
+[@ITEM 29 (L1) ]
+\0
+
+[@ITEM 29 (EN) ]
+The Successor of Guardia\0
+
+[@ITEM 29 (L2) ]
+\0
+
+[@ITEM 29 (FR) ]
+Descendants de Gardia\0
+
+[@ITEM 30 (L1) ]
+\0
+
+[@ITEM 30 (EN) ]
+Good Night\0
+
+[@ITEM 30 (L2) ]
+\0
+
+[@ITEM 30 (FR) ]
+Bonne nuit\0
+
+[@ITEM 31 (L1) ]
+\0
+
+[@ITEM 31 (EN) ]
+The Legendary Hero\0
+
+[@ITEM 31 (L2) ]
+\0
+
+[@ITEM 31 (FR) ]
+Le héros légendaire\0
+
+[@ITEM 32 (L1) ]
+\0
+
+[@ITEM 32 (EN) ]
+The Unknown Past\0
+
+[@ITEM 32 (L2) ]
+\0
+
+[@ITEM 32 (FR) ]
+Passé inconnu\0
+
+[@ITEM 33 (L1) ]
+\0
+
+[@ITEM 33 (EN) ]
+People of the Times\0
+
+[@ITEM 33 (L2) ]
+\0
+
+[@ITEM 33 (FR) ]
+Les habitants du temps\0
+
+[@ITEM 34 (L1) ]
+\0
+
+[@ITEM 34 (EN) ]
+The Oath\0
+
+[@ITEM 34 (L2) ]
+\0
+
+[@ITEM 34 (FR) ]
+Le serment\0
+
+[@ITEM 35 (L1) ]
+\0
+
+[@ITEM 35 (EN) ]
+Dino Age\0
+
+[@ITEM 35 (L2) ]
+\0
+
+[@ITEM 35 (FR) ]
+Âge des sauriens\0
+
+[@ITEM 36 (L1) ]
+\0
+
+[@ITEM 36 (EN) ]
+What the Prophet Seeks\0
+
+[@ITEM 36 (L2) ]
+\0
+
+[@ITEM 36 (FR) ]
+Ce que recherche le prophète\0
+
+[@ITEM 37 (L1) ]
+\0
+
+[@ITEM 37 (EN) ]
+Memory Lane\0
+
+[@ITEM 37 (L2) ]
+\0
+
+[@ITEM 37 (FR) ]
+Réunion de bilan ?\0
+
+[@ITEM 38 (L1) ]
+\0
+
+[@ITEM 38 (EN) ]
+Dream's Epilogue\0
+
+[@ITEM 38 (L2) ]
+\0
+
+[@ITEM 38 (FR) ]
+Une fois le rêve terminé\0
+

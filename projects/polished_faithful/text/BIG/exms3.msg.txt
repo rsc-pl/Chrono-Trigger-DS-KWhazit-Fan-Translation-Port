@@ -1,0 +1,3460 @@
+[@exms3.msg]
+
+[@ITEM 0 (L1) ]
+\0
+
+[@ITEM 0 (EN) ]
+{MSGWND}
+Obtained {ITEM}!\0
+
+[@ITEM 0 (L2) ]
+\0
+
+[@ITEM 0 (FR) ]
+{MSGWND}
+Obtenu : {ITEM} !\0
+
+[@ITEM 1 (L1) ]
+\0
+
+[@ITEM 1 (EN) ]
+{Ayla}: Where this?
+{Ayla} no like this place.\0
+
+[@ITEM 1 (L2) ]
+\0
+
+[@ITEM 1 (FR) ]
+{Ayla} : Où être ? Endroit sinistre...\0
+
+[@ITEM 2 (L1) ]
+\0
+
+[@ITEM 2 (EN) ]
+{Marle}: Where are we?
+I don't like this place.\0
+
+[@ITEM 2 (L2) ]
+\0
+
+[@ITEM 2 (FR) ]
+{Marle} : Où sommes-nous ? Je n'aime pas cet
+endroit...\0
+
+[@ITEM 3 (L1) ]
+\0
+
+[@ITEM 3 (EN) ]
+{Frog}: To what profane place have we come?\0
+
+[@ITEM 3 (L2) ]
+\0
+
+[@ITEM 3 (FR) ]
+{Frog} : Où sommes-nous ? Cet endroit est plutôt
+sinistre...\0
+
+[@ITEM 4 (L1) ]
+\0
+
+[@ITEM 4 (EN) ]
+{Lucca}: Looks like we've come to a world from
+some other age.\0
+
+[@ITEM 4 (L2) ]
+\0
+
+[@ITEM 4 (FR) ]
+{Lucca} : C'est comme si notre monde confluait avec
+un autre où les époques sont différentes.\0
+
+[@ITEM 5 (L1) ]
+\0
+
+[@ITEM 5 (EN) ]
+{Robo}: I am unfamiliar with this location.\0
+
+[@ITEM 5 (L2) ]
+\0
+
+[@ITEM 5 (FR) ]
+{Robo} : Où sommes-nous ? Je ne connais pas cet
+endroit.\0
+
+[@ITEM 6 (L1) ]
+\0
+
+[@ITEM 6 (EN) ]
+{Magus}: This is a great rift in time's fabric.
+There is no stability whatsoever here.\0
+
+[@ITEM 6 (L2) ]
+\0
+
+[@ITEM 6 (FR) ]
+{Magus} : C'est une déformation de la structure des
+dimensions. L'espace est totalement instable.\0
+
+[@ITEM 7 (L1) ]
+\0
+
+[@ITEM 7 (EN) ]
+{Robo}: My time gyro cannot acquire a stable
+reading for time or locale.\0
+
+[@ITEM 7 (L2) ]
+\0
+
+[@ITEM 7 (FR) ]
+{Robo} : Mon gyroscope spatio-temporel est
+déréglé ! Il m'est impossible de déterminer
+l'endroit ou l'époque où nous sommes !\0
+
+[@ITEM 8 (L1) ]
+\0
+
+[@ITEM 8 (EN) ]
+{Lucca}: Looks like we've come to a world from
+some other age.\0
+
+[@ITEM 8 (L2) ]
+\0
+
+[@ITEM 8 (FR) ]
+{Lucca} : C'est comme si notre monde confluait avec
+un autre où les époques sont différentes.\0
+
+[@ITEM 9 (L1) ]
+\0
+
+[@ITEM 9 (EN) ]
+{Frog}: It seems almost a confluence of sorts, as
+if time's streams had crossed.\0
+
+[@ITEM 9 (L2) ]
+\0
+
+[@ITEM 9 (FR) ]
+{Frog} : L'espace se distord. C'est comme si les
+époques se croisaient.\0
+
+[@ITEM 10 (L1) ]
+\0
+
+[@ITEM 10 (EN) ]
+{Marle}: Is space all twisted here?
+I don't understand.\0
+
+[@ITEM 10 (L2) ]
+\0
+
+[@ITEM 10 (FR) ]
+{Marle} : L'espace se distord ? ... Je n'y comprends
+pas grand-chose.\0
+
+[@ITEM 11 (L1) ]
+\0
+
+[@ITEM 11 (EN) ]
+{Frog}: In any case, shall we explore?\0
+
+[@ITEM 11 (L2) ]
+\0
+
+[@ITEM 11 (FR) ]
+{Frog} : Que devrions-nous faire...?
+Continuons pour voir.\0
+
+[@ITEM 12 (L1) ]
+\0
+
+[@ITEM 12 (EN) ]
+{Lucca}: I don't really like this, but should we take
+a look around?\0
+
+[@ITEM 12 (L2) ]
+\0
+
+[@ITEM 12 (FR) ]
+{Lucca} : Que faire ? Ça ne me dit rien qui vaille,
+mais continuons.\0
+
+[@ITEM 13 (L1) ]
+\0
+
+[@ITEM 13 (EN) ]
+{Robo}: Shall we explore?
+I find this place intriguing already.\0
+
+[@ITEM 13 (L2) ]
+\0
+
+[@ITEM 13 (FR) ]
+{Robo} : Que devrions-nous faire ? Cet endroit
+éveille ma curiosité. Continuons pour voir.\0
+
+[@ITEM 14 (L1) ]
+\0
+
+[@ITEM 14 (EN) ]
+{Magus}: We've no guarantee we'll be able to return.
+Do we go onward?\0
+
+[@ITEM 14 (L2) ]
+\0
+
+[@ITEM 14 (FR) ]
+{Magus} : Qu'allons-nous faire ? Il n'est pas certain
+que nous en sortirons indemnes, mais continuons.\0
+
+[@ITEM 15 (L1) ]
+\0
+
+[@ITEM 15 (EN) ]
+{Ayla}: Go ahead?\0
+
+[@ITEM 15 (L2) ]
+\0
+
+[@ITEM 15 (FR) ]
+{Ayla} : Quoi faire ? Continuer ?\0
+
+[@ITEM 16 (L1) ]
+\0
+
+[@ITEM 16 (EN) ]
+This Gate connects to the era from which you came.
+Do you wish to return there?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 16 (L2) ]
+\0
+
+[@ITEM 16 (FR) ]
+On dirait un portail menant à l'époque où vous étiez.
+Voulez-vous l'utiliser ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 17 (L1) ]
+\0
+
+[@ITEM 17 (EN) ]
+There is a switch here.
+Press the switch?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 17 (L2) ]
+\0
+
+[@ITEM 17 (FR) ]
+Voulez-vous appuyer sur
+le bouton ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 18 (L1) ]
+\0
+
+[@ITEM 18 (EN) ]
+"Crater surveillance ladder."
+Press the switch?
+\t\t{SEL1}Yes.{/SEL1}
+\t\t{SEL2}No.{/SEL2}\0
+
+[@ITEM 18 (L2) ]
+\0
+
+[@ITEM 18 (FR) ]
+Il est écrit : « Échelle pour l'inspection du cratère ».
+Voulez-vous appuyer sur le bouton ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 19 (L1) ]
+\0
+
+[@ITEM 19 (EN) ]
+There is a note.{PRESS_CLEAR}
+"The Director of Research ought to have the security
+lock release code written down somewhere in this room.{PRESS_CLEAR}
+"He's a strange one, though, always writing in codes
+and what have you. Knowing him, he probably wrote it
+down backwards."\0
+
+[@ITEM 19 (L2) ]
+\0
+
+[@ITEM 19 (FR) ]
+Il y a une note de l'administrateur...{PRESS_CLEAR}
+« Le directeur devrait avoir laissé une note sur le code
+de sécurité quelque part dans cette pièce. »{PRESS_CLEAR}
+« Cependant, il a l'esprit tordu... Il ne donnerait pas
+le code directement. Il faudrait peut-être le lire à
+l'envers. »\0
+
+[@ITEM 20 (L1) ]
+\0
+
+[@ITEM 20 (EN) ]
+There is a note written by the Director of Research.{PRESS_CLEAR}
+"Security lock release code: LLAB
+I picked it because, well...I like things that are round."\0
+
+[@ITEM 20 (L2) ]
+\0
+
+[@ITEM 20 (FR) ]
+Il y a une note du directeur...{PRESS_CLEAR}
+« Le code de sécurité est L L A B. Je l'ai choisi parce
+que j'aime les trucs ronds. »\0
+
+[@ITEM 21 (L1) ]
+\0
+
+[@ITEM 21 (EN) ]
+{MSGWND}
+SECURITY LOCK ENGAGED.\0
+
+[@ITEM 21 (L2) ]
+\0
+
+[@ITEM 21 (FR) ]
+{MSGWND}
+Verrouillage de sécurité...\0
+
+[@ITEM 22 (L1) ]
+\0
+
+[@ITEM 22 (EN) ]
+{Lucca}: Is anybody out there!?\0
+
+[@ITEM 22 (L2) ]
+\0
+
+[@ITEM 22 (FR) ]
+{Lucca} : Il y a quelqu'un...?\0
+
+[@ITEM 23 (L1) ]
+\0
+
+[@ITEM 23 (EN) ]
+{Marle}: Kyaah!\0
+
+[@ITEM 23 (L2) ]
+\0
+
+[@ITEM 23 (FR) ]
+{Marle} : À l'aide !\0
+
+[@ITEM 24 (L1) ]
+\0
+
+[@ITEM 24 (EN) ]
+{Robo}: Can anyone hear us?\0
+
+[@ITEM 24 (L2) ]
+\0
+
+[@ITEM 24 (FR) ]
+{Robo} : Y a-t-il quelqu'un ?\0
+
+[@ITEM 25 (L1) ]
+\0
+
+[@ITEM 25 (EN) ]
+{Ayla}: Open door!
+Open door NOW!\0
+
+[@ITEM 25 (L2) ]
+\0
+
+[@ITEM 25 (FR) ]
+{Ayla} : Personne ? Ouvrir porte !
+Ouvrir porte !\0
+
+[@ITEM 26 (L1) ]
+\0
+
+[@ITEM 26 (EN) ]
+{Frog}: Is no one out there?\0
+
+[@ITEM 26 (L2) ]
+\0
+
+[@ITEM 26 (FR) ]
+{Frog} : Il y a quelqu'un ?\0
+
+[@ITEM 27 (L1) ]
+\0
+
+[@ITEM 27 (EN) ]
+{Magus}: Hmph.\0
+
+[@ITEM 27 (L2) ]
+\0
+
+[@ITEM 27 (FR) ]
+{Magus} : Quel spectacle pitoyable...\0
+
+[@ITEM 28 (L1) ]
+\0
+
+[@ITEM 28 (EN) ]
+{Frog}: It seems the task falls to us to save the day.\0
+
+[@ITEM 28 (L2) ]
+\0
+
+[@ITEM 28 (FR) ]
+{Frog} : C'est enfin à moi de jouer.
+Je me lassais d'attendre.\0
+
+[@ITEM 29 (L1) ]
+\0
+
+[@ITEM 29 (EN) ]
+{Robo}: It appears everyone is all right.\0
+
+[@ITEM 29 (L2) ]
+\0
+
+[@ITEM 29 (FR) ]
+{Robo} : Tout le monde est sain et sauf, n'est-ce
+pas ?\0
+
+[@ITEM 30 (L1) ]
+\0
+
+[@ITEM 30 (EN) ]
+{Ayla}: You okay?
+{Ayla} help!\0
+
+[@ITEM 30 (L2) ]
+\0
+
+[@ITEM 30 (FR) ]
+{Ayla} : Tous bien aller ? {Ayla} aider !\0
+
+[@ITEM 31 (L1) ]
+\0
+
+[@ITEM 31 (EN) ]
+{Marle}: Leave it to us!\0
+
+[@ITEM 31 (L2) ]
+\0
+
+[@ITEM 31 (FR) ]
+{Marle} : Laissez-nous nous en charger !\0
+
+[@ITEM 32 (L1) ]
+\0
+
+[@ITEM 32 (EN) ]
+{Lucca}: You came!\0
+
+[@ITEM 32 (L2) ]
+\0
+
+[@ITEM 32 (FR) ]
+{Lucca} : Je savais que vous viendriez !\0
+
+[@ITEM 33 (L1) ]
+\0
+
+[@ITEM 33 (EN) ]
+{Lucca}: We're trapped in here!
+There should be a room to the east with a mechanism
+for releasing the lock. Think you can look for it?\0
+
+[@ITEM 33 (L2) ]
+\0
+
+[@ITEM 33 (FR) ]
+{Lucca} : Nous ne pouvons pas sortir d'ici. Il devrait
+y avoir une salle où vous pourrez ouvrir cette porte
+à l'est d'ici. Essayez de la trouver !\0
+
+[@ITEM 34 (L1) ]
+\0
+
+[@ITEM 34 (EN) ]
+{Marle}: Oh, thank goodness!
+I thought we were trapped for good!{PRESS_CLEAR}
+You should be able to open the door from a
+room to the east. Please, you have to get us out!\0
+
+[@ITEM 34 (L2) ]
+\0
+
+[@ITEM 34 (FR) ]
+{Marle} : Le ciel soit loué... Merci d'être venus.{PRESS_CLEAR}
+Il devrait y avoir une salle où vous pourrez ouvrir cette
+porte à l'est d'ici. Je vous en prie, aidez-nous !\0
+
+[@ITEM 35 (L1) ]
+\0
+
+[@ITEM 35 (EN) ]
+{Robo}: Oh, you have come!
+Thank you.{PRESS_CLEAR}
+There is a room to your east from which you can
+release this lock. Would you be so kind as to look
+for it?\0
+
+[@ITEM 35 (L2) ]
+\0
+
+[@ITEM 35 (FR) ]
+{Robo} : Quel soulagement d'entendre vos voix !{PRESS_CLEAR}
+Il devrait y avoir une salle où vous pourrez
+déverrouiller cette porte à l'est d'ici.{PRESS_CLEAR}
+Pourriez-vous aller y jeter un coup d'œil ?\0
+
+[@ITEM 36 (L1) ]
+\0
+
+[@ITEM 36 (EN) ]
+{Ayla}: Oh, you come help {Ayla}!{PRESS_CLEAR}
+Go find place open door!
+{Ayla} no like door not open.
+{Ayla} want leave!\0
+
+[@ITEM 36 (L2) ]
+\0
+
+[@ITEM 36 (FR) ]
+{Ayla} : {Ayla} être soulagée. Merci !{PRESS_CLEAR}
+Clef pour ouvrir porte être quelque part. {Ayla}
+détester être enfermée. {Ayla} vouloir sortir !\0
+
+[@ITEM 37 (L1) ]
+\0
+
+[@ITEM 37 (EN) ]
+{Frog}: You've come to help us!
+My pardons.{PRESS_CLEAR}
+To your east is a room from which this door can be
+opened. Might you do us the favor of searching it out?\0
+
+[@ITEM 37 (L2) ]
+\0
+
+[@ITEM 37 (FR) ]
+{Frog} : Ah, vous allez nous aider ? Je vous en suis
+reconnaissant...{PRESS_CLEAR}
+Il devrait y avoir une salle où vous pourrez ouvrir cette
+porte à l'est d'ici. Pourriez-vous vous en charger ?\0
+
+[@ITEM 38 (L1) ]
+\0
+
+[@ITEM 38 (EN) ]
+{Magus}: Hmph.
+Do not think I'll make a habit of this.\0
+
+[@ITEM 38 (L2) ]
+\0
+
+[@ITEM 38 (FR) ]
+{Magus} : Tsst ! Je veux bien vous aider pour cette
+fois.\0
+
+[@ITEM 39 (L1) ]
+\0
+
+[@ITEM 39 (EN) ]
+{Frog}: Of course.
+We'll go at once.\0
+
+[@ITEM 39 (L2) ]
+\0
+
+[@ITEM 39 (FR) ]
+{Frog} : Entendu. Nous allons l'ouvrir tout de suite.\0
+
+[@ITEM 40 (L1) ]
+\0
+
+[@ITEM 40 (EN) ]
+{Robo}: Understood.
+We shall commence the search immediately.\0
+
+[@ITEM 40 (L2) ]
+\0
+
+[@ITEM 40 (FR) ]
+{Robo} : C'est entendu. Je vais la trouver.\0
+
+[@ITEM 41 (L1) ]
+\0
+
+[@ITEM 41 (EN) ]
+{Ayla}: Okay.
+{Ayla} find!\0
+
+[@ITEM 41 (L2) ]
+\0
+
+[@ITEM 41 (FR) ]
+{Ayla} : D'accord ! {Ayla} chercher !\0
+
+[@ITEM 42 (L1) ]
+\0
+
+[@ITEM 42 (EN) ]
+{Marle}: All right.
+Just hold on a little bit longer.
+We'll get you out!\0
+
+[@ITEM 42 (L2) ]
+\0
+
+[@ITEM 42 (FR) ]
+{Marle} : Entendu. Je vais vous sortir de là, je vous
+le promets ! Patientez encore un peu !\0
+
+[@ITEM 43 (L1) ]
+\0
+
+[@ITEM 43 (EN) ]
+{MSGWND}
+INTRUSION DETECTED!\0
+
+[@ITEM 43 (L2) ]
+\0
+
+[@ITEM 43 (FR) ]
+{MSGWND}
+Alerte ! Intrus détectés !\0
+
+[@ITEM 44 (L1) ]
+\0
+
+[@ITEM 44 (EN) ]
+{MSGWND}
+INITIALIZING SECURITY LOCK
+OBSERVATION PROGRAM.\0
+
+[@ITEM 44 (L2) ]
+\0
+
+[@ITEM 44 (FR) ]
+{MSGWND}
+Activation du programme de surveillance.\0
+
+[@ITEM 45 (L1) ]
+\0
+
+[@ITEM 45 (EN) ]
+{MSGWND}
+LOCK RELEASE COMMAND EXECUTED BY
+UNREGISTERED ADMINISTRATOR.{PRESS_CLEAR}{MSGWND}
+
+INITIATING CONTAINMENT LOCKDOWN.\0
+
+[@ITEM 45 (L2) ]
+\0
+
+[@ITEM 45 (FR) ]
+{MSGWND}
+Commande saisie par un administrateur non enregistré.
+Verrouillage activé.\0
+
+[@ITEM 46 (L1) ]
+\0
+
+[@ITEM 46 (EN) ]
+{MSGWND}
+ADMINISTRATOR REGISTRATION AT EAST WING
+REQUIRED TO DISENGAGE LOCKDOWN.\0
+
+[@ITEM 46 (L2) ]
+\0
+
+[@ITEM 46 (FR) ]
+{MSGWND}Pour désactiver le verrouillage,
+veuillez effectuer l'enregistrement de
+l'administrateur dans l'annexe est.\0
+
+[@ITEM 47 (L1) ]
+\0
+
+[@ITEM 47 (EN) ]
+{Lucca}: It won't open.
+Are we trapped in here?\0
+
+[@ITEM 47 (L2) ]
+\0
+
+[@ITEM 47 (FR) ]
+{Lucca} : Elle ne veut pas s'ouvrir... N'y a-t-il pas
+d'autre issue ?!\0
+
+[@ITEM 48 (L1) ]
+\0
+
+[@ITEM 48 (EN) ]
+{Marle}: It's no use, it won't open.
+It looks like we're trapped.\0
+
+[@ITEM 48 (L2) ]
+\0
+
+[@ITEM 48 (FR) ]
+{Marle} : Elle ne s'ouvre pas... On dirait qu'il n'y a
+pas d'autre issue. Qu'allons-nous faire ?\0
+
+[@ITEM 49 (L1) ]
+\0
+
+[@ITEM 49 (EN) ]
+{Robo}: The door lock has been activated.
+It appears we are trapped.\0
+
+[@ITEM 49 (L2) ]
+\0
+
+[@ITEM 49 (FR) ]
+{Robo} : La porte est verrouillée. Il semble que
+nous sommes coincés ici.\0
+
+[@ITEM 50 (L1) ]
+\0
+
+[@ITEM 50 (EN) ]
+{Ayla}: Door no open.
+{Ayla} no can leave?\0
+
+[@ITEM 50 (L2) ]
+\0
+
+[@ITEM 50 (FR) ]
+{Ayla} : Porte pas s'ouvrir. {Ayla} être
+coincée ici ?\0
+
+[@ITEM 51 (L1) ]
+\0
+
+[@ITEM 51 (EN) ]
+{Frog}: It's no use.
+It would seem we're trapped.\0
+
+[@ITEM 51 (L2) ]
+\0
+
+[@ITEM 51 (FR) ]
+{Frog} : Impossible de l'ouvrir...
+On dirait que nous sommes coincés ici.\0
+
+[@ITEM 52 (L1) ]
+\0
+
+[@ITEM 52 (EN) ]
+{Magus}: What now?
+We'd best do something, unless it is your
+plan to wait out our deaths here.\0
+
+[@ITEM 52 (L2) ]
+\0
+
+[@ITEM 52 (FR) ]
+{Magus} : Qu'allons-nous faire ? Devrons-nous
+attendre notre mort en cet endroit ?\0
+
+[@ITEM 53 (L1) ]
+\0
+
+[@ITEM 53 (EN) ]
+{Frog}: What shall we do now?
+We must think of a way to escape.\0
+
+[@ITEM 53 (L2) ]
+\0
+
+[@ITEM 53 (FR) ]
+{Frog} : Nous devons maintenant essayer de
+trouver un moyen de sortir d'ici...\0
+
+[@ITEM 54 (L1) ]
+\0
+
+[@ITEM 54 (EN) ]
+{Ayla}: How get out?\0
+
+[@ITEM 54 (L2) ]
+\0
+
+[@ITEM 54 (FR) ]
+{Ayla} : Sortir comment ?\0
+
+[@ITEM 55 (L1) ]
+\0
+
+[@ITEM 55 (EN) ]
+{Robo}: This could pose a problem.
+I do not think our strength will be
+sufficient to force our way out.\0
+
+[@ITEM 55 (L2) ]
+\0
+
+[@ITEM 55 (FR) ]
+{Robo} : Nous voilà dans de beaux draps...
+Il semble que tous nos efforts sont vains.\0
+
+[@ITEM 56 (L1) ]
+\0
+
+[@ITEM 56 (EN) ]
+{Marle}: There's no way out?
+I don't want to die in here!\0
+
+[@ITEM 56 (L2) ]
+\0
+
+[@ITEM 56 (FR) ]
+{Marle} : Alors, on ne peut pas sortir d'ici ?
+Je n'ai pas envie de mourir dans un endroit pareil !\0
+
+[@ITEM 57 (L1) ]
+\0
+
+[@ITEM 57 (EN) ]
+{Robo}: The locks have been released!\0
+
+[@ITEM 57 (L2) ]
+\0
+
+[@ITEM 57 (FR) ]
+{Robo} : Il semble que la porte est déverrouillée.\0
+
+[@ITEM 58 (L1) ]
+\0
+
+[@ITEM 58 (EN) ]
+{Ayla}: Door open!
+Can go out!\0
+
+[@ITEM 58 (L2) ]
+\0
+
+[@ITEM 58 (FR) ]
+{Ayla} : Porte être ouverte ! Nous sortir !\0
+
+[@ITEM 59 (L1) ]
+\0
+
+[@ITEM 59 (EN) ]
+{Frog}: Ah, they've released the locks!
+We'll have to thank them properly when
+we've the chance.\0
+
+[@ITEM 59 (L2) ]
+\0
+
+[@ITEM 59 (FR) ]
+{Frog} : Oh, elle est déverrouillée !
+Je leur revaudrai ça !\0
+
+[@ITEM 60 (L1) ]
+\0
+
+[@ITEM 60 (EN) ]
+{Lucca}: All right!
+The doors are unlocked!
+We'll have to thank them later.\0
+
+[@ITEM 60 (L2) ]
+\0
+
+[@ITEM 60 (FR) ]
+{Lucca} : Hourra, la porte est ouverte !
+Ils ont réussi !\0
+
+[@ITEM 61 (L1) ]
+\0
+
+[@ITEM 61 (EN) ]
+{Marle}: Whew, the doors are unlocked!
+Thank goodness. I was really starting
+to get tired of this place!\0
+
+[@ITEM 61 (L2) ]
+\0
+
+[@ITEM 61 (FR) ]
+{Marle} : On dirait que la porte est ouverte !
+Hourra ! Nous pouvons enfin sortir d'ici !\0
+
+[@ITEM 62 (L1) ]
+\0
+
+[@ITEM 62 (EN) ]
+{Magus}: Hmm?
+It seems another route has opened.
+Shall we see what lies that way?\0
+
+[@ITEM 62 (L2) ]
+\0
+
+[@ITEM 62 (FR) ]
+{Magus} : Hum...? On dirait qu'une autre voie s'est
+ouverte. Voulez-vous aller voir ce qu'il en est ?\0
+
+[@ITEM 63 (L1) ]
+\0
+
+[@ITEM 63 (EN) ]
+{Marle}: Huh?
+Another way opened up, too.
+Why don't we check it out?\0
+
+[@ITEM 63 (L2) ]
+\0
+
+[@ITEM 63 (FR) ]
+{Marle} : Hum ? Il y a une autre issue. Voulez-vous y
+jeter un coup d'œil ?\0
+
+[@ITEM 64 (L1) ]
+\0
+
+[@ITEM 64 (EN) ]
+{Lucca}: Hmm?
+The lasers seem to have been shut off, too.
+Why don't we see what's down this way?\0
+
+[@ITEM 64 (L2) ]
+\0
+
+[@ITEM 64 (FR) ]
+{Lucca} : Hum ? On dirait qu'il y a aussi une autre
+voie. Vous ne voulez pas y jeter un coup d'œil ?\0
+
+[@ITEM 65 (L1) ]
+\0
+
+[@ITEM 65 (EN) ]
+{Frog}: Hm?
+It looks as though another route is open.
+Shall we take a look?\0
+
+[@ITEM 65 (L2) ]
+\0
+
+[@ITEM 65 (FR) ]
+{Frog} : Hum ? On dirait que nous pouvons aussi
+sortir par là. Que diriez-vous d'y jeter un coup
+d'œil ?\0
+
+[@ITEM 66 (L1) ]
+\0
+
+[@ITEM 66 (EN) ]
+{Ayla}: Huh?
+Here open too.
+Go look?\0
+
+[@ITEM 66 (L2) ]
+\0
+
+[@ITEM 66 (FR) ]
+{Ayla} : Quoi ? Aussi autre passage ici.
+Aller voir ?\0
+
+[@ITEM 67 (L1) ]
+\0
+
+[@ITEM 67 (EN) ]
+{MSGWND}
+ELIMINATE THE INTRUDERS!\0
+
+[@ITEM 67 (L2) ]
+\0
+
+[@ITEM 67 (FR) ]
+{MSGWND}Éliminez les intrus !\0
+
+[@ITEM 68 (L1) ]
+\0
+
+[@ITEM 68 (EN) ]
+{MSGWND}
+BOOTING SECURITY SYSTEM...\0
+
+[@ITEM 68 (L2) ]
+\0
+
+[@ITEM 68 (FR) ]
+{MSGWND}Initialisation du système de sécurité...\0
+
+[@ITEM 69 (L1) ]
+\0
+
+[@ITEM 69 (EN) ]
+RELEASE SECURITY LOCKS?
+\t\t{SEL1}YES{/SEL1}
+\t\t{SEL2}NO{/SEL2}\0
+
+[@ITEM 69 (L2) ]
+\0
+
+[@ITEM 69 (FR) ]
+Désactiver le système de sécurité ?
+       {SEL1}Oui{/SEL1}
+       {SEL2}Non{/SEL2}\0
+
+[@ITEM 70 (L1) ]
+\0
+
+[@ITEM 70 (EN) ]
+{MSGWND}
+PLEASE ENTER RELEASE CODE.\0
+
+[@ITEM 70 (L2) ]
+\0
+
+[@ITEM 70 (FR) ]
+{MSGWND}Veuillez saisir le code.\0
+
+[@ITEM 71 (L1) ]
+\0
+
+[@ITEM 71 (EN) ]
+{MSGWND}
+CODE CONFIRMED.
+SECURITY SYSTEM DISENGAGED.\0
+
+[@ITEM 71 (L2) ]
+\0
+
+[@ITEM 71 (FR) ]
+{MSGWND}Code accepté.
+Désactivation du système de sécurité réussie.\0
+
+[@ITEM 72 (L1) ]
+\0
+
+[@ITEM 72 (EN) ]
+{MSGWND}
+ERROR.
+RELEASE CODE INCORRECT.\0
+
+[@ITEM 72 (L2) ]
+\0
+
+[@ITEM 72 (FR) ]
+{MSGWND}Code refusé.\0
+
+[@ITEM 73 (L1) ]
+\0
+
+[@ITEM 73 (EN) ]
+{MSGWND}
+CONFIRMING ENTRANT IDENTITIES.\0
+
+[@ITEM 73 (L2) ]
+\0
+
+[@ITEM 73 (FR) ]
+{MSGWND}Analyse des personnes présentes...\0
+
+[@ITEM 74 (L1) ]
+\0
+
+[@ITEM 74 (EN) ]
+{MSGWND}
+UNREGISTERED ENTRANTS.
+COMMENCING EXTERMINATION.\0
+
+[@ITEM 74 (L2) ]
+\0
+
+[@ITEM 74 (FR) ]
+{MSGWND}Identité inconnue...
+Élimination des personnes non enregistrées !\0
+
+[@ITEM 75 (L1) ]
+\0
+
+[@ITEM 75 (EN) ]
+{MSGWND}
+LEVEL 1 ALERT.
+ELIMINATE INTRUDERS!\0
+
+[@ITEM 75 (L2) ]
+\0
+
+[@ITEM 75 (FR) ]
+{MSGWND}Alerte de niveau 1.
+Éliminez les intrus !\0
+
+[@ITEM 76 (L1) ]
+\0
+
+[@ITEM 76 (EN) ]
+{MSGWND}
+LEVEL 2 ALERT.
+ELIMINATE INTRUDERS!\0
+
+[@ITEM 76 (L2) ]
+\0
+
+[@ITEM 76 (FR) ]
+{MSGWND}Alerte de niveau 2.
+Éliminez les intrus !\0
+
+[@ITEM 77 (L1) ]
+\0
+
+[@ITEM 77 (EN) ]
+{MSGWND}
+LEVEL 3 ALERT.
+ELIMINATE INTRUDERS!\0
+
+[@ITEM 77 (L2) ]
+\0
+
+[@ITEM 77 (FR) ]
+{MSGWND}Alerte de niveau 3.
+Éliminez les intrus !\0
+
+[@ITEM 78 (L1) ]
+\0
+
+[@ITEM 78 (EN) ]
+{MSGWND}
+LEVEL 4 ALERT.
+ELIMINATE INTRUDERS!\0
+
+[@ITEM 78 (L2) ]
+\0
+
+[@ITEM 78 (FR) ]
+{MSGWND}Alerte de niveau 4.
+Éliminez les intrus !\0
+
+[@ITEM 79 (L1) ]
+\0
+
+[@ITEM 79 (EN) ]
+{MSGWND}
+LEVEL 5 ALERT.
+ELIMINATE INTRUDERS!\0
+
+[@ITEM 79 (L2) ]
+\0
+
+[@ITEM 79 (FR) ]
+{MSGWND}Alerte de niveau 5.
+Éliminez les intrus !\0
+
+[@ITEM 80 (L1) ]
+\0
+
+[@ITEM 80 (EN) ]
+{MSGWND}
+LEVEL 6 ALERT.
+ELIMINATE INTRUDERS!\0
+
+[@ITEM 80 (L2) ]
+\0
+
+[@ITEM 80 (FR) ]
+{MSGWND}Alerte de niveau 6.
+Éliminez les intrus !\0
+
+[@ITEM 81 (L1) ]
+\0
+
+[@ITEM 81 (EN) ]
+{MSGWND}
+LEVEL 7 ALERT.
+ELIMINATE INTRUDERS!\0
+
+[@ITEM 81 (L2) ]
+\0
+
+[@ITEM 81 (FR) ]
+{MSGWND}Alerte de niveau 7.
+Éliminez les intrus !\0
+
+[@ITEM 82 (L1) ]
+\0
+
+[@ITEM 82 (EN) ]
+{MSGWND}
+LEVEL 8 ALERT.
+ELIMINATE INTRUDERS!\0
+
+[@ITEM 82 (L2) ]
+\0
+
+[@ITEM 82 (FR) ]
+{MSGWND}Alerte de niveau 8.
+Éliminez les intrus !\0
+
+[@ITEM 83 (L1) ]
+\0
+
+[@ITEM 83 (EN) ]
+{MSGWND}
+LEVEL 9 ALERT.
+ELIMINATE INTRUDERS!\0
+
+[@ITEM 83 (L2) ]
+\0
+
+[@ITEM 83 (FR) ]
+{MSGWND}Alerte de niveau 9.
+Éliminez les intrus !\0
+
+[@ITEM 84 (L1) ]
+\0
+
+[@ITEM 84 (EN) ]
+{MSGWND}
+MAXIMUM ALERT.
+ELIMINATE INTRUDERS!\0
+
+[@ITEM 84 (L2) ]
+\0
+
+[@ITEM 84 (FR) ]
+{MSGWND}Alerte de niveau maximum.
+Éliminez les intrus !\0
+
+[@ITEM 85 (L1) ]
+\0
+
+[@ITEM 85 (EN) ]
+{MSGWND}
+FATAL ERROR.
+INTRUDER ELIMINATION FAILED.\0
+
+[@ITEM 85 (L2) ]
+\0
+
+[@ITEM 85 (FR) ]
+{MSGWND}État d'urgence.
+Élimination des intrus impossible...\0
+
+[@ITEM 86 (L1) ]
+\0
+
+[@ITEM 86 (EN) ]
+{MSGWND}
+INITIATING SYSTEM SHUTDOWN.\0
+
+[@ITEM 86 (L2) ]
+\0
+
+[@ITEM 86 (FR) ]
+{MSGWND}Arrêt du système...\0
+
+[@ITEM 87 (L1) ]
+\0
+
+[@ITEM 87 (EN) ]
+{Lucca}: Just...like this, and{56}done!\0
+
+[@ITEM 87 (L2) ]
+\0
+
+[@ITEM 87 (FR) ]
+{Lucca} : Alors... si je fais ça... et que j'appuie là...\0
+
+[@ITEM 88 (L1) ]
+\0
+
+[@ITEM 88 (EN) ]
+{MSGWND}
+ADMINISTRATOR REGISTRATION COMPLETE.
+SECURITY LOCKDOWN DISENGAGED.\0
+
+[@ITEM 88 (L2) ]
+\0
+
+[@ITEM 88 (FR) ]
+{MSGWND}Enregistrement de l'administrateur terminé...
+Déverrouillage des portes.\0
+
+[@ITEM 89 (L1) ]
+\0
+
+[@ITEM 89 (EN) ]
+{Lucca}: All right, that ought to do it.
+The rest is out of our hands!\0
+
+[@ITEM 89 (L2) ]
+\0
+
+[@ITEM 89 (FR) ]
+{Lucca} : Bien, ça devrait suffire.
+Laissons-les se charger du reste !\0
+
+[@ITEM 90 (L1) ]
+\0
+
+[@ITEM 90 (EN) ]
+{Robo}: Analysis complete.
+It is a simple program.
+This should suffice.\0
+
+[@ITEM 90 (L2) ]
+\0
+
+[@ITEM 90 (FR) ]
+{Robo} : Identification terminée. Si je lance ce
+programme...\0
+
+[@ITEM 91 (L1) ]
+\0
+
+[@ITEM 91 (EN) ]
+{MSGWND}
+ADMINISTRATOR REGISTRATION COMPLETE.
+SECURITY LOCKDOWN DISENGAGED.\0
+
+[@ITEM 91 (L2) ]
+\0
+
+[@ITEM 91 (FR) ]
+{MSGWND}Enregistrement de l'administrateur terminé...
+Déverrouillage des portes.\0
+
+[@ITEM 92 (L1) ]
+\0
+
+[@ITEM 92 (EN) ]
+{Robo}: It seems to have worked.
+The others should be able to manage the rest.\0
+
+[@ITEM 92 (L2) ]
+\0
+
+[@ITEM 92 (FR) ]
+{Robo} : On dirait que les portes ont été
+déverrouillées. Laissons les autres se
+charger du reste.\0
+
+[@ITEM 93 (L1) ]
+\0
+
+[@ITEM 93 (EN) ]
+{Marle}: I have to do something with this, right?
+Um, let's see... Maybe I should{56}here?
+Is this it?\0
+
+[@ITEM 93 (L2) ]
+\0
+
+[@ITEM 93 (FR) ]
+{Marle} : Que dois-je faire ? Euh...
+Et si j'appuyais ici...?\0
+
+[@ITEM 94 (L1) ]
+\0
+
+[@ITEM 94 (EN) ]
+{MSGWND}
+ADMINISTRATOR REGISTRATION COMPLETE.
+SECURITY LOCKDOWN DISENGAGED.\0
+
+[@ITEM 94 (L2) ]
+\0
+
+[@ITEM 94 (FR) ]
+{MSGWND}Enregistrement de l'administrateur terminé...
+Déverrouillage des portes.\0
+
+[@ITEM 95 (L1) ]
+\0
+
+[@ITEM 95 (EN) ]
+{Marle}: Huh? It worked!? All right!
+I guess the rest is up to them!\0
+
+[@ITEM 95 (L2) ]
+\0
+
+[@ITEM 95 (FR) ]
+{Marle} : Hein ? Nous avons réussi. Ils devraient
+pouvoir sortir maintenant. Laissons-les se
+charger du reste !\0
+
+[@ITEM 96 (L1) ]
+\0
+
+[@ITEM 96 (EN) ]
+{Frog}: I must manipulate this somehow, correct?
+I fear it may be beyond my grasp.
+Hmm... Mayhap if I do this...?\0
+
+[@ITEM 96 (L2) ]
+\0
+
+[@ITEM 96 (FR) ]
+{Frog} : Que dois-je faire ? Hum... Je n'y comprends
+pas grand-chose. Et si j'appuyais ici...?\0
+
+[@ITEM 97 (L1) ]
+\0
+
+[@ITEM 97 (EN) ]
+{MSGWND}
+ADMINISTRATOR REGISTRATION COMPLETE.
+SECURITY LOCKDOWN DISENGAGED.\0
+
+[@ITEM 97 (L2) ]
+\0
+
+[@ITEM 97 (FR) ]
+{MSGWND}Enregistrement de l'administrateur terminé...
+Déverrouillage des portes.\0
+
+[@ITEM 98 (L1) ]
+\0
+
+[@ITEM 98 (EN) ]
+{Frog}: Ah, success!
+And it seems our work is done.
+The rest is on their shoulders.\0
+
+[@ITEM 98 (L2) ]
+\0
+
+[@ITEM 98 (FR) ]
+{Frog} : Oh, ça a fonctionné ! Nous avons accompli
+notre tâche. Laissons-les se charger du reste !\0
+
+[@ITEM 99 (L1) ]
+\0
+
+[@ITEM 99 (EN) ]
+{Ayla}: No understand.
+But {Ayla} no lose!
+Grr...!\0
+
+[@ITEM 99 (L2) ]
+\0
+
+[@ITEM 99 (FR) ]
+{Ayla} : {Ayla} pas comprendre machines.
+Bobonga ! {Ayla} appuyer sur boutons !\0
+
+[@ITEM 100 (L1) ]
+\0
+
+[@ITEM 100 (EN) ]
+{MSGWND}
+ADMINISTRATOR REGISTRATION COMPLETE.
+SECURITY LOCKDOWN DISENGAGED.\0
+
+[@ITEM 100 (L2) ]
+\0
+
+[@ITEM 100 (FR) ]
+{MSGWND}Enregistrement de l'administrateur terminé...
+Déverrouillage des portes.\0
+
+[@ITEM 101 (L1) ]
+\0
+
+[@ITEM 101 (EN) ]
+{Ayla}: Oh! Good thing!
+No fight {Ayla} now!\0
+
+[@ITEM 101 (L2) ]
+\0
+
+[@ITEM 101 (FR) ]
+{Ayla} : {Ayla} réussir ! Maintenant, amis
+pouvoir continuer !\0
+
+[@ITEM 102 (L1) ]
+\0
+
+[@ITEM 102 (EN) ]
+{MSGWND}
+Mwa ha ha ha ha!
+Stay right where you are!\0
+
+[@ITEM 102 (L2) ]
+\0
+
+[@ITEM 102 (FR) ]
+{MSGWND}Mouah, ha, ha, ha, ha !
+Attendez !\0
+
+[@ITEM 103 (L1) ]
+\0
+
+[@ITEM 103 (EN) ]
+{Frog}: You're...\0
+
+[@ITEM 103 (L2) ]
+\0
+
+[@ITEM 103 (FR) ]
+{Frog} : Mais c'est...\0
+
+[@ITEM 104 (L1) ]
+\0
+
+[@ITEM 104 (EN) ]
+{Robo}: You are...\0
+
+[@ITEM 104 (L2) ]
+\0
+
+[@ITEM 104 (FR) ]
+{Robo} : Mais c'est...\0
+
+[@ITEM 105 (L1) ]
+\0
+
+[@ITEM 105 (EN) ]
+{Ayla}: You...\0
+
+[@ITEM 105 (L2) ]
+\0
+
+[@ITEM 105 (FR) ]
+{Ayla} : ...!!\0
+
+[@ITEM 106 (L1) ]
+\0
+
+[@ITEM 106 (EN) ]
+{Magus}: You...\0
+
+[@ITEM 106 (L2) ]
+\0
+
+[@ITEM 106 (FR) ]
+{Magus} : Ne me dites pas que...\0
+
+[@ITEM 107 (L1) ]
+\0
+
+[@ITEM 107 (EN) ]
+{Marle}: You were at the Farthest Reaches of Time...\0
+
+[@ITEM 107 (L2) ]
+\0
+
+[@ITEM 107 (FR) ]
+{Marle} : Mais c'est...\0
+
+[@ITEM 108 (L1) ]
+\0
+
+[@ITEM 108 (EN) ]
+{Lucca}: Dalton!
+You survived!\0
+
+[@ITEM 108 (L2) ]
+\0
+
+[@ITEM 108 (FR) ]
+{Lucca} : Dalton ! Tu as survécu !\0
+
+[@ITEM 109 (L1) ]
+\0
+
+[@ITEM 109 (EN) ]
+{Marle}: Dalton!
+You're still alive!\0
+
+[@ITEM 109 (L2) ]
+\0
+
+[@ITEM 109 (FR) ]
+{Marle} : Dalton ! Tu es encore en vie !\0
+
+[@ITEM 110 (L1) ]
+\0
+
+[@ITEM 110 (EN) ]
+{Magus}: Dalton!
+So, you still live.\0
+
+[@ITEM 110 (L2) ]
+\0
+
+[@ITEM 110 (FR) ]
+{Magus} : Dalton ! Tu es toujours vivant...?\0
+
+[@ITEM 111 (L1) ]
+\0
+
+[@ITEM 111 (EN) ]
+{Ayla}: Dalton!
+Dalton not die?\0
+
+[@ITEM 111 (L2) ]
+\0
+
+[@ITEM 111 (FR) ]
+{Ayla} : Dalton ! Pas être mort ?\0
+
+[@ITEM 112 (L1) ]
+\0
+
+[@ITEM 112 (EN) ]
+{Robo}: Dalton!
+You are still alive.\0
+
+[@ITEM 112 (L2) ]
+\0
+
+[@ITEM 112 (FR) ]
+{Robo} : Dalton ! Tu es donc encore en vie.\0
+
+[@ITEM 113 (L1) ]
+\0
+
+[@ITEM 113 (EN) ]
+Dalton: It's been quite some time, hasn't it?
+Did I startle you with my brilliant reappearance?\0
+
+[@ITEM 113 (L2) ]
+\0
+
+[@ITEM 113 (FR) ]
+Dalton : Il y a fort longtemps que nous ne nous sommes
+pas vus !  Alors, est-ce que ma magnifique résurrection
+vous surprend ?\0
+
+[@ITEM 114 (L1) ]
+\0
+
+[@ITEM 114 (EN) ]
+Dalton: Not even a little!?
+Well, who asked you?\0
+
+[@ITEM 114 (L2) ]
+\0
+
+[@ITEM 114 (FR) ]
+Dalton : ...
+Apparemment pas plus que ça, hein ? Vous êtes toujours
+aussi rabat-joie !\0
+
+[@ITEM 115 (L1) ]
+\0
+
+[@ITEM 115 (EN) ]
+Dalton: If it weren't for you, I'd have been the ruler
+of an age all my own!{PRESS_CLEAR}
+You robbed me of everything I'd worked so hard for!
+My wealth, my home, my loyal underlings...
+You took it all away!
+It's unforgivable!{PRESS_CLEAR}
+So come on! Have a taste of the suffering I've
+endured because of you!\0
+
+[@ITEM 115 (L2) ]
+\0
+
+[@ITEM 115 (FR) ]
+Dalton : Sans vous, j'aurais pu régner sur le monde
+entier !{PRESS_CLEAR}
+Mais vous m'avez dépouillé de tout : ma position,
+ma fortune et mon royaume !{PRESS_CLEAR}
+Jamais je ne vous le pardonnerai ! Je vais vous faire
+partager ma souffrance !\0
+
+[@ITEM 116 (L1) ]
+\0
+
+[@ITEM 116 (EN) ]
+Dalton: Hmph, I think that's enough for today.
+But don't you dare think this is settled!
+Just you wait, {Crono}!{PRESS_CLEAR}
+I'll raise the greatest army the world has ever seen in
+Porre, and use it to wipe your pitiful little kingdom off
+the map!\0
+
+[@ITEM 116 (L2) ]
+\0
+
+[@ITEM 116 (FR) ]
+Dalton : Hum, ça suffit pour aujourd'hui, mais n'allez pas
+penser que ça se terminera ainsi !{PRESS_CLEAR}
+Je formerai la grande armée de Palpori et un jour, je
+détruirai votre royaume ! Ne l'oublie pas, {Crono} !\0
+
+[@ITEM 117 (L1) ]
+\0
+
+[@ITEM 117 (EN) ]
+Dalton: Hmph, I think that's enough for today.
+But don't you dare think this is settled!
+Just you wait!{PRESS_CLEAR}
+I'll raise the greatest army the world has ever seen in
+Porre, and use it to wipe your pitiful little kingdom off
+the map!\0
+
+[@ITEM 117 (L2) ]
+\0
+
+[@ITEM 117 (FR) ]
+Dalton : Hum, ça suffit pour aujourd'hui, mais n'allez pas
+penser que ça se terminera ainsi !{PRESS_CLEAR}
+Je formerai la grande armée de Palpori et un jour,
+je détruirai votre royaume ! Ne l'oubliez pas !\0
+
+[@ITEM 118 (L1) ]
+\0
+
+[@ITEM 118 (EN) ]
+{MSGWND}
+Heh, heh, heh...\0
+
+[@ITEM 118 (L2) ]
+\0
+
+[@ITEM 118 (FR) ]
+{MSGWND}
+Ho, ho, ho, ho...\0
+
+[@ITEM 119 (L1) ]
+\0
+
+[@ITEM 119 (EN) ]
+{MSGWND}
+Ah hah hah hah hah!\0
+
+[@ITEM 119 (L2) ]
+\0
+
+[@ITEM 119 (FR) ]
+{MSGWND}
+Ha, ha, ha, ha, ha, ha !\0
+
+[@ITEM 120 (L1) ]
+\0
+
+[@ITEM 120 (EN) ]
+{Ayla}: {Ayla} not lose!\0
+
+[@ITEM 120 (L2) ]
+\0
+
+[@ITEM 120 (FR) ]
+{Ayla} : {Ayla} pas perdre !\0
+
+[@ITEM 121 (L1) ]
+\0
+
+[@ITEM 121 (EN) ]
+{Magus}: The dog yelps.\0
+
+[@ITEM 121 (L2) ]
+\0
+
+[@ITEM 121 (FR) ]
+{Magus} : Qu'il aboie, peu m'importe...\0
+
+[@ITEM 122 (L1) ]
+\0
+
+[@ITEM 122 (EN) ]
+{Marle}: You won't touch Guardia.
+Not if I have anything to say about it!\0
+
+[@ITEM 122 (L2) ]
+\0
+
+[@ITEM 122 (FR) ]
+{Marle} : Je ne laisserai pas quelqu'un comme toi
+envahir mon royaume !\0
+
+[@ITEM 123 (L1) ]
+\0
+
+[@ITEM 123 (EN) ]
+{Lucca}: You'll never be tough enough to take on
+Guardia. Not in a million years!\0
+
+[@ITEM 123 (L2) ]
+\0
+
+[@ITEM 123 (FR) ]
+{Lucca} : Tu n'arriveras jamais à nous vaincre !\0
+
+[@ITEM 124 (L1) ]
+\0
+
+[@ITEM 124 (EN) ]
+{Frog}: Should such a day come, we shall be there
+to stop you!\0
+
+[@ITEM 124 (L2) ]
+\0
+
+[@ITEM 124 (FR) ]
+{Frog} : Et quand tu essaieras, nous te vaincrons
+une fois de plus !\0
+
+[@ITEM 125 (L1) ]
+\0
+
+[@ITEM 125 (EN) ]
+{Marle}: I feel someone calling me.
+I...I have to go.\0
+
+[@ITEM 125 (L2) ]
+\0
+
+[@ITEM 125 (FR) ]
+{Marle} : On dirait que quelqu'un m'appelle...
+Je dois y aller...\0
+
+[@ITEM 126 (L1) ]
+\0
+
+[@ITEM 126 (EN) ]
+{Ayla}: What wrong, {Crono}?\0
+
+[@ITEM 126 (L2) ]
+\0
+
+[@ITEM 126 (FR) ]
+{Ayla} : {Crono} ?\0
+
+[@ITEM 127 (L1) ]
+\0
+
+[@ITEM 127 (EN) ]
+{Robo}: Sir {Crono}, is something troubling you?\0
+
+[@ITEM 127 (L2) ]
+\0
+
+[@ITEM 127 (FR) ]
+{Robo} : Qu'y a-t-il, {Crono} ?\0
+
+[@ITEM 128 (L1) ]
+\0
+
+[@ITEM 128 (EN) ]
+{Frog}: What is it, {Crono}?\0
+
+[@ITEM 128 (L2) ]
+\0
+
+[@ITEM 128 (FR) ]
+{Frog} : Qu'y a-t-il, {Crono} ?\0
+
+[@ITEM 129 (L1) ]
+\0
+
+[@ITEM 129 (EN) ]
+{Lucca}: Is something wrong, {Crono}?\0
+
+[@ITEM 129 (L2) ]
+\0
+
+[@ITEM 129 (FR) ]
+{Lucca} : Qu'y a-t-il, {Crono} ?\0
+
+[@ITEM 130 (L1) ]
+\0
+
+[@ITEM 130 (EN) ]
+{Marle}: What's the matter, {Crono}?\0
+
+[@ITEM 130 (L2) ]
+\0
+
+[@ITEM 130 (FR) ]
+{Marle} : Qu'y a-t-il, {Crono} ?\0
+
+[@ITEM 131 (L1) ]
+\0
+
+[@ITEM 131 (EN) ]
+{Marle}: You feel like someone's...calling you?\0
+
+[@ITEM 131 (L2) ]
+\0
+
+[@ITEM 131 (FR) ]
+{Marle} : Quelque chose t'appelle ?\0
+
+[@ITEM 132 (L1) ]
+\0
+
+[@ITEM 132 (EN) ]
+{Lucca}: Someone's...calling to you?\0
+
+[@ITEM 132 (L2) ]
+\0
+
+[@ITEM 132 (FR) ]
+{Lucca} : Quelque chose t'appelle ?\0
+
+[@ITEM 133 (L1) ]
+\0
+
+[@ITEM 133 (EN) ]
+{Frog}: Something beckons you?\0
+
+[@ITEM 133 (L2) ]
+\0
+
+[@ITEM 133 (FR) ]
+{Frog} : Tu dis que quelque chose t'appelle...?\0
+
+[@ITEM 134 (L1) ]
+\0
+
+[@ITEM 134 (EN) ]
+{Robo}: Something is calling you?\0
+
+[@ITEM 134 (L2) ]
+\0
+
+[@ITEM 134 (FR) ]
+{Robo} : Quelque chose t'appelle ?\0
+
+[@ITEM 135 (L1) ]
+\0
+
+[@ITEM 135 (EN) ]
+{Ayla}: Someone call {Crono}?\0
+
+[@ITEM 135 (L2) ]
+\0
+
+[@ITEM 135 (FR) ]
+{Ayla} : Quelque chose appeler {Crono} ?\0
+
+[@ITEM 136 (L1) ]
+\0
+
+[@ITEM 136 (EN) ]
+{Marle}: No... All I can see are memories
+of the times I spent with {Crono}.
+I can't...I can't go on like this!
+It's too much to take.\0
+
+[@ITEM 136 (L2) ]
+\0
+
+[@ITEM 136 (FR) ]
+{Marle} : Que... Pourquoi...? Mes souvenirs de
+{Crono} me submergent ! Non ! Je ne peux pas
+le supporter !\0
+
+[@ITEM 137 (L1) ]
+\0
+
+[@ITEM 137 (EN) ]
+{Lucca}: All my memories of {Crono} just
+keep flashing by for some reason. Oh, {Crono}!
+I can't take this. Can we leave?\0
+
+[@ITEM 137 (L2) ]
+\0
+
+[@ITEM 137 (FR) ]
+{Lucca} : Soudainement, mes souvenirs de
+{Crono} me reviennent à l'esprit... {Crono} !
+Non ! Je ne peux pas le supporter !\0
+
+[@ITEM 138 (L1) ]
+\0
+
+[@ITEM 138 (EN) ]
+{Ayla}: {Crono}...
+{Ayla}'s head only think of {Crono}.
+No can stop!
+Oh, no...\0
+
+[@ITEM 138 (L2) ]
+\0
+
+[@ITEM 138 (FR) ]
+{Ayla} : Souvenirs de {Crono}... revenir soudain
+à {Ayla}... {Crono} ! {Ayla} pas pouvoir
+supporter !\0
+
+[@ITEM 139 (L1) ]
+\0
+
+[@ITEM 139 (EN) ]
+{Frog}: I...cannot be here.
+All my memories of {Crono} keep rushing back.
+It's too much to bear.
+Let us go back.\0
+
+[@ITEM 139 (L2) ]
+\0
+
+[@ITEM 139 (FR) ]
+{Frog} : Sortons... de cet endroit. Mes souvenirs de
+{Crono} me reviennent à l'esprit de leur propre gré...
+Je ne peux pas le supporter ! Partons.\0
+
+[@ITEM 140 (L1) ]
+\0
+
+[@ITEM 140 (EN) ]
+{Robo}: We must go back. My memory banks are
+becoming overloaded with memories of {Crono}.
+I am afraid I may go haywire at this rate.\0
+
+[@ITEM 140 (L2) ]
+\0
+
+[@ITEM 140 (FR) ]
+{Robo} : Mes souvenirs de {Crono}...
+envahissent ma mémoire vive...{PRESS_CLEAR}
+Il y en a trop... Il semble que les données vont se
+corrompre. Partons.\0
+
+[@ITEM 141 (L1) ]
+\0
+
+[@ITEM 141 (EN) ]
+{Lucca}: Strange...
+I feel like something's tugging me forward.
+I...I have to go.\0
+
+[@ITEM 141 (L2) ]
+\0
+
+[@ITEM 141 (FR) ]
+{Lucca} : On dirait que je suis attirée par quelque
+chose... Je dois y aller.\0
+
+[@ITEM 142 (L1) ]
+\0
+
+[@ITEM 142 (EN) ]
+{Magus}: This is{56}but, no!\0
+
+[@ITEM 142 (L2) ]
+\0
+
+[@ITEM 142 (FR) ]
+{Magus} : Impossible...\0
+
+[@ITEM 143 (L1) ]
+\0
+
+[@ITEM 143 (EN) ]
+{Frog}: What trickery is this?\0
+
+[@ITEM 143 (L2) ]
+\0
+
+[@ITEM 143 (FR) ]
+{Frog} : Quoi ?!\0
+
+[@ITEM 144 (L1) ]
+\0
+
+[@ITEM 144 (EN) ]
+{Robo}: This is not possible!\0
+
+[@ITEM 144 (L2) ]
+\0
+
+[@ITEM 144 (FR) ]
+{Robo} : Une telle chose est impossible.\0
+
+[@ITEM 145 (L1) ]
+\0
+
+[@ITEM 145 (EN) ]
+{Ayla}: {Ayla} no understand!\0
+
+[@ITEM 145 (L2) ]
+\0
+
+[@ITEM 145 (FR) ]
+{Ayla} : Quoi ?!\0
+
+[@ITEM 146 (L1) ]
+\0
+
+[@ITEM 146 (EN) ]
+{Lucca}: What's going on?\0
+
+[@ITEM 146 (L2) ]
+\0
+
+[@ITEM 146 (FR) ]
+{Lucca} : Impossible...\0
+
+[@ITEM 147 (L1) ]
+\0
+
+[@ITEM 147 (EN) ]
+{Marle}: What's this?\0
+
+[@ITEM 147 (L2) ]
+\0
+
+[@ITEM 147 (FR) ]
+{Marle} : Impossible...\0
+
+[@ITEM 148 (L1) ]
+\0
+
+[@ITEM 148 (EN) ]
+{Lucca}: {Marle}?
+Why are there two of you!?\0
+
+[@ITEM 148 (L2) ]
+\0
+
+[@ITEM 148 (FR) ]
+{Lucca} : {Marle}  ! C'est ton sosie !\0
+
+[@ITEM 149 (L1) ]
+\0
+
+[@ITEM 149 (EN) ]
+{Ayla}: Two {Marle}!?\0
+
+[@ITEM 149 (L2) ]
+\0
+
+[@ITEM 149 (FR) ]
+{Ayla} : Deux {Marle} ?!\0
+
+[@ITEM 150 (L1) ]
+\0
+
+[@ITEM 150 (EN) ]
+{Robo}: I am seeing {Marle} twice!\0
+
+[@ITEM 150 (L2) ]
+\0
+
+[@ITEM 150 (FR) ]
+{Robo} : Une autre {Marle} !\0
+
+[@ITEM 151 (L1) ]
+\0
+
+[@ITEM 151 (EN) ]
+{Frog}: There is another {Marle}!\0
+
+[@ITEM 151 (L2) ]
+\0
+
+[@ITEM 151 (FR) ]
+{Frog} : Il y a une autre {Marle} !\0
+
+[@ITEM 152 (L1) ]
+\0
+
+[@ITEM 152 (EN) ]
+{Magus}: Two of the same {Marle}?\0
+
+[@ITEM 152 (L2) ]
+\0
+
+[@ITEM 152 (FR) ]
+{Magus} : C'est un double parfait...\0
+
+[@ITEM 153 (L1) ]
+\0
+
+[@ITEM 153 (EN) ]
+{Marle}: Who are you?
+Are you...me?\0
+
+[@ITEM 153 (L2) ]
+\0
+
+[@ITEM 153 (FR) ]
+{Marle} : Qui es-tu ? Tu es... moi ?\0
+
+[@ITEM 154 (L1) ]
+\0
+
+[@ITEM 154 (EN) ]
+{MSGWND}
+One of me is all this world needs.
+Begone, for all eternity!\0
+
+[@ITEM 154 (L2) ]
+\0
+
+[@ITEM 154 (FR) ]
+{MSGWND}Ce monde n'a besoin que d'un seul moi.
+Disparais !\0
+
+[@ITEM 155 (L1) ]
+\0
+
+[@ITEM 155 (EN) ]
+{Marle}: I guess...I guess I have to fight you.
+I don't want to be gone for all eternity!\0
+
+[@ITEM 155 (L2) ]
+\0
+
+[@ITEM 155 (FR) ]
+{Marle} : ... Nous n'avons pas le choix. Nous devons
+nous battre. Il n'est pas question que je perde !\0
+
+[@ITEM 156 (L1) ]
+\0
+
+[@ITEM 156 (EN) ]
+{MSGWND}
+{Marle}'s latent powers awakened.
+Speed, Accuracy, and Stamina improved!\0
+
+[@ITEM 156 (L2) ]
+\0
+
+[@ITEM 156 (FR) ]
+{MSGWND}Les aptitudes latentes de
+{Marle} s'éveillent...
+Sa rapidité, sa précision et
+son endurance augmentent !\0
+
+[@ITEM 157 (L1) ]
+\0
+
+[@ITEM 157 (EN) ]
+{Marle}: Another {Crono}!?\0
+
+[@ITEM 157 (L2) ]
+\0
+
+[@ITEM 157 (FR) ]
+{Marle} : Il y a deux {Crono} ?!\0
+
+[@ITEM 158 (L1) ]
+\0
+
+[@ITEM 158 (EN) ]
+{Lucca}: {Crono}?
+Two of him!?\0
+
+[@ITEM 158 (L2) ]
+\0
+
+[@ITEM 158 (FR) ]
+{Lucca} : Il y a... deux {Crono} ?!\0
+
+[@ITEM 159 (L1) ]
+\0
+
+[@ITEM 159 (EN) ]
+{Ayla}: Two {Crono}!?\0
+
+[@ITEM 159 (L2) ]
+\0
+
+[@ITEM 159 (FR) ]
+{Ayla} : Deux {Crono} ?!\0
+
+[@ITEM 160 (L1) ]
+\0
+
+[@ITEM 160 (EN) ]
+{Robo}: There is another {Crono}!\0
+
+[@ITEM 160 (L2) ]
+\0
+
+[@ITEM 160 (FR) ]
+{Robo} : Il y a deux {Crono} !\0
+
+[@ITEM 161 (L1) ]
+\0
+
+[@ITEM 161 (EN) ]
+{Frog}: A second {Crono}?\0
+
+[@ITEM 161 (L2) ]
+\0
+
+[@ITEM 161 (FR) ]
+{Frog} : Un deuxième {Crono} !\0
+
+[@ITEM 162 (L1) ]
+\0
+
+[@ITEM 162 (EN) ]
+{Ayla}: You not {Crono}!
+{Crono} no do like that!
+Never do!\0
+
+[@ITEM 162 (L2) ]
+\0
+
+[@ITEM 162 (FR) ]
+{Ayla} : Pas être {Crono} ! {Crono} jamais
+vouloir attaquer {Ayla} !\0
+
+[@ITEM 163 (L1) ]
+\0
+
+[@ITEM 163 (EN) ]
+{Marle}: Who are you!?
+Why do you want to fight us?\0
+
+[@ITEM 163 (L2) ]
+\0
+
+[@ITEM 163 (FR) ]
+{Marle} : Qui es-tu donc ?! Pourquoi veux-tu te
+battre contre nous ?!\0
+
+[@ITEM 164 (L1) ]
+\0
+
+[@ITEM 164 (EN) ]
+{Lucca}: Don't think we'll go easy on you in a fight
+just because you're {Crono}!\0
+
+[@ITEM 164 (L2) ]
+\0
+
+[@ITEM 164 (FR) ]
+{Lucca} : Peu importe que tu aies l'apparence de
+{Crono}, si tu nous attaques, tu vas voir de quel
+bois je me chauffe !\0
+
+[@ITEM 165 (L1) ]
+\0
+
+[@ITEM 165 (EN) ]
+{Robo}: Identity analysis complete.
+This is a different {Crono} from the one we know.
+Hostility detected.\0
+
+[@ITEM 165 (L2) ]
+\0
+
+[@ITEM 165 (FR) ]
+{Robo} : Analyse terminée. Il semble que tu es
+différent du {Crono} que nous connaissons.
+Tu es notre ennemi.\0
+
+[@ITEM 166 (L1) ]
+\0
+
+[@ITEM 166 (EN) ]
+{Frog}: Whether you are a true {Crono} or no,
+we'll not let you harm ours!\0
+
+[@ITEM 166 (L2) ]
+\0
+
+[@ITEM 166 (FR) ]
+{Frog} : Même si tu es le vrai {Crono}, nous ne
+te laisserons pas faire du mal à notre {Crono} !\0
+
+[@ITEM 167 (L1) ]
+\0
+
+[@ITEM 167 (EN) ]
+{Magus}: It is of no consequence to me whether you
+are {Crono} or a fake. Raise your weapon against
+me, and you sign away your life.\0
+
+[@ITEM 167 (L2) ]
+\0
+
+[@ITEM 167 (FR) ]
+{Magus} : Peu m'importe que tu sois le vrai ou le
+faux, si tu oses te dresser contre moi, je vais
+t'éliminer.\0
+
+[@ITEM 168 (L1) ]
+\0
+
+[@ITEM 168 (EN) ]
+{MSGWND}
+{Crono}'s latent powers awakened.
+Speed, Strength, and Accuracy improved!\0
+
+[@ITEM 168 (L2) ]
+\0
+
+[@ITEM 168 (FR) ]
+{MSGWND}Les aptitudes latentes de
+{Crono} s'éveillent...
+Sa rapidité, sa force et
+sa précision augmentent !\0
+
+[@ITEM 169 (L1) ]
+\0
+
+[@ITEM 169 (EN) ]
+{Marle}: {Lucca}?
+Two of them!?\0
+
+[@ITEM 169 (L2) ]
+\0
+
+[@ITEM 169 (FR) ]
+{Marle} : Une autre {Lucca} ?!\0
+
+[@ITEM 170 (L1) ]
+\0
+
+[@ITEM 170 (EN) ]
+{Ayla}: Two {Lucca}!?\0
+
+[@ITEM 170 (L2) ]
+\0
+
+[@ITEM 170 (FR) ]
+{Ayla} : Deux {Lucca} ?!\0
+
+[@ITEM 171 (L1) ]
+\0
+
+[@ITEM 171 (EN) ]
+{Robo}: {Lucca} and...{Lucca}?
+My visual sensors must be producing duplicate images!\0
+
+[@ITEM 171 (L2) ]
+\0
+
+[@ITEM 171 (FR) ]
+{Robo} : Cette personne est identique à
+{Lucca}...!\0
+
+[@ITEM 172 (L1) ]
+\0
+
+[@ITEM 172 (EN) ]
+{Frog}: Another {Lucca}!\0
+
+[@ITEM 172 (L2) ]
+\0
+
+[@ITEM 172 (FR) ]
+{Frog} : Une autre {Lucca} !\0
+
+[@ITEM 173 (L1) ]
+\0
+
+[@ITEM 173 (EN) ]
+{Magus}: Two of the same person?\0
+
+[@ITEM 173 (L2) ]
+\0
+
+[@ITEM 173 (FR) ]
+{Magus} : Elle pourrait être sa sœur jumelle...\0
+
+[@ITEM 174 (L1) ]
+\0
+
+[@ITEM 174 (EN) ]
+{Lucca}: Who...who are you?
+Are you really me?\0
+
+[@ITEM 174 (L2) ]
+\0
+
+[@ITEM 174 (FR) ]
+{Lucca} : Qui es-tu ? Es-tu vraiment moi ?\0
+
+[@ITEM 175 (L1) ]
+\0
+
+[@ITEM 175 (EN) ]
+{MSGWND}
+You are all that stands in the way...
+You must die!\0
+
+[@ITEM 175 (L2) ]
+\0
+
+[@ITEM 175 (FR) ]
+{MSGWND}Si seulement tu n'existais pas...
+Disparais !\0
+
+[@ITEM 176 (L1) ]
+\0
+
+[@ITEM 176 (EN) ]
+{Lucca}: So much for getting along...
+Looks like we have some irreconcilable differences
+to take care of, doesn't it?\0
+
+[@ITEM 176 (L2) ]
+\0
+
+[@ITEM 176 (FR) ]
+{Lucca} : On dirait que nous ne sommes pas faites
+pour nous entendre. Je n'en ai pas vraiment envie,
+mais je vais te vaincre !\0
+
+[@ITEM 177 (L1) ]
+\0
+
+[@ITEM 177 (EN) ]
+{MSGWND}
+{Lucca}'s latent powers awakened.
+Speed, Magic, and Stamina improved!\0
+
+[@ITEM 177 (L2) ]
+\0
+
+[@ITEM 177 (FR) ]
+{MSGWND}Les aptitudes latentes de
+{Lucca} s'éveillent...
+Sa rapidité, sa magie et
+son endurance augmentent !\0
+
+[@ITEM 178 (L1) ]
+\0
+
+[@ITEM 178 (EN) ]
+Dalton: Farewell!\0
+
+[@ITEM 178 (L2) ]
+\0
+
+[@ITEM 178 (FR) ]
+Dalton : Adieu !\0
+
+[@ITEM 179 (L1) ]
+\0
+
+[@ITEM 179 (EN) ]
+{HERO1}: ...\0
+
+[@ITEM 179 (L2) ]
+\0
+
+[@ITEM 179 (FR) ]
+{HERO1} : ...\0
+
+[@ITEM 180 (L1) ]
+\0
+
+[@ITEM 180 (EN) ]
+{HERO2}: ...\0
+
+[@ITEM 180 (L2) ]
+\0
+
+[@ITEM 180 (FR) ]
+{HERO2} : ...\0
+
+[@ITEM 181 (L1) ]
+\0
+
+[@ITEM 181 (EN) ]
+{Lucca}: Oh, I can't believe you!
+You can't do anything without me, can you?\0
+
+[@ITEM 181 (L2) ]
+\0
+
+[@ITEM 181 (FR) ]
+{Lucca} : Quelle honte ! Que feriez-vous sans moi,
+hein ?\0
+
+[@ITEM 182 (L1) ]
+\0
+
+[@ITEM 182 (EN) ]
+\0
+
+[@ITEM 182 (L2) ]
+\0
+
+[@ITEM 182 (FR) ]
+\0
+
+[@ITEM 183 (L1) ]
+\0
+
+[@ITEM 183 (EN) ]
+\0
+
+[@ITEM 183 (L2) ]
+\0
+
+[@ITEM 183 (FR) ]
+\0
+
+[@ITEM 184 (L1) ]
+\0
+
+[@ITEM 184 (EN) ]
+\0
+
+[@ITEM 184 (L2) ]
+\0
+
+[@ITEM 184 (FR) ]
+\0
+
+[@ITEM 185 (L1) ]
+\0
+
+[@ITEM 185 (EN) ]
+\0
+
+[@ITEM 185 (L2) ]
+\0
+
+[@ITEM 185 (FR) ]
+\0
+
+[@ITEM 186 (L1) ]
+\0
+
+[@ITEM 186 (EN) ]
+\0
+
+[@ITEM 186 (L2) ]
+\0
+
+[@ITEM 186 (FR) ]
+\0
+
+[@ITEM 187 (L1) ]
+\0
+
+[@ITEM 187 (EN) ]
+\0
+
+[@ITEM 187 (L2) ]
+\0
+
+[@ITEM 187 (FR) ]
+\0
+
+[@ITEM 188 (L1) ]
+\0
+
+[@ITEM 188 (EN) ]
+\0
+
+[@ITEM 188 (L2) ]
+\0
+
+[@ITEM 188 (FR) ]
+\0
+
+[@ITEM 189 (L1) ]
+\0
+
+[@ITEM 189 (EN) ]
+\0
+
+[@ITEM 189 (L2) ]
+\0
+
+[@ITEM 189 (FR) ]
+\0
+
+[@ITEM 190 (L1) ]
+\0
+
+[@ITEM 190 (EN) ]
+\0
+
+[@ITEM 190 (L2) ]
+\0
+
+[@ITEM 190 (FR) ]
+\0
+
+[@ITEM 191 (L1) ]
+\0
+
+[@ITEM 191 (EN) ]
+\0
+
+[@ITEM 191 (L2) ]
+\0
+
+[@ITEM 191 (FR) ]
+\0
+
+[@ITEM 192 (L1) ]
+\0
+
+[@ITEM 192 (EN) ]
+\0
+
+[@ITEM 192 (L2) ]
+\0
+
+[@ITEM 192 (FR) ]
+\0
+
+[@ITEM 193 (L1) ]
+\0
+
+[@ITEM 193 (EN) ]
+\0
+
+[@ITEM 193 (L2) ]
+\0
+
+[@ITEM 193 (FR) ]
+\0
+
+[@ITEM 194 (L1) ]
+\0
+
+[@ITEM 194 (EN) ]
+\0
+
+[@ITEM 194 (L2) ]
+\0
+
+[@ITEM 194 (FR) ]
+\0
+
+[@ITEM 195 (L1) ]
+\0
+
+[@ITEM 195 (EN) ]
+\0
+
+[@ITEM 195 (L2) ]
+\0
+
+[@ITEM 195 (FR) ]
+\0
+
+[@ITEM 196 (L1) ]
+\0
+
+[@ITEM 196 (EN) ]
+\0
+
+[@ITEM 196 (L2) ]
+\0
+
+[@ITEM 196 (FR) ]
+\0
+
+[@ITEM 197 (L1) ]
+\0
+
+[@ITEM 197 (EN) ]
+\0
+
+[@ITEM 197 (L2) ]
+\0
+
+[@ITEM 197 (FR) ]
+\0
+
+[@ITEM 198 (L1) ]
+\0
+
+[@ITEM 198 (EN) ]
+\0
+
+[@ITEM 198 (L2) ]
+\0
+
+[@ITEM 198 (FR) ]
+\0
+
+[@ITEM 199 (L1) ]
+\0
+
+[@ITEM 199 (EN) ]
+\0
+
+[@ITEM 199 (L2) ]
+\0
+
+[@ITEM 199 (FR) ]
+\0
+
+[@ITEM 200 (L1) ]
+\0
+
+[@ITEM 200 (EN) ]
+\0
+
+[@ITEM 200 (L2) ]
+\0
+
+[@ITEM 200 (FR) ]
+\0
+
+[@ITEM 201 (L1) ]
+\0
+
+[@ITEM 201 (EN) ]
+\0
+
+[@ITEM 201 (L2) ]
+\0
+
+[@ITEM 201 (FR) ]
+\0
+
+[@ITEM 202 (L1) ]
+\0
+
+[@ITEM 202 (EN) ]
+\0
+
+[@ITEM 202 (L2) ]
+\0
+
+[@ITEM 202 (FR) ]
+\0
+
+[@ITEM 203 (L1) ]
+\0
+
+[@ITEM 203 (EN) ]
+\0
+
+[@ITEM 203 (L2) ]
+\0
+
+[@ITEM 203 (FR) ]
+\0
+
+[@ITEM 204 (L1) ]
+\0
+
+[@ITEM 204 (EN) ]
+\0
+
+[@ITEM 204 (L2) ]
+\0
+
+[@ITEM 204 (FR) ]
+\0
+
+[@ITEM 205 (L1) ]
+\0
+
+[@ITEM 205 (EN) ]
+\0
+
+[@ITEM 205 (L2) ]
+\0
+
+[@ITEM 205 (FR) ]
+\0
+
+[@ITEM 206 (L1) ]
+\0
+
+[@ITEM 206 (EN) ]
+\0
+
+[@ITEM 206 (L2) ]
+\0
+
+[@ITEM 206 (FR) ]
+\0
+
+[@ITEM 207 (L1) ]
+\0
+
+[@ITEM 207 (EN) ]
+\0
+
+[@ITEM 207 (L2) ]
+\0
+
+[@ITEM 207 (FR) ]
+\0
+
+[@ITEM 208 (L1) ]
+\0
+
+[@ITEM 208 (EN) ]
+\0
+
+[@ITEM 208 (L2) ]
+\0
+
+[@ITEM 208 (FR) ]
+\0
+
+[@ITEM 209 (L1) ]
+\0
+
+[@ITEM 209 (EN) ]
+\0
+
+[@ITEM 209 (L2) ]
+\0
+
+[@ITEM 209 (FR) ]
+\0
+
+[@ITEM 210 (L1) ]
+\0
+
+[@ITEM 210 (EN) ]
+\0
+
+[@ITEM 210 (L2) ]
+\0
+
+[@ITEM 210 (FR) ]
+\0
+
+[@ITEM 211 (L1) ]
+\0
+
+[@ITEM 211 (EN) ]
+\0
+
+[@ITEM 211 (L2) ]
+\0
+
+[@ITEM 211 (FR) ]
+\0
+
+[@ITEM 212 (L1) ]
+\0
+
+[@ITEM 212 (EN) ]
+\0
+
+[@ITEM 212 (L2) ]
+\0
+
+[@ITEM 212 (FR) ]
+\0
+
+[@ITEM 213 (L1) ]
+\0
+
+[@ITEM 213 (EN) ]
+\0
+
+[@ITEM 213 (L2) ]
+\0
+
+[@ITEM 213 (FR) ]
+\0
+
+[@ITEM 214 (L1) ]
+\0
+
+[@ITEM 214 (EN) ]
+\0
+
+[@ITEM 214 (L2) ]
+\0
+
+[@ITEM 214 (FR) ]
+\0
+
+[@ITEM 215 (L1) ]
+\0
+
+[@ITEM 215 (EN) ]
+\0
+
+[@ITEM 215 (L2) ]
+\0
+
+[@ITEM 215 (FR) ]
+\0
+
+[@ITEM 216 (L1) ]
+\0
+
+[@ITEM 216 (EN) ]
+\0
+
+[@ITEM 216 (L2) ]
+\0
+
+[@ITEM 216 (FR) ]
+\0
+
+[@ITEM 217 (L1) ]
+\0
+
+[@ITEM 217 (EN) ]
+\0
+
+[@ITEM 217 (L2) ]
+\0
+
+[@ITEM 217 (FR) ]
+\0
+
+[@ITEM 218 (L1) ]
+\0
+
+[@ITEM 218 (EN) ]
+\0
+
+[@ITEM 218 (L2) ]
+\0
+
+[@ITEM 218 (FR) ]
+\0
+
+[@ITEM 219 (L1) ]
+\0
+
+[@ITEM 219 (EN) ]
+\0
+
+[@ITEM 219 (L2) ]
+\0
+
+[@ITEM 219 (FR) ]
+\0
+
+[@ITEM 220 (L1) ]
+\0
+
+[@ITEM 220 (EN) ]
+\0
+
+[@ITEM 220 (L2) ]
+\0
+
+[@ITEM 220 (FR) ]
+\0
+
+[@ITEM 221 (L1) ]
+\0
+
+[@ITEM 221 (EN) ]
+\0
+
+[@ITEM 221 (L2) ]
+\0
+
+[@ITEM 221 (FR) ]
+\0
+
+[@ITEM 222 (L1) ]
+\0
+
+[@ITEM 222 (EN) ]
+\0
+
+[@ITEM 222 (L2) ]
+\0
+
+[@ITEM 222 (FR) ]
+\0
+
+[@ITEM 223 (L1) ]
+\0
+
+[@ITEM 223 (EN) ]
+\0
+
+[@ITEM 223 (L2) ]
+\0
+
+[@ITEM 223 (FR) ]
+\0
+
+[@ITEM 224 (L1) ]
+\0
+
+[@ITEM 224 (EN) ]
+\0
+
+[@ITEM 224 (L2) ]
+\0
+
+[@ITEM 224 (FR) ]
+\0
+
+[@ITEM 225 (L1) ]
+\0
+
+[@ITEM 225 (EN) ]
+\0
+
+[@ITEM 225 (L2) ]
+\0
+
+[@ITEM 225 (FR) ]
+\0
+
+[@ITEM 226 (L1) ]
+\0
+
+[@ITEM 226 (EN) ]
+\0
+
+[@ITEM 226 (L2) ]
+\0
+
+[@ITEM 226 (FR) ]
+\0
+
+[@ITEM 227 (L1) ]
+\0
+
+[@ITEM 227 (EN) ]
+\0
+
+[@ITEM 227 (L2) ]
+\0
+
+[@ITEM 227 (FR) ]
+\0
+
+[@ITEM 228 (L1) ]
+\0
+
+[@ITEM 228 (EN) ]
+\0
+
+[@ITEM 228 (L2) ]
+\0
+
+[@ITEM 228 (FR) ]
+\0
+
+[@ITEM 229 (L1) ]
+\0
+
+[@ITEM 229 (EN) ]
+\0
+
+[@ITEM 229 (L2) ]
+\0
+
+[@ITEM 229 (FR) ]
+\0
+
+[@ITEM 230 (L1) ]
+\0
+
+[@ITEM 230 (EN) ]
+\0
+
+[@ITEM 230 (L2) ]
+\0
+
+[@ITEM 230 (FR) ]
+\0
+
+[@ITEM 231 (L1) ]
+\0
+
+[@ITEM 231 (EN) ]
+\0
+
+[@ITEM 231 (L2) ]
+\0
+
+[@ITEM 231 (FR) ]
+\0
+
+[@ITEM 232 (L1) ]
+\0
+
+[@ITEM 232 (EN) ]
+\0
+
+[@ITEM 232 (L2) ]
+\0
+
+[@ITEM 232 (FR) ]
+\0
+
+[@ITEM 233 (L1) ]
+\0
+
+[@ITEM 233 (EN) ]
+\0
+
+[@ITEM 233 (L2) ]
+\0
+
+[@ITEM 233 (FR) ]
+\0
+
+[@ITEM 234 (L1) ]
+\0
+
+[@ITEM 234 (EN) ]
+\0
+
+[@ITEM 234 (L2) ]
+\0
+
+[@ITEM 234 (FR) ]
+\0
+
+[@ITEM 235 (L1) ]
+\0
+
+[@ITEM 235 (EN) ]
+\0
+
+[@ITEM 235 (L2) ]
+\0
+
+[@ITEM 235 (FR) ]
+\0
+
+[@ITEM 236 (L1) ]
+\0
+
+[@ITEM 236 (EN) ]
+\0
+
+[@ITEM 236 (L2) ]
+\0
+
+[@ITEM 236 (FR) ]
+\0
+
+[@ITEM 237 (L1) ]
+\0
+
+[@ITEM 237 (EN) ]
+\0
+
+[@ITEM 237 (L2) ]
+\0
+
+[@ITEM 237 (FR) ]
+\0
+
+[@ITEM 238 (L1) ]
+\0
+
+[@ITEM 238 (EN) ]
+\0
+
+[@ITEM 238 (L2) ]
+\0
+
+[@ITEM 238 (FR) ]
+\0
+
+[@ITEM 239 (L1) ]
+\0
+
+[@ITEM 239 (EN) ]
+\0
+
+[@ITEM 239 (L2) ]
+\0
+
+[@ITEM 239 (FR) ]
+\0
+
+[@ITEM 240 (L1) ]
+\0
+
+[@ITEM 240 (EN) ]
+\0
+
+[@ITEM 240 (L2) ]
+\0
+
+[@ITEM 240 (FR) ]
+\0
+
+[@ITEM 241 (L1) ]
+\0
+
+[@ITEM 241 (EN) ]
+\0
+
+[@ITEM 241 (L2) ]
+\0
+
+[@ITEM 241 (FR) ]
+\0
+
+[@ITEM 242 (L1) ]
+\0
+
+[@ITEM 242 (EN) ]
+\0
+
+[@ITEM 242 (L2) ]
+\0
+
+[@ITEM 242 (FR) ]
+\0
+
+[@ITEM 243 (L1) ]
+\0
+
+[@ITEM 243 (EN) ]
+\0
+
+[@ITEM 243 (L2) ]
+\0
+
+[@ITEM 243 (FR) ]
+\0
+
+[@ITEM 244 (L1) ]
+\0
+
+[@ITEM 244 (EN) ]
+\0
+
+[@ITEM 244 (L2) ]
+\0
+
+[@ITEM 244 (FR) ]
+\0
+
+[@ITEM 245 (L1) ]
+\0
+
+[@ITEM 245 (EN) ]
+\0
+
+[@ITEM 245 (L2) ]
+\0
+
+[@ITEM 245 (FR) ]
+\0
+
+[@ITEM 246 (L1) ]
+\0
+
+[@ITEM 246 (EN) ]
+\0
+
+[@ITEM 246 (L2) ]
+\0
+
+[@ITEM 246 (FR) ]
+\0
+
+[@ITEM 247 (L1) ]
+\0
+
+[@ITEM 247 (EN) ]
+\0
+
+[@ITEM 247 (L2) ]
+\0
+
+[@ITEM 247 (FR) ]
+\0
+
+[@ITEM 248 (L1) ]
+\0
+
+[@ITEM 248 (EN) ]
+\0
+
+[@ITEM 248 (L2) ]
+\0
+
+[@ITEM 248 (FR) ]
+\0
+
+[@ITEM 249 (L1) ]
+\0
+
+[@ITEM 249 (EN) ]
+\0
+
+[@ITEM 249 (L2) ]
+\0
+
+[@ITEM 249 (FR) ]
+\0
+
+[@ITEM 250 (L1) ]
+\0
+
+[@ITEM 250 (EN) ]
+\0
+
+[@ITEM 250 (L2) ]
+\0
+
+[@ITEM 250 (FR) ]
+\0
+
+[@ITEM 251 (L1) ]
+\0
+
+[@ITEM 251 (EN) ]
+\0
+
+[@ITEM 251 (L2) ]
+\0
+
+[@ITEM 251 (FR) ]
+\0
+
+[@ITEM 252 (L1) ]
+\0
+
+[@ITEM 252 (EN) ]
+\0
+
+[@ITEM 252 (L2) ]
+\0
+
+[@ITEM 252 (FR) ]
+\0
+
+[@ITEM 253 (L1) ]
+\0
+
+[@ITEM 253 (EN) ]
+\0
+
+[@ITEM 253 (L2) ]
+\0
+
+[@ITEM 253 (FR) ]
+\0
+
+[@ITEM 254 (L1) ]
+\0
+
+[@ITEM 254 (EN) ]
+\0
+
+[@ITEM 254 (L2) ]
+\0
+
+[@ITEM 254 (FR) ]
+\0
+
+[@ITEM 255 (L1) ]
+\0
+
+[@ITEM 255 (EN) ]
+\0
+
+[@ITEM 255 (L2) ]
+\0
+
+[@ITEM 255 (FR) ]
+\0
+
