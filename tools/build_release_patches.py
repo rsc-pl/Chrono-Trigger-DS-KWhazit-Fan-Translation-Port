@@ -40,6 +40,10 @@ def sha256_bytes(data: bytes) -> str:
     return hashlib.sha256(data).hexdigest()
 
 
+def crc32_hex(data: bytes) -> str:
+    return f"{binascii.crc32(data) & 0xFFFFFFFF:08X}"
+
+
 def crc32_le(data: bytes) -> bytes:
     return (binascii.crc32(data) & 0xFFFFFFFF).to_bytes(4, "little")
 
@@ -327,8 +331,8 @@ def write_checksums(path: Path, rows: list[tuple[str, str]]) -> None:
 def write_release_readme(
     path: Path,
     patch_name: str,
-    clean_hash: str,
-    patched_hash: str,
+    clean_crc32: str,
+    patched_crc32: str,
     results: list[PatchResult],
 ) -> None:
     available = {result.name: result for result in results if result.status == "written" and result.path}
@@ -358,13 +362,11 @@ def write_release_readme(
             "",
             "## Required base ROM",
             "",
-            "Use a clean **Chrono Trigger DS (US)** ROM with this SHA-256:",
+            "Use a clean **Chrono Trigger DS (US), revision 0** ROM.",
             "",
-            "```text",
-            clean_hash,
-            "```",
+            f"**CRC32: `{clean_crc32}`**",
             "",
-            "If the checksum does not match, do not force the patch. Obtain the correct clean dump and try again.",
+            "If the CRC32 does not match, do not force the patch. Use the correct clean ROM and try again.",
             "",
             "No ROM is included with this release.",
             "",
@@ -387,11 +389,9 @@ def write_release_readme(
             "",
             "## Verify the result",
             "",
-            "The correctly patched ROM should have this SHA-256:",
+            "The correctly patched ROM should have:",
             "",
-            "```text",
-            patched_hash,
-            "```",
+            f"**CRC32: `{patched_crc32}`**",
             "",
             "You can also compare the patch-file hashes against `checksums_sha256.txt`.",
             "",
@@ -522,6 +522,8 @@ def main() -> None:
 
     clean_hash = sha256_bytes(source)
     patched_hash = sha256_bytes(target)
+    clean_crc32 = crc32_hex(source)
+    patched_crc32 = crc32_hex(target)
 
     metadata = (
         "Chrono Trigger DS Kajar/Chrono Compendium port\n"
@@ -560,7 +562,7 @@ def main() -> None:
             checksums.append((result.sha256, result.path.name))
     write_checksums(patch_dir / "checksums_sha256.txt", checksums)
     write_report(patch_dir / f"{patch_name}_patch_report.md", args, txt_dir, output, clean_hash, patched_hash, results)
-    write_release_readme(patch_dir / "README.md", patch_name, clean_hash, patched_hash, results)
+    write_release_readme(patch_dir / "README.md", patch_name, clean_crc32, patched_crc32, results)
 
     print("Patch build summary:")
     for result in results:

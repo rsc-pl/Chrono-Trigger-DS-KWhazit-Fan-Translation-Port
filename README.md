@@ -349,7 +349,7 @@ The repository contains a self-contained Nintendo DS text/build toolchain writte
 
 Required private input:
 
-- a clean US Chrono Trigger DS ROM with SHA-256 `46df8e729e5f0d67ad382ff208d803efd88154a16b39e820d318bb1a1e7549d5`.
+- a clean **Chrono Trigger DS (US), revision 0** ROM — **CRC32 `B3836946`**.
 
 By default, place it at:
 
@@ -407,7 +407,7 @@ Exact release instructions may change depending on the public package format.
 General process:
 
 1. Obtain a clean US Chrono Trigger DS ROM from your own cartridge.
-2. Verify the clean ROM checksum listed with the release.
+2. Verify that the clean ROM matches the CRC32 listed with the release.
 3. Apply the BPS for the variant you want (unpack the release archive first) with a compatible patching tool. The [Romhack Plaza patcher](https://romhackplaza.org/patch/) is one option.
 4. Run the patched ROM in a DS emulator, flashcart, or compatible hardware setup.
 
