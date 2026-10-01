@@ -18,6 +18,12 @@ This is not a new localization and not a rewrite for modern English flavor. The 
 
 No ROM is included. You must provide your own legally obtained clean Chrono Trigger DS ROM.
 
+### DSi / 3DS compatibility
+
+Chrono Trigger uses anti-piracy checks. When running a patched ROM through TWiLight Menu++ or a 3DS/DSi forwarder, use **TWiLight Menu++ v27.17.3 / nds-bootstrap v2.8.3 or newer**. That nds-bootstrap release specifically fixed white-screen boot failures affecting Chrono Trigger ROM hacks.
+
+If a correctly patched ROM still boots to white screens, reset the game's per-game settings to defaults, disable cheats, and delete `sd:/_nds/nds-bootstrap/fatTable/` plus `sd:/_nds/nds-bootstrap/patchOffsetCache/` so nds-bootstrap rebuilds its caches.
+
 ## Credits
 
 - Original English retranslation: KWhazit

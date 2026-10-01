@@ -512,6 +512,20 @@ def patch_rom_bytes(
     files = parse_filenames(out)
     by_lower = {path.lower(): entry for path, entry in files.items()}
     _fnt, _fnt_size, fat_offset, _fat_size = header_ranges(out)
+
+    # Commercial DS ROMs are commonly padded to their declared cartridge
+    # capacity.  Appending to len(rom) would therefore place enlarged files
+    # *outside* that capacity.  Reuse the free 0xFF padding after the final
+    # NitroFS file instead, preserving the original header/game code/CRC so
+    # loader and AP-fix identification remain unchanged.
+    declared_capacity = (128 * 1024) << out[0x14]
+    allocation_limit = min(len(out), declared_capacity)
+    append_cursor = align(max(entry.end for entry in files.values()), append_align)
+    if append_cursor > allocation_limit:
+        raise ValueError(
+            f"NitroFS already exceeds declared ROM capacity: {append_cursor:#x} > {allocation_limit:#x}"
+        )
+
     log: list[str] = []
     for nitro_path in sorted(replacements):
         entry = by_lower.get(nitro_path.lower())
@@ -526,14 +540,18 @@ def patch_rom_bytes(
             write_u32(out, fat_offset + entry.file_id * 8 + 4, end)
             mode = "in-place"
         else:
-            start = align(len(out), append_align)
-            if start > len(out):
-                out.extend(b"\x00" * (start - len(out)))
+            start = append_cursor
             end = start + len(replacement)
-            out.extend(replacement)
+            if end > allocation_limit:
+                raise ValueError(
+                    f"Not enough free ROM padding for {nitro_path}: need through {end:#x}, "
+                    f"capacity ends at {allocation_limit:#x}"
+                )
+            out[start:end] = replacement
             write_u32(out, fat_offset + entry.file_id * 8, start)
             write_u32(out, fat_offset + entry.file_id * 8 + 4, end)
-            mode = "append"
+            append_cursor = align(end, append_align)
+            mode = "padding"
         log.append(
             f"{nitro_path}\tfile_id={entry.file_id}\told={entry.size}\tnew={len(replacement)}"
             f"\tdelta={len(replacement)-entry.size:+d}\tmode={mode}"

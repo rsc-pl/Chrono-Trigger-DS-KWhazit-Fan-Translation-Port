@@ -18,6 +18,7 @@ from ctds import (  # noqa: E402
     parse_msg,
     parse_msg_txt,
     parse_msg_txt_text,
+    parse_filenames,
     patch_msg_with_source,
     patch_rom_bytes,
     serialize_msg_txt,
@@ -31,8 +32,8 @@ from validate_choice_layout import selection_positions  # noqa: E402
 
 CLEAN_SHA256 = "46df8e729e5f0d67ad382ff208d803efd88154a16b39e820d318bb1a1e7549d5"
 VARIANTS = {
-    "original_kajar_transfer": "9b1bc7bce15476443586e61728e7871fb7553797507cc094663a8f365c665682",
-    "polished_faithful": "ac797534555d811ec22a79391f5c8540aa1597c215e806922eb3f08e3b9a6b9e",
+    "original_kajar_transfer": "7f6ec32910671aae52b979ecd04e99ca1c75c1653658c7bed38ea1873d10ee91",
+    "polished_faithful": "c2aeb669e5240761602054bf2c76c3a0afadbf2d7b368f20e7e06dae01515dda",
 }
 TABLES_DIR = PLATFORM_DS / "tables"
 
@@ -136,6 +137,30 @@ def build_variant(rom: bytes, resources, tables, source_root: Path) -> tuple[byt
     return patched, len(replacements), changed, copied
 
 
+def validate_rom_structure(clean_rom: bytes, patched_rom: bytes) -> tuple[int, int]:
+    if len(patched_rom) != len(clean_rom):
+        raise RuntimeError(
+            f"patched ROM size drift: clean={len(clean_rom)} patched={len(patched_rom)}"
+        )
+    if patched_rom[:0x200] != clean_rom[:0x200]:
+        raise RuntimeError("patched ROM header changed; game/AP-fix identification must remain stable")
+    declared_capacity = (128 * 1024) << patched_rom[0x14]
+    if len(patched_rom) > declared_capacity:
+        raise RuntimeError(
+            f"patched ROM exceeds declared cartridge capacity: {len(patched_rom)} > {declared_capacity}"
+        )
+    files = parse_filenames(patched_rom)
+    outside = [entry for entry in files.values() if entry.start >= declared_capacity or entry.end > declared_capacity]
+    if outside:
+        first = outside[0]
+        raise RuntimeError(
+            f"NitroFS file(s) outside declared cartridge capacity: {len(outside)}; "
+            f"first={first.path} {first.start:#x}-{first.end:#x}"
+        )
+    max_end = max(entry.end for entry in files.values())
+    return declared_capacity, max_end
+
+
 def parse_args() -> argparse.Namespace:
     p = argparse.ArgumentParser(description="Run public Chrono Trigger DS source/build validation gates.")
     p.add_argument("--rom", type=Path, required=True, help="Clean US Chrono Trigger DS ROM.")
@@ -172,6 +197,11 @@ def main() -> None:
         choice_rows = validate_choice_layout(rom, resources, tables, source_root)
         print(f"CHOICE_LAYOUT[{variant}]: PASS (0 mismatches, {choice_rows} choice row(s))")
         patched, file_count, changed, copied = build_variant(rom, resources, tables, source_root)
+        capacity, max_end = validate_rom_structure(rom, patched)
+        print(
+            f"ROM_STRUCTURE[{variant}]: PASS (size={len(patched)} capacity={capacity}; "
+            f"NitroFS_max_end={max_end:#x}; header_preserved=yes)"
+        )
         digest = sha256_bytes(patched)
         if digest != expected_hash:
             raise SystemExit(
